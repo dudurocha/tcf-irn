@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-bg text-ink font-serif antialiased;
+  }
+}
+
+@layer components {
+  /* Theory content — typography for AI-generated HTML */
+  .theory-content {
+    @apply text-[15.5px] leading-[1.75];
+  }
+  .theory-content p {
+    @apply mb-3;
+  }
+  .theory-content strong {
+    @apply font-semibold;
+  }
+  .theory-content em {
+    @apply italic text-accent-strong;
+  }
+  .theory-content ul,
+  .theory-content ol {
+    @apply my-2 ml-6;
+  }
+  .theory-content li {
+    @apply mb-1.5;
+  }
+  .theory-content code {
+    @apply bg-surface-2 px-1.5 py-0.5 rounded font-mono text-sm;
+  }
+  .theory-content table {
+    @apply my-3 border-collapse bg-surface-2 rounded-sm overflow-hidden text-[14.5px];
+  }
+  .theory-content table td {
+    @apply px-3.5 py-1 border-b border-border;
+  }
+  .theory-content table tr:last-child td {
+    @apply border-b-0;
+  }
+  .theory-content table td:first-child {
+    @apply text-ink-muted italic bg-surface-3 min-w-[70px] font-sans text-[13.5px];
+  }
+  .theory-content table td:nth-child(2) {
+    @apply font-mono text-accent-strong;
+  }
+
+  /* QCM options */
+  .opt {
+    @apply block w-full text-left bg-surface border border-border-strong rounded-sm
+           px-4 py-2.5 mb-2 cursor-pointer text-[14.5px] text-ink
+           transition-all duration-150 hover:border-accent hover:bg-accent-light;
+  }
+  .opt.selected {
+    @apply border-[1.5px] border-accent bg-accent-light;
+  }
+  .opt.correct {
+    @apply border-[1.5px] border-success bg-success-bg text-[#1d5a44];
+  }
+  .opt.wrong {
+    @apply border-[1.5px] border-danger bg-danger-bg text-[#7a2818];
+  }
+  .opt:disabled {
+    @apply cursor-default;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply px-4 py-2 rounded-sm text-sm font-medium border border-border-strong
+           bg-surface text-ink cursor-pointer transition-all duration-150 font-sans
+           hover:bg-surface-2 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-primary {
+    @apply bg-accent text-white border-accent hover:bg-accent-strong;
+  }
+  .btn-success {
+    @apply bg-success text-white border-success;
+  }
+  .btn-ghost {
+    @apply bg-transparent border border-border;
+  }
+
+  /* Cards */
+  .card {
+    @apply bg-surface border border-border rounded-DEFAULT p-5 mb-4;
+  }
+
+  /* Passage box for reading comprehension */
+  .passage-box {
+    @apply bg-surface-2 border border-border border-l-[3px] border-l-[#2e7178]
+           p-4 rounded-tr-sm rounded-br-sm mb-5 text-[14.5px] leading-[1.75] font-serif;
+  }
+  .passage-box p {
+    @apply mb-3 last:mb-0;
+  }
+
+  /* Example boxes */
+  .example-box {
+    @apply bg-surface-2 border-l-[3px] border-accent px-4 py-3 rounded-tr-sm rounded-br-sm mb-2 text-[14.5px];
+  }
+  .example-box em {
+    @apply text-ink-muted italic text-[13.5px] block mt-1;
+  }
+
+  /* Feedback box */
+  .feedback-box {
+    @apply mt-4 p-4 bg-surface-2 border-l-[3px] border-accent rounded-tr-sm rounded-br-sm text-sm leading-relaxed;
+  }
+  .feedback-box strong {
+    @apply block text-[11px] text-ink-muted mb-1.5 font-medium tracking-wider uppercase font-sans;
+  }
+  .feedback-box p {
+    @apply mb-2;
+  }
+
+  /* Error box */
+  .error-box {
+    @apply bg-danger-bg border border-danger text-[#7a2818] px-4 py-3 rounded-sm text-sm;
+  }
+}
+
+/* Spinner */
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 2px solid theme("colors.border.DEFAULT");
+  border-top-color: theme("colors.accent.DEFAULT");
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

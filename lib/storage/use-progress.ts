@@ -1,0 +1,115 @@
+"use client";
+
+import { useCallback, useEffect, useState } from "react";
+import type { LessonContent, UserProgress } from "@/lib/types";
+import { emptyProgress } from "@/lib/types";
+import { progressStore } from "@/lib/storage/progress";
+
+export function useProgress() {
+  const [progress, setProgress] = useState<UserProgress>(emptyProgress);
+  const [loaded, setLoaded] = useState(false);
+
+  useEffect(() => {
+    progressStore.load().then((p) => {
+      setProgress(p);
+      setLoaded(true);
+    });
+  }, []);
+
+  const update = useCallback(
+    (mutator: (prev: UserProgress) => UserProgress) => {
+      setProgress((prev) => {
+        const next = mutator(prev);
+        progressStore.save(next);
+        return next;
+      });
+    },
+    []
+  );
+
+  const markDayComplete = useCallback(
+    (day: number, qcmScore?: { correct: number; total: number }, writingScore?: number | null) => {
+      update((prev) => {
+        const scores = { ...prev.scores };
+        scores[day] = {
+          ...scores[day],
+          ...(qcmScore ? { qcm: qcmScore.correct, qcmTotal: qcmScore.total } : {}),
+          ...(writingScore !== undefined ? { writingScore } : {}),
+        };
+        const completedDays = prev.completedDays.includes(day)
+          ? prev.completedDays
+          : [...prev.completedDays, day].sort((a, b) => a - b);
+        return { ...prev, completedDays, scores };
+      });
+    },
+    [update]
+  );
+
+  const resetDay = useCallback(
+    (day: number) => {
+      update((prev) => {
+        const completedDays = prev.completedDays.filter((d) => d !== day);
+        const scores = { ...prev.scores };
+        delete scores[day];
+        const writings = { ...prev.writings };
+        delete writings[day];
+        return { ...prev, completedDays, scores, writings };
+      });
+    },
+    [update]
+  );
+
+  const cacheLesson = useCallback(
+    (day: number, content: LessonContent) => {
+      update((prev) => ({
+        ...prev,
+        cachedContent: { ...prev.cachedContent, [day]: content },
+      }));
+    },
+    [update]
+  );
+
+  const clearCache = useCallback(
+    (day: number) => {
+      update((prev) => {
+        const cachedContent = { ...prev.cachedContent };
+        delete cachedContent[day];
+        return { ...prev, cachedContent };
+      });
+    },
+    [update]
+  );
+
+  const saveWriting = useCallback(
+    (day: number, text: string) => {
+      update((prev) => ({
+        ...prev,
+        writings: { ...prev.writings, [day]: text },
+      }));
+    },
+    [update]
+  );
+
+  const toggleVocabKnown = useCallback(
+    (word: string) => {
+      update((prev) => {
+        const known = prev.vocabKnown.includes(word)
+          ? prev.vocabKnown.filter((w) => w !== word)
+          : [...prev.vocabKnown, word];
+        return { ...prev, vocabKnown: known };
+      });
+    },
+    [update]
+  );
+
+  return {
+    progress,
+    loaded,
+    markDayComplete,
+    resetDay,
+    cacheLesson,
+    clearCache,
+    saveWriting,
+    toggleVocabKnown,
+  };
+}
