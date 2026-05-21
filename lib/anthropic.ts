@@ -61,7 +61,7 @@ export async function callClaude({
     } catch (err) {
       lastError = err;
 
-      const apiError = err as Anthropic.APIError;
+      const apiError = err as unknown as { status?: number; name?: string };
       const status = apiError?.status;
       const isRetryable =
         status === 429 ||
