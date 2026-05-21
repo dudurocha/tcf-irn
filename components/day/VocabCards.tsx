@@ -3,6 +3,7 @@
 import { useState } from "react";
 import type { VocabItem } from "@/lib/types";
 import { cn } from "@/lib/utils";
+import { renderInline } from "@/lib/render";
 
 interface VocabCardsProps {
   items: VocabItem[];
@@ -54,10 +55,10 @@ export function VocabCards({ items, knownWords, onToggleKnown }: VocabCardsProps
               </div>
               {isFlipped || known ? (
                 <div className="mt-2 text-[13.5px] text-ink-muted leading-snug">
-                  <div>{v.translation}</div>
+                  <div>{renderInline(v.translation)}</div>
                   {v.example && (
                     <em className="text-accent-strong italic block mt-1">
-                      {v.example}
+                      {renderInline(v.example)}
                     </em>
                   )}
                 </div>

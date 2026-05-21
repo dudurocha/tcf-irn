@@ -11,6 +11,7 @@ import { generateLesson } from "@/lib/api-client";
 import { getDay } from "@/lib/curriculum";
 import { useProgress } from "@/lib/storage/use-progress";
 import type { LessonContent } from "@/lib/types";
+import { renderInline } from "@/lib/render";
 
 interface DayViewProps {
   day: number;
@@ -187,8 +188,8 @@ export function DayView({ day }: DayViewProps) {
         <h2 className="text-lg font-semibold mb-3 mt-0">Exemples</h2>
         {content.examples.map((ex, i) => (
           <div key={i} className="example-box">
-            {ex.sentence}
-            {ex.note && <em>{ex.note}</em>}
+            {renderInline(ex.sentence)}
+            {ex.note && <em>{renderInline(ex.note)}</em>}
           </div>
         ))}
       </div>

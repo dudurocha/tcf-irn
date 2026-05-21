@@ -5,17 +5,20 @@ import Anthropic from "@anthropic-ai/sdk";
  * Configure ANTHROPIC_API_KEY in your .env.local file.
  */
 function getClient(): Anthropic {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
+  const apiKey = process.env.ANTHROPIC_API_KEY?.trim();
   if (!apiKey) {
     throw new Error(
-      "ANTHROPIC_API_KEY is not set. Add it to .env.local (see .env.example)."
+      "ANTHROPIC_API_KEY is missing or empty. " +
+        "Locally: put it in .env.local and start the server with `npm run dev` " +
+        "(the wrapper script in scripts/load-env.mjs ensures the file overrides any empty shell value). " +
+        "On Vercel: set it under Project Settings → Environment Variables and redeploy."
     );
   }
   return new Anthropic({ apiKey });
 }
 
 export const DEFAULT_MODEL =
-  process.env.ANTHROPIC_MODEL || "claude-sonnet-4-6";
+  process.env.ANTHROPIC_MODEL?.trim() || "claude-sonnet-4-6";
 
 interface CallOptions {
   prompt: string;
@@ -61,7 +64,7 @@ export async function callClaude({
     } catch (err) {
       lastError = err;
 
-      const apiError = err as unknown as { status?: number; name?: string };
+      const apiError = err as unknown as { status?: number; name?: string; message?: string };
       const status = apiError?.status;
       const isRetryable =
         status === 429 ||

@@ -33,3 +33,8 @@ export const WRITING_SCENARIOS = [
 export function getScenarioForDay(day: number): string {
   return WRITING_SCENARIOS[(day * 7) % WRITING_SCENARIOS.length];
 }
+
+export function getRandomScenario(): string {
+  const i = Math.floor(Math.random() * WRITING_SCENARIOS.length);
+  return WRITING_SCENARIOS[i];
+}

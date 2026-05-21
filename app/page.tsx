@@ -55,13 +55,20 @@ export default function HomePage() {
 
       <Link
         href={`/day/${todayDay}`}
-        className="btn btn-primary w-full text-center mb-8 block"
+        className="btn btn-primary w-full text-center mb-3 block"
       >
         {completed >= TOTAL_DAYS
           ? "Revoir une leçon →"
           : completed > 0
             ? `Continuer — jour ${todayDay} →`
             : "Commencer le parcours →"}
+      </Link>
+
+      <Link
+        href="/mock-exam"
+        className="btn w-full text-center mb-8 block"
+      >
+        Mode examen blanc · 60 min →
       </Link>
 
       <h2 className="text-lg font-semibold mb-3 mt-0">Parcours complet</h2>

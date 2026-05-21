@@ -2,6 +2,7 @@
 
 import type { Reading } from "@/lib/types";
 import { Qcm } from "./Qcm";
+import { renderInline } from "@/lib/render";
 
 interface ReadingSectionProps {
   reading: Reading;
@@ -16,7 +17,7 @@ export function ReadingSection({ reading, onAnswersChange }: ReadingSectionProps
           <p key={i}>
             {para.split("\n").map((line, j, arr) => (
               <span key={j}>
-                {line}
+                {renderInline(line)}
                 {j < arr.length - 1 && <br />}
               </span>
             ))}
