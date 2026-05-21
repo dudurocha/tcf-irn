@@ -38,7 +38,7 @@ export function parseWritingFeedback(raw: string): { score: number | null; feedb
   const score = scoreMatch ? Math.round(parseFloat(scoreMatch[1].replace(",", "."))) : null;
 
   // Strip the SCORE line from the body
-  let body = raw.replace(/SCORE\s*:?\s*\d+(?:[.,]\d+)?(?:\s*\/\s*25)?\s*\n?/i, "").trim();
+  const body = raw.replace(/SCORE\s*:?\s*\d+(?:[.,]\d+)?(?:\s*\/\s*25)?\s*\n?/i, "").trim();
 
   const SECTION_HEADERS =
     /^(COMMENTAIRE(?:\s+GÉNÉRAL)?|POINTS\s+FORTS?|À\s+AMÉLIORER|AMÉLIORATIONS?|CORRECTIONS?|REMARQUES?|FORCES|FAIBLESSES|SUGGESTIONS?)\s*:?\s*$/i;
