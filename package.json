@@ -4,9 +4,9 @@
   "private": true,
   "description": "A 30-day TCF IRN preparation app for French citizenship candidates",
   "scripts": {
-    "dev": "next dev",
+    "dev": "node scripts/load-env.mjs dev",
     "build": "next build",
-    "start": "next start",
+    "start": "node scripts/load-env.mjs start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit"
   },

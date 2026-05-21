@@ -39,3 +39,6 @@ next-env.d.ts
 .vscode/
 .idea/
 *.swp
+
+# Claude Code (commit launch.json, keep personal config local)
+.claude/settings.local.json

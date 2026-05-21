@@ -40,6 +40,8 @@ CONTRAINTES STRUCTURELLES :
 
 IMPORTANT :
 - Niveau strictement B2 (ni plus simple, ni C1)
+- HTML autorisé UNIQUEMENT dans le champ "theory" (tags listés ci-dessus). Dans tous les autres champs (examples.sentence, examples.note, reading.passage, questions.*, vocab.*, writingPrompt), n'utilise QUE du texte brut — sauf que <strong>...</strong> et <em>...</em> sont autorisés pour mettre en évidence le mot/la forme cible. Aucun autre tag HTML ne doit apparaître hors de "theory".
+- Les options des QCM (questions.options et reading.questions.options) ne doivent PAS commencer par une lettre/numéro (pas de "A.", "B)", "1 -", etc.). L'interface ajoute automatiquement les lettres. Écris uniquement le texte de la réponse.
 - Les 10 questions QCM doivent couvrir le thème du jour de façon variée (différents aspects, niveaux de difficulté progressifs)
 - Les 4 questions de compréhension écrite doivent tester la compréhension du TEXTE (idée principale, détail, inférence, vocabulaire en contexte) — PAS la grammaire du jour
 - Les exemples doivent être authentiques (langue réelle, pas artificielle)
