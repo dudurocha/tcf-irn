@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>pronoms relatifs composés</strong> (<em>lequel, laquelle, lesquels, lesquelles</em>) s'utilisent après une préposition pour relier deux phrases. Ils remplacent un nom déjà mentionné et s'accordent en genre et en nombre avec lui.</p><p><strong>Formes de base :</strong></p><table><tr><td></td><td><strong>singulier</strong></td><td><strong>pluriel</strong></td></tr><tr><td>masculin</td><td><strong>lequel</strong></td><td><strong>lesquels</strong></td></tr><tr><td>féminin</td><td><strong>laquelle</strong></td><td><strong>lesquelles</strong></td></tr></table><p><strong>Contractions avec à et de :</strong></p><table><tr><td></td><td><strong>avec à</strong></td><td><strong>avec de</strong></td></tr><tr><td>masculin sing.</td><td><strong>auquel</strong></td><td><strong>duquel</strong></td></tr><tr><td>féminin sing.</td><td><strong>à laquelle</strong></td><td><strong>de laquelle</strong></td></tr><tr><td>masculin pl.</td><td><strong>auxquels</strong></td><td><strong>desquels</strong></td></tr><tr><td>féminin pl.</td><td><strong>auxquelles</strong></td><td><strong>desquelles</strong></td></tr></table><p><strong>Quand les utiliser ?</strong></p><ul><li>Après une préposition (<em>avec, sans, pour, sur, sous, dans, par, parmi, selon...</em>) : <code>Le projet pour <strong>lequel</strong> je travaille est ambitieux.</code></li><li>Après les verbes construits avec <em>à</em> : <code>La réunion à <strong>laquelle</strong> j'ai assisté était longue.</code></li><li>Après une locution prépositionnelle contenant <em>de</em> (<em>à côté de, près de, au cours de, à cause de</em>) : on utilise OBLIGATOIREMENT <strong>duquel/desquelles</strong>, jamais <em>dont</em>. <code>L'immeuble à côté <strong>duquel</strong> j'habite est ancien.</code></li></ul><p><strong>Qui ou lequel pour les personnes ?</strong> Après une préposition, on préfère <em>qui</em> pour les personnes : <code>L'homme avec <strong>qui</strong> je parle.</code> Mais <em>lequel</em> reste possible et obligatoire après <em>parmi</em> et <em>entre</em> : <code>Les collègues parmi <strong>lesquels</strong> je travaille.</code></p><p><strong>Pièges pour les lusophones :</strong></p><ul><li>En portugais, <em>o qual / a qual</em> existe mais s'utilise moins. En français, après préposition + chose, <strong>lequel est obligatoire</strong>, on ne peut pas dire <em>que</em>.</li><li>Attention : <em>dont</em> remplace <em>de</em>, mais PAS après une locution en <em>de</em>. Dire <em>près dont</em> est faux : il faut <strong>près duquel</strong>.</li><li>Ne pas confondre <em>auquel</em> (à + lequel) avec <em>à qui</em> (réservé aux personnes).</li></ul>",
+  "examples": [
+    {
+      "sentence": "Le dossier sur lequel je travaille doit être rendu vendredi.",
+      "note": "Préposition sur + chose masculine singulière = lequel."
+    },
+    {
+      "sentence": "Les associations auxquelles elle adhère défendent l'environnement.",
+      "note": "Verbe adhérer à + nom féminin pluriel = auxquelles (à + lesquelles)."
+    },
+    {
+      "sentence": "Voici la raison pour laquelle j'ai démissionné.",
+      "note": "Expression figée pour laquelle, très fréquente à l'écrit comme à l'oral."
+    },
+    {
+      "sentence": "Le bâtiment au pied duquel nous nous sommes retrouvés a été rénové.",
+      "note": "Locution au pied de + chose = duquel obligatoire (jamais dont)."
+    },
+    {
+      "sentence": "Les candidats parmi lesquels le jury doit choisir sont tous excellents.",
+      "note": "Après parmi, on emploie toujours lequel/lesquels même pour des personnes."
+    },
+    {
+      "sentence": "C'est un sujet auquel je n'avais jamais réfléchi sérieusement.",
+      "note": "Réfléchir à quelque chose = auquel pour reprendre un nom masculin."
+    }
+  ],
+  "reading": {
+    "passage": "La semaine de quatre jours, un modèle auquel de plus en plus d'entreprises françaises s'intéressent, suscite un débat passionné. Plusieurs PME, parmi lesquelles des sociétés du secteur numérique et de l'industrie, ont déjà franchi le pas. Le principe est simple : réduire le temps de travail hebdomadaire sans diminuer le salaire, en concentrant les heures sur quatre jours au lieu de cinq.\n\nLes arguments en faveur desquels militent les défenseurs de cette réforme sont nombreux. D'abord, une meilleure qualité de vie pour les salariés, lesquels disposeraient d'un jour supplémentaire pour leurs loisirs, leur famille ou leurs démarches personnelles. Ensuite, une productivité souvent maintenue, voire améliorée, selon les premières expérimentations menées en Islande et au Royaume-Uni, pays dans lesquels des milliers d'employés ont participé à des tests grandeur nature.\n\nCependant, les obstacles auxquels se heurte cette organisation ne doivent pas être sous-estimés. Dans certains secteurs comme la santé ou la restauration, la continuité de service rend l'application difficile. Par ailleurs, les syndicats, avec lesquels les directions négocient, craignent une intensification du rythme sur les quatre jours travaillés, source potentielle de stress.\n\nLe gouvernement français, prudent, n'a pas encore tranché. Les expérimentations sur lesquelles s'appuient les rapports actuels restent limitées. Reste une question essentielle : la semaine de quatre jours est-elle un véritable progrès social ou un effet de mode médiatique ? La réponse dépendra sans doute des entreprises elles-mêmes et du dialogue entre employeurs et salariés.",
+    "questions": [
+      {
+        "question": "Quel est le principe de la semaine de quatre jours présenté dans le texte ?",
+        "options": [
+          "Travailler moins d'heures avec un salaire réduit",
+          "Concentrer le même nombre d'heures sur quatre jours",
+          "Réduire les heures hebdomadaires sans baisser le salaire",
+          "Ajouter un jour de congé payé par mois"
+        ],
+        "correct": 2,
+        "explanation": "Le texte dit explicitement : réduire le temps de travail hebdomadaire sans diminuer le salaire."
+      },
+      {
+        "question": "Selon le texte, quel pays a déjà mené des expérimentations à grande échelle ?",
+        "options": [
+          "La France",
+          "L'Allemagne",
+          "L'Islande",
+          "L'Espagne"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne l'Islande et le Royaume-Uni comme pays ayant mené des tests grandeur nature."
+      },
+      {
+        "question": "Quelle inquiétude exprimée par les syndicats est mentionnée dans le texte ?",
+        "options": [
+          "Une baisse des salaires",
+          "Une intensification du rythme de travail",
+          "Une perte d'emplois",
+          "Une augmentation des conflits sociaux"
+        ],
+        "correct": 1,
+        "explanation": "Les syndicats craignent une intensification du rythme sur les quatre jours travaillés."
+      },
+      {
+        "question": "Que signifie l'expression trancher dans la phrase Le gouvernement français n'a pas encore tranché ?",
+        "options": [
+          "Couper le budget",
+          "Prendre une décision définitive",
+          "Réduire les avantages",
+          "Organiser un référendum"
+        ],
+        "correct": 1,
+        "explanation": "Trancher signifie ici prendre une décision claire et définitive sur une question débattue."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Le projet pour ___ je travaille me passionne.",
+      "options": [
+        "lequel",
+        "laquelle",
+        "duquel",
+        "auquel"
+      ],
+      "correct": 0,
+      "explanation": "Projet est masculin singulier, et la préposition est pour : on emploie lequel."
+    },
+    {
+      "question": "Complétez : Les questions ___ je n'ai pas su répondre étaient difficiles.",
+      "options": [
+        "desquelles",
+        "auxquelles",
+        "lesquelles",
+        "duquel"
+      ],
+      "correct": 1,
+      "explanation": "Répondre à quelque chose + questions (féminin pluriel) = auxquelles."
+    },
+    {
+      "question": "Choisissez la forme correcte : La table à côté ___ se trouve la lampe est neuve.",
+      "options": [
+        "dont",
+        "de laquelle",
+        "duquel",
+        "à laquelle"
+      ],
+      "correct": 1,
+      "explanation": "À côté de est une locution prépositionnelle en de : on emploie de laquelle (féminin singulier). Dont est impossible ici."
+    },
+    {
+      "question": "Complétez : Le congrès ___ il a participé portait sur le climat.",
+      "options": [
+        "dont",
+        "auquel",
+        "duquel",
+        "lequel"
+      ],
+      "correct": 1,
+      "explanation": "Participer à quelque chose + congrès (masculin singulier) = auquel."
+    },
+    {
+      "question": "Choisissez la phrase correcte.",
+      "options": [
+        "L'ami avec lequel je sors ce soir est médecin",
+        "L'ami avec qui je sors ce soir est médecin",
+        "Les deux sont possibles, mais avec qui est préféré pour les personnes",
+        "Aucune des deux"
+      ],
+      "correct": 2,
+      "explanation": "Pour les personnes après préposition, on préfère qui, même si lequel reste grammaticalement correct."
+    },
+    {
+      "question": "Complétez : Voici les collègues parmi ___ je travaille depuis cinq ans.",
+      "options": [
+        "qui",
+        "lesquels",
+        "dont",
+        "desquels"
+      ],
+      "correct": 1,
+      "explanation": "Après parmi, on emploie obligatoirement lequel/lesquels, même pour des personnes."
+    },
+    {
+      "question": "Quelle est la forme correcte de à + lesquelles ?",
+      "options": [
+        "aulesquelles",
+        "auxquelles",
+        "à lesquelles",
+        "auquelles"
+      ],
+      "correct": 1,
+      "explanation": "À se contracte avec lesquels/lesquelles pour donner auxquels/auxquelles."
+    },
+    {
+      "question": "Complétez : Le problème au sujet ___ nous discutons est complexe.",
+      "options": [
+        "dont",
+        "duquel",
+        "auquel",
+        "lequel"
+      ],
+      "correct": 1,
+      "explanation": "Au sujet de est une locution en de : on emploie duquel (masculin singulier). Dont est impossible après une locution prépositionnelle."
+    },
+    {
+      "question": "Choisissez la forme correcte : Les raisons pour ___ il a démissionné restent obscures.",
+      "options": [
+        "lesquelles",
+        "lesquels",
+        "auxquelles",
+        "desquelles"
+      ],
+      "correct": 0,
+      "explanation": "Raisons est féminin pluriel, préposition pour : lesquelles."
+    },
+    {
+      "question": "Complétez : C'est une situation à ___ je n'avais pas pensé.",
+      "options": [
+        "lequel",
+        "laquelle",
+        "qui",
+        "dont"
+      ],
+      "correct": 1,
+      "explanation": "Penser à + situation (féminin singulier) = à laquelle. Attention : on dit penser à quelque chose, donc pas dont."
+    }
+  ],
+  "writingPrompt": "Dans votre commune française, la mairie envisage d'interdire les voitures individuelles dans le centre-ville à partir de l'année prochaine, afin de réduire la pollution et favoriser les mobilités douces (vélo, transports en commun, marche). Cette mesure divise les habitants : certains commerçants craignent une baisse de fréquentation, tandis que des associations environnementales soutiennent le projet. Rédigez un article d'opinion de 180 à 220 mots destiné au journal local, dans lequel vous prenez position sur cette question. Vous présenterez clairement votre avis, en l'appuyant sur au moins deux arguments concrets, et vous évoquerez aussi un point de vue opposé pour le nuancer. Utilisez plusieurs pronoms relatifs composés (lequel, auquel, duquel, etc.).",
+  "vocab": [
+    {
+      "word": "franchir le pas",
+      "translation": "dar o passo, decidir-se",
+      "example": "Après des mois d'hésitation, l'entreprise a enfin franchi le pas et adopté le télétravail."
+    },
+    {
+      "word": "se heurter à",
+      "translation": "esbarrar em, deparar-se com",
+      "example": "Le projet se heurte à de nombreux obstacles administratifs."
+    },
+    {
+      "word": "trancher",
+      "translation": "decidir, resolver definitivamente",
+      "example": "Le tribunal devra trancher cette affaire avant la fin du mois."
+    },
+    {
+      "word": "susciter",
+      "translation": "suscitar, provocar",
+      "example": "Cette réforme suscite beaucoup d'inquiétudes parmi les enseignants."
+    },
+    {
+      "word": "une démarche",
+      "translation": "uma diligência, um trâmite",
+      "example": "Les démarches pour obtenir un titre de séjour peuvent être longues."
+    },
+    {
+      "word": "un effet de mode",
+      "translation": "um modismo",
+      "example": "Est-ce une vraie tendance de fond ou simplement un effet de mode ?"
+    },
+    {
+      "word": "adhérer à",
+      "translation": "aderir a",
+      "example": "Plusieurs salariés adhèrent au syndicat pour défendre leurs droits."
+    },
+    {
+      "word": "sous-estimer",
+      "translation": "subestimar",
+      "example": "Il ne faut pas sous-estimer les difficultés auxquelles nous serons confrontés."
+    }
+  ]
+}

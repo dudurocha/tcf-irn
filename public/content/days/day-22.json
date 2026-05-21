@@ -1,0 +1,233 @@
+{
+  "theory": "<p>La <strong>lettre formelle administrative</strong> est un exercice incontournable en France : demande de titre de séjour, réclamation, contestation, recours, demande d'allocation. Sa structure est <strong>codifiée</strong> et toute déviation peut nuire à votre crédibilité.</p><p><strong>1. Les éléments obligatoires (en haut de la lettre)</strong></p><ul><li><strong>En haut à gauche</strong> : vos coordonnées (nom, prénom, adresse, téléphone, email)</li><li><strong>En haut à droite</strong> : coordonnées du destinataire (service, organisme, adresse)</li><li><strong>Sous le destinataire</strong> : lieu et date (ex. <em>Lyon, le 15 mars 2024</em>)</li><li><strong>Objet</strong> : résumé en une ligne (<em>Objet : Demande de renouvellement de titre de séjour</em>)</li><li><strong>Référence</strong> (si applicable) : numéro de dossier</li></ul><p><strong>2. Les formules d'appel</strong></p><p>On n'écrit <strong>jamais</strong> <em>Cher Monsieur</em> dans une lettre administrative. On utilise :</p><ul><li><code>Madame, Monsieur,</code> (si on ne connaît pas le destinataire)</li><li><code>Monsieur le Préfet,</code> / <code>Madame la Directrice,</code> (titre précis)</li></ul><p><strong>Piège lusophone</strong> : ne traduisez pas <em>Prezado Senhor</em> par <em>Cher Monsieur</em>. En français administratif, c'est neutre.</p><p><strong>3. Le corps de la lettre (3 paragraphes)</strong></p><ul><li><strong>Introduction</strong> : exposez la situation (<em>Je me permets de vous écrire afin de...</em>)</li><li><strong>Développement</strong> : détails, arguments, justifications, pièces jointes</li><li><strong>Conclusion</strong> : précisez votre demande (<em>Je vous saurais gré de bien vouloir...</em>)</li></ul><p><strong>4. La formule de politesse finale</strong></p><p>Elle est <strong>longue et figée</strong>. Reprenez toujours l'appel utilisé au début :</p><table><tr><td>Standard</td><td><strong>Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.</strong></td></tr><tr><td>Hiérarchie</td><td><strong>Je vous prie d'agréer, Monsieur le Préfet, l'expression de ma haute considération.</strong></td></tr><tr><td>Plus neutre</td><td><strong>Veuillez agréer, Madame, Monsieur, mes salutations respectueuses.</strong></td></tr></table><p><strong>Piège fréquent</strong> : ne mélangez pas les formules (<em>Cordialement</em> est réservé aux emails informels, jamais à une lettre officielle). Évitez aussi <em>Bien à vous</em> en contexte administratif.</p><p><strong>5. Le ton</strong> : neutre, respectueux, sans émotion excessive. Préférez <em>Je sollicite</em> à <em>Je veux</em>, et <em>Je regrette</em> à <em>Je suis en colère</em>.</p>",
+  "examples": [
+    {
+      "sentence": "Objet : Recours gracieux contre la décision du 12 février 2024",
+      "note": "L'objet est court, précis, sans verbe conjugué. Mentionner la date de la décision contestée."
+    },
+    {
+      "sentence": "Je me permets de vous écrire afin de solliciter le réexamen de mon dossier.",
+      "note": "Formule d'introduction standard. Se permettre de + infinitif marque la politesse."
+    },
+    {
+      "sentence": "Vous trouverez ci-joint les justificatifs demandés ainsi que la copie de mon passeport.",
+      "note": "Ci-joint signale les pièces jointes. Invariable avant le nom (ci-joint les documents)."
+    },
+    {
+      "sentence": "Je vous saurais gré de bien vouloir examiner ma demande dans les meilleurs délais.",
+      "note": "Saurais gré (conditionnel) = formule très polie pour demander. Attention : pas savoir, mais le verbe figé saurais gré."
+    },
+    {
+      "sentence": "Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+      "note": "Formule finale complète. Toujours reprendre l'appel (Madame, Monsieur)."
+    },
+    {
+      "sentence": "Je conteste la décision rendue et sollicite par la présente un nouvel examen de ma situation.",
+      "note": "Par la présente = par cette lettre. Vocabulaire administratif élevé."
+    }
+  ],
+  "reading": {
+    "passage": "La dématérialisation des démarches administratives, engagée par l'État français depuis une décennie, devait simplifier la vie des citoyens. Aujourd'hui, près de 250 procédures sont accessibles en ligne, du renouvellement de carte d'identité à la déclaration d'impôts. Pourtant, le bilan est contrasté.\n\nSelon le Défenseur des droits, près d'un Français sur cinq éprouve des difficultés à accomplir une démarche numérique. Les personnes âgées, les habitants des zones rurales mal connectées et les étrangers récemment installés figurent parmi les plus touchés. Paradoxalement, alors que les guichets physiques ferment progressivement, écrire une lettre formelle reste souvent le seul recours lorsque le téléservice est défaillant ou refuse un dossier sans justification claire.\n\nLes associations d'aide aux usagers constatent une recrudescence des demandes d'accompagnement pour rédiger des courriers de réclamation ou des recours gracieux. Maîtriser les codes de la lettre administrative redevient ainsi une compétence essentielle, y compris à l'ère du tout-numérique. Une lettre bien structurée, envoyée en recommandé avec accusé de réception, conserve en effet une valeur juridique supérieure à un simple message électronique.\n\nFace à ces difficultés, le gouvernement a déployé des conseillers numériques dans les Maisons France Services. Ces structures, présentes dans plus de 2 500 communes, accueillent gratuitement les citoyens et les aident notamment à rédiger leurs courriers officiels. Mais les délais d'attente s'allongent et certains observateurs réclament un véritable droit à l'accompagnement humain, garanti par la loi, pour éviter que la modernisation ne devienne synonyme d'exclusion.",
+    "questions": [
+      {
+        "question": "Quel est le paradoxe principal soulevé par le texte ?",
+        "options": [
+          "La dématérialisation a totalement remplacé les démarches papier",
+          "La numérisation rend la lettre formelle plus nécessaire qu'avant pour certains cas",
+          "Les Français refusent massivement les démarches en ligne",
+          "Les guichets physiques sont plus nombreux qu'avant"
+        ],
+        "correct": 1,
+        "explanation": "Le texte explique que paradoxalement, malgré la numérisation, écrire une lettre formelle reste souvent le seul recours quand le téléservice échoue."
+      },
+      {
+        "question": "Que signifie l'expression recrudescence des demandes dans le contexte du texte ?",
+        "options": [
+          "Une diminution progressive",
+          "Une augmentation notable",
+          "Une stabilisation",
+          "Un refus catégorique"
+        ],
+        "correct": 1,
+        "explanation": "Recrudescence signifie une nouvelle augmentation, une intensification. Le contexte (les associations constatent...) confirme cette hausse."
+      },
+      {
+        "question": "Selon le texte, quel avantage présente la lettre recommandée par rapport au message électronique ?",
+        "options": [
+          "Elle est moins coûteuse",
+          "Elle est traitée plus rapidement",
+          "Elle possède une valeur juridique supérieure",
+          "Elle évite les fautes de français"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique explicitement qu'une lettre envoyée en recommandé conserve une valeur juridique supérieure à un simple message électronique."
+      },
+      {
+        "question": "Quelle revendication certains observateurs formulent-ils ?",
+        "options": [
+          "La fermeture totale des Maisons France Services",
+          "L'inscription dans la loi d'un droit à l'accompagnement humain",
+          "L'interdiction des démarches numériques",
+          "L'augmentation du nombre de procédures en ligne"
+        ],
+        "correct": 1,
+        "explanation": "Le dernier paragraphe précise que certains observateurs réclament un véritable droit à l'accompagnement humain, garanti par la loi."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quelle formule d'appel convient pour une lettre à la préfecture sans destinataire nommé ?",
+      "options": [
+        "Cher Monsieur,",
+        "Salut,",
+        "Madame, Monsieur,",
+        "Bonjour à tous,"
+      ],
+      "correct": 2,
+      "explanation": "Madame, Monsieur, est la formule neutre standard quand on ne connaît pas le destinataire précis."
+    },
+    {
+      "question": "Où doit-on placer l'objet dans une lettre formelle ?",
+      "options": [
+        "Tout en bas, après la signature",
+        "Au milieu du corps de la lettre",
+        "Au-dessus du corps, après la date",
+        "Sur l'enveloppe uniquement"
+      ],
+      "correct": 2,
+      "explanation": "L'objet figure après la date et avant la formule d'appel, pour annoncer immédiatement le sujet de la lettre."
+    },
+    {
+      "question": "Quelle phrase est correcte pour introduire une demande administrative ?",
+      "options": [
+        "Je veux que vous renouveliez mon titre",
+        "Je me permets de solliciter le renouvellement de mon titre",
+        "Faut renouveler mon titre s'il vous plaît",
+        "Renouvelez mon titre vite"
+      ],
+      "correct": 1,
+      "explanation": "Je me permets de solliciter est la formule polie et administrative appropriée. Les autres sont trop directes ou familières."
+    },
+    {
+      "question": "Complétez : Je vous ____ gré de bien vouloir examiner ma demande.",
+      "options": [
+        "serais",
+        "saurais",
+        "saurai",
+        "sais"
+      ],
+      "correct": 1,
+      "explanation": "Saurais gré est une expression figée au conditionnel (verbe savoir). Ne pas confondre avec serais (être)."
+    },
+    {
+      "question": "Quelle formule de politesse finale est INAPPROPRIÉE dans une lettre administrative officielle ?",
+      "options": [
+        "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+        "Veuillez agréer, Madame, mes salutations respectueuses.",
+        "Cordialement.",
+        "Je vous prie de croire, Monsieur le Préfet, à l'assurance de ma haute considération."
+      ],
+      "correct": 2,
+      "explanation": "Cordialement est réservé aux emails informels ou semi-formels, jamais à une lettre administrative officielle."
+    },
+    {
+      "question": "Que signifie ci-joint dans une lettre formelle ?",
+      "options": [
+        "Je vous rejoins bientôt",
+        "Documents attachés à la lettre",
+        "Près de chez vous",
+        "Avec mes regrets"
+      ],
+      "correct": 1,
+      "explanation": "Ci-joint signale les pièces jointes à la lettre (justificatifs, copies, etc.)."
+    },
+    {
+      "question": "Quelle expression appartient au registre administratif soutenu ?",
+      "options": [
+        "J'aimerais bien que",
+        "Par la présente, je sollicite",
+        "Je voudrais juste",
+        "Si ça vous embête pas"
+      ],
+      "correct": 1,
+      "explanation": "Par la présente = par cette lettre. C'est une formule figée du français administratif soutenu."
+    },
+    {
+      "question": "Dans la formule finale, faut-il reprendre la formule d'appel utilisée au début ?",
+      "options": [
+        "Non, c'est interdit",
+        "Oui, on doit la reprendre exactement",
+        "Seulement si la lettre est longue",
+        "Uniquement pour les recours"
+      ],
+      "correct": 1,
+      "explanation": "La cohérence exige de reprendre exactement la formule d'appel (Madame, Monsieur ou Monsieur le Préfet) dans la formule finale."
+    },
+    {
+      "question": "Quelle phrase exprime correctement une contestation polie ?",
+      "options": [
+        "Votre décision est nulle, je refuse !",
+        "Je conteste respectueusement la décision rendue et sollicite son réexamen.",
+        "C'est injuste, vous devez changer ça.",
+        "Je ne suis pas d'accord du tout avec vous."
+      ],
+      "correct": 1,
+      "explanation": "La formulation administrative reste neutre, respectueuse et utilise un vocabulaire soutenu (contester, solliciter, réexamen)."
+    },
+    {
+      "question": "Pour une lettre au Préfet, quelle formule finale est la plus appropriée ?",
+      "options": [
+        "Bisous, Monsieur le Préfet",
+        "Je vous prie d'agréer, Monsieur le Préfet, l'expression de ma haute considération.",
+        "À plus, Monsieur le Préfet",
+        "Merci d'avance, le Préfet"
+      ],
+      "correct": 1,
+      "explanation": "Devant une haute autorité (Préfet, Ministre), on utilise l'expression de ma haute considération, formule de déférence."
+    }
+  ],
+  "writingPrompt": "Rédigez une tribune (180-220 mots) destinée à un quotidien régional français sur le thème suivant : l'évolution du métier d'agent administratif à l'ère de la dématérialisation. Vous exposerez comment ce métier s'est transformé (compétences nouvelles, disparition du contact humain, polyvalence accrue, montée des incivilités) et vous défendrez une position argumentée : ces évolutions sont-elles une chance pour la profession ou une menace pour la qualité du service public ? Structurez votre texte avec un titre accrocheur, une introduction présentant le constat, deux ou trois arguments illustrés d'exemples concrets (votre propre expérience d'usager en France peut nourrir le propos), et une conclusion ouvrant sur une proposition. Adoptez un ton engagé mais mesuré, propre à la tribune d'opinion.",
+  "vocab": [
+    {
+      "word": "solliciter",
+      "translation": "solicitar",
+      "example": "Je sollicite votre bienveillance pour l'examen de mon dossier."
+    },
+    {
+      "word": "un recours gracieux",
+      "translation": "um recurso administrativo",
+      "example": "J'ai déposé un recours gracieux contre la décision de refus."
+    },
+    {
+      "word": "ci-joint",
+      "translation": "em anexo",
+      "example": "Vous trouverez ci-joint les justificatifs de domicile."
+    },
+    {
+      "word": "agréer",
+      "translation": "aceitar (formal)",
+      "example": "Je vous prie d'agréer mes salutations distinguées."
+    },
+    {
+      "word": "les meilleurs délais",
+      "translation": "o mais breve possível",
+      "example": "Je vous remercie de traiter ma demande dans les meilleurs délais."
+    },
+    {
+      "word": "par la présente",
+      "translation": "pela presente (carta)",
+      "example": "Par la présente, je vous informe de mon changement d'adresse."
+    },
+    {
+      "word": "un accusé de réception",
+      "translation": "um aviso de recebimento",
+      "example": "J'ai envoyé ma lettre en recommandé avec accusé de réception."
+    },
+    {
+      "word": "saurais gré",
+      "translation": "agradeceria",
+      "example": "Je vous saurais gré de bien vouloir m'envoyer une copie du document."
+    }
+  ]
+}

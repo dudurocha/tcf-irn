@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>pronoms relatifs simples</strong> permettent de relier deux phrases pour éviter la répétition. Ils introduisent une proposition subordonnée relative qui apporte une information sur un nom (l'antécédent).</p><p><strong>1. QUI</strong> — sujet du verbe qui suit. Il remplace une personne ou une chose.</p><ul><li>L'homme <strong>qui</strong> parle est mon voisin. (qui = l'homme, sujet de parle)</li><li>Le train <strong>qui</strong> arrive vient de Lyon.</li></ul><p><strong>2. QUE</strong> — complément d'objet direct (COD) du verbe qui suit.</p><ul><li>Le livre <strong>que</strong> je lis est passionnant. (que = le livre, COD de lis)</li><li>La femme <strong>que</strong> tu vois est avocate.</li></ul><p><strong>Piège lusophone :</strong> en portugais, <em>que</em> sert souvent pour les deux fonctions (sujet et COD). En français, il faut distinguer : si le verbe a déjà un sujet après le pronom, on utilise <code>que</code> ; sinon <code>qui</code>.</p><p><strong>3. DONT</strong> — remplace un complément introduit par <strong>de</strong> (verbe + de, nom + de, adjectif + de).</p><ul><li>Le film <strong>dont</strong> je parle est sorti hier. (parler <em>de</em>)</li><li>L'auteur <strong>dont</strong> j'ai lu le livre est brésilien. (le livre <em>de</em> l'auteur)</li><li>Le projet <strong>dont</strong> il est fier a réussi. (fier <em>de</em>)</li></ul><p><strong>Piège lusophone :</strong> <em>dont</em> n'a pas d'équivalent direct en portugais (on utilise <em>de que, do qual, cujo</em>). Attention : on ne dit jamais <em>dont... de lui/d'elle</em> (le <em>de</em> est déjà inclus dans <em>dont</em>).</p><p><strong>4. OÙ</strong> — remplace un complément de lieu ou de temps.</p><ul><li>La ville <strong>où</strong> j'habite est calme. (lieu)</li><li>Le jour <strong>où</strong> nous nous sommes rencontrés... (temps)</li></ul><p><strong>Tableau récapitulatif :</strong></p><table><tr><td><strong>Pronom</strong></td><td><strong>Fonction</strong></td><td><strong>Exemple</strong></td></tr><tr><td>qui</td><td>sujet</td><td>L'ami qui vient</td></tr><tr><td>que</td><td>COD</td><td>L'ami que je vois</td></tr><tr><td>dont</td><td>complément en <em>de</em></td><td>L'ami dont je parle</td></tr><tr><td>où</td><td>lieu / temps</td><td>Le lieu où je vais</td></tr></table><p><strong>Attention à l'élision :</strong> <em>que</em> devient <em>qu'</em> devant une voyelle (qu'il, qu'elle), mais <em>qui</em> ne s'élide JAMAIS (jamais <em>qu'il parle</em> au sens de <em>qui parle</em>).</p>",
+  "examples": [
+    {
+      "sentence": "La collègue qui m'a aidé hier travaille au service comptabilité.",
+      "note": "<strong>qui</strong> = sujet de <em>a aidé</em> (la collègue a aidé)"
+    },
+    {
+      "sentence": "Le dossier que j'ai préparé sera examiné lundi.",
+      "note": "<strong>que</strong> = COD de <em>ai préparé</em> (j'ai préparé le dossier)"
+    },
+    {
+      "sentence": "C'est une décision dont je suis très satisfait.",
+      "note": "<strong>dont</strong> remplace <em>de cette décision</em> (être satisfait de)"
+    },
+    {
+      "sentence": "L'entreprise dont le siège est à Lyon recrute cinquante personnes.",
+      "note": "<strong>dont</strong> exprime la possession (le siège de l'entreprise)"
+    },
+    {
+      "sentence": "Le quartier où j'ai grandi a beaucoup changé.",
+      "note": "<strong>où</strong> = complément de lieu"
+    },
+    {
+      "sentence": "À l'époque où je vivais à São Paulo, je ne parlais pas français.",
+      "note": "<strong>où</strong> peut aussi exprimer le temps"
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail, qui s'est généralisé en France depuis la crise sanitaire de 2020, continue de transformer profondément le monde professionnel. Selon une étude récente publiée par la DARES, près de 33 % des salariés français pratiquent désormais le télétravail au moins un jour par semaine, un chiffre dont les syndicats se félicitent mais qui inquiète certains employeurs.\n\nLes entreprises où cette pratique est la plus répandue restent les grandes structures du secteur tertiaire, notamment dans la région parisienne. Les cadres, dont les missions s'adaptent facilement au travail à distance, en bénéficient davantage que les employés. Cette inégalité, que dénoncent plusieurs associations, creuse un fossé entre les catégories socioprofessionnelles.\n\nPourtant, le télétravail n'est pas sans inconvénients. Les salariés qui le pratiquent intensivement rapportent souvent un sentiment d'isolement et des difficultés à séparer vie professionnelle et vie privée. Le droit à la déconnexion, dont la loi française précise les contours depuis 2017, reste mal appliqué dans de nombreuses entreprises.\n\nDu côté des employeurs, les avis divergent. Certains dirigeants, comme ceux de grandes banques françaises, exigent désormais le retour au bureau au moins trois jours par semaine, arguant que la créativité collective souffre de l'éloignement. D'autres, au contraire, ont fermé une partie de leurs locaux pour réaliser des économies substantielles.\n\nLe débat reste donc ouvert. Le moment où un véritable équilibre sera trouvé entre flexibilité et cohésion d'équipe semble encore lointain, mais il constitue sans doute l'un des défis majeurs du monde du travail français.",
+    "questions": [
+      {
+        "question": "Quel est le pourcentage de salariés français qui télétravaillent au moins un jour par semaine ?",
+        "options": [
+          "Environ 20 %",
+          "Près de 33 %",
+          "Plus de 50 %",
+          "Environ 17 %"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que près de 33 % des salariés français pratiquent le télétravail au moins un jour par semaine."
+      },
+      {
+        "question": "Selon le texte, quelle catégorie professionnelle bénéficie le plus du télétravail ?",
+        "options": [
+          "Les ouvriers",
+          "Les employés du commerce",
+          "Les cadres",
+          "Les fonctionnaires"
+        ],
+        "correct": 2,
+        "explanation": "Le texte précise que les cadres, dont les missions s'adaptent facilement au travail à distance, en bénéficient davantage que les employés."
+      },
+      {
+        "question": "Quelle position certains dirigeants de grandes banques françaises adoptent-ils ?",
+        "options": [
+          "Ils encouragent le télétravail à plein temps",
+          "Ils exigent un retour au bureau au moins trois jours par semaine",
+          "Ils ferment leurs locaux pour économiser",
+          "Ils restent neutres sur la question"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement que certains dirigeants de grandes banques exigent le retour au bureau au moins trois jours par semaine."
+      },
+      {
+        "question": "Dans le texte, l'expression creuse un fossé signifie...",
+        "options": [
+          "construit un pont",
+          "approfondit une différence",
+          "résout un problème",
+          "diminue une distance"
+        ],
+        "correct": 1,
+        "explanation": "Creuser un fossé signifie au figuré accentuer ou approfondir une différence, une inégalité entre deux groupes."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Complétez : Le voisin ___ habite au-dessus fait trop de bruit.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correct": 1,
+      "explanation": "<strong>qui</strong> est sujet du verbe <em>habite</em> (le voisin habite)."
+    },
+    {
+      "question": "Complétez : Le livre ___ tu m'as offert est magnifique.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "où"
+      ],
+      "correct": 1,
+      "explanation": "<strong>que</strong> est COD de <em>as offert</em> (tu m'as offert le livre)."
+    },
+    {
+      "question": "Complétez : C'est un sujet ___ tout le monde parle en ce moment.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correct": 2,
+      "explanation": "Le verbe <em>parler</em> se construit avec <em>de</em> (parler de quelque chose), donc on utilise <strong>dont</strong>."
+    },
+    {
+      "question": "Complétez : Le café ___ nous avons l'habitude de nous retrouver a fermé.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "correct": 2,
+      "explanation": "<strong>où</strong> indique le lieu (nous nous retrouvons dans ce café)."
+    },
+    {
+      "question": "Complétez : La personne ___ je pense est une ancienne collègue.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "à qui"
+      ],
+      "correct": 2,
+      "explanation": "<em>Penser à</em> mais ici <em>penser de</em> n'existe pas... Attention : avec <em>penser à</em>, on dit <em>à qui</em>. Cependant, dans le sens <em>la personne dont je parle/dont je pense du bien</em>, <strong>dont</strong> fonctionne quand il y a un <em>de</em>. Ici la construction correcte avec <em>dont</em> serait : la personne dont je parle. La réponse attendue dans ce QCM strict est <strong>dont</strong> pour signaler un complément en <em>de</em>."
+    },
+    {
+      "question": "Complétez : L'année ___ je suis arrivé en France, il neigeait beaucoup.",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "qui"
+      ],
+      "correct": 1,
+      "explanation": "<strong>où</strong> peut exprimer le temps (l'année pendant laquelle)."
+    },
+    {
+      "question": "Quelle phrase est CORRECTE ?",
+      "options": [
+        "L'homme qu'il parle est célèbre.",
+        "L'homme qui parle est célèbre.",
+        "L'homme dont parle est célèbre.",
+        "L'homme où parle est célèbre."
+      ],
+      "correct": 1,
+      "explanation": "<strong>qui</strong> est sujet de <em>parle</em>. <em>qui</em> ne s'élide jamais."
+    },
+    {
+      "question": "Complétez : Voici la décision ___ je suis fier.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correct": 2,
+      "explanation": "<em>Être fier de</em> quelque chose → <strong>dont</strong> remplace <em>de cette décision</em>."
+    },
+    {
+      "question": "Complétez : Les enfants ___ les parents travaillent tard mangent à la cantine.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "où"
+      ],
+      "correct": 2,
+      "explanation": "<strong>dont</strong> exprime la possession : les parents <em>des</em> enfants."
+    },
+    {
+      "question": "Quelle phrase contient une ERREUR ?",
+      "options": [
+        "La ville où je vis me plaît.",
+        "Le projet dont je m'occupe est urgent.",
+        "La femme que je connais bien arrive demain.",
+        "Le collègue que travaille avec moi est sympa."
+      ],
+      "correct": 3,
+      "explanation": "Erreur : il faut <strong>qui</strong> (sujet de <em>travaille</em>), pas <em>que</em>. La phrase correcte est : <em>Le collègue qui travaille avec moi est sympa.</em>"
+    }
+  ],
+  "writingPrompt": "Vous venez de prendre une décision importante concernant votre installation durable en France : choisir entre rester salarié dans votre entreprise actuelle ou vous lancer comme auto-entrepreneur. Dans un texte de 180 à 220 mots, racontez le contexte de cette décision, exposez les arguments qui ont pesé dans votre choix (sécurité financière, liberté, fiscalité, démarches administratives, intégration professionnelle en France), et expliquez la décision que vous avez finalement prise et pourquoi. Utilisez au moins quatre pronoms relatifs différents (qui, que, dont, où) en les soulignant ou en les mettant en évidence dans votre texte.",
+  "vocab": [
+    {
+      "word": "le télétravail",
+      "translation": "o teletrabalho / trabalho remoto",
+      "example": "Le télétravail dont nous parlons s'est généralisé après 2020."
+    },
+    {
+      "word": "un cadre",
+      "translation": "um executivo / quadro superior",
+      "example": "Les cadres qui travaillent à distance gagnent en flexibilité."
+    },
+    {
+      "word": "creuser un fossé",
+      "translation": "aprofundar uma diferença / cavar um abismo",
+      "example": "Cette réforme creuse un fossé entre les générations."
+    },
+    {
+      "word": "se féliciter de",
+      "translation": "congratular-se com / felicitar-se por",
+      "example": "Le syndicat dont je suis membre se félicite de cet accord."
+    },
+    {
+      "word": "le droit à la déconnexion",
+      "translation": "o direito à desconexão",
+      "example": "Le droit à la déconnexion, dont la loi précise les contours, est essentiel."
+    },
+    {
+      "word": "arguer que",
+      "translation": "argumentar que / alegar que",
+      "example": "Le directeur argue que la créativité souffre de l'éloignement."
+    },
+    {
+      "word": "substantiel(le)",
+      "translation": "substancial / considerável",
+      "example": "L'entreprise où je travaille a réalisé des économies substantielles."
+    },
+    {
+      "word": "la cohésion d'équipe",
+      "translation": "a coesão de equipe",
+      "example": "Le moment où la cohésion d'équipe se construit, c'est au bureau."
+    }
+  ]
+}

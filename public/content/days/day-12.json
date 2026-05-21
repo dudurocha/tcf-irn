@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>connecteurs de cause et de conséquence</strong> sont essentiels pour structurer un raisonnement au niveau B2. Ils permettent d'expliquer le <em>pourquoi</em> (cause) et le <em>résultat</em> (conséquence) d'une situation.</p><p><strong>1. Exprimer la cause</strong></p><ul><li><code>parce que</code> + indicatif : réponse à une question (cause neutre).</li><li><code>car</code> + indicatif : registre écrit/soutenu, jamais en début de phrase.</li><li><code>puisque</code> + indicatif : cause déjà connue de l'interlocuteur.</li><li><code>comme</code> + indicatif : toujours en début de phrase.</li><li><code>étant donné que</code>, <code>vu que</code> : cause objective, formelle.</li><li><code>grâce à</code> + nom : cause positive ; <code>à cause de</code> + nom : cause négative ou neutre ; <code>en raison de</code> + nom : registre formel.</li></ul><p><strong>2. Exprimer la conséquence</strong></p><ul><li><code>donc</code> : conséquence logique, conclusion.</li><li><code>alors</code> : conséquence dans le récit ou l'oral.</li><li><code>c'est pourquoi</code>, <code>c'est pour cela que</code> : conséquence soulignée.</li><li><code>par conséquent</code>, <code>en conséquence</code> : registre formel.</li><li><code>si bien que</code>, <code>de sorte que</code> + indicatif : conséquence factuelle.</li><li><code>tellement... que</code>, <code>si... que</code>, <code>tant de... que</code> : intensité + conséquence.</li></ul><p><strong>Verbe modèle : </strong> le verbe <em>entraîner</em> (provoquer une conséquence), présent de l'indicatif :</p><table><tr><td>je</td><td><strong>entraîne</strong></td></tr><tr><td>tu</td><td><strong>entraînes</strong></td></tr><tr><td>il/elle</td><td><strong>entraîne</strong></td></tr><tr><td>nous</td><td><strong>entraînons</strong></td></tr><tr><td>vous</td><td><strong>entraînez</strong></td></tr><tr><td>ils/elles</td><td><strong>entraînent</strong></td></tr></table><p><strong>Pièges classiques pour lusophones :</strong></p><ul><li>Ne confondez pas <code>car</code> et <code>comme</code> : <em>car</em> ne se met jamais en début de phrase, contrairement au portugais <em>pois</em>.</li><li><code>à cause de</code> ≠ <code>parce que</code> : le premier est suivi d'un <strong>nom</strong>, le second d'une <strong>proposition</strong>. En portugais, <em>por causa de</em> couvre les deux.</li><li><code>grâce à</code> a une valeur positive — n'écrivez pas <em>grâce à la pollution</em> !</li><li><code>donc</code> se place après le verbe conjugué : <em>Il pleut, je prends donc mon parapluie.</em></li><li>Avec <code>tellement... que</code>, attention à la place : <em>Il fait tellement chaud que je ne dors pas.</em></li></ul>",
+  "examples": [
+    {
+      "sentence": "Comme les transports étaient en grève, j'ai dû télétravailler toute la semaine.",
+      "note": "comme exprime la cause en début de phrase obligatoirement"
+    },
+    {
+      "sentence": "Le chômage a baissé grâce aux mesures gouvernementales prises l'an dernier.",
+      "note": "grâce à introduit une cause à effet positif"
+    },
+    {
+      "sentence": "Les loyers ont augmenté en raison de la pénurie de logements dans les grandes villes.",
+      "note": "en raison de + nom, registre formel"
+    },
+    {
+      "sentence": "Il y avait tellement de monde au guichet que j'ai renoncé à mes démarches.",
+      "note": "tellement de + nom + que exprime intensité et conséquence"
+    },
+    {
+      "sentence": "La loi a été votée hier ; par conséquent, elle entrera en vigueur le mois prochain.",
+      "note": "par conséquent : conséquence formelle, souvent à l'écrit"
+    },
+    {
+      "sentence": "Puisque tu connais déjà le dossier, tu pourrais présenter la réunion.",
+      "note": "puisque introduit une cause connue de l'interlocuteur"
+    }
+  ],
+  "reading": {
+    "passage": "La semaine de quatre jours fait débat en France. Plusieurs entreprises ont décidé d'expérimenter ce nouveau rythme de travail, séduites par les résultats observés à l'étranger. En Islande, par exemple, les essais menés entre 2015 et 2019 ont été jugés très concluants : grâce à une meilleure organisation, la productivité des salariés a été maintenue, voire améliorée, tout en réduisant leur niveau de stress.\n\nEn France, l'entreprise LDLC, basée près de Lyon, est devenue un cas emblématique. Depuis qu'elle a adopté la semaine de 32 heures sans baisse de salaire, son chiffre d'affaires a progressé et le taux d'absentéisme a fortement diminué. Le PDG affirme que les salariés sont plus reposés, donc plus efficaces lorsqu'ils sont au bureau.\n\nCependant, tous les secteurs ne peuvent pas adopter ce modèle aussi facilement. Dans l'hôpital public, par exemple, le manque de personnel rend la réduction du temps de travail très difficile à mettre en place. De même, dans les commerces et la restauration, les horaires dépendent largement de la clientèle, si bien qu'une réorganisation entraînerait des coûts importants.\n\nLes syndicats restent partagés. Certains y voient une avancée sociale majeure, comparable aux 35 heures de l'an 2000. D'autres craignent que cette mesure n'augmente la charge de travail quotidienne, puisque les mêmes tâches devraient être accomplies en moins de jours. Le débat ne fait que commencer, mais une chose est sûre : la question du temps de travail reste au cœur des préoccupations des Français.",
+    "questions": [
+      {
+        "question": "Quel est l'objectif principal du texte ?",
+        "options": [
+          "Critiquer la semaine de quatre jours",
+          "Présenter les enjeux et limites de la semaine de quatre jours",
+          "Promouvoir le modèle islandais",
+          "Défendre les positions des syndicats"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente à la fois les avantages observés et les difficultés selon les secteurs, sans prendre position."
+      },
+      {
+        "question": "D'après le texte, pourquoi l'expérience de LDLC est-elle considérée comme un succès ?",
+        "options": [
+          "Parce que les salaires ont augmenté",
+          "Parce que les salariés travaillent davantage",
+          "Parce que le chiffre d'affaires a progressé et l'absentéisme a baissé",
+          "Parce que l'entreprise a embauché plus de personnel"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement la progression du chiffre d'affaires et la baisse de l'absentéisme."
+      },
+      {
+        "question": "Pourquoi certains secteurs auraient-ils du mal à adopter ce modèle ?",
+        "options": [
+          "Parce que les salariés refusent ce changement",
+          "Parce que le gouvernement s'y oppose",
+          "Parce que les contraintes du secteur rendent la réorganisation coûteuse ou impossible",
+          "Parce que les clients ne sont pas prêts"
+        ],
+        "correct": 2,
+        "explanation": "Le texte cite l'hôpital (manque de personnel) et le commerce/restauration (horaires liés à la clientèle)."
+      },
+      {
+        "question": "Dans le texte, l'expression concluants signifie :",
+        "options": [
+          "Décevants",
+          "Positifs et probants",
+          "Incertains",
+          "Discutables"
+        ],
+        "correct": 1,
+        "explanation": "Concluants signifie que les résultats sont satisfaisants et démontrent quelque chose."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la bonne formulation : Je n'ai pas pu venir ___ j'étais malade.",
+      "options": [
+        "car",
+        "à cause de",
+        "grâce à",
+        "en raison"
+      ],
+      "correct": 0,
+      "explanation": "car introduit une proposition (sujet + verbe). à cause de et en raison de demandent un nom."
+    },
+    {
+      "question": "___ il pleuvait, nous avons annulé le pique-nique.",
+      "options": [
+        "Car",
+        "Comme",
+        "Donc",
+        "Pour que"
+      ],
+      "correct": 1,
+      "explanation": "comme se place obligatoirement en début de phrase pour exprimer la cause."
+    },
+    {
+      "question": "Le projet a réussi ___ l'investissement de toute l'équipe.",
+      "options": [
+        "à cause de",
+        "grâce à",
+        "parce que",
+        "puisque"
+      ],
+      "correct": 1,
+      "explanation": "grâce à exprime une cause positive et est suivi d'un nom."
+    },
+    {
+      "question": "Les routes étaient verglacées ; ___, plusieurs accidents ont eu lieu.",
+      "options": [
+        "parce que",
+        "puisque",
+        "par conséquent",
+        "comme"
+      ],
+      "correct": 2,
+      "explanation": "par conséquent exprime une conséquence dans un registre formel."
+    },
+    {
+      "question": "Il y avait ___ bruit que je n'arrivais pas à me concentrer.",
+      "options": [
+        "tellement de",
+        "très de",
+        "beaucoup",
+        "si"
+      ],
+      "correct": 0,
+      "explanation": "tellement de + nom + que exprime l'intensité et la conséquence."
+    },
+    {
+      "question": "___ tu as fini ton travail, tu peux partir plus tôt.",
+      "options": [
+        "Car",
+        "Puisque",
+        "Pour que",
+        "Bien que"
+      ],
+      "correct": 1,
+      "explanation": "puisque introduit une cause déjà connue ou évidente pour l'interlocuteur."
+    },
+    {
+      "question": "La réunion a été reportée ___ la grève des transports.",
+      "options": [
+        "parce que",
+        "puisque",
+        "en raison de",
+        "car"
+      ],
+      "correct": 2,
+      "explanation": "en raison de + nom, registre formel adapté à un contexte professionnel."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE ?",
+      "options": [
+        "Il pleut, donc je reste à la maison.",
+        "Car il pleut, je reste à la maison.",
+        "Comme il pleut, je reste à la maison.",
+        "Il pleut, je reste donc à la maison."
+      ],
+      "correct": 1,
+      "explanation": "car ne peut jamais se placer en début de phrase, contrairement à comme."
+    },
+    {
+      "question": "Le restaurant était ___ bondé ___ nous avons dû partir.",
+      "options": [
+        "tellement / que",
+        "si / pour",
+        "tant / que",
+        "tellement / pour"
+      ],
+      "correct": 0,
+      "explanation": "tellement + adjectif + que ou si + adjectif + que. tant s'emploie avec un verbe."
+    },
+    {
+      "question": "___ du retard des trains, la SNCF a remboursé les billets.",
+      "options": [
+        "Parce que",
+        "Étant donné",
+        "En raison",
+        "Comme"
+      ],
+      "correct": 1,
+      "explanation": "étant donné + nom (sans de) ou étant donné que + proposition. Ici on a un nom, donc étant donné le retard."
+    }
+  ],
+  "writingPrompt": "Vous habitez en France et vous souhaitez postuler à un poste de bénévole dans une association locale qui aide les nouveaux arrivants étrangers à s'intégrer (cours de français, accompagnement administratif, activités culturelles). Rédigez une lettre de motivation adressée au responsable de l'association. Présentez-vous brièvement, expliquez les raisons qui vous poussent à vous engager dans cette cause, mettez en avant vos compétences ou expériences pertinentes, et précisez en quoi votre profil pourrait être utile à l'association. Utilisez au moins quatre connecteurs de cause et de conséquence différents. (180-220 mots)",
+  "vocab": [
+    {
+      "word": "entraîner",
+      "translation": "acarretar, provocar",
+      "example": "Cette décision va entraîner de nombreux changements dans l'entreprise."
+    },
+    {
+      "word": "découler de",
+      "translation": "decorrer de",
+      "example": "Plusieurs problèmes découlent de ce manque d'organisation."
+    },
+    {
+      "word": "provoquer",
+      "translation": "provocar, causar",
+      "example": "La canicule a provoqué une hausse de la consommation d'électricité."
+    },
+    {
+      "word": "engendrer",
+      "translation": "gerar, originar",
+      "example": "Le télétravail peut engendrer un sentiment d'isolement."
+    },
+    {
+      "word": "par conséquent",
+      "translation": "por conseguinte, portanto",
+      "example": "Le dossier est incomplet ; par conséquent, votre demande est suspendue."
+    },
+    {
+      "word": "étant donné que",
+      "translation": "dado que, visto que",
+      "example": "Étant donné que les délais sont courts, nous devons agir vite."
+    },
+    {
+      "word": "aboutir à",
+      "translation": "resultar em, levar a",
+      "example": "Les négociations ont abouti à un accord satisfaisant."
+    },
+    {
+      "word": "découler",
+      "translation": "resultar, derivar",
+      "example": "De cette analyse découlent plusieurs recommandations concrètes."
+    }
+  ]
+}

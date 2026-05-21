@@ -26,6 +26,7 @@ export type MockExamStatus = "active" | "completed" | "expired";
 
 export interface MockExamAttempt {
   id: string;
+  examId?: string; // identifier of the underlying pre-generated exam (e.g. "exam-03")
   exam: MockExam;
   status: MockExamStatus;
   startedAt: number; // epoch ms

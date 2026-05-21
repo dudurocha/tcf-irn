@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis plusieurs années, le télétravail s'est imposé comme une nouvelle norme dans le paysage professionnel français. Accéléré par la crise sanitaire de 2020, il concerne aujourd'hui près d'un salarié sur trois, du moins dans les secteurs où il est techniquement possible. Si cette transformation a longtemps été présentée comme une avancée sociale majeure, elle suscite désormais des débats nuancés.\n\nLes partisans du télétravail mettent en avant ses bénéfices indiscutables : gain de temps lié à la suppression des trajets, meilleure conciliation entre vie professionnelle et vie privée, réduction du stress et autonomie accrue. Certaines entreprises y voient également une opportunité de réduire leurs coûts immobiliers et d'élargir leur bassin de recrutement au-delà des grandes métropoles.\n\nCependant, plusieurs études récentes pointent des effets pervers qui méritent attention. L'isolement social figure parmi les principaux écueils : privés des échanges informels avec leurs collègues, certains télétravailleurs développent un sentiment de solitude, voire des troubles dépressifs. Par ailleurs, la frontière entre temps professionnel et temps personnel devient floue. Beaucoup avouent travailler davantage qu'au bureau, répondant aux courriels tard le soir ou pendant le week-end.\n\nLes managers, quant à eux, peinent parfois à maintenir une cohésion d'équipe à distance. La transmission des savoirs entre générations, traditionnellement informelle, s'en trouve fragilisée. Quant aux jeunes recrues, elles regrettent souvent de ne pas bénéficier d'un accompagnement suffisant lors de leurs premiers mois.\n\nFace à ces constats, un modèle hybride semble s'imposer progressivement : deux ou trois jours de télétravail par semaine, le reste au bureau. Cette formule, plébiscitée par les syndicats comme par les directions, tente de concilier flexibilité individuelle et dynamique collective. Reste à savoir si elle parviendra à effacer durablement les inégalités entre les métiers qui peuvent être exercés à distance et ceux qui, par nature, l'imposent en présentiel.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est un échec total en France",
+          "Le télétravail présente des avantages mais aussi des limites qu'il faut équilibrer",
+          "Le télétravail va disparaître prochainement",
+          "Le télétravail concerne tous les salariés français"
+        ],
+        "correct": 1,
+        "explanation": "Le texte adopte une position nuancée en présentant à la fois les bénéfices et les inconvénients du télétravail."
+      },
+      {
+        "question": "Selon le texte, quel est un effet négatif du télétravail ?",
+        "options": [
+          "Une baisse importante de la productivité",
+          "Des coûts immobiliers plus élevés pour les entreprises",
+          "Un brouillage entre vie professionnelle et vie personnelle",
+          "Une augmentation des accidents de trajet"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement que la frontière entre temps professionnel et temps personnel devient floue."
+      },
+      {
+        "question": "Dans le passage, que signifie l'expression <em>effets pervers</em> ?",
+        "options": [
+          "Des conséquences immorales",
+          "Des résultats positifs inattendus",
+          "Des conséquences négatives non prévues à l'origine",
+          "Des effets secondaires médicaux"
+        ],
+        "correct": 2,
+        "explanation": "Un effet pervers désigne une conséquence négative et indirecte d'une mesure qui visait pourtant un objectif positif."
+      },
+      {
+        "question": "Que peut-on déduire du dernier paragraphe ?",
+        "options": [
+          "Le modèle hybride résout tous les problèmes du télétravail",
+          "Le modèle hybride creuse les inégalités entre catégories de métiers",
+          "Les syndicats s'opposent fermement au modèle hybride",
+          "Le modèle hybride sera bientôt abandonné"
+        ],
+        "correct": 1,
+        "explanation": "L'auteur souligne que le modèle hybride ne résout pas l'inégalité entre métiers télétravaillables et métiers nécessairement en présentiel."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Si j'avais su, je ___ autrement.",
+      "options": [
+        "aurais agi",
+        "avais agi",
+        "agirais",
+        "agirai"
+      ],
+      "correct": 0,
+      "explanation": "Après un <em>si</em> + plus-que-parfait, on emploie le conditionnel passé dans la principale."
+    },
+    {
+      "question": "Quel est le synonyme le plus précis de <strong>plébisciter</strong> ?",
+      "options": [
+        "Critiquer vivement",
+        "Approuver massivement",
+        "Ignorer délibérément",
+        "Imposer autoritairement"
+      ],
+      "correct": 1,
+      "explanation": "Plébisciter signifie soutenir ou approuver à une large majorité."
+    },
+    {
+      "question": "Complétez : Il faut que tu ___ plus attentif en réunion.",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "serais"
+      ],
+      "correct": 1,
+      "explanation": "Après <em>il faut que</em>, on emploie le subjonctif présent : que tu sois."
+    },
+    {
+      "question": "Choisissez le connecteur logique qui convient : Le projet est ambitieux ; ___, il manque de financement.",
+      "options": [
+        "par conséquent",
+        "toutefois",
+        "ainsi",
+        "donc"
+      ],
+      "correct": 1,
+      "explanation": "<em>Toutefois</em> exprime une opposition, ce qui correspond au contraste entre ambition et manque de moyens."
+    },
+    {
+      "question": "Que signifie l'expression <strong>mettre la charrue avant les bœufs</strong> ?",
+      "options": [
+        "Travailler trop vite",
+        "Faire les choses dans le mauvais ordre",
+        "Refuser de coopérer",
+        "Prendre une décision difficile"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression signifie agir prématurément, sans respecter l'ordre logique des étapes."
+    },
+    {
+      "question": "À la pharmacie, le client dit : Je voudrais quelque chose contre le mal de gorge. Quelle est sa visée ?",
+      "options": [
+        "Se plaindre du pharmacien",
+        "Demander un médicament adapté",
+        "Annoncer une maladie grave",
+        "Refuser un traitement"
+      ],
+      "correct": 1,
+      "explanation": "Il s'agit d'une demande polie et indirecte pour obtenir un produit en pharmacie."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Elle s'intéresse ___ politique européenne.",
+      "options": [
+        "de la",
+        "à la",
+        "sur la",
+        "pour la"
+      ],
+      "correct": 1,
+      "explanation": "Le verbe <em>s'intéresser</em> se construit avec la préposition <em>à</em>."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>fragile</strong> dans : une économie fragile ?",
+      "options": [
+        "Vulnérable",
+        "Robuste",
+        "Précaire",
+        "Instable"
+      ],
+      "correct": 1,
+      "explanation": "<em>Robuste</em> est l'antonyme adapté au registre économique."
+    },
+    {
+      "question": "Reformulez : Bien qu'il pleuve, nous sortirons.",
+      "options": [
+        "Comme il pleut, nous sortirons",
+        "Puisqu'il pleut, nous sortirons",
+        "Même s'il pleut, nous sortirons",
+        "Parce qu'il pleut, nous sortirons"
+      ],
+      "correct": 2,
+      "explanation": "<em>Bien que</em> et <em>même si</em> expriment tous deux la concession."
+    },
+    {
+      "question": "En France, que désigne le <strong>RSA</strong> ?",
+      "options": [
+        "Un type de contrat de travail temporaire",
+        "Un revenu de solidarité pour les personnes sans ressources suffisantes",
+        "Une taxe sur les hauts revenus",
+        "Une assurance pour les indépendants"
+      ],
+      "correct": 1,
+      "explanation": "Le Revenu de Solidarité Active est une aide sociale versée aux personnes aux ressources modestes."
+    },
+    {
+      "question": "Complétez : Les décisions ___ par le conseil ont surpris tout le monde.",
+      "options": [
+        "prise",
+        "prises",
+        "pris",
+        "prendre"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé s'accorde avec <em>les décisions</em>, féminin pluriel."
+    },
+    {
+      "question": "Dans la phrase : Il a fait ses preuves, que signifie cette expression ?",
+      "options": [
+        "Il a échoué une fois",
+        "Il a démontré ses compétences",
+        "Il a passé un examen",
+        "Il a fourni des documents"
+      ],
+      "correct": 1,
+      "explanation": "<em>Faire ses preuves</em> signifie démontrer concrètement sa valeur ou ses capacités."
+    },
+    {
+      "question": "Choisissez le pronom relatif correct : C'est le projet ___ je t'avais parlé.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correct": 2,
+      "explanation": "On emploie <em>dont</em> car le verbe <em>parler</em> se construit avec <em>de</em>."
+    },
+    {
+      "question": "Quel registre correspond à : Je sollicite votre bienveillance afin d'examiner ma requête ?",
+      "options": [
+        "Familier",
+        "Courant",
+        "Soutenu",
+        "Argotique"
+      ],
+      "correct": 2,
+      "explanation": "Le vocabulaire (<em>solliciter</em>, <em>bienveillance</em>, <em>requête</em>) relève du registre soutenu, typique de l'administration."
+    },
+    {
+      "question": "Complétez : Dès qu'il ___ ses études, il cherchera un emploi.",
+      "options": [
+        "finit",
+        "finira",
+        "aura fini",
+        "finissait"
+      ],
+      "correct": 2,
+      "explanation": "Après <em>dès que</em> exprimant une antériorité par rapport à un futur, on emploie le futur antérieur."
+    },
+    {
+      "question": "Que veut dire : Il a pris ses distances avec ce parti politique ?",
+      "options": [
+        "Il s'est rapproché du parti",
+        "Il s'est éloigné du parti",
+        "Il a fondé un parti",
+        "Il a voté pour ce parti"
+      ],
+      "correct": 1,
+      "explanation": "<em>Prendre ses distances</em> signifie s'éloigner, marquer un désaccord progressif."
+    },
+    {
+      "question": "Choisissez l'articulateur : ___ des grèves, les trains circulent normalement.",
+      "options": [
+        "En raison",
+        "Malgré",
+        "Grâce à",
+        "À cause"
+      ],
+      "correct": 1,
+      "explanation": "<em>Malgré</em> introduit une concession : on s'attendrait à des perturbations, mais ce n'est pas le cas."
+    },
+    {
+      "question": "En France, à quoi sert le <strong>numéro de sécurité sociale</strong> ?",
+      "options": [
+        "À voter aux élections municipales",
+        "À ouvrir un compte bancaire obligatoirement",
+        "À bénéficier du remboursement des soins de santé",
+        "À obtenir un permis de conduire"
+      ],
+      "correct": 2,
+      "explanation": "Le numéro de sécurité sociale est essentiel pour l'accès au système de santé et le remboursement des soins."
+    },
+    {
+      "question": "Trouvez l'erreur : Les enfants se sont lavé les mains avant de manger.",
+      "options": [
+        "Il n'y a pas d'erreur",
+        "Lavé doit s'accorder : lavés",
+        "Mains doit être au singulier",
+        "Avant doit être suivi de que"
+      ],
+      "correct": 0,
+      "explanation": "Le participe ne s'accorde pas car le COD <em>les mains</em> est placé après le verbe ; <em>se</em> est ici COI."
+    },
+    {
+      "question": "Quel mot ne convient PAS pour qualifier un argument ?",
+      "options": [
+        "Convaincant",
+        "Pertinent",
+        "Recevable",
+        "Comestible"
+      ],
+      "correct": 3,
+      "explanation": "<em>Comestible</em> s'applique à la nourriture, jamais à un argument."
+    }
+  ],
+  "writingPrompt": "Vous êtes client chez un opérateur de téléphonie mobile en France depuis trois ans. Depuis deux mois, votre forfait est facturé à un tarif supérieur à celui prévu dans votre contrat, et le service client, contacté à plusieurs reprises par téléphone, ne vous a apporté aucune réponse satisfaisante. Rédigez une lettre de réclamation officielle adressée au service consommateurs de l'opérateur (180-220 mots). Présentez clairement la situation, exposez les démarches déjà entreprises, justifiez votre mécontentement avec des arguments précis, et formulez vos demandes (régularisation, remboursement, voire résiliation sans frais). Adoptez un registre soutenu et respectez les codes de la lettre formelle française (formule d'appel, structure, formule de politesse finale)."
+}

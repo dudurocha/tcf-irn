@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé comme une réalité durable dans le paysage professionnel français. Si la pandémie a accéléré son adoption, les transformations qu'il provoque dépassent largement le cadre sanitaire initial. De nombreuses entreprises ont revu leur organisation, certaines allant jusqu'à fermer une partie de leurs bureaux pour réduire leurs coûts immobiliers. Côté salariés, les avis restent partagés. Pour beaucoup, travailler depuis chez soi représente un gain de temps considérable, notamment dans les grandes agglomérations où les transports peuvent absorber jusqu'à trois heures par jour. D'autres y voient au contraire une forme d'isolement professionnel, voire une intrusion du travail dans la sphère privée. Une étude récente menée par l'Institut national de la statistique révèle que près de 40% des télétravailleurs reconnaissent travailler plus longtemps qu'auparavant, brouillant ainsi la frontière entre vie professionnelle et vie personnelle. Le phénomène inquiète les médecins du travail, qui constatent une hausse des troubles musculo-squelettiques et des cas d'épuisement professionnel. Par ailleurs, les territoires ruraux voient dans cette évolution une opportunité inespérée. De nombreuses petites communes, longtemps désertées par les actifs, accueillent désormais des cadres en quête d'un cadre de vie plus apaisé. Des espaces de coworking fleurissent dans des villages où l'on n'imaginait pas, il y a dix ans, voir s'installer une telle clientèle. Toutefois, cette redistribution géographique soulève d'autres questions, notamment celle de la couverture numérique encore inégale sur le territoire. Les syndicats, quant à eux, militent pour un encadrement plus strict du télétravail. Ils réclament la généralisation du droit à la déconnexion et une compensation financière pour les frais engagés à domicile. Le gouvernement, conscient de ces enjeux, envisage de légiférer prochainement. Reste à savoir si la France saura trouver un équilibre entre flexibilité et protection des travailleurs, dans un contexte où la concurrence internationale impose de repenser sans cesse l'organisation du travail.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail a uniquement des effets positifs sur les salariés",
+          "Le télétravail transforme profondément le monde du travail français, avec des effets contrastés",
+          "Le gouvernement français veut interdire le télétravail",
+          "Les entreprises refusent désormais le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente le télétravail comme une transformation durable avec des aspects positifs et négatifs."
+      },
+      {
+        "question": "Selon le texte, pourquoi certaines entreprises ferment-elles leurs bureaux ?",
+        "options": [
+          "Pour licencier des employés",
+          "Pour réduire leurs dépenses liées à l'immobilier",
+          "Parce que la loi les y oblige",
+          "Pour protester contre le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement la volonté de réduire les coûts immobiliers."
+      },
+      {
+        "question": "Que signifie l'expression <em>brouillant la frontière</em> dans le texte ?",
+        "options": [
+          "Renforçant la séparation",
+          "Rendant la distinction moins claire",
+          "Supprimant complètement la limite",
+          "Déplaçant la frontière géographique"
+        ],
+        "correct": 1,
+        "explanation": "Brouiller signifie ici rendre flou, moins distinct, sans toutefois supprimer totalement."
+      },
+      {
+        "question": "Quelle conclusion peut-on tirer du dernier paragraphe ?",
+        "options": [
+          "La France a déjà résolu les problèmes du télétravail",
+          "Le télétravail va disparaître prochainement",
+          "Un équilibre reste à construire entre souplesse et protection",
+          "Les syndicats s'opposent totalement au télétravail"
+        ],
+        "correct": 2,
+        "explanation": "Le texte conclut sur la nécessité de trouver un équilibre, montrant que le débat est ouvert."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Si j'avais su, je ___ autrement.",
+      "options": [
+        "aurais agi",
+        "avais agi",
+        "agirais",
+        "aurai agi"
+      ],
+      "correct": 0,
+      "explanation": "Après <em>si</em> + plus-que-parfait, on emploie le conditionnel passé dans la principale."
+    },
+    {
+      "question": "Quel est le synonyme le plus précis de <strong>inespéré</strong> ?",
+      "options": [
+        "Prévisible",
+        "Inattendu et heureux",
+        "Décevant",
+        "Habituel"
+      ],
+      "correct": 1,
+      "explanation": "Inespéré qualifie ce qu'on n'osait pas espérer, donc inattendu et positif."
+    },
+    {
+      "question": "Complétez : <em>Il a réussi son concours ___ il avait peu révisé.</em>",
+      "options": [
+        "parce qu'",
+        "bien qu'",
+        "puisqu'",
+        "afin qu'"
+      ],
+      "correct": 1,
+      "explanation": "<em>Bien que</em> exprime la concession (+ subjonctif), seul connecteur logique ici."
+    },
+    {
+      "question": "Dans un guichet de la préfecture, quelle formule est la plus appropriée pour demander un renseignement ?",
+      "options": [
+        "Hé, dis-moi où il faut aller !",
+        "Pourriez-vous m'indiquer où m'adresser, s'il vous plaît ?",
+        "Tu sais pas où je dois aller ?",
+        "Je veux savoir où aller maintenant."
+      ],
+      "correct": 1,
+      "explanation": "Le registre formel s'impose dans une administration, avec le conditionnel de politesse."
+    },
+    {
+      "question": "Quel pronom complète correctement : <em>Les documents ___ tu as besoin sont sur le bureau.</em>",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "lesquels"
+      ],
+      "correct": 2,
+      "explanation": "<em>Avoir besoin de</em> exige <em>dont</em>, qui remplace <em>de</em> + nom."
+    },
+    {
+      "question": "Que signifie l'expression <strong>mettre les pieds dans le plat</strong> ?",
+      "options": [
+        "Marcher dans la nourriture",
+        "Aborder un sujet délicat sans précaution",
+        "Faire la cuisine",
+        "Préparer un grand repas"
+      ],
+      "correct": 1,
+      "explanation": "Expression idiomatique signifiant aborder maladroitement un sujet sensible."
+    },
+    {
+      "question": "Quelle phrase reformule correctement : <em>Malgré la pluie, nous sommes sortis.</em>",
+      "options": [
+        "Comme il pleuvait, nous sommes sortis.",
+        "Bien qu'il pleuve, nous sommes sortis.",
+        "Bien qu'il ait plu, nous sommes sortis.",
+        "Parce qu'il a plu, nous sommes sortis."
+      ],
+      "correct": 2,
+      "explanation": "<em>Malgré</em> + nom équivaut à <em>bien que</em> + subjonctif passé pour un fait passé."
+    },
+    {
+      "question": "Conjuguez : <em>Il faut que tu ___ à l'heure demain.</em>",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "serais"
+      ],
+      "correct": 1,
+      "explanation": "<em>Il faut que</em> impose le subjonctif présent : <em>que tu sois</em>."
+    },
+    {
+      "question": "Quel connecteur exprime la conséquence ?",
+      "options": [
+        "En revanche",
+        "Par conséquent",
+        "Néanmoins",
+        "En outre"
+      ],
+      "correct": 1,
+      "explanation": "<em>Par conséquent</em> introduit une conséquence logique."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>apaisé</strong> ?",
+      "options": [
+        "Calme",
+        "Serein",
+        "Agité",
+        "Tranquille"
+      ],
+      "correct": 2,
+      "explanation": "Apaisé signifie calme ; son contraire est agité."
+    },
+    {
+      "question": "Choisissez la bonne préposition : <em>Il s'intéresse ___ politique française.</em>",
+      "options": [
+        "de la",
+        "à la",
+        "en la",
+        "pour la"
+      ],
+      "correct": 1,
+      "explanation": "<em>S'intéresser à</em> est la construction correcte."
+    },
+    {
+      "question": "Quel énoncé exprime un regret ?",
+      "options": [
+        "J'aurais dû lui parler hier.",
+        "Je dois lui parler demain.",
+        "Je vais lui parler.",
+        "Je lui parle souvent."
+      ],
+      "correct": 0,
+      "explanation": "<em>Aurais dû</em> + infinitif exprime le regret d'une action non réalisée."
+    },
+    {
+      "question": "Que signifie <strong>la fracture numérique</strong> évoquée souvent dans les médias français ?",
+      "options": [
+        "Une panne d'ordinateur généralisée",
+        "Les inégalités d'accès aux technologies numériques",
+        "Le piratage informatique",
+        "La cassure d'un écran"
+      ],
+      "correct": 1,
+      "explanation": "Expression désignant les inégalités d'accès et d'usage du numérique."
+    },
+    {
+      "question": "Complétez : <em>Elle a obtenu ce poste ___ ses compétences linguistiques.</em>",
+      "options": [
+        "malgré",
+        "grâce à",
+        "à cause de",
+        "en dépit de"
+      ],
+      "correct": 1,
+      "explanation": "<em>Grâce à</em> introduit une cause positive."
+    },
+    {
+      "question": "Dans quelle situation utilise-t-on <em>Veuillez agréer mes salutations distinguées</em> ?",
+      "options": [
+        "À la fin d'un SMS à un ami",
+        "Au début d'un courriel professionnel",
+        "À la fin d'une lettre formelle",
+        "Lors d'une conversation orale"
+      ],
+      "correct": 2,
+      "explanation": "Formule de politesse classique en clôture d'une lettre formelle."
+    },
+    {
+      "question": "Quel est le sens de <em>Il a pris ses cliques et ses claques</em> ?",
+      "options": [
+        "Il a applaudi avec enthousiasme",
+        "Il est parti précipitamment avec ses affaires",
+        "Il a frappé quelqu'un",
+        "Il a acheté de nouvelles chaussures"
+      ],
+      "correct": 1,
+      "explanation": "Expression familière signifiant partir rapidement en emportant ses affaires."
+    },
+    {
+      "question": "Quel temps convient : <em>Quand il ___, nous sortirons.</em>",
+      "options": [
+        "arrive",
+        "arrivera",
+        "arriverait",
+        "arriverait"
+      ],
+      "correct": 1,
+      "explanation": "Après <em>quand</em> exprimant le futur, on emploie le futur simple en français (contrairement au portugais)."
+    },
+    {
+      "question": "Quelle phrase exprime une hypothèse improbable mais possible ?",
+      "options": [
+        "Si je gagne au loto, j'achèterai une maison.",
+        "Si je gagnais au loto, j'achèterais une maison.",
+        "Si j'avais gagné au loto, j'aurais acheté une maison.",
+        "Quand je gagne au loto, j'achète une maison."
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait, conditionnel présent : hypothèse improbable mais envisageable."
+    },
+    {
+      "question": "Que signifie <strong>épuisement professionnel</strong> dans le texte ?",
+      "options": [
+        "Une démission collective",
+        "Un burn-out, fatigue extrême liée au travail",
+        "Une grève des salariés",
+        "Un manque de personnel"
+      ],
+      "correct": 1,
+      "explanation": "L'épuisement professionnel correspond au burn-out, état de fatigue mentale et physique causé par le travail."
+    },
+    {
+      "question": "Choisissez le bon accord : <em>Les décisions qu'elle a ___ ont surpris tout le monde.</em>",
+      "options": [
+        "pris",
+        "prise",
+        "prises",
+        "prisent"
+      ],
+      "correct": 2,
+      "explanation": "Avec <em>avoir</em>, le participe s'accorde avec le COD placé avant : <em>les décisions</em>, féminin pluriel."
+    }
+  ],
+  "writingPrompt": "Vous habitez en France et constatez un problème récurrent dans votre quartier ou votre ville : difficultés d'accès aux soins médicaux, manque de transports en commun, insalubrité d'un espace public, fermeture de services publics, ou tout autre sujet concret qui affecte la vie quotidienne des habitants. Vous décidez d'écrire une lettre à la rédaction d'un journal local pour proposer qu'une enquête journalistique soit menée sur ce sujet. Dans votre lettre (180-220 mots), présentez-vous brièvement, exposez précisément le problème observé, expliquez pourquoi il mérite une enquête approfondie, et suggérez des pistes concrètes que les journalistes pourraient explorer (témoignages, données à recueillir, responsables à interroger). Adoptez un ton formel et argumenté."
+}

@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Au niveau B2, savoir <strong>argumenter</strong> et <strong>exprimer une opinion nuancée</strong> est essentiel. Le français dispose d'un riche vocabulaire pour structurer une pensée, défendre une position et reconnaître les arguments adverses.</p><p><strong>1. Exprimer son opinion (avec nuances)</strong></p><ul><li><em>Affirmer :</em> je suis convaincu(e) que, je soutiens l'idée que, j'estime que</li><li><em>Nuancer :</em> il me semble que, j'ai tendance à penser que, on pourrait dire que</li><li><em>Douter :</em> je doute que + subjonctif, je ne suis pas certain(e) que + subjonctif</li></ul><p><strong>Piège lusophone :</strong> en portugais, <em>achar que</em> est très courant. En français, <code>je pense que / je trouve que</code> sont à la forme affirmative suivis de l'<strong>indicatif</strong>, mais à la forme négative ou interrogative, on utilise le <strong>subjonctif</strong> : <em>Je ne pense pas qu'il <strong>ait</strong> raison</em>.</p><p><strong>2. Introduire un argument</strong></p><ul><li><em>D'une part... d'autre part</em></li><li><em>Premièrement, deuxièmement, enfin</em></li><li><em>En premier lieu, par ailleurs, de surcroît</em></li></ul><p><strong>3. Concéder et opposer</strong></p><ul><li><em>Certes... mais / néanmoins / toutefois</em></li><li><em>Bien que + subjonctif</em> : <em>Bien qu'il <strong>soit</strong> fatigué, il travaille.</em></li><li><em>Malgré + nom</em> : <em>Malgré la pluie...</em></li></ul><p><strong>4. Exprimer la cause et la conséquence</strong></p><ul><li><em>Cause :</em> parce que, puisque, étant donné que, en raison de</li><li><em>Conséquence :</em> par conséquent, ainsi, c'est pourquoi, de ce fait</li></ul><p><strong>5. Verbes d'opinion (modèle : penser)</strong></p><table><tr><td>je</td><td><strong>pense</strong></td></tr><tr><td>tu</td><td><strong>penses</strong></td></tr><tr><td>il/elle</td><td><strong>pense</strong></td></tr><tr><td>nous</td><td><strong>pensons</strong></td></tr><tr><td>vous</td><td><strong>pensez</strong></td></tr><tr><td>ils/elles</td><td><strong>pensent</strong></td></tr></table><p><strong>Subjonctif présent du verbe </strong><em>être</em> (très utile pour <em>bien que, je ne pense pas que</em>) :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p><strong>Piège :</strong> ne pas confondre <em>en effet</em> (qui confirme) et <em>en fait</em> (qui rectifie ou précise). <em>En revanche</em> marque une opposition, <em>par contre</em> est accepté à l'oral mais critiqué à l'écrit formel.</p>",
+  "examples": [
+    {
+      "sentence": "Je suis convaincu que cette réforme aura des effets positifs à long terme.",
+      "note": "Verbe d'opinion fort suivi de l'indicatif futur."
+    },
+    {
+      "sentence": "Bien que le projet soit ambitieux, il manque de financement.",
+      "note": "Bien que + subjonctif pour concéder."
+    },
+    {
+      "sentence": "Certes, les transports ont progressé, néanmoins beaucoup reste à faire.",
+      "note": "Structure de concession-opposition typique d'un texte argumentatif."
+    },
+    {
+      "sentence": "Je ne pense pas qu'il s'agisse d'une bonne solution.",
+      "note": "Forme négative de penser que = subjonctif (s'agisse)."
+    },
+    {
+      "sentence": "Étant donné la situation économique, cette mesure paraît justifiée.",
+      "note": "Étant donné + nom introduit une cause objective."
+    },
+    {
+      "sentence": "D'une part, le coût est élevé ; d'autre part, les bénéfices restent incertains.",
+      "note": "Structuration claire d'arguments opposés."
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail, généralisé pendant la pandémie, fait aujourd'hui l'objet de débats animés dans les entreprises françaises. Selon une étude récente de la DARES, près de 33% des salariés exercent désormais à distance au moins un jour par semaine. Les partisans de cette organisation soulignent une meilleure conciliation entre vie professionnelle et vie personnelle, une réduction du temps de transport et une productivité parfois accrue. D'une part, les employés économisent en moyenne 1h30 par jour de trajet ; d'autre part, les entreprises réduisent leurs coûts immobiliers.\n\nNéanmoins, les détracteurs ne manquent pas d'arguments. Certains dirigeants estiment que le télétravail nuit à la cohésion d'équipe et freine la créativité collective. Bien que les outils numériques aient considérablement progressé, ils ne remplacent pas, selon eux, les échanges informels qui naissent autour d'une machine à café. Par ailleurs, plusieurs études pointent un risque d'isolement chez les jeunes salariés, qui peinent à construire leur réseau professionnel.\n\nLes syndicats, quant à eux, restent partagés. Ils défendent le droit au télétravail tout en exigeant un cadre légal protecteur : droit à la déconnexion, prise en charge des frais et respect strict des horaires. En effet, certains employés témoignent d'une difficulté croissante à séparer travail et vie privée, ce qui peut entraîner un épuisement professionnel.\n\nFace à ces enjeux contradictoires, la plupart des grandes entreprises optent désormais pour un modèle hybride. Cette solution de compromis semble satisfaire une majorité de salariés, même si elle soulève de nouvelles questions sur l'aménagement des espaces de bureau et l'équité entre collaborateurs.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est unanimement rejeté par les entreprises françaises",
+          "Le télétravail suscite un débat aux arguments contrastés et tend vers un modèle hybride",
+          "Les syndicats français s'opposent radicalement au télétravail",
+          "La pandémie a définitivement mis fin au travail en présentiel"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente les arguments pour et contre et conclut sur le modèle hybride comme compromis."
+      },
+      {
+        "question": "Selon le texte, pourquoi certains dirigeants critiquent-ils le télétravail ?",
+        "options": [
+          "Parce qu'il coûte trop cher aux entreprises",
+          "Parce qu'il réduit la productivité de manière mesurable",
+          "Parce qu'il nuit à la cohésion d'équipe et à la créativité collective",
+          "Parce qu'il est interdit par les syndicats"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique explicitement que les dirigeants critiques évoquent la cohésion d'équipe et la créativité."
+      },
+      {
+        "question": "Que signifie l'expression les détracteurs ne manquent pas d'arguments dans le texte ?",
+        "options": [
+          "Les opposants ont également de nombreuses raisons à avancer",
+          "Les opposants n'ont aucun argument valable",
+          "Les défenseurs perdent leurs arguments",
+          "Les arguments contre ont disparu"
+        ],
+        "correct": 0,
+        "explanation": "Détracteurs = opposants ; ne pas manquer de = avoir beaucoup de."
+      },
+      {
+        "question": "Quelle conclusion peut-on tirer du texte concernant l'évolution du télétravail ?",
+        "options": [
+          "Il va totalement disparaître à court terme",
+          "Il restera majoritairement à temps plein",
+          "Un modèle mixte présentiel-distanciel s'impose progressivement",
+          "Les syndicats imposeront leur vision"
+        ],
+        "correct": 2,
+        "explanation": "Le texte conclut que la plupart des entreprises optent pour un modèle hybride."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la formulation qui exprime une opinion nuancée :",
+      "options": [
+        "C'est évident pour tout le monde",
+        "Il me semble que cette approche mérite d'être étudiée",
+        "Tout le monde sait que c'est faux",
+        "C'est totalement absurde"
+      ],
+      "correct": 1,
+      "explanation": "Il me semble que est une formule typique pour nuancer son opinion."
+    },
+    {
+      "question": "Complétez : Je ne pense pas qu'il ___ raison sur ce point.",
+      "options": [
+        "a",
+        "ait",
+        "aura",
+        "avait"
+      ],
+      "correct": 1,
+      "explanation": "Après je ne pense pas que (forme négative), on emploie le subjonctif : ait."
+    },
+    {
+      "question": "Quel connecteur exprime une concession ?",
+      "options": [
+        "Par conséquent",
+        "Bien que",
+        "C'est pourquoi",
+        "En effet"
+      ],
+      "correct": 1,
+      "explanation": "Bien que introduit une concession et est suivi du subjonctif."
+    },
+    {
+      "question": "Choisissez le bon connecteur : ___ la pluie, la manifestation a eu lieu.",
+      "options": [
+        "Bien que",
+        "Malgré",
+        "Parce que",
+        "Puisque"
+      ],
+      "correct": 1,
+      "explanation": "Malgré est suivi d'un nom ; bien que serait suivi d'un verbe au subjonctif."
+    },
+    {
+      "question": "Quelle expression sert à confirmer une affirmation ?",
+      "options": [
+        "En fait",
+        "En revanche",
+        "En effet",
+        "Au contraire"
+      ],
+      "correct": 2,
+      "explanation": "En effet confirme ; en fait rectifie ou précise."
+    },
+    {
+      "question": "Identifiez l'expression de cause :",
+      "options": [
+        "Par conséquent",
+        "Étant donné que",
+        "Ainsi",
+        "De ce fait"
+      ],
+      "correct": 1,
+      "explanation": "Étant donné que introduit une cause ; les autres expriment la conséquence."
+    },
+    {
+      "question": "Choisissez la formulation la plus appropriée à l'écrit formel :",
+      "options": [
+        "Par contre, je ne suis pas d'accord",
+        "Mais bon, je suis pas d'accord",
+        "En revanche, je ne partage pas cet avis",
+        "Ouais mais non, je trouve pas"
+      ],
+      "correct": 2,
+      "explanation": "En revanche est l'équivalent formel de par contre, préféré à l'écrit."
+    },
+    {
+      "question": "Complétez : ___ il soit jeune, il fait preuve d'une grande maturité.",
+      "options": [
+        "Parce qu'",
+        "Bien qu'",
+        "Puisqu'",
+        "Étant donné qu'"
+      ],
+      "correct": 1,
+      "explanation": "Bien que + subjonctif (soit) exprime la concession."
+    },
+    {
+      "question": "Quel verbe est typique pour défendre une thèse ?",
+      "options": [
+        "Soutenir",
+        "Subir",
+        "Survenir",
+        "Souffrir"
+      ],
+      "correct": 0,
+      "explanation": "Soutenir une idée = la défendre activement dans un argumentaire."
+    },
+    {
+      "question": "Choisissez la structure la plus appropriée pour organiser des arguments :",
+      "options": [
+        "Avant, après, pendant",
+        "D'une part, d'autre part, enfin",
+        "Ici, là-bas, partout",
+        "Hier, aujourd'hui, demain"
+      ],
+      "correct": 1,
+      "explanation": "D'une part... d'autre part... enfin structure clairement une argumentation."
+    }
+  ],
+  "writingPrompt": "Vous habitez en France et votre mairie a récemment annoncé la suppression d'une ligne de bus qui dessert votre quartier, au profit d'une piste cyclable. Vous estimez que cette décision pénalise les habitants âgés et les familles sans voiture. Rédigez une lettre formelle (180-220 mots) au maire de votre commune dans laquelle vous exprimez votre désaccord argumenté. Vous devrez : présenter clairement votre opinion, développer au moins trois arguments structurés (en utilisant des connecteurs comme d'une part, néanmoins, bien que, par conséquent), reconnaître un aspect positif du projet (concession), et proposer une solution alternative concrète. Respectez les formules d'usage d'une lettre formelle (en-tête, formule d'appel, formule de politesse finale).",
+  "vocab": [
+    {
+      "word": "soutenir une thèse",
+      "translation": "defender uma tese",
+      "example": "Dans son article, l'auteur soutient la thèse que l'éducation est la clé du progrès."
+    },
+    {
+      "word": "néanmoins",
+      "translation": "no entanto, contudo",
+      "example": "Le projet est intéressant ; néanmoins, son coût reste préoccupant."
+    },
+    {
+      "word": "concéder",
+      "translation": "conceder, admitir",
+      "example": "Je concède que votre argument est pertinent sur ce point précis."
+    },
+    {
+      "word": "à mon sens",
+      "translation": "a meu ver, na minha opinião",
+      "example": "À mon sens, cette décision aura des conséquences importantes."
+    },
+    {
+      "word": "mettre en évidence",
+      "translation": "evidenciar, destacar",
+      "example": "L'étude met en évidence un lien clair entre pollution et santé publique."
+    },
+    {
+      "word": "réfuter un argument",
+      "translation": "refutar um argumento",
+      "example": "Le candidat a réfuté avec brio les arguments de son adversaire."
+    },
+    {
+      "word": "de surcroît",
+      "translation": "ademais, além disso",
+      "example": "Ce logement est spacieux et, de surcroît, très bien situé."
+    },
+    {
+      "word": "prendre position",
+      "translation": "tomar posição",
+      "example": "Le syndicat a pris position contre la réforme des retraites."
+    }
+  ]
+}

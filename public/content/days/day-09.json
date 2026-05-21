@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le <strong>discours rapporté au passé</strong> permet de rapporter les paroles de quelqu'un en utilisant un verbe introducteur au passé (<em>il a dit, elle a expliqué, j'ai demandé...</em>). Cela entraîne une <strong>concordance des temps</strong> obligatoire.</p><p><strong>1. Transformation des temps</strong></p><table><tr><td>Discours direct</td><td>Discours rapporté</td></tr><tr><td>présent</td><td><strong>imparfait</strong></td></tr><tr><td>passé composé</td><td><strong>plus-que-parfait</strong></td></tr><tr><td>futur simple</td><td><strong>conditionnel présent</strong></td></tr><tr><td>futur antérieur</td><td><strong>conditionnel passé</strong></td></tr><tr><td>imparfait</td><td>imparfait (inchangé)</td></tr><tr><td>plus-que-parfait</td><td>plus-que-parfait (inchangé)</td></tr></table><p>Exemple : Il a dit : <em>Je travaille</em> → Il a dit qu'il <strong>travaillait</strong>.</p><p><strong>2. Verbe introducteur dire à l'imparfait</strong></p><table><tr><td>je</td><td><strong>disais</strong></td></tr><tr><td>tu</td><td><strong>disais</strong></td></tr><tr><td>il/elle</td><td><strong>disait</strong></td></tr><tr><td>nous</td><td><strong>disions</strong></td></tr><tr><td>vous</td><td><strong>disiez</strong></td></tr><tr><td>ils/elles</td><td><strong>disaient</strong></td></tr></table><p><strong>3. Changements de mots interrogatifs et de subordonnants</strong></p><ul><li>question avec <em>est-ce que</em> ou inversion → <strong>si</strong> : Il a demandé <strong>si</strong> j'étais prêt.</li><li><em>qu'est-ce que / que</em> → <strong>ce que</strong> : Elle a demandé <strong>ce que</strong> je faisais.</li><li><em>qu'est-ce qui</em> → <strong>ce qui</strong> : Il voulait savoir <strong>ce qui</strong> se passait.</li><li>mots interrogatifs (où, quand, pourquoi, comment) → inchangés</li></ul><p><strong>4. Changements des marqueurs de temps</strong></p><ul><li>aujourd'hui → <strong>ce jour-là</strong></li><li>hier → <strong>la veille</strong></li><li>demain → <strong>le lendemain</strong></li><li>maintenant → <strong>à ce moment-là</strong></li><li>la semaine prochaine → <strong>la semaine suivante</strong></li></ul><p><strong>Piège pour lusophones :</strong> en portugais, on dit souvent <em>Ele disse que vai vir</em> (il a dit qu'il va venir). En français, après un verbe au passé, on doit obligatoirement passer au <strong>conditionnel</strong> : Il a dit qu'il <strong>viendrait</strong>. Ne gardez jamais le futur après <em>a dit que</em>. Attention aussi à ne pas oublier la conjonction <strong>que</strong>, qui ne se supprime jamais en français, contrairement à l'usage parlé du portugais.</p>",
+  "examples": [
+    {
+      "sentence": "Marie m'a dit qu'elle <strong>était</strong> fatiguée et qu'elle <strong>rentrerait</strong> tôt.",
+      "note": "présent → imparfait, futur → conditionnel présent"
+    },
+    {
+      "sentence": "Le journaliste a expliqué que la grève <strong>avait commencé</strong> la veille.",
+      "note": "passé composé → plus-que-parfait ; hier → la veille"
+    },
+    {
+      "sentence": "Mon chef m'a demandé <strong>si</strong> j'<strong>avais terminé</strong> le dossier.",
+      "note": "question fermée : est-ce que → si ; passé composé → plus-que-parfait"
+    },
+    {
+      "sentence": "Elle voulait savoir <strong>ce que</strong> je <strong>pensais</strong> de sa proposition.",
+      "note": "qu'est-ce que → ce que ; présent → imparfait"
+    },
+    {
+      "sentence": "Il a affirmé qu'il <strong>aurait fini</strong> le projet le lendemain.",
+      "note": "futur antérieur → conditionnel passé ; demain → le lendemain"
+    },
+    {
+      "sentence": "Les voisins ont raconté qu'ils <strong>vivaient</strong> dans cet immeuble depuis vingt ans.",
+      "note": "imparfait reste imparfait (inchangé)"
+    }
+  ],
+  "reading": {
+    "passage": "Lors d'une conférence de presse tenue mardi dernier, la ministre du Travail a annoncé plusieurs mesures destinées à améliorer les conditions d'emploi des jeunes diplômés. Elle a expliqué que le gouvernement avait observé une hausse préoccupante du chômage chez les moins de trente ans depuis le début de l'année. Selon elle, près de 18% des jeunes actifs se trouvaient sans emploi stable, un chiffre qu'elle a qualifié d'alarmant.\n\nLa ministre a précisé que de nouvelles aides financières seraient versées aux entreprises qui embaucheraient des jeunes en contrat à durée indéterminée. Elle a ajouté que ces aides pourraient atteindre 4 000 euros par recrutement, à condition que le poste soit maintenu pendant au moins deux ans. Interrogée sur le financement, elle a répondu que les fonds proviendraient d'une réallocation budgétaire et qu'aucun impôt nouveau ne serait créé.\n\nPlusieurs journalistes ont demandé si les petites entreprises seraient également concernées. La ministre a confirmé que toutes les structures, y compris les TPE de moins de dix salariés, pourraient bénéficier du dispositif. Elle a toutefois reconnu que les démarches administratives restaient parfois complexes et a promis qu'une plateforme simplifiée serait lancée le mois suivant.\n\nLes syndicats, eux, sont restés prudents. Le porte-parole de la CGT a déclaré qu'il attendait de voir les effets concrets avant de se prononcer. Il a rappelé que des annonces similaires avaient déjà été faites par le passé sans produire les résultats escomptés. Selon lui, le véritable enjeu résidait dans la qualité des emplois proposés, et non simplement dans leur nombre.",
+    "questions": [
+      {
+        "question": "Quel est le sujet principal de cet article ?",
+        "options": [
+          "Une réforme des retraites annoncée par le gouvernement",
+          "Des mesures contre le chômage des jeunes diplômés",
+          "Une grève organisée par les syndicats français",
+          "Une augmentation des impôts pour les entreprises"
+        ],
+        "correct": 1,
+        "explanation": "L'article porte sur les mesures gouvernementales pour améliorer l'emploi des jeunes diplômés."
+      },
+      {
+        "question": "Selon la ministre, comment seront financées les nouvelles aides ?",
+        "options": [
+          "Par la création d'un nouvel impôt",
+          "Par un emprunt européen",
+          "Par une réallocation du budget existant",
+          "Par la suppression d'autres aides sociales"
+        ],
+        "correct": 2,
+        "explanation": "La ministre a précisé que les fonds proviendraient d'une réallocation budgétaire, sans nouvel impôt."
+      },
+      {
+        "question": "Quelle est la position des syndicats face à ces annonces ?",
+        "options": [
+          "Ils approuvent totalement les mesures",
+          "Ils rejettent fermement le dispositif",
+          "Ils restent sceptiques et attendent les résultats",
+          "Ils proposent un plan alternatif"
+        ],
+        "correct": 2,
+        "explanation": "Le porte-parole de la CGT a déclaré qu'il attendait de voir les effets concrets, ce qui indique de la prudence."
+      },
+      {
+        "question": "Dans le texte, l'expression chiffre alarmant signifie qu'il est :",
+        "options": [
+          "Encourageant",
+          "Inquiétant",
+          "Stable",
+          "Imprécis"
+        ],
+        "correct": 1,
+        "explanation": "Alarmant signifie qui suscite l'inquiétude, qui préoccupe."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Il m'a dit : Je suis fatigué. → Il m'a dit qu'il ___ fatigué.",
+      "options": [
+        "est",
+        "était",
+        "soit",
+        "serait"
+      ],
+      "correct": 1,
+      "explanation": "Le présent du discours direct devient imparfait au discours rapporté au passé."
+    },
+    {
+      "question": "Elle a annoncé : J'ai trouvé un travail. → Elle a annoncé qu'elle ___ un travail.",
+      "options": [
+        "a trouvé",
+        "avait trouvé",
+        "trouvait",
+        "trouverait"
+      ],
+      "correct": 1,
+      "explanation": "Le passé composé devient plus-que-parfait."
+    },
+    {
+      "question": "Il a promis : Je viendrai demain. → Il a promis qu'il ___ le lendemain.",
+      "options": [
+        "viendra",
+        "venait",
+        "viendrait",
+        "soit venu"
+      ],
+      "correct": 2,
+      "explanation": "Le futur simple devient conditionnel présent ; demain devient le lendemain."
+    },
+    {
+      "question": "Le professeur a demandé : Est-ce que vous avez compris ? → Le professeur a demandé ___ nous avions compris.",
+      "options": [
+        "que",
+        "ce que",
+        "si",
+        "qu'est-ce que"
+      ],
+      "correct": 2,
+      "explanation": "Une question fermée (avec est-ce que) devient si au discours rapporté."
+    },
+    {
+      "question": "Ma mère m'a demandé : Qu'est-ce que tu fais ? → Ma mère m'a demandé ___ je faisais.",
+      "options": [
+        "que",
+        "ce que",
+        "ce qui",
+        "qu'est-ce que"
+      ],
+      "correct": 1,
+      "explanation": "Qu'est-ce que devient ce que au discours indirect."
+    },
+    {
+      "question": "Il a dit : Hier, j'ai vu Paul. → Il a dit que ___, il avait vu Paul.",
+      "options": [
+        "hier",
+        "la veille",
+        "le jour avant",
+        "avant"
+      ],
+      "correct": 1,
+      "explanation": "Hier devient la veille dans le discours rapporté au passé."
+    },
+    {
+      "question": "Elle a expliqué : Je travaillais dans une banque. → Elle a expliqué qu'elle ___ dans une banque.",
+      "options": [
+        "travaille",
+        "travaillait",
+        "avait travaillé",
+        "travaillerait"
+      ],
+      "correct": 1,
+      "explanation": "L'imparfait reste imparfait au discours rapporté."
+    },
+    {
+      "question": "Il a déclaré : Nous aurons terminé avant midi. → Il a déclaré qu'ils ___ avant midi.",
+      "options": [
+        "auraient terminé",
+        "avaient terminé",
+        "termineraient",
+        "ont terminé"
+      ],
+      "correct": 0,
+      "explanation": "Le futur antérieur devient conditionnel passé."
+    },
+    {
+      "question": "Le directeur voulait savoir ___ se passait dans le service.",
+      "options": [
+        "qu'est-ce qui",
+        "ce que",
+        "ce qui",
+        "qui est-ce que"
+      ],
+      "correct": 2,
+      "explanation": "Qu'est-ce qui (sujet) devient ce qui au discours rapporté."
+    },
+    {
+      "question": "Choisissez la phrase correcte au discours rapporté :",
+      "options": [
+        "Il a dit qu'il va partir demain.",
+        "Il a dit qu'il partira le lendemain.",
+        "Il a dit qu'il partirait le lendemain.",
+        "Il a dit qu'il parte le lendemain."
+      ],
+      "correct": 2,
+      "explanation": "Après un verbe introducteur au passé, le futur devient conditionnel ; demain devient le lendemain."
+    }
+  ],
+  "writingPrompt": "Vous êtes client chez un opérateur téléphonique français depuis trois ans. Le mois dernier, vous avez constaté des prélèvements bancaires injustifiés sur votre compte (frais supplémentaires non prévus dans votre contrat). Vous avez contacté le service client à plusieurs reprises par téléphone, mais les conseillers vous ont donné des informations contradictoires et le problème n'a pas été résolu. Rédigez une lettre de réclamation formelle (180-220 mots) adressée au service réclamations. Vous devez : exposer clairement les faits en rapportant ce que les différents conseillers vous ont dit (utilisez le discours rapporté au passé), expliquer le préjudice subi, et demander une solution concrète (remboursement, geste commercial, résiliation). Respectez les formules d'usage d'une lettre formelle.",
+  "vocab": [
+    {
+      "word": "affirmer",
+      "translation": "afirmar, declarar",
+      "example": "Le témoin a affirmé qu'il avait vu l'accident."
+    },
+    {
+      "word": "prétendre",
+      "translation": "alegar, pretender (afirmar sem provas)",
+      "example": "Il prétendait qu'il n'était pas au courant de la situation."
+    },
+    {
+      "word": "reconnaître",
+      "translation": "reconhecer, admitir",
+      "example": "Le ministre a reconnu que les résultats étaient décevants."
+    },
+    {
+      "word": "préciser",
+      "translation": "esclarecer, especificar",
+      "example": "Elle a précisé que la réunion aurait lieu le lendemain."
+    },
+    {
+      "word": "souligner",
+      "translation": "sublinhar, salientar",
+      "example": "Le rapport souligne que des efforts restent à faire."
+    },
+    {
+      "word": "la veille",
+      "translation": "a véspera, o dia anterior",
+      "example": "Il a raconté qu'il était arrivé la veille au soir."
+    },
+    {
+      "word": "le lendemain",
+      "translation": "o dia seguinte",
+      "example": "Elle a promis qu'elle rappellerait le lendemain matin."
+    },
+    {
+      "word": "à l'époque",
+      "translation": "naquela época",
+      "example": "Il a expliqué qu'à l'époque, il habitait encore à Lyon."
+    }
+  ]
+}

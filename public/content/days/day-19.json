@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le <strong>vocabulaire de la vie professionnelle</strong> est essentiel au TCF, car de nombreuses questions portent sur le travail, l'entreprise et les démarches administratives liées à l'emploi.</p><p><strong>1. Les statuts professionnels</strong></p><ul><li><strong>un salarié</strong> (employé avec contrat) / <strong>un indépendant</strong> ou <strong>un travailleur autonome</strong></li><li><strong>un fonctionnaire</strong> (agent de l'État)</li><li><strong>un cadre</strong> (poste à responsabilités) / <strong>un employé</strong></li><li><strong>un stagiaire</strong>, <strong>un apprenti</strong>, <strong>un intérimaire</strong></li><li><strong>un demandeur d'emploi</strong> (au chômage)</li></ul><p><strong>2. Les contrats et la rémunération</strong></p><ul><li><strong>un CDI</strong> (contrat à durée indéterminée) / <strong>un CDD</strong> (durée déterminée)</li><li><strong>le salaire brut / net</strong>, <strong>une prime</strong>, <strong>une augmentation</strong></li><li><strong>les congés payés</strong>, <strong>un arrêt maladie</strong></li></ul><p><strong>3. Le parcours professionnel</strong></p><ul><li><strong>postuler à</strong> une offre, <strong>déposer sa candidature</strong></li><li><strong>passer un entretien d'embauche</strong></li><li><strong>être embauché</strong> / <strong>être licencié</strong> / <strong>démissionner</strong></li><li><strong>une promotion</strong>, <strong>une reconversion professionnelle</strong></li></ul><p><strong>4. Pièges classiques pour lusophones</strong></p><p>Attention aux faux-amis et calques du portugais :</p><table><tr><td><em>empresa</em></td><td>→ <strong>une entreprise</strong> (pas <em>une emprise</em>)</td></tr><tr><td><em>patrão</em></td><td>→ <strong>un patron</strong> / <strong>un employeur</strong></td></tr><tr><td><em>currículo</em></td><td>→ <strong>un CV</strong> (curriculum vitae)</td></tr><tr><td><em>desempregado</em></td><td>→ <strong>au chômage</strong> (pas <em>desemployé</em>)</td></tr><tr><td><em>estágio</em></td><td>→ <strong>un stage</strong> (pas <em>un stade</em>, qui est sportif !)</td></tr><tr><td><em>formação</em></td><td>→ <strong>une formation</strong></td></tr></table><p><strong>5. Verbe clé : <em>embaucher</em></strong> (au présent)</p><table><tr><td>j'</td><td><strong>embauche</strong></td></tr><tr><td>tu</td><td><strong>embauches</strong></td></tr><tr><td>il/elle</td><td><strong>embauche</strong></td></tr><tr><td>nous</td><td><strong>embauchons</strong></td></tr><tr><td>vous</td><td><strong>embauchez</strong></td></tr><tr><td>ils/elles</td><td><strong>embauchent</strong></td></tr></table><p><strong>6. Expressions utiles</strong> : <em>faire ses preuves</em>, <em>monter en compétences</em>, <em>décrocher un poste</em>, <em>toucher un salaire</em>, <em>être en télétravail</em>, <em>avoir un entretien annuel</em>. Ces expressions reviennent souvent dans la presse économique et les offres d'emploi.</p>",
+  "examples": [
+    {
+      "sentence": "Après trois entretiens, elle a enfin décroché un poste de chef de projet en CDI.",
+      "note": "<em>décrocher un poste</em> = obtenir un emploi (langage courant)"
+    },
+    {
+      "sentence": "Mon collègue est en arrêt maladie depuis deux semaines, je dois reprendre ses dossiers.",
+      "note": "<em>arrêt maladie</em> = absence justifiée par un médecin"
+    },
+    {
+      "sentence": "Beaucoup de salariés français font du télétravail au moins deux jours par semaine.",
+      "note": "<em>télétravail</em> est un faux-ami : travailler à distance, pas <em>teletrabalho</em> seulement"
+    },
+    {
+      "sentence": "Il a démissionné de son ancien poste pour entamer une reconversion dans l'artisanat.",
+      "note": "<em>démissionner</em> = quitter volontairement ; <em>reconversion</em> = changer de métier"
+    },
+    {
+      "sentence": "L'entreprise a licencié dix employés pour motif économique.",
+      "note": "<em>licencier</em> = renvoyer (initiative de l'employeur), à ne pas confondre avec <em>demitir</em>"
+    },
+    {
+      "sentence": "Le salaire net correspond à environ 78 % du salaire brut en France.",
+      "note": "Distinction <em>brut</em>/<em>net</em> incontournable pour parler de rémunération"
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail s'est durablement installé dans le paysage professionnel français. Selon une étude récente de la Dares, près de 30 % des salariés français pratiquent le télétravail au moins une journée par semaine, contre seulement 4 % avant la pandémie de 2020. Cette transformation profonde du monde du travail n'est pas sans conséquences. D'un côté, les employés saluent une meilleure conciliation entre vie professionnelle et vie personnelle, moins de fatigue liée aux transports, et une concentration accrue pour les tâches de fond. De l'autre, les directions des ressources humaines s'inquiètent d'un affaiblissement du collectif de travail, d'une baisse de la créativité collective et de difficultés à intégrer les nouveaux embauchés, notamment les stagiaires et les apprentis. Les syndicats, eux, dénoncent l'apparition d'un droit à la déconnexion souvent mal respecté : de nombreux cadres avouent consulter leurs courriels professionnels le soir ou le week-end. Certaines entreprises ont mis en place des chartes encadrant les horaires de travail à distance, voire bloquant techniquement les serveurs en dehors des heures ouvrables. Le débat reste vif sur le nombre de jours autorisés. Si certains employeurs imposent un retour à trois jours minimum au bureau, d'autres, notamment dans le secteur du numérique, proposent un télétravail intégral. Les économistes soulignent enfin un effet inattendu : la désertion progressive des grands centres urbains au profit des villes moyennes, où les salariés peuvent acheter un logement plus spacieux tout en conservant un poste qualifié.",
+    "questions": [
+      {
+        "question": "Quel est le sujet principal du texte ?",
+        "options": [
+          "L'évolution et les enjeux du télétravail en France",
+          "La pandémie de 2020 et ses conséquences sanitaires",
+          "Le rôle des syndicats français dans l'entreprise",
+          "La crise immobilière dans les grandes villes"
+        ],
+        "correct": 0,
+        "explanation": "Le texte traite globalement de l'installation durable du télétravail et de ses conséquences variées."
+      },
+      {
+        "question": "Selon le texte, quelle inquiétude exprime la direction des ressources humaines ?",
+        "options": [
+          "Le coût élevé du télétravail pour l'entreprise",
+          "L'affaiblissement du collectif et l'intégration des nouveaux arrivants",
+          "Le manque de productivité des salariés à domicile",
+          "La hausse des salaires demandée par les employés"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement l'affaiblissement du collectif et la difficulté d'intégrer stagiaires et apprentis."
+      },
+      {
+        "question": "Que signifie l'expression droit à la déconnexion dans le texte ?",
+        "options": [
+          "Le droit de refuser un emploi à distance",
+          "Le droit de se déconnecter d'internet à la maison",
+          "Le droit de ne pas être joignable en dehors des heures de travail",
+          "Le droit de changer d'entreprise librement"
+        ],
+        "correct": 2,
+        "explanation": "Le contexte (cadres consultant leurs courriels le soir) montre qu'il s'agit du droit de ne pas être sollicité hors temps de travail."
+      },
+      {
+        "question": "Quel effet inattendu du télétravail est mentionné par les économistes ?",
+        "options": [
+          "Une augmentation du chômage chez les cadres",
+          "Un déplacement de population vers les villes moyennes",
+          "Une fermeture massive des bureaux d'entreprise",
+          "Une baisse générale des salaires qualifiés"
+        ],
+        "correct": 1,
+        "explanation": "Le texte évoque la désertion des grands centres urbains au profit des villes moyennes."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quel terme désigne un contrat de travail sans date de fin prévue ?",
+      "options": [
+        "un CDD",
+        "un CDI",
+        "un stage",
+        "un intérim"
+      ],
+      "correct": 1,
+      "explanation": "Le CDI (contrat à durée indéterminée) est un contrat sans date de fin."
+    },
+    {
+      "question": "Marie a quitté son emploi de sa propre initiative. On dit qu'elle a...",
+      "options": [
+        "été licenciée",
+        "démissionné",
+        "été embauchée",
+        "été promue"
+      ],
+      "correct": 1,
+      "explanation": "<em>Démissionner</em> = quitter volontairement son poste. <em>Licencier</em> est à l'initiative de l'employeur."
+    },
+    {
+      "question": "Le montant que le salarié reçoit réellement après cotisations s'appelle le salaire...",
+      "options": [
+        "brut",
+        "net",
+        "minimum",
+        "fixe"
+      ],
+      "correct": 1,
+      "explanation": "Le salaire <em>net</em> est ce que touche effectivement le salarié ; le salaire <em>brut</em> est avant déductions."
+    },
+    {
+      "question": "Pour répondre à une offre d'emploi, on dit...",
+      "options": [
+        "postuler à une offre",
+        "poster une offre",
+        "posséder une offre",
+        "proposer une offre"
+      ],
+      "correct": 0,
+      "explanation": "<em>Postuler à</em> (ou <em>pour</em>) une offre = envoyer sa candidature."
+    },
+    {
+      "question": "Quel mot français correspond au portugais <em>estágio</em> ?",
+      "options": [
+        "un stade",
+        "un état",
+        "un stage",
+        "un étage"
+      ],
+      "correct": 2,
+      "explanation": "<em>Un stage</em> = période de formation pratique en entreprise. <em>Un stade</em> est sportif !"
+    },
+    {
+      "question": "Une personne qui change complètement de métier fait une...",
+      "options": [
+        "promotion",
+        "augmentation",
+        "reconversion professionnelle",
+        "démission"
+      ],
+      "correct": 2,
+      "explanation": "La <em>reconversion professionnelle</em> désigne le changement de domaine d'activité."
+    },
+    {
+      "question": "Quel terme désigne une personne sans emploi inscrite à France Travail ?",
+      "options": [
+        "un retraité",
+        "un démissionnaire",
+        "un demandeur d'emploi",
+        "un licencié"
+      ],
+      "correct": 2,
+      "explanation": "<em>Demandeur d'emploi</em> est le terme officiel pour une personne au chômage cherchant du travail."
+    },
+    {
+      "question": "Complétez : Notre directrice <em>____</em> trois nouveaux collaborateurs ce mois-ci.",
+      "options": [
+        "embauche",
+        "embauches",
+        "embauchons",
+        "embauchent"
+      ],
+      "correct": 0,
+      "explanation": "Sujet singulier (<em>notre directrice</em>) → <em>elle embauche</em>."
+    },
+    {
+      "question": "Que signifie l'expression <em>faire ses preuves</em> au travail ?",
+      "options": [
+        "Démontrer ses compétences",
+        "Passer un examen écrit",
+        "Signer son contrat",
+        "Prendre des congés"
+      ],
+      "correct": 0,
+      "explanation": "<em>Faire ses preuves</em> = montrer concrètement sa valeur et ses capacités."
+    },
+    {
+      "question": "Dans une entreprise, un <em>cadre</em> désigne...",
+      "options": [
+        "un employé débutant",
+        "un travailleur manuel",
+        "un salarié à poste de responsabilité",
+        "un stagiaire en formation"
+      ],
+      "correct": 2,
+      "explanation": "Un <em>cadre</em> est un salarié occupant un poste de responsabilité ou d'encadrement."
+    }
+  ],
+  "writingPrompt": "Vous décidez d'écrire une lettre à un ancien professeur ou mentor qui a profondément marqué votre parcours professionnel ou personnel. Aujourd'hui installé(e) en France, vous voulez lui raconter ce que vous êtes devenu(e), les choix professionnels que vous avez faits depuis votre départ du Brésil (formation suivie, emploi actuel ou recherché, projets de reconversion éventuels) et expliquer en quoi son enseignement ou ses conseils continuent de vous guider dans votre vie active en France. Vous évoquerez également les difficultés rencontrées dans le monde du travail français (codes culturels, vocabulaire administratif, intégration professionnelle) et terminerez par un remerciement sincère. Rédigez cette lettre dans un registre soutenu et personnel (180-220 mots).",
+  "vocab": [
+    {
+      "word": "embaucher",
+      "translation": "contratar",
+      "example": "L'entreprise prévoit d'embaucher cinq ingénieurs avant la fin de l'année."
+    },
+    {
+      "word": "un entretien d'embauche",
+      "translation": "uma entrevista de emprego",
+      "example": "J'ai un entretien d'embauche jeudi matin chez un cabinet d'avocats."
+    },
+    {
+      "word": "licencier",
+      "translation": "demitir",
+      "example": "L'usine a dû licencier une partie de son personnel après la fusion."
+    },
+    {
+      "word": "démissionner",
+      "translation": "pedir demissão",
+      "example": "Il a démissionné pour créer sa propre start-up."
+    },
+    {
+      "word": "un cadre",
+      "translation": "executivo, gerente",
+      "example": "Les cadres bénéficient souvent d'une voiture de fonction."
+    },
+    {
+      "word": "une prime",
+      "translation": "um bônus, gratificação",
+      "example": "Chaque fin d'année, les employés reçoivent une prime liée aux résultats."
+    },
+    {
+      "word": "le télétravail",
+      "translation": "trabalho remoto",
+      "example": "Le télétravail permet d'éviter les longs trajets quotidiens."
+    },
+    {
+      "word": "une reconversion",
+      "translation": "uma reconversão profissional",
+      "example": "Après vingt ans dans la finance, elle a entamé une reconversion comme boulangère."
+    }
+  ]
+}

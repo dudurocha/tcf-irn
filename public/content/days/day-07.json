@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Bienvenue dans cette <strong>révision de la première semaine</strong>. Nous avons étudié les bases solides du français B2 : le présent de l'indicatif (verbes réguliers et irréguliers), les articles, les accords, les pronoms personnels, les temps du passé (passé composé vs imparfait), et le futur simple. Aujourd'hui, consolidons l'essentiel.</p><p><strong>1. Présent vs Passé composé vs Imparfait</strong> — Piège lusophone : en portugais, le <em>pretérito perfeito</em> couvre souvent ce que le français exprime avec deux temps distincts. Le <strong>passé composé</strong> exprime une action ponctuelle terminée ; l'<strong>imparfait</strong> décrit un état, une habitude, un décor.</p><p>Conjugaison du verbe <strong>être</strong> (irrégulier essentiel) :</p><table><tr><td>je</td><td><strong>suis</strong></td></tr><tr><td>tu</td><td><strong>es</strong></td></tr><tr><td>il/elle</td><td><strong>est</strong></td></tr><tr><td>nous</td><td><strong>sommes</strong></td></tr><tr><td>vous</td><td><strong>êtes</strong></td></tr><tr><td>ils/elles</td><td><strong>sont</strong></td></tr></table><p>Verbe <strong>avoir</strong> au présent :</p><table><tr><td>j'</td><td><strong>ai</strong></td></tr><tr><td>tu</td><td><strong>as</strong></td></tr><tr><td>il/elle</td><td><strong>a</strong></td></tr><tr><td>nous</td><td><strong>avons</strong></td></tr><tr><td>vous</td><td><strong>avez</strong></td></tr><tr><td>ils/elles</td><td><strong>ont</strong></td></tr></table><p>Verbe <strong>aller</strong> à l'imparfait (très utile pour décrire des habitudes passées) :</p><table><tr><td>j'</td><td><strong>allais</strong></td></tr><tr><td>tu</td><td><strong>allais</strong></td></tr><tr><td>il/elle</td><td><strong>allait</strong></td></tr><tr><td>nous</td><td><strong>allions</strong></td></tr><tr><td>vous</td><td><strong>alliez</strong></td></tr><tr><td>ils/elles</td><td><strong>allaient</strong></td></tr></table><p><strong>2. Articles et accords</strong> — Attention aux articles partitifs (<em>du, de la, des</em>) absents du portugais. <code>Je mange du pain</code> ≠ <code>Eu como pão</code>. Le français exige le partitif devant une quantité indéterminée.</p><p><strong>3. Pronoms COD/COI</strong> — <em>Le, la, les</em> (COD) ; <em>lui, leur</em> (COI). Placement avant le verbe : <code>Je lui parle</code> (et non <em>je parle à lui</em>).</p><p><strong>4. Futur simple</strong> — Radical = infinitif + terminaisons (-ai, -as, -a, -ons, -ez, -ont). Pour les verbes irréguliers, le radical change (<em>aller → ir-</em>, <em>être → ser-</em>, <em>avoir → aur-</em>).</p><p><strong>5. Compréhension écrite (B2)</strong> — Lisez d'abord les questions, puis le texte. Repérez les connecteurs logiques (<em>cependant, néanmoins, en revanche, par conséquent</em>) qui structurent l'argumentation.</p><p><strong>Conseil :</strong> ne traduisez pas mentalement du portugais. Pensez directement en français pour éviter les calques.</p>",
+  "examples": [
+    {
+      "sentence": "Quand j'étais étudiant à São Paulo, j'allais souvent à la bibliothèque ; un jour, j'ai rencontré ma future femme.",
+      "note": "Imparfait pour l'habitude/décor, passé composé pour l'événement ponctuel."
+    },
+    {
+      "sentence": "Nous sommes arrivés en France il y a trois ans et nous nous y plaisons beaucoup.",
+      "note": "Passé composé avec être (verbe de mouvement) + accord du participe."
+    },
+    {
+      "sentence": "Je lui ai dit la vérité hier, mais il ne m'a pas cru.",
+      "note": "Pronoms COI (lui) et COD (m') placés avant le verbe auxiliaire."
+    },
+    {
+      "sentence": "Si tout va bien, nous déménagerons à Lyon l'année prochaine.",
+      "note": "Futur simple régulier : déménager + -ons."
+    },
+    {
+      "sentence": "Voulez-vous du café ou préférez-vous de l'eau ?",
+      "note": "Articles partitifs obligatoires devant les quantités indéterminées."
+    },
+    {
+      "sentence": "Les enfants étaient fatigués parce qu'ils avaient marché toute la journée.",
+      "note": "Imparfait + plus-que-parfait pour exprimer l'antériorité dans le passé."
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail s'est imposé en France comme une nouvelle norme depuis la pandémie de Covid-19. Selon une étude récente de la DARES, près de 33% des salariés français pratiquaient le télétravail au moins un jour par semaine en 2023, contre seulement 4% en 2019. Cette transformation profonde du monde professionnel soulève cependant de nombreuses questions.\n\nLes partisans du télétravail mettent en avant ses avantages : gain de temps lié à la suppression des trajets, meilleur équilibre entre vie privée et vie professionnelle, économies sur les frais de transport et de restauration. Les entreprises, de leur côté, y voient une opportunité de réduire les coûts immobiliers et d'attirer des talents au-delà des grandes métropoles.\n\nNéanmoins, les critiques se multiplient. Les syndicats dénoncent un risque d'isolement social, une porosité accrue entre vie professionnelle et vie personnelle, ainsi qu'une difficulté pour les jeunes salariés à apprendre leur métier à distance. Par ailleurs, certains dirigeants estiment que le télétravail nuit à la créativité collective et affaiblit la culture d'entreprise.\n\nLes commerçants des centres-villes, eux, déplorent une baisse significative de leur chiffre d'affaires les jours de télétravail massif, en particulier le lundi et le vendredi. Les transports en commun connaissent également une baisse de fréquentation qui inquiète les autorités.\n\nFace à ces enjeux contradictoires, le gouvernement français réfléchit à un cadre légal plus précis. Plusieurs entreprises ont déjà imposé un minimum de trois jours de présence hebdomadaire sur site. Le débat ne fait que commencer.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est universellement apprécié en France",
+          "Le télétravail transforme le monde du travail mais suscite des débats",
+          "Les Français refusent massivement le télétravail",
+          "Le gouvernement a interdit le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente à la fois les avantages et les inconvénients du télétravail, soulignant un débat en cours."
+      },
+      {
+        "question": "Selon le texte, quel pourcentage de salariés télétravaillait en 2019 ?",
+        "options": [
+          "33%",
+          "4%",
+          "13%",
+          "23%"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique clairement que seulement 4% des salariés pratiquaient le télétravail en 2019."
+      },
+      {
+        "question": "Pourquoi les commerçants des centres-villes sont-ils mécontents ?",
+        "options": [
+          "Parce que les loyers ont augmenté",
+          "Parce que leurs employés télétravaillent",
+          "Parce qu'ils perdent des clients les jours de télétravail",
+          "Parce que les transports sont saturés"
+        ],
+        "correct": 2,
+        "explanation": "Le texte précise qu'ils déplorent une baisse de chiffre d'affaires les jours de télétravail massif."
+      },
+      {
+        "question": "Dans le texte, que signifie l'expression porosité accrue entre vie professionnelle et vie personnelle ?",
+        "options": [
+          "Une séparation plus nette entre les deux",
+          "Un mélange de plus en plus important entre les deux",
+          "Une diminution du temps de travail",
+          "Un meilleur équilibre des deux"
+        ],
+        "correct": 1,
+        "explanation": "Porosité accrue signifie que la frontière devient plus perméable, donc que les deux sphères se mélangent davantage."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Hier soir, je ___ très fatigué quand je ___ à la maison.",
+      "options": [
+        "étais / suis rentré",
+        "ai été / rentrais",
+        "étais / rentrais",
+        "suis été / suis rentré"
+      ],
+      "correct": 0,
+      "explanation": "Imparfait pour l'état (étais fatigué) + passé composé pour l'action ponctuelle (suis rentré)."
+    },
+    {
+      "question": "Complétez : Voulez-vous ___ thé ou préférez-vous ___ café ?",
+      "options": [
+        "le / le",
+        "du / du",
+        "un / un",
+        "de / de"
+      ],
+      "correct": 1,
+      "explanation": "Articles partitifs du devant des noms massifs indéterminés."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison de aller au futur simple, 1re personne du pluriel ?",
+      "options": [
+        "nous allerons",
+        "nous irons",
+        "nous allons",
+        "nous irions"
+      ],
+      "correct": 1,
+      "explanation": "Aller est irrégulier au futur : radical ir- + terminaison -ons."
+    },
+    {
+      "question": "Choisissez le pronom correct : Marie a téléphoné à ses parents. Elle ___ a annoncé la nouvelle.",
+      "options": [
+        "les",
+        "leur",
+        "lui",
+        "y"
+      ],
+      "correct": 1,
+      "explanation": "Téléphoner à quelqu'un = COI au pluriel = leur."
+    },
+    {
+      "question": "Identifiez la phrase correcte.",
+      "options": [
+        "Je l'ai vu hier au marché",
+        "Je ai vu lui hier au marché",
+        "Je vu l'ai hier au marché",
+        "J'ai le vu hier au marché"
+      ],
+      "correct": 0,
+      "explanation": "Le pronom COD (l') se place avant l'auxiliaire avoir au passé composé."
+    },
+    {
+      "question": "Complétez : Quand j'étais petit, je ___ tous les dimanches chez ma grand-mère.",
+      "options": [
+        "suis allé",
+        "allais",
+        "irai",
+        "vais"
+      ],
+      "correct": 1,
+      "explanation": "Habitude dans le passé = imparfait."
+    },
+    {
+      "question": "Choisissez la bonne forme du verbe avoir : Vous ___ raison de protester.",
+      "options": [
+        "avez",
+        "êtes",
+        "ont",
+        "as"
+      ],
+      "correct": 0,
+      "explanation": "Avoir raison, conjugué avec vous = avez."
+    },
+    {
+      "question": "Quelle phrase contient une erreur d'accord ?",
+      "options": [
+        "Les fleurs que j'ai achetées sont magnifiques",
+        "Elle est partie très tôt ce matin",
+        "Les livres que j'ai lu étaient passionnants",
+        "Nous nous sommes promenés dans le parc"
+      ],
+      "correct": 2,
+      "explanation": "Accord du participe passé avec COD antéposé : que (= les livres) déclenche l'accord : lus."
+    },
+    {
+      "question": "Complétez avec le bon connecteur logique : Le télétravail offre de la flexibilité ; ___, il peut créer un sentiment d'isolement.",
+      "options": [
+        "par conséquent",
+        "cependant",
+        "ainsi",
+        "en effet"
+      ],
+      "correct": 1,
+      "explanation": "Cependant introduit une opposition entre les deux idées."
+    },
+    {
+      "question": "Mettez au futur simple : Demain, nous ___ (être) à Paris pour une réunion importante.",
+      "options": [
+        "sommes",
+        "étions",
+        "serons",
+        "serions"
+      ],
+      "correct": 2,
+      "explanation": "Futur simple du verbe être, 1re personne du pluriel = serons."
+    }
+  ],
+  "writingPrompt": "Vous êtes lecteur régulier d'un grand quotidien français (par exemple Le Monde ou Libération). Vous remarquez qu'un sujet important concernant la vie quotidienne dans votre ville ou votre région n'est pas suffisamment traité par les médias : par exemple, les difficultés d'accès aux soins médicaux, la gentrification d'un quartier, l'impact du télétravail sur le commerce local, ou les problèmes de logement étudiant. Écrivez une lettre formelle (180 à 220 mots) à la rédaction du journal pour proposer un sujet d'enquête approfondie. Présentez-vous brièvement, exposez clairement le sujet que vous proposez, expliquez pourquoi il mérite l'attention des journalistes, donnez deux ou trois exemples concrets observés autour de vous, et suggérez des angles d'approche ou des personnes à interviewer. Utilisez un ton respectueux mais convaincant, et soignez la structure (formule d'appel, introduction, développement, conclusion, formule de politesse).",
+  "vocab": [
+    {
+      "word": "déplorer",
+      "translation": "lamentar, deplorar",
+      "example": "Les commerçants déplorent la baisse de leur chiffre d'affaires."
+    },
+    {
+      "word": "le chiffre d'affaires",
+      "translation": "o faturamento",
+      "example": "Le chiffre d'affaires de l'entreprise a chuté de 20% cette année."
+    },
+    {
+      "word": "néanmoins",
+      "translation": "no entanto, contudo",
+      "example": "Le projet est ambitieux ; néanmoins, il reste réalisable."
+    },
+    {
+      "word": "soulever une question",
+      "translation": "levantar uma questão",
+      "example": "Cette réforme soulève de nombreuses questions éthiques."
+    },
+    {
+      "word": "le cadre légal",
+      "translation": "o quadro legal",
+      "example": "Le gouvernement souhaite renforcer le cadre légal du télétravail."
+    },
+    {
+      "word": "la porosité",
+      "translation": "a porosidade, a permeabilidade",
+      "example": "La porosité entre vie privée et travail devient préoccupante."
+    },
+    {
+      "word": "mettre en avant",
+      "translation": "destacar, ressaltar",
+      "example": "Le candidat met en avant son expérience à l'étranger."
+    },
+    {
+      "word": "un enjeu",
+      "translation": "um desafio, uma questão importante",
+      "example": "La transition écologique est un enjeu majeur pour notre génération."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Le télétravail, devenu massif pendant la crise sanitaire, s'est durablement installé dans le paysage professionnel français. Selon une étude récente de la DARES, près d'un salarié sur trois pratique aujourd'hui le travail à distance au moins un jour par semaine, contre seulement 4 % avant 2020. Cette mutation, saluée par beaucoup pour la souplesse qu'elle procure, soulève pourtant des questions de fond que les entreprises peinent encore à trancher.\n\nLes partisans du télétravail mettent en avant le gain de temps lié à l'absence de trajets, une meilleure conciliation entre vie privée et vie professionnelle, ainsi qu'une productivité parfois accrue sur les tâches exigeant de la concentration. Plusieurs études concordent : les salariés concernés se déclarent globalement plus satisfaits de leurs conditions de travail. Certaines entreprises y voient aussi l'occasion de réduire leurs coûts immobiliers en repensant leurs locaux.\n\nCependant, les revers de la médaille sont nombreux. Les managers signalent un affaiblissement du collectif, une perte de transmission informelle des savoirs entre collègues, et des difficultés croissantes à intégrer les nouveaux arrivants. Les jeunes diplômés, en particulier, regrettent l'absence de mentorat spontané qu'offrait le bureau. Sur le plan psychologique, l'isolement et le brouillage des frontières entre sphère professionnelle et sphère personnelle inquiètent les médecins du travail, qui constatent une hausse des risques psychosociaux.\n\nLe législateur tente de poser des garde-fous : droit à la déconnexion, accords d'entreprise obligatoires, prise en charge partielle des frais. Mais l'application reste très inégale selon les secteurs et la taille des structures. Dans les PME, beaucoup de salariés bénéficient encore de dispositifs flous, parfois oraux.\n\nAu-delà du confort individuel, c'est bien le sens du travail collectif qui est en jeu. Trouver un équilibre entre flexibilité et cohésion constituera, sans doute, l'un des défis majeurs du management dans les années à venir.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail doit être interdit dans les grandes entreprises",
+          "Le télétravail s'est installé durablement mais soulève des défis à résoudre",
+          "Le télétravail a totalement disparu après la crise sanitaire",
+          "Le télétravail concerne uniquement les cadres parisiens"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente le télétravail comme une mutation durable accompagnée de bénéfices et de difficultés."
+      },
+      {
+        "question": "Selon le texte, quel est un inconvénient majeur identifié par les managers ?",
+        "options": [
+          "Une baisse mesurée de la productivité individuelle",
+          "Une augmentation des coûts immobiliers",
+          "Une perte de transmission informelle entre collègues",
+          "Un refus systématique des jeunes diplômés"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement la perte de transmission informelle des savoirs comme préoccupation des managers."
+      },
+      {
+        "question": "Que signifie l'expression <em>les revers de la médaille</em> dans le texte ?",
+        "options": [
+          "Les avantages cachés",
+          "Les aspects négatifs",
+          "Les récompenses obtenues",
+          "Les solutions trouvées"
+        ],
+        "correct": 1,
+        "explanation": "L'expression idiomatique <em>revers de la médaille</em> désigne les inconvénients d'une situation par ailleurs positive."
+      },
+      {
+        "question": "Que peut-on déduire à propos des PME ?",
+        "options": [
+          "Elles appliquent strictement la législation sur le télétravail",
+          "Elles ont supprimé toute forme de télétravail",
+          "Elles présentent souvent des cadres juridiques imprécis",
+          "Elles ont les meilleurs accords d'entreprise"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique que dans les PME, les dispositifs sont souvent flous, parfois seulement oraux."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Complétez : Si j'avais su que la grève durerait, je <strong>...</strong> mon trajet autrement.",
+      "options": [
+        "organiserais",
+        "aurais organisé",
+        "organisais",
+        "ai organisé"
+      ],
+      "correct": 1,
+      "explanation": "Avec <em>si</em> + plus-que-parfait, on emploie le conditionnel passé dans la principale."
+    },
+    {
+      "question": "Quel mot est le synonyme le plus précis de <strong>réticent</strong> ?",
+      "options": [
+        "Enthousiaste",
+        "Hésitant",
+        "Compétent",
+        "Indifférent"
+      ],
+      "correct": 1,
+      "explanation": "<em>Réticent</em> signifie hésitant, peu disposé à faire quelque chose."
+    },
+    {
+      "question": "Choisissez le connecteur adéquat : Les transports étaient bondés, <strong>...</strong> il est arrivé à l'heure à son rendez-vous.",
+      "options": [
+        "par conséquent",
+        "néanmoins",
+        "en effet",
+        "c'est-à-dire"
+      ],
+      "correct": 1,
+      "explanation": "<em>Néanmoins</em> exprime une opposition adaptée au contraste entre transports bondés et arrivée à l'heure."
+    },
+    {
+      "question": "Dans quelle situation entendrait-on : <em>Je vous mets en relation avec le service concerné, ne quittez pas</em> ?",
+      "options": [
+        "Lors d'un entretien d'embauche",
+        "Au téléphone avec une administration",
+        "Dans un commerce de proximité",
+        "À un guichet de banque"
+      ],
+      "correct": 1,
+      "explanation": "Cette formule typique appartient au registre téléphonique, notamment dans les standards administratifs."
+    },
+    {
+      "question": "Choisissez la forme correcte : Les démarches qu'elle a <strong>...</strong> ont abouti rapidement.",
+      "options": [
+        "entrepris",
+        "entreprise",
+        "entreprises",
+        "entreprises de"
+      ],
+      "correct": 2,
+      "explanation": "Le participe passé avec <em>avoir</em> s'accorde avec le COD <em>les démarches</em> placé avant : <em>entreprises</em>."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>éphémère</strong> ?",
+      "options": [
+        "Fragile",
+        "Durable",
+        "Visible",
+        "Récent"
+      ],
+      "correct": 1,
+      "explanation": "<em>Éphémère</em> signifie de courte durée ; son contraire est <em>durable</em>."
+    },
+    {
+      "question": "Que signifie la phrase : <em>Il a pris ses fonctions du jour au lendemain</em> ?",
+      "options": [
+        "Il a longuement préparé sa prise de poste",
+        "Il a commencé son poste très brusquement",
+        "Il refuse ses nouvelles fonctions",
+        "Il alterne deux postes en même temps"
+      ],
+      "correct": 1,
+      "explanation": "L'expression <em>du jour au lendemain</em> signifie de manière soudaine, sans transition."
+    },
+    {
+      "question": "Choisissez le pronom approprié : Ce projet, nous <strong>...</strong> avons parlé hier en réunion.",
+      "options": [
+        "le",
+        "lui",
+        "en",
+        "y"
+      ],
+      "correct": 2,
+      "explanation": "<em>Parler de quelque chose</em> appelle le pronom <em>en</em> : <em>nous en avons parlé</em>."
+    },
+    {
+      "question": "Dans un courrier formel à la préfecture, quelle formule est appropriée pour conclure ?",
+      "options": [
+        "Bisous et à bientôt",
+        "Cordialement, salut",
+        "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées",
+        "Merci d'avance, ciao"
+      ],
+      "correct": 2,
+      "explanation": "Cette formule conventionnelle est attendue dans tout courrier administratif formel."
+    },
+    {
+      "question": "Identifiez le sens de <strong>se débrouiller</strong> dans : <em>Depuis son arrivée, il se débrouille très bien en français</em>.",
+      "options": [
+        "Il refuse de parler français",
+        "Il se sort bien des situations",
+        "Il étudie de façon intensive",
+        "Il commet beaucoup d'erreurs"
+      ],
+      "correct": 1,
+      "explanation": "<em>Se débrouiller</em> signifie réussir à gérer une situation par ses propres moyens."
+    },
+    {
+      "question": "Complétez : Bien qu'il <strong>...</strong> fatigué, il a tenu à terminer sa présentation.",
+      "options": [
+        "est",
+        "était",
+        "soit",
+        "serait"
+      ],
+      "correct": 2,
+      "explanation": "La conjonction <em>bien que</em> est suivie du subjonctif."
+    },
+    {
+      "question": "Quel mot complète logiquement : La candidate a su faire <strong>...</strong> de ses compétences durant l'entretien.",
+      "options": [
+        "preuve",
+        "marque",
+        "trace",
+        "signe"
+      ],
+      "correct": 0,
+      "explanation": "L'expression figée est <em>faire preuve de</em>, qui signifie démontrer."
+    },
+    {
+      "question": "Reformulez : <em>Cette décision n'a pas manqué de provoquer des réactions</em>.",
+      "options": [
+        "Cette décision est passée inaperçue",
+        "Cette décision a clairement provoqué des réactions",
+        "Cette décision a évité toute polémique",
+        "Cette décision n'intéresse personne"
+      ],
+      "correct": 1,
+      "explanation": "<em>Ne pas manquer de</em> + infinitif équivaut à une affirmation forte : cela s'est bien produit."
+    },
+    {
+      "question": "En France, à qui s'adresse-t-on pour faire reconnaître un diplôme étranger ?",
+      "options": [
+        "À la mairie de son arrondissement",
+        "Au centre ENIC-NARIC France",
+        "À Pôle emploi",
+        "À la Caisse d'allocations familiales"
+      ],
+      "correct": 1,
+      "explanation": "Le centre ENIC-NARIC France délivre les attestations de comparabilité des diplômes étrangers."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Elle s'intéresse beaucoup <strong>...</strong> politique locale.",
+      "options": [
+        "de la",
+        "à la",
+        "pour la",
+        "sur la"
+      ],
+      "correct": 1,
+      "explanation": "Le verbe <em>s'intéresser</em> se construit avec la préposition <em>à</em>."
+    },
+    {
+      "question": "Quel connecteur introduit une conséquence ?",
+      "options": [
+        "Pourtant",
+        "Si bien que",
+        "Bien que",
+        "Au cas où"
+      ],
+      "correct": 1,
+      "explanation": "<em>Si bien que</em> introduit une conséquence directe."
+    },
+    {
+      "question": "Que veut dire l'expression familière <strong>en avoir marre</strong> ?",
+      "options": [
+        "Être satisfait",
+        "Être en colère contre quelqu'un",
+        "Être lassé d'une situation",
+        "Avoir beaucoup à faire"
+      ],
+      "correct": 2,
+      "explanation": "<em>En avoir marre</em> exprime la lassitude, le ras-le-bol."
+    },
+    {
+      "question": "Complétez : Le rapport <strong>...</strong> nous avons besoin sera remis demain.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "lequel"
+      ],
+      "correct": 1,
+      "explanation": "<em>Avoir besoin de</em> impose le pronom relatif <em>dont</em>."
+    },
+    {
+      "question": "Faux-ami : que signifie <strong>assister à une réunion</strong> en français ?",
+      "options": [
+        "Aider à organiser la réunion",
+        "Être présent à la réunion",
+        "Animer la réunion",
+        "Refuser la réunion"
+      ],
+      "correct": 1,
+      "explanation": "En français, <em>assister à</em> signifie être présent, contrairement au portugais <em>assistir</em> qui peut signifier aider."
+    },
+    {
+      "question": "Choisissez la formulation la plus appropriée pour exprimer poliment un désaccord en réunion.",
+      "options": [
+        "Tu dis n'importe quoi",
+        "Je ne suis pas tout à fait d'accord avec cette analyse",
+        "C'est faux, point final",
+        "Personne ne pense comme toi"
+      ],
+      "correct": 1,
+      "explanation": "Cette formulation respecte le registre professionnel attendu lors d'un désaccord en milieu de travail."
+    }
+  ],
+  "writingPrompt": "Vous êtes salarié en France et vous avez constaté de profondes transformations dans votre secteur d'activité ces dernières années (numérisation, intelligence artificielle, télétravail, nouvelles attentes des clients ou des usagers, etc.). Rédigez une tribune de 180 à 220 mots destinée à être publiée dans la rubrique <em>Opinions</em> d'un journal régional français. Présentez précisément les évolutions observées dans votre métier ou votre secteur, expliquez en quoi elles modifient le quotidien des professionnels concernés, puis prenez position de façon argumentée : ces changements sont-ils, selon vous, une opportunité ou une menace ? Proposez enfin une mesure concrète qui permettrait de mieux accompagner cette mutation."
+}

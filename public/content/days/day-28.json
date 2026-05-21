@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Bienvenue dans cette <strong>séance de révision</strong> de la semaine 4 ! Aujourd'hui, nous consolidons les acquis : <strong>connecteurs logiques avancés</strong>, <strong>subjonctif</strong>, <strong>discours rapporté</strong>, et <strong>nuances lexicales</strong>. Cette synthèse vise à préparer l'écrit complet du TCF IRN.</p><p><strong>1. Les connecteurs logiques</strong> structurent un raisonnement. Distinguez :</p><ul><li><em>Cause</em> : étant donné que, dans la mesure où, du fait de</li><li><em>Conséquence</em> : de sorte que, si bien que, par conséquent</li><li><em>Opposition</em> : alors que (≠ portugais <em>já que</em> qui signifie une cause !), tandis que, en revanche</li><li><em>Concession</em> : bien que + subjonctif, quoique + subjonctif, malgré + nom</li></ul><p><strong>2. Le subjonctif</strong> reste un défi pour les lusophones. Rappel des déclencheurs : volonté (je veux que), émotion (je suis content que), doute (je ne crois pas que), nécessité (il faut que). Conjugaison du verbe <strong>faire</strong> au subjonctif présent :</p><table><tr><td>je</td><td><strong>fasse</strong></td></tr><tr><td>tu</td><td><strong>fasses</strong></td></tr><tr><td>il/elle</td><td><strong>fasse</strong></td></tr><tr><td>nous</td><td><strong>fassions</strong></td></tr><tr><td>vous</td><td><strong>fassiez</strong></td></tr><tr><td>ils/elles</td><td><strong>fassent</strong></td></tr></table><p>Et le verbe <strong>pouvoir</strong> au subjonctif :</p><table><tr><td>je</td><td><strong>puisse</strong></td></tr><tr><td>tu</td><td><strong>puisses</strong></td></tr><tr><td>il/elle</td><td><strong>puisse</strong></td></tr><tr><td>nous</td><td><strong>puissions</strong></td></tr><tr><td>vous</td><td><strong>puissiez</strong></td></tr><tr><td>ils/elles</td><td><strong>puissent</strong></td></tr></table><p><strong>3. Le discours rapporté au passé</strong> impose la concordance des temps : présent → imparfait, passé composé → plus-que-parfait, futur → conditionnel. Exemple : <em>Il a dit qu'il viendrait demain</em> (et non <em>viendra</em>).</p><p><strong>4. Pièges lusophones fréquents</strong> :</p><ul><li><code>assister à</code> = présenciar (≠ <em>aider</em>)</li><li><code>rester</code> = ficar (≠ rester au sens de <em>sobrar</em> = il reste)</li><li><code>quitter</code> nécessite un COD : <em>je quitte la maison</em>, pas <em>je quitte</em> seul</li><li><code>se rappeler quelque chose</code> (sans <em>de</em>) mais <code>se souvenir de quelque chose</code></li></ul><p><strong>5. Pour l'écrit B2</strong>, structurez en trois parties : introduction (contexte + position), développement (deux arguments illustrés), conclusion (synthèse + ouverture). Visez 200 mots, variez les connecteurs, évitez les répétitions lexicales.</p>",
+  "examples": [
+    {
+      "sentence": "Bien qu'il <strong>fasse</strong> froid, les manifestants restent mobilisés devant la préfecture.",
+      "note": "Concession avec bien que + subjonctif présent du verbe faire."
+    },
+    {
+      "sentence": "Il m'a confié qu'il <strong>avait déjà déposé</strong> son dossier de naturalisation l'année précédente.",
+      "note": "Discours rapporté au passé : passé composé devient plus-que-parfait."
+    },
+    {
+      "sentence": "<em>Étant donné que</em> les loyers augmentent, de nombreux jeunes actifs quittent Paris.",
+      "note": "Connecteur de cause formel, très utile à l'écrit."
+    },
+    {
+      "sentence": "J'ai <strong>assisté à</strong> une réunion publique sur le projet d'urbanisme.",
+      "note": "Assister à = être présent (faux-ami avec ajudar)."
+    },
+    {
+      "sentence": "Il faut que nous <strong>puissions</strong> débattre sereinement de cette réforme.",
+      "note": "Nécessité + subjonctif du verbe pouvoir."
+    },
+    {
+      "sentence": "<em>Malgré</em> les efforts du gouvernement, le chômage des jeunes reste élevé.",
+      "note": "Malgré + nom (jamais malgré que en français standard)."
+    }
+  ],
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé comme une nouvelle norme dans le paysage professionnel français. Selon une étude récente publiée par la DARES, près de 33 % des salariés du secteur tertiaire pratiquent désormais le travail à distance au moins un jour par semaine. Si cette évolution séduit par la flexibilité qu'elle offre, elle soulève également de nombreuses interrogations.\n\nDu côté des avantages, les salariés évoquent une meilleure conciliation entre vie professionnelle et vie personnelle, une réduction notable du temps de transport, ainsi qu'une concentration accrue sur les tâches de fond. Les entreprises, quant à elles, constatent souvent une hausse de la productivité, bien que ce constat reste contesté par certains économistes.\n\nCependant, les inconvénients ne doivent pas être négligés. L'isolement social, le brouillage des frontières entre temps de travail et temps personnel, ainsi que la difficulté pour les managers à encadrer leurs équipes à distance constituent autant de défis. Plusieurs syndicats alertent également sur le risque d'une dégradation du collectif de travail, voire d'une exclusion progressive des salariés moins équipés numériquement.\n\nFace à ces enjeux, le législateur français a progressivement encadré la pratique. Un accord national interprofessionnel impose désormais aux entreprises de négocier les modalités du télétravail avec les représentants du personnel. Reste à savoir si ce cadre suffira à garantir un équilibre durable, alors même que certaines grandes entreprises envisagent déjà un retour partiel au présentiel obligatoire.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est une pratique obligatoire en France.",
+          "Le télétravail présente des avantages et des défis qui nécessitent un encadrement.",
+          "Les syndicats français s'opposent unanimement au télétravail.",
+          "Le télétravail va bientôt disparaître du paysage français."
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente un panorama équilibré entre bénéfices et inconvénients, et évoque la nécessité d'un cadre légal."
+      },
+      {
+        "question": "Selon le texte, quel pourcentage de salariés du tertiaire pratique le télétravail au moins un jour par semaine ?",
+        "options": [
+          "Environ 13 %",
+          "Environ 23 %",
+          "Environ 33 %",
+          "Environ 43 %"
+        ],
+        "correct": 2,
+        "explanation": "Le texte cite explicitement près de 33 % selon l'étude de la DARES."
+      },
+      {
+        "question": "Que signifie l'expression brouillage des frontières dans le contexte du texte ?",
+        "options": [
+          "Une confusion géographique entre régions",
+          "Une difficulté à séparer vie professionnelle et vie privée",
+          "Un problème de connexion internet",
+          "Un conflit entre collègues"
+        ],
+        "correct": 1,
+        "explanation": "Le contexte indique clairement qu'il s'agit de la frontière entre temps de travail et temps personnel."
+      },
+      {
+        "question": "Que peut-on inférer concernant l'avenir du télétravail en France ?",
+        "options": [
+          "Il deviendra obligatoire pour tous les salariés.",
+          "Son avenir reste incertain malgré un encadrement progressif.",
+          "Il sera totalement interdit dans les prochaines années.",
+          "Toutes les entreprises l'adopteront sans condition."
+        ],
+        "correct": 1,
+        "explanation": "La dernière phrase évoque un possible retour au présentiel, montrant que l'évolution reste incertaine."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ tes papiers avant vendredi.",
+      "options": [
+        "rends",
+        "rendes",
+        "rende",
+        "rendras"
+      ],
+      "correct": 1,
+      "explanation": "Il faut que + subjonctif présent : tu rendes (2e personne du subjonctif)."
+    },
+    {
+      "question": "Quel connecteur exprime une concession ?",
+      "options": [
+        "parce que",
+        "bien que",
+        "donc",
+        "car"
+      ],
+      "correct": 1,
+      "explanation": "Bien que introduit une concession et se construit avec le subjonctif."
+    },
+    {
+      "question": "Transformez au discours rapporté : Il m'a dit : Je viendrai demain.",
+      "options": [
+        "Il m'a dit qu'il viendra demain.",
+        "Il m'a dit qu'il vient demain.",
+        "Il m'a dit qu'il viendrait le lendemain.",
+        "Il m'a dit qu'il était venu demain."
+      ],
+      "correct": 2,
+      "explanation": "Concordance des temps : futur devient conditionnel ; demain devient le lendemain."
+    },
+    {
+      "question": "Quel verbe est correctement utilisé ?",
+      "options": [
+        "J'ai assisté mon collègue à porter les cartons.",
+        "J'ai assisté à la conférence sur l'écologie.",
+        "J'ai assisté la réunion hier.",
+        "J'ai assisté de mon ami."
+      ],
+      "correct": 1,
+      "explanation": "Assister à = être présent à un événement. Attention au faux-ami avec le portugais."
+    },
+    {
+      "question": "Choisissez la phrase correcte avec malgré :",
+      "options": [
+        "Malgré qu'il pleuve, je sors.",
+        "Malgré il pleut, je sors.",
+        "Malgré la pluie, je sors.",
+        "Malgré que la pluie, je sors."
+      ],
+      "correct": 2,
+      "explanation": "Malgré est suivi d'un nom, jamais d'une proposition. Malgré que est considéré comme incorrect en français soigné."
+    },
+    {
+      "question": "Conjuguez : Je ne pense pas qu'elle ___ raison.",
+      "options": [
+        "a",
+        "ait",
+        "aura",
+        "avait"
+      ],
+      "correct": 1,
+      "explanation": "Ne pas penser que exprime le doute et déclenche le subjonctif : qu'elle ait."
+    },
+    {
+      "question": "Quel synonyme convient le mieux à étant donné que ?",
+      "options": [
+        "bien que",
+        "afin que",
+        "puisque",
+        "pour que"
+      ],
+      "correct": 2,
+      "explanation": "Étant donné que et puisque expriment tous deux une cause connue."
+    },
+    {
+      "question": "Choisissez la bonne préposition : Je me souviens ___ mes premières années en France.",
+      "options": [
+        "à",
+        "de",
+        "sur",
+        "rien"
+      ],
+      "correct": 1,
+      "explanation": "Se souvenir de quelque chose. À ne pas confondre avec se rappeler quelque chose (sans préposition)."
+    },
+    {
+      "question": "Quelle phrase utilise correctement quitter ?",
+      "options": [
+        "Il a quitté hier soir.",
+        "Elle quitte de la maison à 8h.",
+        "Nous avons quitté l'appartement le mois dernier.",
+        "Je quitte à mon travail."
+      ],
+      "correct": 2,
+      "explanation": "Quitter est un verbe transitif direct : il exige un COD sans préposition."
+    },
+    {
+      "question": "Identifiez le connecteur de conséquence :",
+      "options": [
+        "dans la mesure où",
+        "si bien que",
+        "quoique",
+        "à condition que"
+      ],
+      "correct": 1,
+      "explanation": "Si bien que introduit une conséquence et se construit avec l'indicatif."
+    }
+  ],
+  "writingPrompt": "Écrivez une lettre à votre futur·e vous, dix ans plus tard. Vous vivez actuellement en France et préparez votre avenir (carrière, naturalisation éventuelle, vie personnelle, projets concrets). Dans cette lettre de 180 à 220 mots, exposez les défis que vous traversez aujourd'hui en tant que résident·e étranger·ère, formulez les espoirs concrets que vous nourrissez pour les dix prochaines années (situation professionnelle, intégration, engagements citoyens, projets familiaux), et adressez des conseils ou questions à votre futur·e vous. Utilisez le subjonctif (je souhaite que tu aies..., il faudra que tu...), des connecteurs logiques variés (bien que, étant donné que, par conséquent), et soignez la structure : introduction situant votre situation actuelle, développement de vos espoirs et craintes, conclusion personnelle.",
+  "vocab": [
+    {
+      "word": "s'épanouir",
+      "translation": "realizar-se, florescer",
+      "example": "J'espère m'épanouir professionnellement dans les années à venir."
+    },
+    {
+      "word": "un parcours",
+      "translation": "trajetória, percurso",
+      "example": "Mon parcours d'intégration en France n'a pas été linéaire."
+    },
+    {
+      "word": "envisager",
+      "translation": "considerar, encarar",
+      "example": "J'envisage de demander la nationalité française d'ici cinq ans."
+    },
+    {
+      "word": "un défi",
+      "translation": "desafio",
+      "example": "Apprendre la langue administrative reste un défi quotidien."
+    },
+    {
+      "word": "se projeter",
+      "translation": "projetar-se (no futuro)",
+      "example": "Il est parfois difficile de se projeter à long terme quand on est expatrié."
+    },
+    {
+      "word": "l'incertitude",
+      "translation": "incerteza",
+      "example": "L'incertitude économique pèse sur mes décisions actuelles."
+    },
+    {
+      "word": "un aboutissement",
+      "translation": "concretização, culminação",
+      "example": "Cette naturalisation serait l'aboutissement de dix années d'efforts."
+    },
+    {
+      "word": "nourrir un espoir",
+      "translation": "alimentar uma esperança",
+      "example": "Je nourris l'espoir de fonder une famille ici, en France."
+    }
+  ]
+}

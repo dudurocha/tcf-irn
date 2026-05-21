@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Aujourd'hui, nous révisons les points clés de la <strong>semaine 3</strong> et travaillons la <strong>compréhension écrite</strong>, compétence essentielle au TCF IRN. Reprenons les structures fondamentales étudiées.</p><p><strong>1. Le subjonctif présent</strong> s'emploie après les expressions de doute, volonté, émotion, nécessité. Verbe modèle <em>être</em> :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p>Verbe <em>avoir</em> :</p><table><tr><td>j'</td><td><strong>aie</strong></td></tr><tr><td>tu</td><td><strong>aies</strong></td></tr><tr><td>il/elle</td><td><strong>ait</strong></td></tr><tr><td>nous</td><td><strong>ayons</strong></td></tr><tr><td>vous</td><td><strong>ayez</strong></td></tr><tr><td>ils/elles</td><td><strong>aient</strong></td></tr></table><p><strong>2. Les connecteurs logiques</strong> structurent le raisonnement : <em>cependant, néanmoins, en revanche</em> (opposition) ; <em>par conséquent, ainsi, de ce fait</em> (conséquence) ; <em>étant donné que, dans la mesure où</em> (cause).</p><p><strong>3. Le conditionnel</strong> exprime l'hypothèse, le souhait, la politesse. Rappel : <code>radical du futur + terminaisons de l'imparfait</code>. Avec <em>si</em> + imparfait, on emploie le conditionnel présent : <em>Si j'avais le temps, je lirais davantage.</em></p><p><strong>4. Les pronoms relatifs composés</strong> : <em>auquel, à laquelle, duquel, desquelles, lequel</em>. On les utilise après une préposition : <em>Le projet auquel je participe est ambitieux.</em></p><p><strong>Piège pour lusophones :</strong> en portugais, le subjonctif est utilisé plus largement qu'en français. Ne le mettez pas après <em>peut-être que</em> ou <em>j'espère que</em> (qui demande l'indicatif en français : <em>J'espère qu'il viendra</em>, et non <em>vienne</em>). Attention aussi à <em>après que</em> qui demande l'indicatif, contrairement à <em>avant que</em> (subjonctif).</p><p><strong>Compréhension écrite :</strong> au TCF, lisez d'abord les questions, puis le texte. Repérez les mots-clés, les connecteurs et le ton. Méfiez-vous des distracteurs qui reprennent des mots du texte mais déforment le sens.</p>",
+  "examples": [
+    {
+      "sentence": "Il faut que tu sois patient avec l'administration française.",
+      "note": "Subjonctif après il faut que"
+    },
+    {
+      "sentence": "Si j'avais su, je n'aurais jamais accepté ce poste.",
+      "note": "Conditionnel passé pour exprimer un regret"
+    },
+    {
+      "sentence": "Le dossier auquel je fais référence date de 2022.",
+      "note": "Pronom relatif composé après préposition"
+    },
+    {
+      "sentence": "Bien qu'il pleuve, la manifestation est maintenue.",
+      "note": "Subjonctif après bien que"
+    },
+    {
+      "sentence": "J'espère que vous trouverez rapidement un logement.",
+      "note": "Indicatif après j'espère que (piège lusophone)"
+    },
+    {
+      "sentence": "Étant donné que les loyers augmentent, beaucoup quittent Paris.",
+      "note": "Connecteur de cause suivi de l'indicatif"
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail, devenu massif pendant la crise sanitaire, s'est installé durablement dans le paysage professionnel français. Selon une enquête récente de l'INSEE, près d'un salarié sur trois pratique aujourd'hui le travail à distance au moins un jour par semaine, contre moins de 5 % avant 2020. Cette transformation profonde des modes de travail soulève toutefois de nombreuses interrogations.\n\nLes partisans du télétravail mettent en avant ses avantages : gain de temps lié à l'absence de trajets, meilleur équilibre entre vie professionnelle et vie privée, et réduction de l'empreinte carbone. De nombreuses entreprises y voient également une opportunité de réduire leurs coûts immobiliers en diminuant la surface de leurs bureaux.\n\nCependant, les critiques se multiplient. Plusieurs études pointent un risque accru d'isolement social et de troubles psychologiques chez les télétravailleurs réguliers. Les jeunes salariés, en particulier, peinent à s'intégrer dans la culture d'entreprise et à bénéficier d'un encadrement adéquat. Par ailleurs, la frontière entre temps de travail et temps personnel devient floue, ce qui peut conduire à un épuisement professionnel.\n\nDu côté des villes, le phénomène bouleverse l'immobilier : les métropoles voient leurs centres se vider partiellement, tandis que les villes moyennes connaissent un regain d'attractivité inédit. Certains élus locaux s'en réjouissent, d'autres s'inquiètent de la flambée des prix qui exclut les habitants historiques.\n\nFace à ces enjeux, le gouvernement envisage de nouvelles régulations, notamment pour garantir un véritable droit à la déconnexion. Le débat reste vif : le télétravail est-il une avancée sociale ou une nouvelle forme de précarité ?",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail a totalement remplacé le travail en présentiel en France",
+          "Le télétravail s'est généralisé mais soulève des questions complexes",
+          "Le gouvernement français veut interdire le télétravail",
+          "Les entreprises françaises refusent le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente l'expansion du télétravail tout en soulignant ses avantages et inconvénients."
+      },
+      {
+        "question": "Selon le texte, quel est un effet négatif du télétravail sur les jeunes salariés ?",
+        "options": [
+          "Ils gagnent moins d'argent qu'avant",
+          "Ils refusent de retourner au bureau",
+          "Ils ont des difficultés à s'intégrer dans l'entreprise",
+          "Ils travaillent moins d'heures que les autres"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique que les jeunes peinent à s'intégrer dans la culture d'entreprise."
+      },
+      {
+        "question": "Que signifie l'expression la flambée des prix dans le contexte du texte ?",
+        "options": [
+          "Une baisse soudaine des prix",
+          "Une hausse rapide et importante des prix",
+          "Une stabilité des prix immobiliers",
+          "Une régulation des prix par l'État"
+        ],
+        "correct": 1,
+        "explanation": "Flambée signifie une augmentation forte et rapide, ici de l'immobilier dans les villes moyennes."
+      },
+      {
+        "question": "Quelle conclusion peut-on tirer du texte ?",
+        "options": [
+          "Le télétravail fait l'unanimité dans la société française",
+          "Le télétravail est un phénomène temporaire",
+          "Le télétravail divise et son cadre légal reste à définir",
+          "Le télétravail concerne uniquement les grandes villes"
+        ],
+        "correct": 2,
+        "explanation": "Le texte se termine sur un débat ouvert et mentionne de futures régulations gouvernementales."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Il est essentiel que chacun ___ ses responsabilités.",
+      "options": [
+        "prend",
+        "prenne",
+        "prendra",
+        "prendrait"
+      ],
+      "correct": 1,
+      "explanation": "Subjonctif après il est essentiel que."
+    },
+    {
+      "question": "Si elle avait postulé plus tôt, elle ___ le poste.",
+      "options": [
+        "obtiendrait",
+        "aurait obtenu",
+        "obtenait",
+        "avait obtenu"
+      ],
+      "correct": 1,
+      "explanation": "Conditionnel passé après si + plus-que-parfait."
+    },
+    {
+      "question": "Le sujet ___ nous nous intéressons est complexe.",
+      "options": [
+        "dont",
+        "auquel",
+        "à qui",
+        "que"
+      ],
+      "correct": 1,
+      "explanation": "S'intéresser à quelque chose : on emploie auquel."
+    },
+    {
+      "question": "J'espère que tu ___ bientôt te reposer.",
+      "options": [
+        "puisses",
+        "peux",
+        "pourras",
+        "pourrais"
+      ],
+      "correct": 2,
+      "explanation": "Après j'espère que on utilise l'indicatif (futur ici), pas le subjonctif."
+    },
+    {
+      "question": "___ les conditions soient difficiles, l'équipe avance.",
+      "options": [
+        "Parce que",
+        "Bien que",
+        "Puisque",
+        "Étant donné que"
+      ],
+      "correct": 1,
+      "explanation": "Bien que exprime la concession et se construit avec le subjonctif."
+    },
+    {
+      "question": "Choisissez le connecteur d'opposition adéquat : Il pleut ; ___, la fête aura lieu.",
+      "options": [
+        "par conséquent",
+        "néanmoins",
+        "ainsi",
+        "puisque"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins exprime l'opposition."
+    },
+    {
+      "question": "Les voisins ___ je t'ai parlé ont déménagé.",
+      "options": [
+        "dont",
+        "à qui",
+        "auxquels",
+        "que"
+      ],
+      "correct": 0,
+      "explanation": "Parler de quelqu'un : on emploie dont."
+    },
+    {
+      "question": "Après qu'il ___ son examen, il a fêté sa réussite.",
+      "options": [
+        "ait passé",
+        "a passé",
+        "passe",
+        "passât"
+      ],
+      "correct": 1,
+      "explanation": "Après que est suivi de l'indicatif, contrairement à avant que."
+    },
+    {
+      "question": "Nous aimerions ___ vous puissiez participer à la réunion.",
+      "options": [
+        "que",
+        "si",
+        "comme",
+        "quand"
+      ],
+      "correct": 0,
+      "explanation": "Aimer que + subjonctif (puissiez)."
+    },
+    {
+      "question": "Quel synonyme convient le mieux à par conséquent ?",
+      "options": [
+        "cependant",
+        "de ce fait",
+        "bien que",
+        "tandis que"
+      ],
+      "correct": 1,
+      "explanation": "De ce fait exprime aussi la conséquence."
+    }
+  ],
+  "writingPrompt": "Racontez une démarche administrative marquante que vous avez effectuée depuis votre installation en France (demande de titre de séjour, ouverture d'un compte bancaire, inscription à la Sécurité sociale, recherche de logement, etc.). Décrivez les étapes concrètes, les difficultés rencontrées et la manière dont vous les avez surmontées. Expliquez ce que cette expérience vous a appris sur le fonctionnement de l'administration française et sur vous-même. Rédigez un texte structuré de 180 à 220 mots, en utilisant des connecteurs logiques variés et au moins un subjonctif et un conditionnel.",
+  "vocab": [
+    {
+      "word": "une démarche",
+      "translation": "um procedimento, uma diligência",
+      "example": "Cette démarche administrative m'a pris plusieurs semaines."
+    },
+    {
+      "word": "le télétravail",
+      "translation": "o teletrabalho",
+      "example": "Le télétravail s'est généralisé après la pandémie."
+    },
+    {
+      "word": "l'épuisement professionnel",
+      "translation": "o esgotamento profissional, burnout",
+      "example": "De nombreux cadres souffrent d'épuisement professionnel."
+    },
+    {
+      "word": "bouleverser",
+      "translation": "transtornar, transformar profundamente",
+      "example": "La crise a bouleversé nos habitudes de travail."
+    },
+    {
+      "word": "un regain",
+      "translation": "um renovo, um ressurgimento",
+      "example": "Les villes moyennes connaissent un regain d'attractivité."
+    },
+    {
+      "word": "la flambée",
+      "translation": "a alta brusca, o disparo",
+      "example": "La flambée des prix de l'énergie inquiète les ménages."
+    },
+    {
+      "word": "surmonter",
+      "translation": "superar",
+      "example": "J'ai réussi à surmonter les obstacles administratifs."
+    },
+    {
+      "word": "la précarité",
+      "translation": "a precariedade",
+      "example": "Le télétravail peut renforcer la précarité de certains salariés."
+    }
+  ]
+}

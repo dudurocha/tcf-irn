@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Aujourd'hui, <strong>examen blanc</strong> : nous révisons les structures grammaticales clés du B2 et nous travaillons la compréhension écrite dans les conditions du TCF.</p><p><strong>1. Subjonctif vs indicatif</strong> — Le subjonctif suit les expressions de volonté, doute, émotion, nécessité (<em>il faut que, bien que, pour que, à condition que</em>). L'indicatif suit les expressions de certitude (<em>je pense que, il est certain que</em>).</p><p><strong>2. Concordance des temps</strong> — Après un verbe principal au passé, le discours indirect demande l'imparfait (simultanéité), le plus-que-parfait (antériorité) ou le conditionnel (postériorité).</p><p><strong>3. Hypothèse</strong> :</p><ul><li><code>Si + présent → futur</code> (réalisable)</li><li><code>Si + imparfait → conditionnel présent</code> (irréel du présent)</li><li><code>Si + plus-que-parfait → conditionnel passé</code> (irréel du passé)</li></ul><p><strong>4. Pronoms relatifs composés</strong> — <em>auquel, à laquelle, duquel, desquelles</em> s'emploient après une préposition. Attention : <em>dont</em> remplace <em>de + nom</em>.</p><p><strong>5. Conjugaison du conditionnel passé (verbe</strong> aller<strong>)</strong> :</p><table><tr><td>je</td><td><strong>serais allé(e)</strong></td></tr><tr><td>tu</td><td><strong>serais allé(e)</strong></td></tr><tr><td>il/elle</td><td><strong>serait allé(e)</strong></td></tr><tr><td>nous</td><td><strong>serions allé(e)s</strong></td></tr><tr><td>vous</td><td><strong>seriez allé(e)(s)</strong></td></tr><tr><td>ils/elles</td><td><strong>seraient allé(e)s</strong></td></tr></table><p><strong>6. Connecteurs logiques B2</strong> — cause (<em>étant donné que, puisque</em>), conséquence (<em>si bien que, de sorte que</em>), opposition (<em>en revanche, néanmoins, toutefois</em>), but (<em>afin que, de peur que</em>).</p><p><strong>Pièges lusophones :</strong></p><ul><li>Ne pas confondre <em>amener</em> (personnes) et <em>apporter</em> (objets) — en portugais, <em>trazer</em> couvre les deux.</li><li>Le subjonctif français est moins fréquent qu'en portugais : ne pas l'employer après <em>je pense que</em> affirmatif.</li><li>Les prépositions changent : <em>penser à</em> (pensar em), <em>rêver de</em> (sonhar com).</li><li>Faux amis : <em>large</em> (large en taille, pas grand), <em>discuter</em> (parler, pas se disputer).</li></ul><p><strong>Conseil examen :</strong> lisez d'abord les questions, puis le texte. Repérez les mots-clés et méfiez-vous des distracteurs qui reprennent du vocabulaire du texte mais déforment le sens.</p>",
+  "examples": [
+    {
+      "sentence": "Bien qu'il <strong>ait</strong> beaucoup travaillé, il n'a pas obtenu la promotion.",
+      "note": "Bien que + subjonctif, même si l'action est réelle."
+    },
+    {
+      "sentence": "Si j'avais su, je <strong>serais venu</strong> plus tôt.",
+      "note": "Hypothèse irréelle du passé : si + plus-que-parfait → conditionnel passé."
+    },
+    {
+      "sentence": "L'entreprise <strong>pour laquelle</strong> je travaille déménage à Lyon.",
+      "note": "Pronom relatif composé après préposition, avec antécédent féminin."
+    },
+    {
+      "sentence": "Il m'a dit qu'il <strong>partirait</strong> le lendemain.",
+      "note": "Concordance : verbe principal au passé → futur devient conditionnel."
+    },
+    {
+      "sentence": "Étant donné que les délais sont serrés, nous devons agir vite.",
+      "note": "Connecteur de cause formel, typique du B2 écrit."
+    },
+    {
+      "sentence": "Je doute qu'il <strong>puisse</strong> arriver à temps.",
+      "note": "Verbe de doute → subjonctif obligatoire."
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail a profondément transformé le rapport des Français à leur emploi depuis 2020. Selon une récente étude de la DARES, près de 33 % des salariés du privé pratiquent désormais le travail à distance au moins un jour par semaine, contre seulement 4 % avant la pandémie. Ce bouleversement a redessiné les centres-villes, vidé certains quartiers d'affaires et favorisé l'installation de cadres dans des villes moyennes comme Angers, Reims ou Clermont-Ferrand.\n\nToutefois, l'enthousiasme initial s'essouffle. De nombreux dirigeants exigent un retour partiel au bureau, invoquant la perte du lien collectif et la baisse de la créativité spontanée. Plusieurs grands groupes ont récemment imposé trois jours minimum sur site, provoquant la colère de salariés qui avaient organisé leur vie autour de cette nouvelle flexibilité. Certains ont déménagé loin de leur entreprise et se retrouvent contraints à des trajets épuisants.\n\nLes syndicats dénoncent un retour en arrière unilatéral, alors que les études montrent que le télétravail réduit l'absentéisme et améliore la satisfaction. En revanche, les psychologues du travail soulignent les risques d'isolement, particulièrement pour les jeunes embauchés qui peinent à s'intégrer et à apprendre informellement leur métier.\n\nLe débat dépasse la simple organisation du travail : il interroge le rôle du bureau, l'équilibre vie professionnelle-vie privée et l'avenir de l'immobilier tertiaire. Pour les économistes, un compromis hybride semble inévitable, mais sa forme exacte reste à inventer. Une chose est certaine : le retour au monde d'avant n'aura pas lieu.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail a définitivement remplacé le travail au bureau en France.",
+          "Le télétravail a transformé durablement le monde du travail mais suscite des tensions.",
+          "Les syndicats français s'opposent unanimement au télétravail.",
+          "Les villes moyennes refusent l'arrivée des télétravailleurs."
+        ],
+        "correct": 1,
+        "explanation": "Le texte décrit une transformation profonde tout en exposant les conflits actuels entre salariés et dirigeants."
+      },
+      {
+        "question": "Pourquoi certains salariés sont-ils en colère ?",
+        "options": [
+          "Parce qu'ils refusent totalement le télétravail.",
+          "Parce qu'ils ont déménagé et doivent maintenant faire de longs trajets.",
+          "Parce que leur salaire a baissé avec le télétravail.",
+          "Parce que les syndicats ne les défendent pas."
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que certains ont déménagé loin et subissent des trajets épuisants après l'obligation de retour."
+      },
+      {
+        "question": "Que signifie l'expression l'enthousiasme initial s'essouffle ?",
+        "options": [
+          "L'enthousiasme grandit progressivement.",
+          "L'enthousiasme du début diminue avec le temps.",
+          "L'enthousiasme provoque de la fatigue.",
+          "L'enthousiasme reste stable."
+        ],
+        "correct": 1,
+        "explanation": "S'essouffler signifie perdre de la force, diminuer ; l'enthousiasme du départ s'affaiblit."
+      },
+      {
+        "question": "Que peut-on déduire de la conclusion du texte ?",
+        "options": [
+          "Le télétravail va totalement disparaître.",
+          "Le bureau traditionnel reviendra comme avant 2020.",
+          "Une forme mixte de travail finira par s'imposer.",
+          "Les économistes refusent tout compromis."
+        ],
+        "correct": 2,
+        "explanation": "L'auteur évoque un compromis hybride inévitable, ce qui suggère une organisation mixte à venir."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ à l'heure demain.",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "serais"
+      ],
+      "correct": 1,
+      "explanation": "Il faut que + subjonctif présent : que tu sois."
+    },
+    {
+      "question": "Complétez : Si j'avais plus de temps, je ___ le russe.",
+      "options": [
+        "apprendrai",
+        "apprendrais",
+        "apprends",
+        "aurais appris"
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait → conditionnel présent (hypothèse irréelle du présent)."
+    },
+    {
+      "question": "Quel connecteur exprime la concession ?",
+      "options": [
+        "étant donné que",
+        "bien que",
+        "afin que",
+        "si bien que"
+      ],
+      "correct": 1,
+      "explanation": "Bien que exprime la concession et demande le subjonctif."
+    },
+    {
+      "question": "Choisissez le pronom relatif : La société ___ je travaille est en difficulté.",
+      "options": [
+        "dont",
+        "pour laquelle",
+        "qui",
+        "à laquelle"
+      ],
+      "correct": 1,
+      "explanation": "Travailler pour une société → pour laquelle (préposition + pronom relatif composé)."
+    },
+    {
+      "question": "Discours indirect : Il a dit : Je viendrai demain. → Il a dit qu'il ___ le lendemain.",
+      "options": [
+        "viendra",
+        "viendrait",
+        "venait",
+        "était venu"
+      ],
+      "correct": 1,
+      "explanation": "Concordance des temps : futur dans le discours direct → conditionnel dans le discours indirect au passé."
+    },
+    {
+      "question": "Quel verbe est correctement conjugué au subjonctif ?",
+      "options": [
+        "que nous allons",
+        "que nous aillons",
+        "que nous allions",
+        "que nous irions"
+      ],
+      "correct": 2,
+      "explanation": "Subjonctif présent du verbe aller à la 1re personne du pluriel : que nous allions."
+    },
+    {
+      "question": "Trouvez le faux ami mal traduit : large signifie en français...",
+      "options": [
+        "grand",
+        "vaste en largeur",
+        "généreux",
+        "long"
+      ],
+      "correct": 1,
+      "explanation": "Large en français ne signifie pas grand (comme en portugais largo) mais étendu en largeur."
+    },
+    {
+      "question": "Choisissez la bonne préposition : Je rêve ___ voyager en Asie.",
+      "options": [
+        "à",
+        "de",
+        "avec",
+        "pour"
+      ],
+      "correct": 1,
+      "explanation": "Rêver de quelque chose / de faire quelque chose. Attention : en portugais on dit sonhar com."
+    },
+    {
+      "question": "Quelle phrase exprime correctement une conséquence ?",
+      "options": [
+        "Il pleut afin que nous restions à la maison.",
+        "Il pleut bien que nous restions à la maison.",
+        "Il pleut si bien que nous restons à la maison.",
+        "Il pleut puisque nous restons à la maison."
+      ],
+      "correct": 2,
+      "explanation": "Si bien que + indicatif exprime la conséquence."
+    },
+    {
+      "question": "Choisissez la forme correcte du conditionnel passé : Sans ton aide, je ___ échouer.",
+      "options": [
+        "aurais pu",
+        "aurai pu",
+        "avais pu",
+        "pourrais"
+      ],
+      "correct": 0,
+      "explanation": "Conditionnel passé : auxiliaire au conditionnel présent + participe passé → aurais pu."
+    }
+  ],
+  "writingPrompt": "Vous êtes client chez un opérateur de téléphonie mobile français depuis trois ans. Depuis deux mois, votre forfait est facturé 15 euros de plus que prévu, sans explication, malgré plusieurs appels au service client restés sans réponse satisfaisante. Rédigez une lettre de réclamation formelle (180 à 220 mots) adressée au service réclamations de l'entreprise. Présentez clairement votre situation, exposez les démarches déjà entreprises, exprimez votre mécontentement de manière mesurée mais ferme, et demandez explicitement le remboursement des sommes prélevées ainsi que la régularisation immédiate de votre forfait. Respectez les formules d'usage d'une lettre formelle (en-tête, formule d'appel, formule de politesse finale).",
+  "vocab": [
+    {
+      "word": "réclamation",
+      "translation": "reclamação",
+      "example": "J'ai déposé une réclamation auprès de mon opérateur télécom."
+    },
+    {
+      "word": "prélèvement",
+      "translation": "débito automático",
+      "example": "Un prélèvement inhabituel est apparu sur mon relevé bancaire."
+    },
+    {
+      "word": "régulariser",
+      "translation": "regularizar",
+      "example": "Je vous demande de régulariser ma situation dans les meilleurs délais."
+    },
+    {
+      "word": "litige",
+      "translation": "litígio",
+      "example": "En cas de litige persistant, je saisirai le médiateur des télécommunications."
+    },
+    {
+      "word": "abusif",
+      "translation": "abusivo",
+      "example": "Ces frais me paraissent totalement abusifs et injustifiés."
+    },
+    {
+      "word": "dédommagement",
+      "translation": "indenização",
+      "example": "J'exige un dédommagement à la hauteur du préjudice subi."
+    },
+    {
+      "word": "facturation",
+      "translation": "faturamento",
+      "example": "La facturation ne correspond pas aux termes de mon contrat initial."
+    },
+    {
+      "word": "interlocuteur",
+      "translation": "interlocutor",
+      "example": "Aucun interlocuteur du service client n'a su résoudre mon problème."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>connecteurs logiques</strong> structurent le discours et expriment des relations précises entre les idées. Aujourd'hui, nous étudions trois catégories essentielles au niveau B2 : l'<strong>opposition</strong>, la <strong>concession</strong> et le <strong>but</strong>.</p><p><strong>1. L'opposition</strong> met en contraste deux faits indépendants, sans contradiction logique.</p><ul><li><code>mais</code>, <code>en revanche</code>, <code>par contre</code>, <code>au contraire</code>, <code>alors que</code>, <code>tandis que</code> (+ indicatif)</li><li><em>Pierre adore la ville, <strong>alors que</strong> sa femme préfère la campagne.</em></li></ul><p><strong>2. La concession</strong> exprime un fait inattendu par rapport à ce qui précède (un effet contraire à la cause logique).</p><ul><li>+ indicatif : <code>même si</code>, <code>quand même</code>, <code>pourtant</code>, <code>cependant</code>, <code>néanmoins</code>, <code>toutefois</code></li><li>+ subjonctif : <code>bien que</code>, <code>quoique</code>, <code>sans que</code>, <code>à moins que</code></li><li>+ nom : <code>malgré</code>, <code>en dépit de</code></li><li><em><strong>Bien qu'</strong>il <strong>soit</strong> fatigué, il continue à travailler.</em></li></ul><p><strong>3. Le but</strong> exprime l'objectif visé par une action.</p><ul><li>+ subjonctif (sujets différents) : <code>pour que</code>, <code>afin que</code>, <code>de peur que</code>, <code>de sorte que</code></li><li>+ infinitif (même sujet) : <code>pour</code>, <code>afin de</code>, <code>de peur de</code>, <code>en vue de</code></li><li>+ nom : <code>pour</code>, <code>en vue de</code></li></ul><p>Conjugaison du verbe <strong>être</strong> au subjonctif présent (très utilisé après <em>bien que</em>, <em>pour que</em>) :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p><strong>Pièges classiques pour lusophones :</strong></p><ul><li>En portugais, <em>embora</em> et <em>apesar de</em> se traduisent différemment : <code>bien que</code> + subjonctif, mais <code>malgré</code> + nom (pas de verbe !). On ne dit jamais <em>malgré il est fatigué</em>.</li><li>Ne pas confondre <code>pour</code> (but) et <code>par</code> (cause/moyen) — le portugais <em>por/para</em> induit en erreur.</li><li><code>Quoique</code> (concession, + subjonctif) ≠ <code>quoi que</code> (peu importe ce que).</li><li>Après <code>bien que</code>, JAMAIS d'indicatif, même si le fait est réel.</li></ul>",
+  "examples": [
+    {
+      "sentence": "Bien qu'il <strong>fasse</strong> très froid ce matin, les manifestants sont venus nombreux.",
+      "note": "bien que + subjonctif obligatoire, même pour un fait réel."
+    },
+    {
+      "sentence": "Le télétravail séduit les salariés, <strong>alors que</strong> certains managers restent réticents.",
+      "note": "alors que = opposition simple entre deux réalités contrastées."
+    },
+    {
+      "sentence": "La mairie a installé des bancs <strong>afin que</strong> les personnes âgées puissent se reposer.",
+      "note": "afin que + subjonctif quand les sujets sont différents."
+    },
+    {
+      "sentence": "<strong>Malgré</strong> la pluie, le marché de Noël a maintenu ses animations.",
+      "note": "malgré + nom (jamais + verbe conjugué)."
+    },
+    {
+      "sentence": "Je travaille tard <strong>pour</strong> finir ce dossier avant vendredi.",
+      "note": "pour + infinitif quand le sujet est le même."
+    },
+    {
+      "sentence": "Il a accepté le poste, <strong>quoiqu'il</strong> ait des doutes sur l'entreprise.",
+      "note": "quoique (en un mot) + subjonctif = concession."
+    }
+  ],
+  "reading": {
+    "passage": "Le débat sur la semaine de quatre jours s'invite progressivement dans les entreprises françaises. Plusieurs PME expérimentent ce dispositif depuis deux ans, avec des résultats contrastés. Bien que les salariés concernés rapportent une meilleure qualité de vie et une fatigue réduite, certains dirigeants restent prudents face à ce changement organisationnel majeur.\n\nDans une étude récente menée par l'Observatoire du travail, 68% des employés interrogés se déclarent favorables à cette réduction, alors que seulement 34% des chefs d'entreprise envisagent sérieusement de la mettre en place. Les arguments des opposants sont essentiellement économiques : malgré les gains de productivité observés dans les sociétés pionnières, la crainte d'une désorganisation et d'une baisse de compétitivité demeure forte.\n\nPourtant, les retours d'expérience sont plutôt encourageants. L'entreprise lyonnaise Lumière Conseil, qui a adopté ce rythme afin de fidéliser ses talents, témoigne d'une baisse de l'absentéisme de 40% et d'une augmentation du chiffre d'affaires. Sa directrice explique : Nous avons fait ce choix non pour suivre une mode, mais pour que nos collaborateurs retrouvent un équilibre durable.\n\nCependant, tous les secteurs ne se prêtent pas à cette transformation. Dans l'hôtellerie, la restauration ou le commerce, la présence physique constante reste indispensable. Quoique séduisante en théorie, la formule exige une réorganisation profonde et un accompagnement managérial conséquent. Le gouvernement, sans imposer de cadre légal, encourage néanmoins les expérimentations volontaires, en vue d'évaluer leur viabilité à grande échelle dans les années à venir.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "La semaine de quatre jours est désormais obligatoire en France",
+          "La semaine de quatre jours suscite intérêt et débats contrastés",
+          "Les chefs d'entreprise refusent unanimement cette réforme",
+          "Le gouvernement a légiféré sur le temps de travail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente les arguments pour et contre, montrant un débat ouvert avec des positions contrastées."
+      },
+      {
+        "question": "Quel pourcentage de dirigeants envisage sérieusement la semaine de quatre jours ?",
+        "options": [
+          "68%",
+          "40%",
+          "34%",
+          "Tous les dirigeants"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique précisément que seulement 34% des chefs d'entreprise envisagent cette mise en place."
+      },
+      {
+        "question": "Pourquoi Lumière Conseil a-t-elle adopté ce rythme ?",
+        "options": [
+          "Pour suivre une tendance à la mode",
+          "Pour réduire ses coûts salariaux",
+          "Pour fidéliser ses talents et offrir un équilibre durable",
+          "Pour respecter une obligation légale"
+        ],
+        "correct": 2,
+        "explanation": "La directrice précise qu'ils ont fait ce choix pour que les collaborateurs retrouvent un équilibre, et le texte mentionne la fidélisation des talents."
+      },
+      {
+        "question": "Dans le texte, l'expression se prêtent pas à cette transformation signifie :",
+        "options": [
+          "ne sont pas adaptés à ce changement",
+          "refusent ce changement",
+          "n'ont pas les moyens financiers",
+          "n'ont pas été consultés"
+        ],
+        "correct": 0,
+        "explanation": "Se prêter à signifie convenir, être adapté à. Certains secteurs ne peuvent pas accueillir ce changement par nature."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez le connecteur correct : ___ il pleuve, nous sortirons.",
+      "options": [
+        "Bien qu'",
+        "Malgré qu'",
+        "Malgré qu'il",
+        "Pourtant"
+      ],
+      "correct": 0,
+      "explanation": "Bien que + subjonctif (qu'il pleuve) exprime la concession. Malgré qu' est incorrect en français standard."
+    },
+    {
+      "question": "Complétez : Il a réussi son examen ___ ses nombreuses absences.",
+      "options": [
+        "bien que",
+        "malgré",
+        "pour que",
+        "alors que"
+      ],
+      "correct": 1,
+      "explanation": "Malgré + nom (ses absences). Bien que demanderait un verbe au subjonctif."
+    },
+    {
+      "question": "Quel connecteur exprime le but ?",
+      "options": [
+        "Tandis que",
+        "Afin que",
+        "Cependant",
+        "En revanche"
+      ],
+      "correct": 1,
+      "explanation": "Afin que + subjonctif exprime le but. Les autres sont des connecteurs d'opposition ou de concession."
+    },
+    {
+      "question": "Choisissez la phrase correcte :",
+      "options": [
+        "Je travaille pour que je réussisse",
+        "Je travaille pour réussir",
+        "Je travaille pour que réussir",
+        "Je travaille afin je réussisse"
+      ],
+      "correct": 1,
+      "explanation": "Quand le sujet est le même, on utilise pour/afin de + infinitif. Pour que + subjonctif s'emploie avec deux sujets différents."
+    },
+    {
+      "question": "Identifiez la phrase d'opposition (et non de concession) :",
+      "options": [
+        "Bien qu'il soit riche, il est avare",
+        "Il est riche, pourtant il est avare",
+        "Pierre aime la mer, alors que Marie préfère la montagne",
+        "Malgré sa richesse, il vit modestement"
+      ],
+      "correct": 2,
+      "explanation": "Alors que exprime ici une opposition simple entre deux goûts contrastés, sans contradiction logique."
+    },
+    {
+      "question": "Complétez : Elle parle fort ___ tout le monde l'entende.",
+      "options": [
+        "pour qu'",
+        "pour",
+        "afin de",
+        "parce qu'"
+      ],
+      "correct": 0,
+      "explanation": "Sujets différents (elle / tout le monde), donc pour que + subjonctif (entende)."
+    },
+    {
+      "question": "Quelle est la différence entre quoique et quoi que ?",
+      "options": [
+        "Aucune, ce sont des synonymes",
+        "Quoique = bien que ; quoi que = peu importe ce que",
+        "Quoique est familier, quoi que est soutenu",
+        "Quoique = cause ; quoi que = but"
+      ],
+      "correct": 1,
+      "explanation": "Quoique (un mot) = bien que, concession. Quoi que (deux mots) = peu importe ce que (Quoi que tu fasses...)."
+    },
+    {
+      "question": "Complétez : Il a pris un parapluie ___ il ne pleuve.",
+      "options": [
+        "pour que",
+        "de peur qu'",
+        "afin qu'",
+        "bien qu'"
+      ],
+      "correct": 1,
+      "explanation": "De peur que + subjonctif exprime un but négatif (éviter que quelque chose arrive)."
+    },
+    {
+      "question": "Quelle phrase contient une erreur ?",
+      "options": [
+        "En dépit de ses efforts, il a échoué",
+        "Malgré qu'il soit malade, il travaille",
+        "Quoiqu'elle soit jeune, elle est expérimentée",
+        "Bien qu'il pleuve, je sors"
+      ],
+      "correct": 1,
+      "explanation": "Malgré qu' est considéré comme incorrect en français standard. Il faut dire bien qu' ou malgré + nom."
+    },
+    {
+      "question": "Choisissez le connecteur le plus approprié dans un registre soutenu : Le projet a été accepté ; ___, certaines conditions doivent être respectées.",
+      "options": [
+        "mais",
+        "par contre",
+        "néanmoins",
+        "sinon"
+      ],
+      "correct": 2,
+      "explanation": "Néanmoins est un connecteur soutenu exprimant la concession, parfaitement adapté à l'écrit formel."
+    }
+  ],
+  "writingPrompt": "Vous travaillez depuis trois ans dans une entreprise française. Votre responsable vient de vous proposer une promotion qui implique un déménagement obligatoire dans une autre région, à 600 km de chez vous. Pour des raisons personnelles et familiales, vous devez refuser cette opportunité tout en exprimant votre intérêt pour évoluer dans l'entreprise. Rédigez un courriel professionnel (180-220 mots) à votre responsable dans lequel vous : remerciez pour la confiance accordée, expliquez clairement votre refus en justifiant vos raisons, proposez des alternatives concrètes (télétravail partiel, autre poste, formation interne), et maintenez une relation professionnelle positive. Utilisez au moins quatre connecteurs d'opposition, de concession et de but étudiés aujourd'hui (bien que, malgré, afin que, cependant, néanmoins, etc.).",
+  "vocab": [
+    {
+      "word": "néanmoins",
+      "translation": "no entanto, contudo",
+      "example": "L'offre est intéressante ; néanmoins, je dois la décliner pour des raisons familiales."
+    },
+    {
+      "word": "fidéliser",
+      "translation": "fidelizar",
+      "example": "L'entreprise cherche à fidéliser ses meilleurs employés par des avantages sociaux."
+    },
+    {
+      "word": "se prêter à",
+      "translation": "prestar-se a, ser adequado para",
+      "example": "Tous les métiers ne se prêtent pas au télétravail intégral."
+    },
+    {
+      "word": "en dépit de",
+      "translation": "apesar de",
+      "example": "En dépit des difficultés économiques, la PME a maintenu tous ses emplois."
+    },
+    {
+      "word": "en vue de",
+      "translation": "com vista a, a fim de",
+      "example": "Une réunion est organisée en vue de définir la nouvelle stratégie commerciale."
+    },
+    {
+      "word": "réticent",
+      "translation": "relutante, hesitante",
+      "example": "Certains managers restent réticents face à la semaine de quatre jours."
+    },
+    {
+      "word": "pourtant",
+      "translation": "no entanto, contudo",
+      "example": "Il avait beaucoup étudié ; pourtant, il a échoué à l'examen."
+    },
+    {
+      "word": "à moins que",
+      "translation": "a menos que",
+      "example": "Je viendrai à la réunion à moins que mon train ne soit annulé."
+    }
+  ]
+}

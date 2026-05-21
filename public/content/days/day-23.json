@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le <strong>courrier des lecteurs</strong> et l'<strong>article d'opinion</strong> sont des genres journalistiques dans lesquels l'auteur exprime une position personnelle sur un sujet d'actualité. Au TCF, on vous demandera souvent de réagir à un article ou de défendre un point de vue dans la presse.</p><p><strong>Structure type :</strong></p><ul><li><strong>Formule d'ouverture</strong> : Madame, Monsieur, / À l'attention de la rédaction,</li><li><strong>Référence à l'article</strong> : J'ai lu avec intérêt / Suite à votre article du... / En réaction à l'article paru le...</li><li><strong>Prise de position claire</strong> : Je tiens à exprimer mon désaccord / Je partage l'analyse de votre journaliste...</li><li><strong>Argumentation</strong> : 2 ou 3 arguments illustrés par des exemples concrets</li><li><strong>Conclusion engagée</strong> : appel à l'action, espoir, mise en garde</li><li><strong>Formule de politesse</strong> : Veuillez agréer... / Je vous prie de recevoir mes salutations distinguées.</li></ul><p><strong>Les connecteurs argumentatifs essentiels :</strong></p><table><tr><td>Concession</td><td><strong>certes... mais</strong>, bien que, malgré</td></tr><tr><td>Opposition</td><td><strong>en revanche</strong>, toutefois, néanmoins</td></tr><tr><td>Cause</td><td>en effet, étant donné que, du fait que</td></tr><tr><td>Conséquence</td><td>par conséquent, c'est pourquoi, dès lors</td></tr><tr><td>Addition</td><td>de plus, en outre, par ailleurs</td></tr><tr><td>Illustration</td><td>à titre d'exemple, notamment, ainsi</td></tr></table><p><strong>Verbes d'opinion utiles</strong> (au subjonctif quand ils expriment doute/sentiment) :</p><table><tr><td>je</td><td><strong>estime / déplore / regrette</strong></td></tr><tr><td>tu</td><td><strong>estimes / déplores / regrettes</strong></td></tr><tr><td>il/elle</td><td><strong>estime / déplore / regrette</strong></td></tr><tr><td>nous</td><td><strong>estimons / déplorons / regrettons</strong></td></tr><tr><td>vous</td><td><strong>estimez / déplorez / regrettez</strong></td></tr><tr><td>ils/elles</td><td><strong>estiment / déplorent / regrettent</strong></td></tr></table><p><strong>Pièges pour lusophones :</strong></p><ul><li>Ne pas calquer le portugais : on dit <em>je suis d'accord avec</em> (et non <em>je suis d'accord de</em>).</li><li>Le verbe <em>discuter</em> en français signifie <em>débattre</em>, pas <em>se disputer</em>.</li><li>Évitez <em>en mon avis</em> : dites <strong>à mon avis</strong> ou <strong>selon moi</strong>.</li><li>Le registre doit rester <strong>soutenu</strong> : pas de familiarité ni d'oralité (<em>ça, du coup, genre</em> à proscrire).</li></ul><p>Un bon courrier des lecteurs est <strong>court, percutant et argumenté</strong>. Il ne s'agit pas de tout dire, mais d'imposer un point de vue clair en 200 mots.</p>",
+  "examples": [
+    {
+      "sentence": "Suite à votre article paru le 12 mars dernier, je tiens à exprimer mon profond désaccord avec les conclusions de votre journaliste.",
+      "note": "Formule d'ouverture classique faisant référence à l'article avec date précise."
+    },
+    {
+      "sentence": "Certes, la réforme présente quelques avantages, mais ses conséquences sur les classes populaires sont largement sous-estimées.",
+      "note": "Le couple certes... mais permet de reconnaître l'argument adverse avant de le réfuter."
+    },
+    {
+      "sentence": "À titre d'exemple, dans ma commune, trois commerces de proximité ont fermé en moins d'un an.",
+      "note": "Illustrer par un exemple concret renforce considérablement l'argumentation."
+    },
+    {
+      "sentence": "Je déplore que les pouvoirs publics n'aient pas anticipé cette situation préoccupante.",
+      "note": "Verbe d'opinion exprimant le regret, suivi du subjonctif passé."
+    },
+    {
+      "sentence": "Par conséquent, il me semble urgent que la rédaction donne la parole aux premiers concernés.",
+      "note": "Conclusion engagée avec appel à l'action, registre soutenu."
+    },
+    {
+      "sentence": "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+      "note": "Formule de politesse obligatoire pour clore un courrier formel."
+    }
+  ],
+  "reading": {
+    "passage": "Faut-il interdire les trottinettes électriques en libre-service ? Le débat, relancé après le référendum parisien de 2023 qui avait conduit à leur suppression dans la capitale, agite désormais les conseils municipaux de nombreuses villes françaises. À Lyon, Marseille ou Bordeaux, élus et associations s'affrontent sur l'avenir de ce mode de transport controversé.\n\nLes défenseurs des trottinettes mettent en avant leur faible empreinte carbone et leur utilité pour les trajets courts, particulièrement dans les zones mal desservies par les transports en commun. Selon une étude de l'Ademe, un trajet en trottinette partagée émet en moyenne quatre fois moins de CO2 qu'un trajet équivalent en voiture individuelle.\n\nLeurs détracteurs, eux, dénoncent une cohabitation impossible avec les piétons. Les chiffres parlent : en 2022, on a recensé 459 blessés graves et 35 décès liés à ces engins. Les associations de personnes âgées et de malvoyants exigent leur interdiction pure et simple, estimant que les trottoirs sont devenus dangereux.\n\nDe leur côté, les opérateurs proposent des compromis : limitation de vitesse à 10 km/h en centre-ville, obligation du port du casque, identification numérique de chaque engin. Mais ces mesures peinent à convaincre. Lors d'une consultation menée à Toulouse, 62 % des habitants se sont déclarés favorables au retrait des flottes.\n\nLa question dépasse le simple choix d'un mode de transport. Elle interroge notre conception de l'espace public et la place que nous souhaitons accorder aux mobilités dites douces.",
+    "questions": [
+      {
+        "question": "Quel est le principal argument des défenseurs des trottinettes électriques ?",
+        "options": [
+          "Leur faible coût pour les usagers",
+          "Leur impact environnemental réduit par rapport à la voiture",
+          "Leur vitesse élevée en milieu urbain",
+          "Leur popularité auprès des jeunes"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise qu'un trajet en trottinette émet quatre fois moins de CO2 qu'un trajet en voiture."
+      },
+      {
+        "question": "Que signifie le mot détracteurs dans le texte ?",
+        "options": [
+          "Personnes qui défendent une idée",
+          "Personnes qui critiquent ou s'opposent",
+          "Personnes qui utilisent un service",
+          "Personnes qui réglementent"
+        ],
+        "correct": 1,
+        "explanation": "Les détracteurs sont ceux qui critiquent, par opposition aux défenseurs mentionnés au paragraphe précédent."
+      },
+      {
+        "question": "Quelle conclusion l'auteur tire-t-il du débat ?",
+        "options": [
+          "Les trottinettes doivent être totalement interdites",
+          "Le problème concerne uniquement la sécurité routière",
+          "Le débat révèle une question plus large sur l'espace public",
+          "Les compromis proposés résoudront le conflit"
+        ],
+        "correct": 2,
+        "explanation": "Le dernier paragraphe élargit la réflexion à la conception de l'espace public et aux mobilités douces."
+      },
+      {
+        "question": "Que peut-on déduire de la consultation menée à Toulouse ?",
+        "options": [
+          "Les habitants sont majoritairement opposés aux trottinettes en libre-service",
+          "La ville a déjà interdit les trottinettes",
+          "Les Toulousains soutiennent les opérateurs",
+          "Le résultat est partagé équitablement"
+        ],
+        "correct": 0,
+        "explanation": "62 % se déclarent favorables au retrait, ce qui constitue une majorité claire d'opposants."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quelle formule d'ouverture est la plus appropriée pour un courrier des lecteurs ?",
+      "options": [
+        "Salut la rédaction,",
+        "Coucou,",
+        "Madame, Monsieur,",
+        "Hé les journalistes,"
+      ],
+      "correct": 2,
+      "explanation": "Le registre formel exige Madame, Monsieur, qui est la formule standard."
+    },
+    {
+      "question": "Complétez : Suite ___ votre article du 15 avril, je souhaite réagir.",
+      "options": [
+        "de",
+        "à",
+        "avec",
+        "pour"
+      ],
+      "correct": 1,
+      "explanation": "L'expression figée est suite à, suivie d'un complément."
+    },
+    {
+      "question": "Quel connecteur exprime une concession ?",
+      "options": [
+        "par conséquent",
+        "certes... mais",
+        "en effet",
+        "de plus"
+      ],
+      "correct": 1,
+      "explanation": "Certes... mais reconnaît un point adverse avant de le contrer : c'est une concession."
+    },
+    {
+      "question": "Quelle phrase est au registre soutenu, adaptée à un courrier des lecteurs ?",
+      "options": [
+        "Votre article m'a saoulé grave.",
+        "C'est trop nul ce que vous dites.",
+        "Je déplore le ton condescendant de votre éditorial.",
+        "Franchement, vous racontez n'importe quoi."
+      ],
+      "correct": 2,
+      "explanation": "Déplorer et condescendant relèvent du registre soutenu, sans familiarité."
+    },
+    {
+      "question": "Choisissez la forme correcte : Je regrette que la mairie ___ pris cette décision.",
+      "options": [
+        "a",
+        "avait",
+        "ait",
+        "aurait"
+      ],
+      "correct": 2,
+      "explanation": "Après je regrette que, on emploie le subjonctif passé : ait pris."
+    },
+    {
+      "question": "Quelle formule de politesse termine correctement un courrier formel ?",
+      "options": [
+        "Bisous,",
+        "À plus,",
+        "Veuillez agréer mes salutations distinguées.",
+        "Cordialement à toi,"
+      ],
+      "correct": 2,
+      "explanation": "C'est la formule de clôture standard du courrier administratif et journalistique."
+    },
+    {
+      "question": "Quel verbe convient pour exprimer un fort désaccord dans un courrier d'opinion ?",
+      "options": [
+        "adorer",
+        "contester",
+        "savourer",
+        "féliciter"
+      ],
+      "correct": 1,
+      "explanation": "Contester signifie remettre en cause, refuser : il marque un désaccord argumenté."
+    },
+    {
+      "question": "Complétez : ___ moi, cette mesure est totalement injustifiée.",
+      "options": [
+        "Dans",
+        "En",
+        "Selon",
+        "Avec"
+      ],
+      "correct": 2,
+      "explanation": "Selon moi est l'équivalent soutenu de à mon avis. Attention au calque du portugais en mon avis qui est incorrect."
+    },
+    {
+      "question": "Quelle phrase illustre le mieux une argumentation par l'exemple ?",
+      "options": [
+        "Je pense que c'est important.",
+        "À titre d'exemple, ma propre commune a perdu 200 emplois.",
+        "Tout le monde le sait.",
+        "C'est évident pour tous."
+      ],
+      "correct": 1,
+      "explanation": "À titre d'exemple introduit une illustration concrète qui appuie l'argument."
+    },
+    {
+      "question": "Quel est l'objectif principal d'un courrier des lecteurs ?",
+      "options": [
+        "Raconter sa vie personnelle",
+        "Demander un service à la rédaction",
+        "Exprimer une opinion argumentée sur un sujet d'actualité",
+        "Faire de la publicité"
+      ],
+      "correct": 2,
+      "explanation": "Le courrier des lecteurs est un espace d'expression argumentée sur l'actualité."
+    }
+  ],
+  "writingPrompt": "Le journal régional Le Progrès a publié hier un éditorial intitulé Télétravail : la fin du lien social en entreprise ?, dans lequel le journaliste affirme que la généralisation du travail à distance détruit la cohésion des équipes, isole les salariés et appauvrit la culture d'entreprise. Vous travaillez en France et vous estimez que cette analyse est trop simpliste ou au contraire pertinente. Rédigez un courrier des lecteurs (180 à 220 mots) à l'attention de la rédaction. Vous devez : faire référence à l'article, prendre position clairement, développer deux arguments illustrés d'exemples concrets tirés de votre expérience ou observation, et conclure par un appel à une réflexion plus nuancée. Respectez le registre formel et utilisez les formules d'ouverture et de politesse appropriées.",
+  "vocab": [
+    {
+      "word": "déplorer",
+      "translation": "lamentar, deplorar",
+      "example": "Je déplore le manque de nuance de votre éditorial sur cette question complexe."
+    },
+    {
+      "word": "à titre d'exemple",
+      "translation": "a título de exemplo",
+      "example": "À titre d'exemple, ma propre entreprise a vu sa productivité augmenter avec le télétravail."
+    },
+    {
+      "word": "en revanche",
+      "translation": "em contrapartida, por outro lado",
+      "example": "Les bureaux paraissent vides ; en revanche, les échanges en visioconférence se sont multipliés."
+    },
+    {
+      "word": "un éditorial",
+      "translation": "um editorial",
+      "example": "Votre éditorial du 3 mai aborde un sujet essentiel mais sous un angle réducteur."
+    },
+    {
+      "word": "nuancer",
+      "translation": "matizar, ponderar",
+      "example": "Il convient de nuancer ce constat alarmiste par des données plus récentes."
+    },
+    {
+      "word": "préoccupant",
+      "translation": "preocupante",
+      "example": "Le ton préoccupant de l'article ne reflète pas la réalité vécue par les salariés."
+    },
+    {
+      "word": "prendre position",
+      "translation": "tomar posição",
+      "example": "J'ai souhaité prendre position publiquement sur ce débat qui me concerne directement."
+    },
+    {
+      "word": "par conséquent",
+      "translation": "por conseguinte, portanto",
+      "example": "Les chiffres sont contestables ; par conséquent, vos conclusions me semblent hâtives."
+    }
+  ]
+}

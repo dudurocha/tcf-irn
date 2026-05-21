@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les expressions de temps permettent de situer une action dans la durée ou par rapport à un moment précis. Cinq mots-clés sont essentiels en B2 : <strong>depuis</strong>, <strong>pendant</strong>, <strong>pour</strong>, <strong>il y a</strong>, <strong>dès</strong>.</p><p><strong>1. DEPUIS</strong> : indique le point de départ d'une action qui continue dans le présent. Le verbe est au <em>présent</em> (ou à l'imparfait si dans le passé).</p><ul><li><code>J'habite en France depuis 2020.</code> (j'y habite encore)</li><li><code>Il pleut depuis trois heures.</code></li></ul><p><strong>Piège lusophone</strong> : en portugais, on dirait <em>moro na França desde 2020</em> avec un verbe au présent — la structure est identique, mais attention à ne PAS utiliser le passé composé : <em>j'ai habité depuis 2020</em> est incorrect.</p><p><strong>2. PENDANT</strong> : indique la durée complète d'une action terminée ou délimitée. Compatible avec tous les temps.</p><ul><li><code>J'ai travaillé pendant cinq ans à São Paulo.</code></li><li><code>Pendant les vacances, je lis beaucoup.</code></li></ul><p><strong>3. POUR</strong> : indique une durée <em>prévue</em>, projetée dans le futur. Souvent avec des verbes comme <em>partir, venir, s'installer</em>.</p><ul><li><code>Je pars à Lyon pour deux semaines.</code> (durée prévue)</li><li><code>Il est venu en France pour six mois.</code></li></ul><p><strong>Attention</strong> : ne confondez pas <em>pour</em> et <em>pendant</em>. <em>J'ai vécu pour cinq ans à Paris</em> est incorrect — il faut <em>pendant</em>. Le portugais <em>por</em> traduit souvent les deux, d'où la confusion.</p><p><strong>4. IL Y A</strong> : indique un moment précis dans le passé (combien de temps avant maintenant). Verbe au passé composé.</p><ul><li><code>Je suis arrivé en France il y a deux ans.</code></li><li><code>Il y a longtemps, j'étudiais le français au Brésil.</code></li></ul><p><strong>Ne confondez pas</strong> <em>il y a</em> (moment passé) et <em>depuis</em> (durée jusqu'à présent) : <em>Je travaille ici depuis trois ans</em> ≠ <em>J'ai commencé il y a trois ans</em>.</p><p><strong>5. DÈS</strong> : marque un point de départ immédiat, souvent dans le futur ou avec une nuance de rapidité. Plus fort que <em>à partir de</em>.</p><ul><li><code>Dès mon arrivée, j'ai cherché un logement.</code></li><li><code>Le magasin ouvre dès 7 heures.</code></li></ul><table><tr><td><strong>Depuis</strong></td><td>point de départ, action continue</td></tr><tr><td><strong>Pendant</strong></td><td>durée délimitée</td></tr><tr><td><strong>Pour</strong></td><td>durée prévue (futur)</td></tr><tr><td><strong>Il y a</strong></td><td>moment passé précis</td></tr><tr><td><strong>Dès</strong></td><td>point de départ immédiat</td></tr></table>",
+  "examples": [
+    {
+      "sentence": "Je vis à Toulouse depuis trois ans et je m'y sens chez moi.",
+      "note": "depuis + présent : action qui continue"
+    },
+    {
+      "sentence": "Pendant la grève des transports, j'ai dû télétravailler tous les jours.",
+      "note": "pendant + durée délimitée d'une action passée"
+    },
+    {
+      "sentence": "Ma sœur vient à Paris pour une semaine en décembre.",
+      "note": "pour + durée prévue dans le futur"
+    },
+    {
+      "sentence": "J'ai obtenu mon titre de séjour il y a six mois.",
+      "note": "il y a + passé composé : moment précis dans le passé"
+    },
+    {
+      "sentence": "Dès la publication des résultats, les candidats ont été convoqués.",
+      "note": "dès = point de départ immédiat, sens de rapidité"
+    },
+    {
+      "sentence": "Il a étudié à la Sorbonne pendant quatre ans, puis il est rentré au Brésil il y a deux mois.",
+      "note": "combinaison pendant (durée) + il y a (moment passé)"
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail s'est imposé dans le paysage professionnel français depuis la pandémie de Covid-19. Avant 2020, seuls 7 % des salariés y avaient recours occasionnellement. Pendant les confinements successifs, des millions de Français ont découvert ce mode d'organisation, souvent dans l'urgence. Aujourd'hui, près de 40 % des cadres travaillent à distance au moins un jour par semaine.\n\nCette transformation n'est pas sans conséquences. Dès le début de l'année 2023, plusieurs grandes entreprises, notamment dans la tech et la banque, ont tenté de faire revenir leurs salariés au bureau. Certaines proposent un compromis : deux ou trois jours sur site, le reste à domicile. D'autres, comme Ubisoft ou Disneyland Paris, ont exigé un retour quasi-total, provoquant des grèves et des départs.\n\nLes partisans du télétravail mettent en avant la qualité de vie : moins de temps perdu dans les transports, meilleur équilibre vie professionnelle-vie personnelle, économies sur les repas. Une étude de l'INSEE publiée il y a quelques mois montre que 73 % des télétravailleurs souhaitent conserver cette flexibilité pour les années à venir.\n\nMais les détracteurs soulignent les risques : isolement social, difficulté à former les nouveaux arrivants, dilution de la culture d'entreprise. Pendant que les débats se poursuivent, le législateur tente d'encadrer la pratique. Depuis 2022, un accord national interprofessionnel garantit un droit à la déconnexion et impose à l'employeur de prendre en charge certains frais.\n\nLa France semble s'orienter vers un modèle hybride durable, qui transforme en profondeur les villes, l'immobilier de bureau et même les relations sociales au travail.",
+    "questions": [
+      {
+        "question": "Quel est le principal constat fait par le texte ?",
+        "options": [
+          "Le télétravail a totalement disparu après la pandémie",
+          "Le télétravail s'est durablement installé en France malgré des résistances",
+          "Toutes les entreprises françaises imposent désormais le télétravail",
+          "Le télétravail n'existait pas avant 2020"
+        ],
+        "correct": 1,
+        "explanation": "Le texte montre que le télétravail s'est imposé durablement (40 % des cadres) tout en mentionnant les résistances de certaines entreprises."
+      },
+      {
+        "question": "Que signifie l'expression faire revenir leurs salariés au bureau dans le contexte ?",
+        "options": [
+          "Recruter de nouveaux employés",
+          "Obliger les employés à travailler à nouveau sur place",
+          "Augmenter les salaires",
+          "Organiser des réunions exceptionnelles"
+        ],
+        "correct": 1,
+        "explanation": "Le contexte indique clairement qu'il s'agit d'exiger un retour physique des salariés sur le lieu de travail."
+      },
+      {
+        "question": "Selon le texte, quel pourcentage de télétravailleurs souhaite garder cette flexibilité ?",
+        "options": [
+          "40 %",
+          "7 %",
+          "73 %",
+          "100 %"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement que 73 % des télétravailleurs veulent conserver cette flexibilité, d'après une étude de l'INSEE."
+      },
+      {
+        "question": "Qu'est-ce qu'on peut déduire de l'évolution future du travail en France ?",
+        "options": [
+          "Un retour complet au bureau est inévitable",
+          "Le télétravail va être interdit par la loi",
+          "Un modèle mixte combinant présentiel et distanciel va perdurer",
+          "Toutes les entreprises vont fermer leurs bureaux"
+        ],
+        "correct": 2,
+        "explanation": "La dernière phrase évoque explicitement un modèle hybride durable, c'est-à-dire mixte."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "J'apprends le français ___ deux ans et demi.",
+      "options": [
+        "pendant",
+        "depuis",
+        "il y a",
+        "pour"
+      ],
+      "correct": 1,
+      "explanation": "<strong>depuis</strong> indique une action qui a commencé dans le passé et continue au présent."
+    },
+    {
+      "question": "Nous sommes arrivés à Marseille ___ six mois, en juin dernier.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dès"
+      ],
+      "correct": 2,
+      "explanation": "<strong>il y a</strong> + durée indique un moment précis dans le passé."
+    },
+    {
+      "question": "Mon collègue part en mission au Canada ___ trois semaines.",
+      "options": [
+        "pendant",
+        "pour",
+        "depuis",
+        "il y a"
+      ],
+      "correct": 1,
+      "explanation": "<strong>pour</strong> exprime une durée prévue dans le futur, avec un verbe de déplacement."
+    },
+    {
+      "question": "___ son arrivée à la préfecture, elle a été accueillie par un agent.",
+      "options": [
+        "Depuis",
+        "Pendant",
+        "Pour",
+        "Dès"
+      ],
+      "correct": 3,
+      "explanation": "<strong>Dès</strong> indique un point de départ immédiat avec une nuance de rapidité."
+    },
+    {
+      "question": "J'ai habité à Lille ___ quatre ans avant de venir à Paris.",
+      "options": [
+        "pendant",
+        "depuis",
+        "pour",
+        "dès"
+      ],
+      "correct": 0,
+      "explanation": "<strong>pendant</strong> exprime la durée complète d'une action terminée dans le passé."
+    },
+    {
+      "question": "Le centre commercial est ouvert ___ 8 heures du matin jusqu'à 22 heures.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dès"
+      ],
+      "correct": 3,
+      "explanation": "<strong>dès</strong> marque un point de départ horaire avec une nuance d'immédiateté."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE ?",
+      "options": [
+        "Je suis en France depuis 2021.",
+        "J'ai vécu pour cinq ans à Berlin.",
+        "Il est parti il y a une heure.",
+        "Nous travaillerons pendant tout l'été."
+      ],
+      "correct": 1,
+      "explanation": "Il faut dire <strong>pendant cinq ans</strong> (durée passée délimitée), pas <em>pour cinq ans</em>."
+    },
+    {
+      "question": "___ la réforme des retraites, des manifestations ont eu lieu partout en France.",
+      "options": [
+        "Depuis",
+        "Pendant",
+        "Pour",
+        "Il y a"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Pendant</strong> exprime la durée d'un événement délimité dans le temps."
+    },
+    {
+      "question": "Choisissez la phrase équivalente à : J'ai commencé à travailler ici en 2022.",
+      "options": [
+        "Je travaille ici pour 2022.",
+        "Je travaille ici pendant 2022.",
+        "Je travaille ici depuis 2022.",
+        "Je travaille ici dès 2022."
+      ],
+      "correct": 2,
+      "explanation": "<strong>depuis 2022</strong> exprime correctement le point de départ d'une action qui continue."
+    },
+    {
+      "question": "Le candidat doit présenter son dossier ___ la date d'ouverture des inscriptions, sous peine de refus.",
+      "options": [
+        "pendant",
+        "pour",
+        "dès",
+        "il y a"
+      ],
+      "correct": 2,
+      "explanation": "<strong>dès</strong> exprime ici l'obligation d'agir immédiatement à partir d'un moment précis."
+    }
+  ],
+  "writingPrompt": "Écrivez une lettre à votre futur·e vous, dix ans plus tard. Vous y évoquez votre vie actuelle en France (depuis combien de temps vous y êtes, ce que vous faites pendant vos journées, ce que vous avez accompli il y a peu), vos espoirs et vos craintes pour l'avenir, et les questions que vous aimeriez poser à cette version plus âgée de vous-même. Utilisez plusieurs expressions de temps (depuis, pendant, pour, il y a, dès) de manière naturelle. Le ton peut être personnel et réflexif. 180 à 220 mots.",
+  "vocab": [
+    {
+      "word": "désormais",
+      "translation": "doravante, a partir de agora",
+      "example": "Désormais, je dois renouveler mon titre de séjour tous les deux ans."
+    },
+    {
+      "word": "à long terme",
+      "translation": "a longo prazo",
+      "example": "À long terme, je souhaite m'installer définitivement en France."
+    },
+    {
+      "word": "auparavant",
+      "translation": "anteriormente, antes",
+      "example": "Auparavant, je travaillais dans une banque à São Paulo."
+    },
+    {
+      "word": "au fil des années",
+      "translation": "ao longo dos anos",
+      "example": "Au fil des années, mon français s'est nettement amélioré."
+    },
+    {
+      "word": "à peine",
+      "translation": "mal, apenas",
+      "example": "Je connais cette ville depuis à peine trois mois."
+    },
+    {
+      "word": "d'ici là",
+      "translation": "até lá",
+      "example": "L'examen est en juin ; d'ici là, je dois beaucoup réviser."
+    },
+    {
+      "word": "sur le long terme",
+      "translation": "no longo prazo",
+      "example": "Le télétravail aura des effets importants sur le long terme."
+    },
+    {
+      "word": "entre-temps",
+      "translation": "enquanto isso, nesse meio-tempo",
+      "example": "Ma demande sera traitée en avril ; entre-temps, je dois patienter."
+    }
+  ]
+}

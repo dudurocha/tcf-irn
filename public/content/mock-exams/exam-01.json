@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis plusieurs années, le télétravail s'est imposé comme une composante essentielle du monde professionnel français. Accéléré par la crise sanitaire de 2020, ce mode d'organisation a profondément transformé la relation entre les salariés et leur entreprise. Selon une étude récente de l'INSEE, près d'un actif sur trois pratique aujourd'hui le travail à distance, au moins partiellement. Cette évolution soulève cependant des interrogations légitimes sur ses effets à long terme.\n\nLes partisans du télétravail mettent en avant ses nombreux avantages. La suppression des trajets quotidiens permet un gain de temps considérable et réduit le stress lié aux transports en commun saturés des grandes métropoles. De plus, les employés bénéficient d'une plus grande autonomie dans l'organisation de leurs journées, ce qui favoriserait, selon eux, un meilleur équilibre entre vie professionnelle et vie personnelle. Certaines entreprises constatent même une hausse de productivité et une baisse de l'absentéisme.\n\nToutefois, les critiques se multiplient également. Plusieurs syndicats dénoncent un effritement du lien social au sein des équipes et une frontière de plus en plus floue entre le bureau et le domicile. Les psychologues du travail alertent sur l'isolement croissant de certains salariés, notamment les plus jeunes, qui peinent à s'intégrer professionnellement sans contact direct avec leurs collègues. Par ailleurs, tous les métiers ne sont pas éligibles au télétravail, ce qui creuse de nouvelles inégalités entre les cadres et les employés des secteurs manuels ou de service.\n\nFace à ces enjeux, le législateur français a progressivement encadré cette pratique. La loi impose désormais aux employeurs de couvrir certains frais professionnels et garantit un véritable <strong>droit à la déconnexion</strong>. Néanmoins, l'application concrète de ces dispositions reste très inégale selon les entreprises. Le télétravail n'est donc ni la solution miracle vantée par certains, ni la menace redoutée par d'autres : il s'agit d'un outil qu'il convient d'adapter intelligemment aux réalités de chaque secteur.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail doit être généralisé à toutes les professions",
+          "Le télétravail présente des avantages et des inconvénients qu'il faut équilibrer",
+          "Le télétravail a été imposé par la crise sanitaire de 2020",
+          "Le télétravail est une menace pour le monde du travail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente un panorama nuancé, mentionnant à la fois les bénéfices et les limites du télétravail."
+      },
+      {
+        "question": "Selon le texte, quelle conséquence négative du télétravail est soulignée par les psychologues ?",
+        "options": [
+          "La baisse de productivité des salariés",
+          "L'augmentation des frais professionnels",
+          "L'isolement des jeunes salariés",
+          "La hausse de l'absentéisme"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement l'alerte des psychologues sur l'isolement, particulièrement chez les plus jeunes."
+      },
+      {
+        "question": "Dans le contexte du texte, que signifie l'expression un effritement du lien social ?",
+        "options": [
+          "Une amélioration des relations entre collègues",
+          "Une rupture brutale des contrats de travail",
+          "Un affaiblissement progressif des relations entre collègues",
+          "Une augmentation des conflits dans les équipes"
+        ],
+        "correct": 2,
+        "explanation": "Effritement évoque une dégradation lente et progressive ; ici, des liens sociaux au travail."
+      },
+      {
+        "question": "Que peut-on déduire de la dernière phrase du texte ?",
+        "options": [
+          "Le télétravail doit être interdit dans certains secteurs",
+          "L'auteur adopte une position équilibrée et pragmatique",
+          "L'auteur condamne fermement le télétravail",
+          "Le télétravail est la meilleure solution pour tous"
+        ],
+        "correct": 1,
+        "explanation": "La conclusion rejette les positions extrêmes et appelle à une adaptation selon les secteurs : c'est une posture nuancée."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Si j'avais su que tu venais, je _____ un gâteau.",
+      "options": [
+        "aurais préparé",
+        "avais préparé",
+        "préparerais",
+        "aurai préparé"
+      ],
+      "correct": 0,
+      "explanation": "Conditionnel passé après une hypothèse au plus-que-parfait (irréel du passé)."
+    },
+    {
+      "question": "Quel mot est le synonyme le plus proche de réticent ?",
+      "options": [
+        "Enthousiaste",
+        "Hésitant",
+        "Furieux",
+        "Indifférent"
+      ],
+      "correct": 1,
+      "explanation": "Réticent signifie qui montre de la réserve, donc hésitant."
+    },
+    {
+      "question": "Pour obtenir un titre de séjour en préfecture, il faut généralement :",
+      "options": [
+        "Aller à la mairie sans rendez-vous",
+        "Prendre un rendez-vous en ligne et préparer un dossier",
+        "Téléphoner au ministère de l'Intérieur",
+        "Se présenter au commissariat de police"
+      ],
+      "correct": 1,
+      "explanation": "Les démarches en préfecture exigent désormais quasi systématiquement une prise de rendez-vous en ligne avec dossier complet."
+    },
+    {
+      "question": "Choisissez le connecteur logique le plus approprié : Il pleuvait beaucoup ; _____, nous avons décidé de sortir.",
+      "options": [
+        "par conséquent",
+        "néanmoins",
+        "en effet",
+        "c'est pourquoi"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins exprime une opposition cohérente avec le contexte (sortir malgré la pluie)."
+    },
+    {
+      "question": "Le pronom dont remplace un complément introduit par :",
+      "options": [
+        "à",
+        "de",
+        "pour",
+        "avec"
+      ],
+      "correct": 1,
+      "explanation": "Dont remplace systématiquement un complément introduit par la préposition de."
+    },
+    {
+      "question": "Que signifie l'expression coûter les yeux de la tête ?",
+      "options": [
+        "Être très bon marché",
+        "Être très cher",
+        "Être inestimable",
+        "Être de mauvaise qualité"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression idiomatique signifie qu'un produit est extrêmement cher."
+    },
+    {
+      "question": "Les fleurs que j'ai _____ sont magnifiques.",
+      "options": [
+        "acheté",
+        "achetées",
+        "achetés",
+        "achetée"
+      ],
+      "correct": 1,
+      "explanation": "Accord du participe passé avec COD (les fleurs, féminin pluriel) placé avant l'auxiliaire avoir."
+    },
+    {
+      "question": "Dans la phrase Bien qu'il soit fatigué, il continue à travailler, que signifie bien que ?",
+      "options": [
+        "Parce que",
+        "Pendant que",
+        "Même si",
+        "Dès que"
+      ],
+      "correct": 2,
+      "explanation": "Bien que introduit une concession équivalente à même si ; il est suivi du subjonctif."
+    },
+    {
+      "question": "Quel registre de langue correspond à la phrase Tu peux me filer un coup de main ? ?",
+      "options": [
+        "Soutenu",
+        "Standard",
+        "Familier",
+        "Littéraire"
+      ],
+      "correct": 2,
+      "explanation": "Filer un coup de main est une expression familière équivalente à aider."
+    },
+    {
+      "question": "Vous voulez que je _____ avec vous demain ?",
+      "options": [
+        "viens",
+        "vienne",
+        "viendrai",
+        "venir"
+      ],
+      "correct": 1,
+      "explanation": "Après vouloir que, on utilise le subjonctif présent : que je vienne."
+    },
+    {
+      "question": "Dans un entretien d'embauche en France, il est inapproprié de :",
+      "options": [
+        "Poser des questions sur l'entreprise",
+        "Demander d'emblée le salaire et les congés",
+        "Mentionner ses expériences précédentes",
+        "Préparer son CV à l'avance"
+      ],
+      "correct": 1,
+      "explanation": "Aborder trop tôt la rémunération est culturellement mal perçu lors d'un premier entretien en France."
+    },
+    {
+      "question": "Quel est l'antonyme de prudent ?",
+      "options": [
+        "Sage",
+        "Téméraire",
+        "Réfléchi",
+        "Attentif"
+      ],
+      "correct": 1,
+      "explanation": "Téméraire signifie qui agit sans mesurer le danger : contraire de prudent."
+    },
+    {
+      "question": "Reformulez : Il n'a pas réussi son examen faute d'avoir révisé.",
+      "options": [
+        "Il a échoué parce qu'il n'a pas révisé",
+        "Il a réussi grâce à ses révisions",
+        "Il a échoué malgré ses révisions",
+        "Il a révisé sans réussir"
+      ],
+      "correct": 0,
+      "explanation": "Faute de exprime la cause négative : l'absence de révisions a entraîné l'échec."
+    },
+    {
+      "question": "Dans la phrase Si tu venais ce soir, nous _____ ensemble, complétez correctement.",
+      "options": [
+        "dînerons",
+        "dînerions",
+        "aurions dîné",
+        "avions dîné"
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait dans la subordonnée appelle un conditionnel présent dans la principale."
+    },
+    {
+      "question": "L'expression mettre les pieds dans le plat signifie :",
+      "options": [
+        "Aborder un sujet délicat maladroitement",
+        "Manger avec appétit",
+        "Marcher sans précaution",
+        "Refuser une invitation"
+      ],
+      "correct": 0,
+      "explanation": "Cette expression signifie évoquer un sujet sensible avec maladresse, sans tact."
+    },
+    {
+      "question": "Quel connecteur introduit une conséquence ?",
+      "options": [
+        "Bien que",
+        "Si bien que",
+        "Pourvu que",
+        "À condition que"
+      ],
+      "correct": 1,
+      "explanation": "Si bien que introduit une conséquence ; les autres expriment concession ou condition."
+    },
+    {
+      "question": "À la Sécurité sociale française, la carte Vitale sert principalement à :",
+      "options": [
+        "Prouver son identité à la police",
+        "Bénéficier du remboursement des soins de santé",
+        "Ouvrir un compte bancaire",
+        "Obtenir un titre de séjour"
+      ],
+      "correct": 1,
+      "explanation": "La carte Vitale atteste de l'affiliation à la Sécurité sociale et permet le remboursement automatique des frais médicaux."
+    },
+    {
+      "question": "Choisissez la phrase grammaticalement correcte :",
+      "options": [
+        "Je m'en souviens de cette journée",
+        "Je me souviens de cette journée",
+        "Je me la souviens",
+        "Je souviens cette journée"
+      ],
+      "correct": 1,
+      "explanation": "Se souvenir se construit avec la préposition de, sans pronom en redondant."
+    },
+    {
+      "question": "Que signifie le verbe entériner dans un contexte administratif ?",
+      "options": [
+        "Annuler une décision",
+        "Confirmer officiellement une décision",
+        "Reporter une décision",
+        "Contester une décision"
+      ],
+      "correct": 1,
+      "explanation": "Entériner signifie valider, ratifier officiellement une décision."
+    },
+    {
+      "question": "Dans le débat français actuel, le terme transition écologique désigne :",
+      "options": [
+        "Le passage d'un modèle économique polluant à un modèle plus durable",
+        "Le retour à une économie agricole traditionnelle",
+        "L'abandon total des énergies renouvelables",
+        "Une période courte de vacances écologiques"
+      ],
+      "correct": 0,
+      "explanation": "La transition écologique vise à transformer progressivement les modes de production et de consommation pour réduire leur impact environnemental."
+    }
+  ],
+  "writingPrompt": "Vous avez récemment effectué une démarche administrative importante en France (renouvellement de titre de séjour, inscription à Pôle emploi, ouverture d'un compte bancaire, demande de carte Vitale, ou équivalence de diplôme). Racontez cette expérience dans un texte structuré de 180 à 220 mots : décrivez les étapes que vous avez suivies, les difficultés que vous avez rencontrées et la manière dont vous les avez surmontées. Concluez en partageant votre opinion personnelle sur le fonctionnement de l'administration française et les enseignements que vous tirez de cette expérience."
+}

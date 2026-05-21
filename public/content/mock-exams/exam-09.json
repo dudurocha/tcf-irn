@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé comme une réalité incontournable dans le paysage professionnel français. Si la crise sanitaire de 2020 a accéléré son adoption massive, ses conséquences sur le monde du travail continuent de susciter des débats animés. Selon une récente étude de la DARES, près de 33% des salariés français pratiquent désormais le télétravail au moins un jour par semaine, contre seulement 4% avant la pandémie.\n\nLes partisans de cette nouvelle organisation mettent en avant ses bénéfices indéniables : réduction du temps de transport, meilleur équilibre entre vie professionnelle et vie personnelle, économies substantielles pour les entreprises sur les loyers immobiliers. Certaines villes moyennes, comme Angers ou Limoges, profitent même de cette tendance grâce à l'arrivée de néo-habitants fuyant les métropoles saturées.\n\nCependant, les détracteurs soulignent des effets pervers que l'on aurait tort de minimiser. L'isolement professionnel guette de nombreux salariés, particulièrement les jeunes diplômés privés de la transmission informelle des savoirs qui s'opère habituellement entre collègues. Les frontières entre sphère privée et sphère professionnelle s'estompent dangereusement, conduisant parfois à un épuisement insidieux. Par ailleurs, le tissu commercial des centres-villes souffre considérablement de la désertion des bureaux : restaurants, cafés et commerces de proximité voient leur clientèle s'effondrer les jours de télétravail.\n\nFace à ces constats contrastés, le législateur français cherche un équilibre délicat. Le droit à la déconnexion, inscrit dans la loi depuis 2017, peine encore à s'appliquer concrètement. Plusieurs accords de branche tentent désormais d'encadrer le nombre maximal de jours télétravaillés, généralement plafonné à trois par semaine.\n\nL'enjeu dépasse la simple question organisationnelle : il s'agit de repenser en profondeur notre rapport au travail, à l'espace urbain et au lien social. Le télétravail, loin d'être une parenthèse, semble bien dessiner les contours d'une transformation durable de notre société.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale défendue dans ce texte ?",
+        "options": [
+          "Le télétravail doit être interdit",
+          "Le télétravail transforme durablement la société française avec des effets contrastés",
+          "Le télétravail est exclusivement bénéfique pour les salariés",
+          "Le télétravail concerne uniquement les grandes métropoles"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente une analyse nuancée des avantages et inconvénients du télétravail, concluant qu'il transforme durablement la société."
+      },
+      {
+        "question": "Selon le texte, quelle est une conséquence négative du télétravail pour les jeunes diplômés ?",
+        "options": [
+          "Une diminution de leur salaire",
+          "L'impossibilité de trouver un emploi",
+          "La privation de la transmission informelle des savoirs entre collègues",
+          "L'obligation de déménager en province"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement que les jeunes diplômés sont privés de la transmission informelle des savoirs."
+      },
+      {
+        "question": "Dans le texte, l'expression <em>s'estompent dangereusement</em> signifie :",
+        "options": [
+          "Se renforcent considérablement",
+          "S'effacent progressivement de manière préoccupante",
+          "Disparaissent totalement et soudainement",
+          "Se déplacent rapidement"
+        ],
+        "correct": 1,
+        "explanation": "S'estomper signifie devenir moins net, s'effacer progressivement ; l'adverbe dangereusement renforce l'aspect préoccupant."
+      },
+      {
+        "question": "Que peut-on inférer concernant le droit à la déconnexion ?",
+        "options": [
+          "Il est parfaitement respecté en France",
+          "Il n'existe pas dans la législation française",
+          "Son application concrète reste problématique malgré son existence légale",
+          "Il a été supprimé récemment"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique que ce droit, inscrit depuis 2017, peine encore à s'appliquer concrètement, ce qui suggère une difficulté d'application."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Si j'avais su, je <strong>...</strong> autrement.",
+      "options": [
+        "aurais agi",
+        "agirais",
+        "agissais",
+        "agirai"
+      ],
+      "correct": 0,
+      "explanation": "Après si + plus-que-parfait, on utilise le conditionnel passé pour exprimer un regret ou une hypothèse irréelle dans le passé."
+    },
+    {
+      "question": "Quel est le synonyme de <em>indéniable</em> dans un registre soutenu ?",
+      "options": [
+        "Douteux",
+        "Incontestable",
+        "Probable",
+        "Hypothétique"
+      ],
+      "correct": 1,
+      "explanation": "Indéniable et incontestable signifient tous deux ce qui ne peut être nié ou contesté."
+    },
+    {
+      "question": "Complétez : Les décisions <strong>...</strong> le gouvernement a prises sont contestées.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "lesquelles"
+      ],
+      "correct": 0,
+      "explanation": "Le pronom relatif que est COD du verbe a prises (les décisions = COD)."
+    },
+    {
+      "question": "À la mairie, pour obtenir un acte de naissance, vous devez vous adresser au service :",
+      "options": [
+        "Des impôts",
+        "De l'état civil",
+        "De l'urbanisme",
+        "Des espaces verts"
+      ],
+      "correct": 1,
+      "explanation": "Le service de l'état civil gère les actes de naissance, mariage et décès en France."
+    },
+    {
+      "question": "Choisissez le connecteur logique approprié : Il travaille beaucoup ; <strong>...</strong>, il reste fatigué.",
+      "options": [
+        "par conséquent",
+        "néanmoins",
+        "en effet",
+        "c'est-à-dire"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins exprime une opposition ou une concession entre les deux idées."
+    },
+    {
+      "question": "Quelle phrase exprime correctement une concession ?",
+      "options": [
+        "Bien qu'il pleut, je sors",
+        "Bien qu'il pleuve, je sors",
+        "Bien qu'il pleuvait, je sors",
+        "Bien qu'il pleuvra, je sors"
+      ],
+      "correct": 1,
+      "explanation": "Après bien que, on utilise toujours le subjonctif. Pleuve est le subjonctif présent de pleuvoir."
+    },
+    {
+      "question": "Que signifie l'expression idiomatique <em>avoir le bras long</em> ?",
+      "options": [
+        "Être très grand physiquement",
+        "Avoir de l'influence, des relations",
+        "Être paresseux",
+        "Voler facilement"
+      ],
+      "correct": 1,
+      "explanation": "Avoir le bras long signifie avoir de l'influence ou des relations utiles pour obtenir quelque chose."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Il s'intéresse <strong>...</strong> la politique française.",
+      "options": [
+        "de",
+        "à",
+        "pour",
+        "sur"
+      ],
+      "correct": 1,
+      "explanation": "Le verbe s'intéresser se construit avec la préposition à."
+    },
+    {
+      "question": "Quelle reformulation est équivalente à : <em>Faute de moyens, le projet a été abandonné</em> ?",
+      "options": [
+        "Grâce aux moyens, le projet a été abandonné",
+        "Parce qu'il manquait de moyens, le projet a été abandonné",
+        "Malgré les moyens, le projet a été abandonné",
+        "Si les moyens existaient, le projet serait abandonné"
+      ],
+      "correct": 1,
+      "explanation": "Faute de exprime la cause négative, équivalente à parce qu'il manquait de."
+    },
+    {
+      "question": "Un collègue vous dit : <em>Tu n'aurais pas dû lui en parler</em>. Quel acte de langage exprime-t-il ?",
+      "options": [
+        "Une félicitation",
+        "Un reproche",
+        "Une invitation",
+        "Un remerciement"
+      ],
+      "correct": 1,
+      "explanation": "Le conditionnel passé avec n'aurais pas dû exprime un reproche concernant une action passée."
+    },
+    {
+      "question": "Conjuguez correctement : Il faut que nous <strong>...</strong> à l'heure demain.",
+      "options": [
+        "sommes",
+        "soyons",
+        "serons",
+        "étions"
+      ],
+      "correct": 1,
+      "explanation": "Après il faut que, on utilise le subjonctif présent. Soyons est le subjonctif de être."
+    },
+    {
+      "question": "Quel est l'antonyme de <em>prodigue</em> ?",
+      "options": [
+        "Généreux",
+        "Économe",
+        "Riche",
+        "Aimable"
+      ],
+      "correct": 1,
+      "explanation": "Prodigue signifie qui dépense sans compter ; son antonyme est économe."
+    },
+    {
+      "question": "Dans quel contexte utilise-t-on l'expression <em>Je vous prie d'agréer mes salutations distinguées</em> ?",
+      "options": [
+        "Dans un SMS à un ami",
+        "À la fin d'une lettre formelle",
+        "Lors d'une rencontre informelle",
+        "Dans un message vocal familial"
+      ],
+      "correct": 1,
+      "explanation": "Cette formule appartient au registre soutenu et clôt les correspondances formelles ou administratives."
+    },
+    {
+      "question": "Choisissez l'accord correct : Les fleurs que j'ai <strong>...</strong> sont magnifiques.",
+      "options": [
+        "cueilli",
+        "cueillie",
+        "cueillis",
+        "cueillies"
+      ],
+      "correct": 3,
+      "explanation": "Le participe passé avec avoir s'accorde avec le COD (les fleurs, féminin pluriel) placé avant le verbe."
+    },
+    {
+      "question": "Que signifie la phrase : <em>Cette décision a fait grand bruit dans les médias</em> ?",
+      "options": [
+        "Elle a été silencieuse",
+        "Elle a beaucoup fait parler d'elle",
+        "Elle a été ignorée",
+        "Elle a été chuchotée"
+      ],
+      "correct": 1,
+      "explanation": "Faire grand bruit est une expression idiomatique signifiant susciter beaucoup de réactions et de commentaires."
+    },
+    {
+      "question": "En France, la CAF est un organisme qui :",
+      "options": [
+        "Gère les retraites",
+        "Verse des allocations familiales et des aides au logement",
+        "S'occupe des impôts",
+        "Délivre les passeports"
+      ],
+      "correct": 1,
+      "explanation": "La Caisse d'Allocations Familiales (CAF) verse diverses prestations sociales, notamment les allocations familiales et les APL."
+    },
+    {
+      "question": "Quel connecteur introduit une conséquence ?",
+      "options": [
+        "Pourtant",
+        "Si bien que",
+        "En revanche",
+        "Bien que"
+      ],
+      "correct": 1,
+      "explanation": "Si bien que introduit une conséquence ; les autres expriment l'opposition ou la concession."
+    },
+    {
+      "question": "Complétez avec le pronom correct : Ces documents, je <strong>...</strong> ai déjà envoyés au service.",
+      "options": [
+        "lui",
+        "leur",
+        "les",
+        "y"
+      ],
+      "correct": 2,
+      "explanation": "Ces documents est COD direct, remplacé par les. Envoyés s'accorde avec ce COD antéposé."
+    },
+    {
+      "question": "Que veut dire <em>tirer la sonnette d'alarme</em> ?",
+      "options": [
+        "Faire fonctionner une alarme",
+        "Alerter sur un danger ou un problème grave",
+        "Annoncer une bonne nouvelle",
+        "Demander le silence"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression idiomatique signifie attirer l'attention sur une situation préoccupante."
+    },
+    {
+      "question": "Choisissez la forme correcte du discours indirect : Il m'a dit : <em>Je viendrai demain</em>. → Il m'a dit qu'il <strong>...</strong> le lendemain.",
+      "options": [
+        "viendra",
+        "viendrait",
+        "venait",
+        "est venu"
+      ],
+      "correct": 1,
+      "explanation": "Dans le discours indirect au passé, le futur simple devient conditionnel présent, et demain devient le lendemain."
+    }
+  ],
+  "writingPrompt": "Dans plusieurs villes françaises, des municipalités envisagent d'interdire la circulation des voitures individuelles dans les centres-villes afin de lutter contre la pollution et favoriser les mobilités douces (vélo, marche, transports en commun). Cette mesure suscite de vifs débats entre habitants, commerçants et élus. Rédigez un article d'opinion de 180 à 220 mots destiné au journal local de votre commune. Vous prendrez position de manière argumentée sur cette question, en présentant au moins deux arguments solides illustrés d'exemples concrets, tout en évoquant brièvement un contre-argument que vous réfuterez. Utilisez des connecteurs logiques variés et un registre soutenu adapté à la presse écrite."
+}

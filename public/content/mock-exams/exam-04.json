@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis quelques années, la question du télétravail divise profondément les entreprises françaises. Plébiscité pendant la crise sanitaire, ce mode d'organisation est aujourd'hui remis en cause par plusieurs grands groupes qui exigent un retour progressif au bureau. Les arguments avancés par les dirigeants se ressemblent : perte de cohésion d'équipe, baisse supposée de la productivité, difficulté à transmettre la culture d'entreprise aux nouveaux arrivants. Pourtant, les études disponibles ne confirment pas vraiment ces craintes. Selon plusieurs enquêtes récentes menées en France, les salariés en télétravail partiel se déclarent plus engagés et plus efficaces que ceux contraints à une présence quotidienne.\n\nLe débat dépasse cependant la simple question de l'efficacité. Pour beaucoup d'employés, en particulier ceux qui habitent en grande banlieue, le télétravail représente une véritable amélioration du quotidien : moins de transports, plus de temps en famille, économies substantielles. Y renoncer signifierait, pour certains, revoir l'ensemble de leur organisation domestique, voire envisager un changement de poste. Les syndicats, conscients de cet enjeu, commencent d'ailleurs à inscrire le télétravail dans les négociations collectives au même titre que les salaires.\n\nDu côté patronal, on souligne néanmoins un effet plus discret : l'isolement croissant des jeunes recrues. Privés des échanges informels du bureau, certains stagiaires ou jeunes diplômés peinent à se sentir intégrés et démissionnent plus rapidement. Ce phénomène, encore mal mesuré, inquiète les directions des ressources humaines.\n\nLa solution réside probablement dans un équilibre intelligent, négocié au cas par cas. Imposer un retour total au présentiel apparaît aujourd'hui comme une décision risquée, susceptible de provoquer des départs massifs sur un marché du travail déjà tendu. À l'inverse, un télétravail généralisé sans cadre clair risque d'affaiblir le lien collectif. Entre nostalgie du bureau et aspiration à plus d'autonomie, les entreprises françaises cherchent encore leur modèle, et ce tâtonnement pourrait bien durer.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail a définitivement gagné la bataille en France.",
+          "Les entreprises françaises hésitent entre retour au bureau et maintien du télétravail.",
+          "Les syndicats français s'opposent fermement au télétravail.",
+          "Le télétravail est devenu obligatoire dans la majorité des grandes entreprises."
+        ],
+        "correct": 1,
+        "explanation": "Le texte décrit un débat non tranché entre présentiel et télétravail."
+      },
+      {
+        "question": "Selon le texte, que révèlent les enquêtes récentes ?",
+        "options": [
+          "Les salariés en télétravail sont moins productifs.",
+          "Les salariés en télétravail partiel se sentent plus efficaces.",
+          "La productivité baisse de manière mesurable à distance.",
+          "Les enquêtes ne donnent aucun résultat fiable."
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que les salariés en télétravail partiel se déclarent plus engagés et efficaces."
+      },
+      {
+        "question": "Que peut-on déduire à propos des jeunes recrues ?",
+        "options": [
+          "Elles préfèrent toujours le télétravail au bureau.",
+          "Elles s'intègrent plus facilement à distance.",
+          "Le manque de contact direct fragilise leur intégration.",
+          "Elles refusent systématiquement les postes en présentiel."
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne leur isolement et leur tendance à démissionner plus vite."
+      },
+      {
+        "question": "Dans le texte, l'expression <em>tâtonnement</em> signifie :",
+        "options": [
+          "recherche par essais successifs",
+          "refus catégorique",
+          "décision rapide et ferme",
+          "abandon de tout projet"
+        ],
+        "correct": 0,
+        "explanation": "Tâtonner, c'est avancer par essais et hésitations."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Si j'avais su, je ne ___ pas venu.",
+      "options": [
+        "serais",
+        "seras",
+        "suis",
+        "étais"
+      ],
+      "correct": 0,
+      "explanation": "Conditionnel passé après si + plus-que-parfait."
+    },
+    {
+      "question": "Quel mot est synonyme de <strong>plébisciter</strong> ?",
+      "options": [
+        "rejeter",
+        "approuver massivement",
+        "ignorer",
+        "critiquer vivement"
+      ],
+      "correct": 1,
+      "explanation": "Plébisciter signifie soutenir ou approuver largement."
+    },
+    {
+      "question": "Complétez : Il a réussi son concours ___ il avait peu révisé.",
+      "options": [
+        "parce que",
+        "bien qu'",
+        "puisque",
+        "comme"
+      ],
+      "correct": 1,
+      "explanation": "Bien qu' introduit une concession suivie du subjonctif."
+    },
+    {
+      "question": "Que signifie l'expression <em>mettre les pieds dans le plat</em> ?",
+      "options": [
+        "bien cuisiner",
+        "aborder maladroitement un sujet délicat",
+        "se reposer",
+        "tomber malade"
+      ],
+      "correct": 1,
+      "explanation": "Expression idiomatique signifiant parler sans tact d'un sujet gênant."
+    },
+    {
+      "question": "À la CAF, on vous demande un <strong>justificatif de domicile</strong>. Que devez-vous fournir ?",
+      "options": [
+        "votre carte d'identité",
+        "une facture récente d'électricité ou de loyer",
+        "votre relevé bancaire mensuel",
+        "votre fiche de paie"
+      ],
+      "correct": 1,
+      "explanation": "Le justificatif de domicile est typiquement une facture EDF, eau ou quittance de loyer."
+    },
+    {
+      "question": "Choisissez le pronom correct : Ce sont les dossiers ___ je t'ai parlé.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "lesquels"
+      ],
+      "correct": 1,
+      "explanation": "Parler de quelque chose → pronom relatif dont."
+    },
+    {
+      "question": "Reformulez : <em>Faute de temps, il a abandonné le projet.</em>",
+      "options": [
+        "Comme il avait beaucoup de temps, il a abandonné.",
+        "Parce qu'il manquait de temps, il a abandonné.",
+        "Bien qu'il manquait de temps, il a abandonné.",
+        "Pour gagner du temps, il a abandonné."
+      ],
+      "correct": 1,
+      "explanation": "Faute de exprime la cause d'un manque."
+    },
+    {
+      "question": "Quel connecteur exprime une conséquence ?",
+      "options": [
+        "en revanche",
+        "par conséquent",
+        "à condition que",
+        "néanmoins"
+      ],
+      "correct": 1,
+      "explanation": "Par conséquent introduit une conséquence."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>tendu</strong> dans <em>un marché du travail tendu</em> ?",
+      "options": [
+        "détendu",
+        "fluide",
+        "fragile",
+        "actif"
+      ],
+      "correct": 1,
+      "explanation": "Un marché fluide est l'opposé d'un marché tendu où la main-d'œuvre manque."
+    },
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ à l'heure demain.",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "étais"
+      ],
+      "correct": 1,
+      "explanation": "Il faut que + subjonctif présent du verbe être."
+    },
+    {
+      "question": "Dans un contexte professionnel, que signifie <em>donner sa démission</em> ?",
+      "options": [
+        "partir en congé",
+        "quitter volontairement son poste",
+        "être licencié",
+        "demander une promotion"
+      ],
+      "correct": 1,
+      "explanation": "Démissionner = quitter son emploi de sa propre initiative."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Je m'intéresse ___ la politique française.",
+      "options": [
+        "de",
+        "à",
+        "pour",
+        "en"
+      ],
+      "correct": 1,
+      "explanation": "S'intéresser à quelque chose."
+    },
+    {
+      "question": "Quel registre correspond à la phrase : <em>J'en peux plus de ce boulot</em> ?",
+      "options": [
+        "soutenu",
+        "courant",
+        "familier",
+        "littéraire"
+      ],
+      "correct": 2,
+      "explanation": "Boulot et j'en peux plus relèvent du registre familier."
+    },
+    {
+      "question": "Que veut dire la phrase : <em>Ce projet a fait long feu</em> ?",
+      "options": [
+        "Il a réussi durablement.",
+        "Il a échoué ou n'a pas duré.",
+        "Il a pris feu littéralement.",
+        "Il a été repoussé à plus tard."
+      ],
+      "correct": 1,
+      "explanation": "Faire long feu signifie échouer ou ne pas aboutir."
+    },
+    {
+      "question": "Accordez correctement : Les décisions qu'elle a ___ ont surpris tout le monde.",
+      "options": [
+        "pris",
+        "prise",
+        "prises",
+        "prit"
+      ],
+      "correct": 2,
+      "explanation": "Le COD que (= les décisions) est placé avant, donc accord au féminin pluriel."
+    },
+    {
+      "question": "En France, qu'appelle-t-on <strong>les prud'hommes</strong> ?",
+      "options": [
+        "une assemblée politique",
+        "un tribunal pour litiges du travail",
+        "un syndicat patronal",
+        "un service de la mairie"
+      ],
+      "correct": 1,
+      "explanation": "Le conseil de prud'hommes juge les conflits entre employeurs et salariés."
+    },
+    {
+      "question": "Choisissez l'articulateur logique : ___ la pluie, la manifestation a eu lieu.",
+      "options": [
+        "Grâce à",
+        "Malgré",
+        "À cause de",
+        "Selon"
+      ],
+      "correct": 1,
+      "explanation": "Malgré exprime la concession."
+    },
+    {
+      "question": "Quel verbe complète correctement : Dès qu'il ___, nous partirons.",
+      "options": [
+        "arrive",
+        "arrivera",
+        "arriverait",
+        "arriverait"
+      ],
+      "correct": 1,
+      "explanation": "Avec dès que + futur dans la principale, on emploie le futur simple."
+    },
+    {
+      "question": "Que signifie <em>être au chômage partiel</em> ?",
+      "options": [
+        "avoir perdu son emploi définitivement",
+        "travailler à temps réduit avec compensation",
+        "refuser de travailler",
+        "être en formation professionnelle"
+      ],
+      "correct": 1,
+      "explanation": "Le chômage partiel (ou activité partielle) consiste à travailler moins avec indemnisation."
+    },
+    {
+      "question": "Identifiez la phrase grammaticalement correcte :",
+      "options": [
+        "Si j'aurais le temps, je viendrais.",
+        "Si j'avais le temps, je viendrais.",
+        "Si j'aurais eu le temps, je venais.",
+        "Si j'avais le temps, je viendrai."
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait → conditionnel présent dans la principale."
+    }
+  ],
+  "writingPrompt": "Dans votre commune française, la mairie envisage d'interdire la circulation des voitures dans le centre-ville le week-end afin de favoriser les piétons et les commerces locaux. Cette mesure suscite un vif débat parmi les habitants. Rédigez un billet d'humeur (180-220 mots) pour le journal municipal dans lequel vous exprimez votre opinion sur ce projet. Vous présenterez clairement votre position, vous l'illustrerez d'exemples concrets tirés de votre expérience de la vie quotidienne en France, et vous proposerez éventuellement des aménagements ou des alternatives. Veillez à structurer votre texte avec des connecteurs logiques et à varier votre vocabulaire."
+}

@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le <strong>subjonctif présent</strong> est un mode qui exprime la subjectivité : volonté, émotion, doute, nécessité, possibilité. Contrairement au portugais, où le subjonctif est très vivant et largement utilisé (<em>que eu fale</em>), le français l'emploie surtout dans les <strong>propositions subordonnées</strong> introduites par <code>que</code>.</p><p><strong>Formation régulière</strong> : on prend la 3e personne du pluriel du présent de l'indicatif (<em>ils parlent</em>), on retire la terminaison <code>-ent</code>, et on ajoute : <code>-e, -es, -e, -ions, -iez, -ent</code>.</p><table><tr><td>je</td><td><strong>parle</strong></td></tr><tr><td>tu</td><td><strong>parles</strong></td></tr><tr><td>il/elle</td><td><strong>parle</strong></td></tr><tr><td>nous</td><td><strong>parlions</strong></td></tr><tr><td>vous</td><td><strong>parliez</strong></td></tr><tr><td>ils/elles</td><td><strong>parlent</strong></td></tr></table><p><strong>Verbes irréguliers fréquents</strong> :</p><p><em>être</em> :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p><em>avoir</em> :</p><table><tr><td>j'</td><td><strong>aie</strong></td></tr><tr><td>tu</td><td><strong>aies</strong></td></tr><tr><td>il/elle</td><td><strong>ait</strong></td></tr><tr><td>nous</td><td><strong>ayons</strong></td></tr><tr><td>vous</td><td><strong>ayez</strong></td></tr><tr><td>ils/elles</td><td><strong>aient</strong></td></tr></table><p><em>aller</em> :</p><table><tr><td>j'</td><td><strong>aille</strong></td></tr><tr><td>tu</td><td><strong>ailles</strong></td></tr><tr><td>il/elle</td><td><strong>aille</strong></td></tr><tr><td>nous</td><td><strong>allions</strong></td></tr><tr><td>vous</td><td><strong>alliez</strong></td></tr><tr><td>ils/elles</td><td><strong>aillent</strong></td></tr></table><p><em>faire</em> :</p><table><tr><td>je</td><td><strong>fasse</strong></td></tr><tr><td>tu</td><td><strong>fasses</strong></td></tr><tr><td>il/elle</td><td><strong>fasse</strong></td></tr><tr><td>nous</td><td><strong>fassions</strong></td></tr><tr><td>vous</td><td><strong>fassiez</strong></td></tr><tr><td>ils/elles</td><td><strong>fassent</strong></td></tr></table><p><strong>Principaux déclencheurs</strong> :</p><ul><li><strong>Volonté</strong> : vouloir que, exiger que, souhaiter que</li><li><strong>Émotion</strong> : être content/triste que, avoir peur que, regretter que</li><li><strong>Nécessité</strong> : il faut que, il est nécessaire que, il est important que</li><li><strong>Doute</strong> : douter que, ne pas penser que, ne pas croire que</li><li><strong>Conjonctions</strong> : bien que, pour que, avant que, à condition que, sans que, jusqu'à ce que</li></ul><p><strong>Pièges pour lusophones</strong> : en portugais, <em>espero que</em> entraîne le subjonctif comme en français (<em>j'espère que</em> + <strong>indicatif</strong> !). Attention aussi à <em>penser que</em> à la forme affirmative : indicatif. Enfin, si le sujet est le même dans les deux propositions, on utilise l'infinitif : <em>Je veux partir</em> (et non <em>que je parte</em>).</p>",
+  "examples": [
+    {
+      "sentence": "Il faut que tu <strong>fasses</strong> renouveler ton titre de séjour avant la date limite.",
+      "note": "Déclencheur de nécessité : il faut que + subjonctif."
+    },
+    {
+      "sentence": "Bien qu'elle <strong>soit</strong> arrivée récemment, elle parle déjà très bien le français.",
+      "note": "La conjonction bien que impose toujours le subjonctif."
+    },
+    {
+      "sentence": "Je doute qu'ils <strong>aient</strong> reçu ma candidature à temps.",
+      "note": "Doute + que → subjonctif (avoir : aient)."
+    },
+    {
+      "sentence": "Mes parents souhaitent que nous <strong>allions</strong> les voir cet été.",
+      "note": "Souhait + sujets différents → subjonctif (aller : allions)."
+    },
+    {
+      "sentence": "J'espère que tu <strong>vas</strong> bien.",
+      "note": "Piège classique : espérer que + INDICATIF, contrairement à esperar que en portugais."
+    },
+    {
+      "sentence": "Le maire veut que les habitants <strong>participent</strong> davantage à la vie locale.",
+      "note": "Vouloir que + subjonctif présent régulier (participer)."
+    }
+  ],
+  "reading": {
+    "passage": "Depuis plusieurs années, les mairies françaises multiplient les dispositifs pour que les habitants s'impliquent dans les décisions locales. Budgets participatifs, conseils de quartier, consultations citoyennes : il faut que les collectivités trouvent de nouveaux moyens d'associer les résidents aux choix qui concernent leur environnement quotidien. Bien que ces démarches existent depuis longtemps dans certaines villes pionnières comme Grenoble ou Rennes, elles connaissent un véritable essor depuis la pandémie.\n\nÀ Paris, par exemple, le budget participatif permet aux habitants de proposer des projets et de voter pour ceux qu'ils souhaitent voir financés. En 2023, plus de cent millions d'euros ont été alloués à des initiatives choisies directement par les citoyens : rénovation d'écoles, pistes cyclables, espaces verts. Pour que ces dispositifs fonctionnent, il est essentiel que les habitants soient bien informés et que les procédures restent accessibles.\n\nCependant, les critiques ne manquent pas. Certains observateurs regrettent que la participation reste faible, souvent inférieure à dix pour cent des inscrits. D'autres doutent que ces consultations aient un réel impact sur les décisions finales, estimant qu'elles servent surtout à légitimer des choix déjà arrêtés par les élus. Les associations militent pour que la transparence soit renforcée et que les retours aux citoyens soient systématiques.\n\nMalgré ces réserves, la démocratie participative s'installe progressivement dans le paysage politique français. Pour qu'elle gagne en crédibilité, il faudra sans doute que les élus acceptent de partager davantage leur pouvoir et que les citoyens, eux, s'engagent au-delà du simple vote ponctuel.",
+    "questions": [
+      {
+        "question": "Quel est le thème principal de ce texte ?",
+        "options": [
+          "La crise de la démocratie représentative en France",
+          "Le développement de la participation citoyenne au niveau local",
+          "Le rôle des maires dans la gestion budgétaire",
+          "Les conséquences politiques de la pandémie"
+        ],
+        "correct": 1,
+        "explanation": "Le texte décrit les dispositifs mis en place par les mairies pour impliquer les habitants dans les décisions locales."
+      },
+      {
+        "question": "Que nous apprend le texte sur le budget participatif parisien ?",
+        "options": [
+          "Il a été créé après la pandémie",
+          "Il finance uniquement des projets écologiques",
+          "Il a permis de financer plus de cent millions d'euros de projets en 2023",
+          "Il concerne seulement les écoles"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique explicitement qu'en 2023, plus de cent millions d'euros ont été alloués à des initiatives citoyennes."
+      },
+      {
+        "question": "Quelle critique est formulée contre ces dispositifs ?",
+        "options": [
+          "Ils coûtent trop cher aux contribuables",
+          "Ils sont réservés aux grandes villes",
+          "Le taux de participation reste faible et leur impact réel est mis en doute",
+          "Ils favorisent uniquement certains quartiers"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne une participation souvent inférieure à 10 % et des doutes sur l'impact réel des consultations."
+      },
+      {
+        "question": "Dans le texte, que signifie l'expression des choix déjà arrêtés par les élus ?",
+        "options": [
+          "Des décisions interrompues par les responsables politiques",
+          "Des décisions déjà prises définitivement par les élus",
+          "Des projets refusés par la mairie",
+          "Des choix imposés par la loi"
+        ],
+        "correct": 1,
+        "explanation": "Arrêter une décision signifie ici la fixer définitivement, la prendre de manière ferme."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ à l'heure demain.",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "étais"
+      ],
+      "correct": 1,
+      "explanation": "Il faut que déclenche le subjonctif. Être au subjonctif : que tu sois."
+    },
+    {
+      "question": "Complétez : Je suis content que vous ___ venir à la réunion.",
+      "options": [
+        "pouvez",
+        "pourrez",
+        "puissiez",
+        "pouviez"
+      ],
+      "correct": 2,
+      "explanation": "Être content que + subjonctif. Pouvoir au subjonctif : que vous puissiez."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": [
+        "Je pense qu'il soit malade.",
+        "Je pense qu'il est malade.",
+        "Je pense qu'il ait été malade.",
+        "Je pense qu'il fût malade."
+      ],
+      "correct": 1,
+      "explanation": "Penser que à la forme affirmative est suivi de l'indicatif, pas du subjonctif."
+    },
+    {
+      "question": "Choisissez : Bien qu'il ___ beaucoup de travail, il trouve toujours du temps pour sa famille.",
+      "options": [
+        "a",
+        "ait",
+        "aura",
+        "avait"
+      ],
+      "correct": 1,
+      "explanation": "Bien que est toujours suivi du subjonctif. Avoir au subjonctif : qu'il ait."
+    },
+    {
+      "question": "Complétez : Mes parents veulent que nous ___ les voir cet été.",
+      "options": [
+        "allons",
+        "irons",
+        "allions",
+        "allons aller"
+      ],
+      "correct": 2,
+      "explanation": "Vouloir que + subjonctif. Aller au subjonctif : que nous allions."
+    },
+    {
+      "question": "Quelle phrase contient une erreur ?",
+      "options": [
+        "J'espère que tu vas bien.",
+        "J'espère que tu ailles bien.",
+        "Je souhaite que tu ailles bien.",
+        "Il faut que tu ailles bien."
+      ],
+      "correct": 1,
+      "explanation": "Espérer que est suivi de l'indicatif (vas), pas du subjonctif. C'est un piège classique pour les lusophones."
+    },
+    {
+      "question": "Choisissez la forme correcte : Avant qu'il ne ___, dis-lui au revoir.",
+      "options": [
+        "part",
+        "parte",
+        "partira",
+        "partait"
+      ],
+      "correct": 1,
+      "explanation": "Avant que déclenche le subjonctif. Partir au subjonctif : qu'il parte."
+    },
+    {
+      "question": "Complétez : Il est essentiel que les citoyens ___ leurs droits.",
+      "options": [
+        "connaissent",
+        "connaissaient",
+        "connaîtront",
+        "connaissant"
+      ],
+      "correct": 0,
+      "explanation": "Il est essentiel que + subjonctif. Connaître au subjonctif : qu'ils connaissent."
+    },
+    {
+      "question": "Quelle phrase est correcte avec un seul sujet ?",
+      "options": [
+        "Je veux que je parte tôt.",
+        "Je veux partir tôt.",
+        "Je veux que parte tôt.",
+        "Je veux à partir tôt."
+      ],
+      "correct": 1,
+      "explanation": "Quand le sujet est le même dans les deux propositions, on utilise l'infinitif, pas le subjonctif."
+    },
+    {
+      "question": "Choisissez : Le professeur exige que nous ___ nos devoirs à temps.",
+      "options": [
+        "faisons",
+        "ferons",
+        "fassions",
+        "faisions"
+      ],
+      "correct": 2,
+      "explanation": "Exiger que + subjonctif. Faire au subjonctif à la 1re personne du pluriel : que nous fassions."
+    }
+  ],
+  "writingPrompt": "Racontez une démarche administrative récente que vous avez dû effectuer en France (renouvellement de titre de séjour, inscription à la CAF, ouverture d'un compte bancaire, demande de carte Vitale, etc.). Décrivez précisément les étapes, les difficultés rencontrées, vos émotions et ce que cette expérience vous a appris sur le fonctionnement administratif français. Utilisez au moins cinq formes au subjonctif présent (par exemple : il a fallu que, j'ai voulu que, bien que, pour que, avant que...). Rédigez un texte structuré de 180 à 220 mots avec une introduction, un développement et une conclusion personnelle.",
+  "vocab": [
+    {
+      "word": "une démarche",
+      "translation": "uma diligência, um procedimento",
+      "example": "Cette démarche administrative m'a pris plusieurs semaines."
+    },
+    {
+      "word": "exiger",
+      "translation": "exigir",
+      "example": "Le propriétaire exige que je fournisse trois bulletins de salaire."
+    },
+    {
+      "word": "il faut que",
+      "translation": "é preciso que",
+      "example": "Il faut que tu prennes rendez-vous à la préfecture."
+    },
+    {
+      "word": "bien que",
+      "translation": "embora",
+      "example": "Bien que je sois fatigué, je vais terminer ce dossier."
+    },
+    {
+      "word": "souhaiter",
+      "translation": "desejar",
+      "example": "Je souhaite que cette procédure aboutisse rapidement."
+    },
+    {
+      "word": "douter",
+      "translation": "duvidar",
+      "example": "Je doute qu'ils répondent avant la fin du mois."
+    },
+    {
+      "word": "un dispositif",
+      "translation": "um dispositivo, mecanismo",
+      "example": "La mairie a mis en place un nouveau dispositif d'aide aux familles."
+    },
+    {
+      "word": "regretter",
+      "translation": "lamentar",
+      "example": "Je regrette que vous ne puissiez pas assister à la réunion."
+    }
+  ]
+}

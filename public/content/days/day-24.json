@@ -1,0 +1,233 @@
+{
+  "theory": "<p>L'argumentation <strong>pour/contre</strong> est un exercice classique du TCF écrit. Elle consiste à présenter un point de vue construit sur un sujet polémique, en exposant les arguments favorables et défavorables avant de conclure.</p><p><strong>1. La structure type</strong></p><ul><li><strong>Introduction</strong> : présenter le sujet, le contextualiser, annoncer la problématique.</li><li><strong>Développement</strong> : exposer les arguments (au moins deux par camp), illustrés par des exemples concrets.</li><li><strong>Conclusion</strong> : prendre position clairement et ouvrir éventuellement sur une autre question.</li></ul><p><strong>2. Les connecteurs logiques indispensables</strong></p><table><tr><td><strong>Fonction</strong></td><td><strong>Connecteurs</strong></td></tr><tr><td>Ajouter</td><td>de plus, en outre, par ailleurs</td></tr><tr><td>Opposer</td><td>cependant, néanmoins, en revanche, toutefois</td></tr><tr><td>Concéder</td><td>certes... mais, bien que + subjonctif</td></tr><tr><td>Illustrer</td><td>par exemple, notamment, ainsi</td></tr><tr><td>Conclure</td><td>en définitive, en somme, pour conclure</td></tr></table><p><strong>3. Exprimer son opinion (verbes utiles au subjonctif)</strong></p><p>Le verbe <em>douter</em> au présent :</p><table><tr><td>je</td><td><strong>doute</strong></td></tr><tr><td>tu</td><td><strong>doutes</strong></td></tr><tr><td>il/elle</td><td><strong>doute</strong></td></tr><tr><td>nous</td><td><strong>doutons</strong></td></tr><tr><td>vous</td><td><strong>doutez</strong></td></tr><tr><td>ils/elles</td><td><strong>doutent</strong></td></tr></table><p>Après <em>je doute que</em>, <em>il est possible que</em>, <em>bien que</em>, on emploie le subjonctif. Exemple : <em>Bien que cette mesure soit nécessaire, elle reste contestée.</em></p><p><strong>4. Nuancer son propos</strong></p><p>Évitez les affirmations trop tranchées. Préférez : <em>il semblerait que</em>, <em>on pourrait considérer que</em>, <em>il n'est pas exclu que</em>.</p><p><strong>5. Pièges pour lusophones</strong></p><ul><li>Ne traduisez pas <em>discutir</em> par <em>discuter</em> (qui signifie débattre poliment). Pour exprimer un désaccord vif, utilisez <em>contester</em> ou <em>remettre en question</em>.</li><li>Attention à <em>parece que</em> : en français, <em>il semble que</em> + subjonctif, mais <em>il me semble que</em> + indicatif.</li><li>Évitez le calque <em>concordo</em> = <em>je concorde</em> (rare). Dites <em>je suis d'accord</em> ou <em>je partage l'avis de</em>.</li></ul>",
+  "examples": [
+    {
+      "sentence": "Certes, le télétravail réduit les déplacements, mais il isole certains salariés.",
+      "note": "Structure de concession classique : reconnaître un argument adverse avant de le nuancer."
+    },
+    {
+      "sentence": "Bien que cette réforme soit ambitieuse, elle suscite de vives critiques.",
+      "note": "Bien que + subjonctif (soit) pour introduire une opposition."
+    },
+    {
+      "sentence": "En revanche, la gratuité des transports pèse lourdement sur les finances publiques.",
+      "note": "En revanche introduit un argument opposé fort."
+    },
+    {
+      "sentence": "Je partage l'avis des experts qui estiment cette mesure insuffisante.",
+      "note": "Exprimer son accord de manière nuancée et appuyée."
+    },
+    {
+      "sentence": "Il n'est pas exclu que cette politique aggrave les inégalités territoriales.",
+      "note": "Formulation prudente, typique de l'écrit argumentatif soigné."
+    },
+    {
+      "sentence": "En définitive, les avantages de cette mesure l'emportent sur ses inconvénients.",
+      "note": "Conclusion claire prenant position après pesée des arguments."
+    }
+  ],
+  "reading": {
+    "passage": "Depuis le 1er janvier 2025, plusieurs grandes villes françaises ont durci les conditions d'accès à leurs Zones à Faibles Émissions (ZFE). Désormais, les véhicules classés Crit'Air 3, soit principalement les diesels immatriculés avant 2011, ne peuvent plus circuler dans les agglomérations de Paris, Lyon ou Grenoble. Cette mesure, présentée comme indispensable pour améliorer la qualité de l'air et atteindre les objectifs climatiques européens, divise profondément l'opinion.\n\nLes partisans du dispositif rappellent que la pollution atmosphérique cause environ 40 000 décès prématurés par an en France. Selon eux, restreindre la circulation des véhicules les plus polluants constitue une réponse proportionnée à une urgence sanitaire et environnementale. Des études menées à Madrid ou Berlin montrent par ailleurs que des mesures similaires ont permis de réduire significativement les concentrations de particules fines.\n\nCependant, les opposants dénoncent une mesure socialement injuste. Les ménages modestes, qui n'ont pas les moyens d'acheter un véhicule récent, se retrouvent pénalisés, notamment ceux qui habitent en périphérie et dépendent de leur voiture pour aller travailler. Les associations d'automobilistes réclament des aides financières plus généreuses et un développement accéléré des transports en commun avant toute nouvelle restriction.\n\nFace à cette grogne, le gouvernement a annoncé un assouplissement temporaire : les contrôles automatiques seront repoussés et des dérogations seront accordées aux travailleurs aux revenus modestes. Reste à savoir si ce compromis suffira à réconcilier impératif écologique et justice sociale.",
+    "questions": [
+      {
+        "question": "Quel est le principal changement intervenu au 1er janvier 2025 dans certaines grandes villes ?",
+        "options": [
+          "L'interdiction totale des voitures en centre-ville",
+          "Le renforcement des restrictions de circulation pour les véhicules Crit'Air 3",
+          "La gratuité des transports en commun",
+          "L'obligation de covoiturage"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que les véhicules Crit'Air 3 ne peuvent plus circuler dans plusieurs grandes agglomérations."
+      },
+      {
+        "question": "Quel argument est avancé par les partisans des ZFE ?",
+        "options": [
+          "Les ZFE permettent d'économiser du carburant",
+          "La pollution de l'air provoque de nombreux décès prématurés",
+          "Les voitures récentes sont plus rapides",
+          "Les transports en commun sont saturés"
+        ],
+        "correct": 1,
+        "explanation": "Le texte cite le chiffre de 40 000 décès prématurés par an liés à la pollution atmosphérique."
+      },
+      {
+        "question": "Que reprochent principalement les opposants à cette mesure ?",
+        "options": [
+          "Elle est trop coûteuse pour l'État",
+          "Elle est inefficace contre la pollution",
+          "Elle pénalise injustement les ménages modestes",
+          "Elle ne concerne pas assez de villes"
+        ],
+        "correct": 2,
+        "explanation": "Les opposants dénoncent une mesure socialement injuste qui pénalise notamment les ménages modestes vivant en périphérie."
+      },
+      {
+        "question": "Dans le texte, que signifie le mot grogne ?",
+        "options": [
+          "Un mécontentement collectif",
+          "Une grève des transports",
+          "Un projet de loi",
+          "Une campagne de communication"
+        ],
+        "correct": 0,
+        "explanation": "La grogne désigne un mécontentement, une protestation populaire face à une mesure."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez le connecteur qui exprime une opposition forte : Cette mesure est populaire ; ____, elle reste contestée par les économistes.",
+      "options": [
+        "par conséquent",
+        "cependant",
+        "en effet",
+        "ainsi"
+      ],
+      "correct": 1,
+      "explanation": "Cependant introduit une opposition, contrairement aux autres connecteurs qui marquent la cause ou la conséquence."
+    },
+    {
+      "question": "Complétez : Bien que cette réforme ____ nécessaire, elle suscite des inquiétudes.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "était"
+      ],
+      "correct": 1,
+      "explanation": "Après bien que, on utilise obligatoirement le subjonctif : soit."
+    },
+    {
+      "question": "Quel connecteur introduit une concession ?",
+      "options": [
+        "donc",
+        "certes... mais",
+        "puisque",
+        "alors"
+      ],
+      "correct": 1,
+      "explanation": "Certes... mais est la structure typique de concession : on reconnaît un argument avant d'y opposer le sien."
+    },
+    {
+      "question": "Choisissez la formulation la plus nuancée pour exprimer un désaccord à l'écrit.",
+      "options": [
+        "C'est faux !",
+        "Je ne suis pas du tout d'accord",
+        "On pourrait toutefois s'interroger sur cette affirmation",
+        "Ça ne marche pas"
+      ],
+      "correct": 2,
+      "explanation": "La troisième formulation est nuancée et adaptée au registre soutenu de l'argumentation écrite."
+    },
+    {
+      "question": "Quelle phrase exprime correctement une prise de position en conclusion ?",
+      "options": [
+        "En définitive, les bénéfices de cette mesure l'emportent sur ses inconvénients.",
+        "Pour commencer, je veux dire que c'est bien.",
+        "Mais c'est compliqué quand même.",
+        "Voilà ma conclusion finale."
+      ],
+      "correct": 0,
+      "explanation": "En définitive est un connecteur de conclusion approprié, suivi d'une prise de position claire."
+    },
+    {
+      "question": "Identifiez l'erreur typique d'un lusophone : Je concorde avec cette idée.",
+      "options": [
+        "L'usage du verbe concorder est ici incorrect",
+        "Le pronom je est mal placé",
+        "Il manque un article",
+        "Le verbe devrait être au subjonctif"
+      ],
+      "correct": 0,
+      "explanation": "Concordo se traduit par je suis d'accord ou je partage l'avis, pas par je concorde (très rare en français)."
+    },
+    {
+      "question": "Quel connecteur ajoute un argument supplémentaire ?",
+      "options": [
+        "en revanche",
+        "néanmoins",
+        "par ailleurs",
+        "or"
+      ],
+      "correct": 2,
+      "explanation": "Par ailleurs ajoute un argument, alors que les autres expriment une opposition."
+    },
+    {
+      "question": "Complétez : Il semble que cette politique ____ ses limites.",
+      "options": [
+        "a montré",
+        "ait montré",
+        "montrera",
+        "montrait"
+      ],
+      "correct": 1,
+      "explanation": "Il semble que est suivi du subjonctif : ait montré (subjonctif passé)."
+    },
+    {
+      "question": "Quelle phrase remet en question une affirmation de manière argumentative ?",
+      "options": [
+        "Cette analyse mérite cependant d'être nuancée.",
+        "C'est complètement faux.",
+        "Je ne crois pas, voilà.",
+        "Pas vraiment, non."
+      ],
+      "correct": 0,
+      "explanation": "La première formulation conteste poliment et invite à un développement argumenté, registre adapté à l'écrit."
+    },
+    {
+      "question": "Dans un texte argumentatif, où doit-on annoncer sa problématique ?",
+      "options": [
+        "Dans la conclusion",
+        "Au milieu du développement",
+        "Dans l'introduction",
+        "Nulle part, c'est implicite"
+      ],
+      "correct": 2,
+      "explanation": "La problématique s'annonce dans l'introduction, après la contextualisation du sujet."
+    }
+  ],
+  "writingPrompt": "Le gouvernement français envisage de généraliser la semaine de quatre jours dans la fonction publique. Cette mesure, déjà expérimentée dans plusieurs administrations, fait l'objet de débats animés : ses défenseurs y voient un progrès social et un levier d'attractivité, tandis que ses détracteurs craignent une dégradation du service aux usagers et une intensification du travail. Rédigez un texte argumenté de 180 à 220 mots dans lequel vous présentez les arguments favorables et défavorables à cette mesure, avant de prendre clairement position. Vous veillerez à structurer votre propos (introduction, développement contrasté, conclusion) et à employer des connecteurs logiques variés ainsi qu'au moins une concession (bien que + subjonctif, certes... mais).",
+  "vocab": [
+    {
+      "word": "une mesure",
+      "translation": "uma medida",
+      "example": "Cette mesure a été adoptée malgré une forte opposition."
+    },
+    {
+      "word": "contester",
+      "translation": "contestar, questionar",
+      "example": "Plusieurs syndicats contestent la réforme des retraites."
+    },
+    {
+      "word": "un partisan",
+      "translation": "um defensor, partidário",
+      "example": "Les partisans de cette loi soulignent ses bénéfices écologiques."
+    },
+    {
+      "word": "un détracteur",
+      "translation": "um detrator, opositor",
+      "example": "Les détracteurs du projet dénoncent son coût exorbitant."
+    },
+    {
+      "word": "une concession",
+      "translation": "uma concessão",
+      "example": "Faire une concession ne signifie pas renoncer à son opinion."
+    },
+    {
+      "word": "nuancer",
+      "translation": "matizar, ponderar",
+      "example": "Il faut nuancer ce jugement trop catégorique."
+    },
+    {
+      "word": "en définitive",
+      "translation": "em última análise, no fim das contas",
+      "example": "En définitive, cette politique a porté ses fruits."
+    },
+    {
+      "word": "remettre en question",
+      "translation": "pôr em causa",
+      "example": "Ces nouvelles données remettent en question nos conclusions."
+    }
+  ]
+}

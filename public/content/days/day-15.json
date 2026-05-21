@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>faux amis</strong> (ou <em>falsos cognatos</em>) sont des mots qui se ressemblent en français et en portugais, mais dont le sens diffère totalement. Pour un lusophone, ils représentent l'un des pièges les plus fréquents, car la similitude graphique pousse à transposer automatiquement le sens portugais.</p><p><strong>Catégories principales :</strong></p><ul><li><strong>Faux amis totaux</strong> : sens complètement différents. Exemple : <code>attendre</code> ne signifie pas <em>atender</em> (servir, répondre) mais <em>esperar</em>.</li><li><strong>Faux amis partiels</strong> : sens parfois proche, parfois divergent. Exemple : <code>large</code> signifie <em>largo</em> (au sens de <em>amplo</em>), mais <em>longo</em> se traduit par <code>long</code>.</li></ul><p><strong>Tableau des pièges classiques pour lusophones :</strong></p><table><tr><td><strong>Mot français</strong></td><td><strong>Sens réel</strong></td><td><strong>Confusion fréquente</strong></td></tr><tr><td>attendre</td><td>esperar</td><td>≠ atender (répondre, servir)</td></tr><tr><td>discuter</td><td>conversar, debater</td><td>≠ discutir (se disputer = se disputer)</td></tr><tr><td>balader (se)</td><td>passear</td><td>≠ baladar (ne pas exister ; danser = dançar)</td></tr><tr><td>parents</td><td>pais ET familiares</td><td>≠ uniquement parentes</td></tr><tr><td>blesser</td><td>ferir, machucar</td><td>≠ abençoar (bénir)</td></tr><tr><td>quitter</td><td>deixar, sair de</td><td>≠ quitar (régler une dette)</td></tr><tr><td>tirer</td><td>puxar, atirar</td><td>≠ tirar (retirer = enlever)</td></tr><tr><td>rester</td><td>ficar</td><td>≠ restar (rester = il reste)</td></tr><tr><td>entendre</td><td>ouvir</td><td>≠ entender (comprendre)</td></tr><tr><td>pourtant</td><td>no entanto</td><td>≠ portanto (donc)</td></tr></table><p><strong>Pièges typiques pour les Brésiliens :</strong></p><ul><li><em>Je vais discuter avec mon collègue</em> = nous allons <em>conversar</em>, pas nous disputer.</li><li><em>J'attends le bus</em> = <em>espero o ônibus</em>, jamais <em>atendo</em>.</li><li><em>Mes parents</em> peut désigner les <em>pais</em> OU la <em>família</em> élargie selon le contexte.</li><li><em>Il reste du pain</em> = <em>sobra pão</em> (et non <em>ele permanece</em>).</li></ul><p><strong>Stratégie d'apprentissage :</strong> ne vous fiez jamais à la ressemblance. Vérifiez systématiquement le sens en contexte. Tenez un carnet personnel des faux amis rencontrés, classés par fréquence. À l'oral comme à l'écrit du TCF, ces erreurs coûtent cher car elles brouillent totalement le message.</p>",
+  "examples": [
+    {
+      "sentence": "J'attends le médecin depuis une heure dans la salle d'attente.",
+      "note": "attendre = esperar (PAS atender)"
+    },
+    {
+      "sentence": "Nous avons longuement discuté du projet, sans nous disputer.",
+      "note": "discuter = conversar, debater (PAS brigar)"
+    },
+    {
+      "sentence": "Je n'entends pas bien ce que vous dites, pouvez-vous répéter ?",
+      "note": "entendre = ouvir (PAS compreender)"
+    },
+    {
+      "sentence": "Il a quitté son emploi pour créer sa propre entreprise.",
+      "note": "quitter = deixar, sair de (PAS quitar uma dívida)"
+    },
+    {
+      "sentence": "Le travail est difficile, pourtant il ne se plaint jamais.",
+      "note": "pourtant = no entanto (PAS portanto = donc)"
+    },
+    {
+      "sentence": "Mes parents vivent au Brésil, mais toute ma famille proche est ici.",
+      "note": "parents = pais OU familiares selon le contexte"
+    }
+  ],
+  "reading": {
+    "passage": "Apprendre le français quand on est lusophone : un faux ami bienveillant\n\nBeaucoup de Brésiliens installés en France témoignent d'une expérience contradictoire avec la langue de Molière. D'un côté, la proximité lexicale entre le portugais et le français facilite considérablement les premiers mois : un Brésilien peut souvent lire un article de journal avec un dictionnaire minimal et comprendre l'essentiel d'une conversation administrative. De l'autre, cette ressemblance crée une illusion dangereuse de maîtrise.\n\nLes linguistes appellent ce phénomène l'effet plateau. Après six mois d'immersion, le lusophone atteint rapidement un niveau fonctionnel, mais stagne ensuite pendant des années. La raison ? Les fameux faux amis et les automatismes lusitanisants qui s'installent durablement. Dire qu'on va discuter avec son patron peut prêter à confusion : en portugais brésilien, discutir évoque souvent un conflit, alors qu'en français, il s'agit simplement d'échanger des arguments.\n\nUne étude de l'Alliance française de Paris menée en 2022 montre que 78 % des apprenants lusophones commettent encore des erreurs de faux amis après trois ans de séjour en France. Les mots les plus piégeux concernent la vie quotidienne : attendre, entendre, quitter, rester. Ces erreurs ne bloquent pas la communication, mais elles signalent immédiatement une origine lusophone et limitent l'accès à certains postes qualifiés.\n\nPourtant, les experts insistent sur un point essentiel : cette difficulté est aussi une chance. Le lusophone qui prend conscience des faux amis développe une vigilance lexicale supérieure à celle d'autres apprenants. Il devient, paradoxalement, plus précis dans son usage du français que beaucoup de natifs.",
+    "questions": [
+      {
+        "question": "Quel est le paradoxe principal évoqué dans le texte concernant les lusophones apprenant le français ?",
+        "options": [
+          "La proximité des langues facilite tout l'apprentissage sans difficulté",
+          "La ressemblance aide au début mais crée ensuite une illusion de maîtrise",
+          "Le portugais et le français n'ont finalement aucun point commun",
+          "Les lusophones apprennent plus lentement que les autres étrangers"
+        ],
+        "correct": 1,
+        "explanation": "Le texte explique que la proximité lexicale facilite les premiers mois mais crée une illusion dangereuse de maîtrise par la suite."
+      },
+      {
+        "question": "Que signifie l'expression effet plateau dans le contexte du texte ?",
+        "options": [
+          "Une progression rapide et continue",
+          "Un blocage après une phase de progrès initial",
+          "Un retour au niveau débutant",
+          "Une accélération de l'apprentissage après six mois"
+        ],
+        "correct": 1,
+        "explanation": "L'effet plateau désigne la stagnation après un niveau fonctionnel rapidement atteint."
+      },
+      {
+        "question": "D'après le texte, quelle conséquence concrète peuvent avoir les erreurs de faux amis ?",
+        "options": [
+          "Empêcher totalement la communication quotidienne",
+          "Limiter l'accès à certains emplois qualifiés",
+          "Provoquer le rejet social des lusophones",
+          "Obliger à recommencer l'apprentissage depuis zéro"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que ces erreurs signalent l'origine lusophone et limitent l'accès à certains postes qualifiés."
+      },
+      {
+        "question": "Quelle est la position finale des experts sur ce phénomène ?",
+        "options": [
+          "C'est un obstacle insurmontable pour les lusophones",
+          "Il faut éviter d'apprendre le français quand on est brésilien",
+          "Cette difficulté peut devenir un atout de précision lexicale",
+          "Seuls les natifs peuvent maîtriser ces nuances"
+        ],
+        "correct": 2,
+        "explanation": "Le texte conclut que la prise de conscience des faux amis développe une vigilance lexicale supérieure, paradoxalement utile."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la traduction correcte de J'attends mes amis devant le café.",
+      "options": [
+        "Atendo meus amigos na frente do café",
+        "Espero meus amigos na frente do café",
+        "Atento meus amigos diante do café",
+        "Entendo meus amigos no café"
+      ],
+      "correct": 1,
+      "explanation": "attendre = esperar. Le verbe atender en portugais se traduit par répondre, servir ou recevoir."
+    },
+    {
+      "question": "Complétez : Je n'ai pas bien _____ ce que le professeur a dit.",
+      "options": [
+        "entendu",
+        "attendu",
+        "compris seulement",
+        "écouté seulement"
+      ],
+      "correct": 0,
+      "explanation": "entendre = ouvir. Le sens d'entender (compreender) se traduit par comprendre en français."
+    },
+    {
+      "question": "Quelle phrase contient un faux ami mal utilisé par un lusophone ?",
+      "options": [
+        "Je vais discuter du projet avec mon équipe",
+        "J'ai quitté la réunion à dix-sept heures",
+        "J'ai tiré le rideau pour faire entrer la lumière",
+        "Il faut tirer les chaussures avant d'entrer"
+      ],
+      "correct": 3,
+      "explanation": "Tirer en français signifie puxar ou atirar. Pour tirar (enlever, retirer), on dit enlever ou retirer."
+    },
+    {
+      "question": "Le mot pourtant signifie en portugais :",
+      "options": [
+        "portanto",
+        "no entanto",
+        "porquanto",
+        "por enquanto"
+      ],
+      "correct": 1,
+      "explanation": "pourtant = no entanto (contradiction). Portanto se traduit par donc ou par conséquent."
+    },
+    {
+      "question": "Choisissez la phrase correcte.",
+      "options": [
+        "Il reste cinq minutes avant la fin du cours",
+        "Il resta cinq minutes avant la fin du cours",
+        "Il restau cinq minutes avant la fin du cours",
+        "Il sobra cinq minutes avant la fin du cours"
+      ],
+      "correct": 0,
+      "explanation": "Il reste = sobra/falta en portugais. Construction impersonnelle correcte avec le verbe rester."
+    },
+    {
+      "question": "Mes parents viennent dîner ce soir signifie principalement :",
+      "options": [
+        "Meus parentes (familiares distantes) vêm jantar",
+        "Meus pais vêm jantar",
+        "Meus padrinhos vêm jantar",
+        "Meus vizinhos vêm jantar"
+      ],
+      "correct": 1,
+      "explanation": "En français, parents désigne d'abord les pais. Pour parentes (membres de la famille), on dit de la famille ou des proches."
+    },
+    {
+      "question": "Quel verbe traduit correctement ferir, machucar ?",
+      "options": [
+        "bénir",
+        "blesser",
+        "baiser",
+        "balader"
+      ],
+      "correct": 1,
+      "explanation": "blesser = ferir, machucar. Attention à ne pas confondre avec abençoar (bénir)."
+    },
+    {
+      "question": "Complétez : Le directeur a _____ son poste après vingt ans de service.",
+      "options": [
+        "quitté",
+        "quité",
+        "laissé tomber seulement",
+        "abandonné définitivement seulement"
+      ],
+      "correct": 0,
+      "explanation": "quitter = deixar, sair de (un emploi, un lieu). Rien à voir avec quitar (régler) une dette en portugais."
+    },
+    {
+      "question": "Dans la phrase Cette salle est très large, large signifie :",
+      "options": [
+        "longa, comprida",
+        "ampla, espaçosa",
+        "alta, elevada",
+        "pequena, estreita"
+      ],
+      "correct": 1,
+      "explanation": "large = ampla (dimension latérale). Pour longa (longueur), on dit longue en français."
+    },
+    {
+      "question": "Identifiez la phrase SANS faux ami mal employé :",
+      "options": [
+        "J'ai discuté avec ma voisine de la nouvelle loi",
+        "Je tire la table contre le mur pour gagner de la place",
+        "J'attends ta réponse avec impatience",
+        "Toutes les phrases sont correctes"
+      ],
+      "correct": 3,
+      "explanation": "Les trois phrases utilisent correctement discuter (conversar), tirer (puxar) et attendre (esperar)."
+    }
+  ],
+  "writingPrompt": "Sur le forum participatif de votre mairie, un débat est lancé sur l'installation de nouvelles caméras de vidéosurveillance dans votre quartier. Certains habitants y voient un gain de sécurité, d'autres dénoncent une atteinte aux libertés individuelles et un coût excessif pour le budget municipal. Rédigez un message argumenté (180-220 mots) dans lequel vous exprimez clairement votre position. Vous devez : présenter au moins deux arguments solides à l'appui de votre opinion, mentionner une objection possible et y répondre, et proposer une alternative ou une mesure complémentaire concrète. Adoptez un ton respectueux mais ferme, adapté à un échange citoyen public.",
+  "vocab": [
+    {
+      "word": "attendre",
+      "translation": "esperar (aguardar)",
+      "example": "J'attends le résultat de mon examen depuis trois semaines."
+    },
+    {
+      "word": "entendre",
+      "translation": "ouvir",
+      "example": "Je t'entends mal, peux-tu parler plus fort ?"
+    },
+    {
+      "word": "discuter",
+      "translation": "conversar, debater",
+      "example": "Nous avons discuté pendant deux heures de la réforme des retraites."
+    },
+    {
+      "word": "quitter",
+      "translation": "deixar, sair de",
+      "example": "Elle a quitté Paris pour s'installer à Lyon."
+    },
+    {
+      "word": "tirer",
+      "translation": "puxar, atirar",
+      "example": "Tirez la porte pour l'ouvrir, ne la poussez pas."
+    },
+    {
+      "word": "blesser",
+      "translation": "ferir, machucar",
+      "example": "Sa remarque m'a profondément blessé."
+    },
+    {
+      "word": "pourtant",
+      "translation": "no entanto, contudo",
+      "example": "Il a beaucoup étudié, pourtant il a échoué à l'examen."
+    },
+    {
+      "word": "rester",
+      "translation": "ficar, permanecer; sobrar",
+      "example": "Il reste encore deux parts de gâteau dans le frigo."
+    }
+  ]
+}

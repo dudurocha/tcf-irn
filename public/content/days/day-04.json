@@ -1,0 +1,233 @@
+{
+  "theory": "<p>L'accord du <strong>participe passé</strong> est l'un des points les plus délicats de la grammaire française. Trois règles principales structurent cet usage.</p><p><strong>1. Avec l'auxiliaire être</strong> : le participe passé s'accorde toujours en <em>genre</em> et en <em>nombre</em> avec le <strong>sujet</strong>.</p><ul><li>Elle est <strong>partie</strong> tôt.</li><li>Nous sommes <strong>arrivés</strong> hier.</li><li>Les filles sont <strong>rentrées</strong> à minuit.</li></ul><p><strong>2. Avec l'auxiliaire avoir</strong> : le participe passé ne s'accorde JAMAIS avec le sujet. Il s'accorde uniquement avec le <strong>COD</strong> (complément d'objet direct) <em>si celui-ci est placé AVANT le verbe</em>.</p><table><tr><td>COD après le verbe</td><td>J'ai mangé <strong>les pommes</strong>. (pas d'accord)</td></tr><tr><td>COD avant le verbe (pronom)</td><td>Les pommes ? Je <strong>les</strong> ai <strong>mangées</strong>.</td></tr><tr><td>COD avant (relatif que)</td><td>Les lettres <strong>que</strong> j'ai <strong>écrites</strong>.</td></tr><tr><td>COD avant (interrogatif)</td><td><strong>Quelle</strong> robe as-tu <strong>achetée</strong> ?</td></tr></table><p><strong>3. Verbes pronominaux</strong> : conjugués avec être, mais l'accord se fait avec le COD s'il est placé avant (comme avec avoir).</p><ul><li>Elle s'est <strong>lavée</strong>. (se = COD avant → accord)</li><li>Elle s'est <strong>lavé</strong> les mains. (COD = les mains, après → pas d'accord)</li><li>Ils se sont <strong>parlé</strong>. (se parler à quelqu'un → COI, jamais d'accord)</li></ul><p><strong>Piège classique pour les lusophones</strong> : en portugais, le participe passé employé avec <em>ter</em> est invariable (<em>Eu tenho comido as maçãs</em>). En français, avec <em>avoir</em>, il faut surveiller la position du COD. Attention aussi à ne pas confondre COD et COI : <em>téléphoner à quelqu'un</em> est indirect (jamais d'accord), tandis que <em>voir quelqu'un</em> est direct.</p><p><strong>Exception importante</strong> : avec le pronom <em>en</em>, on n'accorde généralement pas (<em>Des fleurs ? J'en ai acheté.</em>). De même, avec un verbe d'état comme <em>coûter, valoir, peser</em> dans son sens propre, pas d'accord avec un complément de mesure.</p>",
+  "examples": [
+    {
+      "sentence": "Les décisions que le gouvernement a prises sont contestées.",
+      "note": "COD que (= les décisions, féminin pluriel) placé avant avoir → accord : prises."
+    },
+    {
+      "sentence": "Marie s'est coupée en cuisinant.",
+      "note": "Verbe pronominal réfléchi : se = COD → accord avec le sujet féminin singulier."
+    },
+    {
+      "sentence": "Marie s'est coupé le doigt.",
+      "note": "COD = le doigt (placé après) → pas d'accord, même si pronominal."
+    },
+    {
+      "sentence": "Mes amies sont venues me voir hier soir.",
+      "note": "Auxiliaire être : accord obligatoire avec le sujet féminin pluriel."
+    },
+    {
+      "sentence": "Combien de livres as-tu lus cette année ?",
+      "note": "COD (combien de livres) placé avant avoir → accord au masculin pluriel."
+    },
+    {
+      "sentence": "Elles se sont écrit pendant des années.",
+      "note": "S'écrire À quelqu'un : COI, jamais d'accord."
+    }
+  ],
+  "reading": {
+    "passage": "La semaine dernière, le Conseil de Paris a voté une mesure qui a immédiatement divisé les habitants de la capitale. Désormais, les SUV stationnés dans le centre devront payer un tarif trois fois supérieur à celui des véhicules classiques. Les élus écologistes, qui ont défendu ce projet avec énergie, estiment qu'il s'agit d'une avancée nécessaire face à la pollution atmosphérique et à la congestion urbaine. Selon les chiffres qu'ils ont publiés, les véhicules lourds représentent une part croissante du parc automobile parisien, alors même que leur utilité en ville reste discutable.\n\nLes opposants, eux, ont vivement critiqué cette décision. Plusieurs associations d'automobilistes ont dénoncé une mesure qu'elles jugent discriminatoire envers les familles nombreuses et les artisans, qui sont parfois contraints d'utiliser des véhicules volumineux pour des raisons professionnelles. Une pétition lancée en ligne a déjà recueilli plus de quarante mille signatures.\n\nDu côté des commerçants du centre-ville, les réactions sont partagées. Certains craignent que les clients venus de banlieue ne renoncent à leurs achats, tandis que d'autres saluent une initiative qui pourrait rendre les rues plus respirables et attirer davantage de piétons. La maire a rappelé que les recettes générées par cette taxe seront entièrement réinvesties dans les transports publics et les pistes cyclables.\n\nCe débat illustre une tension de fond : comment concilier les impératifs écologiques avec les habitudes quotidiennes des citadins ? Les prochaines élections municipales devraient confirmer si les Parisiens approuvent cette orientation politique ou souhaitent un changement de cap.",
+    "questions": [
+      {
+        "question": "Quelle est la mesure principale adoptée par le Conseil de Paris ?",
+        "options": [
+          "L'interdiction totale des SUV dans le centre",
+          "Une augmentation du tarif de stationnement pour les SUV",
+          "La gratuité du stationnement pour les véhicules électriques",
+          "Une taxe sur tous les véhicules entrant dans Paris"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que les SUV devront payer un tarif trois fois supérieur, donc une augmentation du stationnement."
+      },
+      {
+        "question": "Pourquoi certains artisans s'opposent-ils à cette mesure ?",
+        "options": [
+          "Ils refusent de payer des impôts supplémentaires",
+          "Ils ont besoin de véhicules volumineux pour leur travail",
+          "Ils habitent loin du centre de Paris",
+          "Ils soutiennent les associations écologistes"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne que les artisans sont parfois contraints d'utiliser des véhicules volumineux pour des raisons professionnelles."
+      },
+      {
+        "question": "Dans le texte, l'expression rendre les rues plus respirables signifie :",
+        "options": [
+          "Élargir les trottoirs",
+          "Améliorer la qualité de l'air",
+          "Réduire le bruit urbain",
+          "Planter davantage d'arbres"
+        ],
+        "correct": 1,
+        "explanation": "Respirable renvoie à la respiration, donc à la qualité de l'air, en lien avec la pollution mentionnée."
+      },
+      {
+        "question": "Que peut-on déduire de la position de la maire ?",
+        "options": [
+          "Elle hésite encore sur le bien-fondé de la mesure",
+          "Elle défend la mesure en évoquant son utilité collective",
+          "Elle prévoit de revenir sur cette décision",
+          "Elle souhaite supprimer les transports publics"
+        ],
+        "correct": 1,
+        "explanation": "Elle justifie la mesure en expliquant que les recettes serviront aux transports et aux pistes cyclables, ce qui montre un soutien argumenté."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Les lettres que j'ai ___ sont sur la table.",
+      "options": [
+        "écrit",
+        "écrite",
+        "écrites",
+        "écrits"
+      ],
+      "correct": 2,
+      "explanation": "COD que (= les lettres, féminin pluriel) placé avant avoir → accord : écrites."
+    },
+    {
+      "question": "Complétez : Elles sont ___ très tard hier soir.",
+      "options": [
+        "rentré",
+        "rentrée",
+        "rentrés",
+        "rentrées"
+      ],
+      "correct": 3,
+      "explanation": "Auxiliaire être avec sujet féminin pluriel (elles) → rentrées."
+    },
+    {
+      "question": "Choisissez : Marie s'est ___ les cheveux ce matin.",
+      "options": [
+        "lavé",
+        "lavée",
+        "lavés",
+        "lavées"
+      ],
+      "correct": 0,
+      "explanation": "Le COD (les cheveux) est placé après le verbe, donc pas d'accord : lavé."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": [
+        "Les amis que j'ai vu hier",
+        "Les amis que j'ai vus hier",
+        "Les amis que j'ai vues hier",
+        "Les amis qui j'ai vus hier"
+      ],
+      "correct": 1,
+      "explanation": "COD que (les amis, masculin pluriel) avant avoir → vus."
+    },
+    {
+      "question": "Complétez : Ils se sont ___ au téléphone pendant une heure.",
+      "options": [
+        "parlé",
+        "parlés",
+        "parlée",
+        "parlées"
+      ],
+      "correct": 0,
+      "explanation": "Se parler À quelqu'un = COI, jamais d'accord : parlé."
+    },
+    {
+      "question": "Choisissez : Combien de pages as-tu ___ aujourd'hui ?",
+      "options": [
+        "lu",
+        "lue",
+        "lus",
+        "lues"
+      ],
+      "correct": 3,
+      "explanation": "COD (combien de pages, féminin pluriel) placé avant avoir → lues."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE ?",
+      "options": [
+        "Elle est arrivée à l'heure",
+        "Les fleurs qu'il a achetées sont belles",
+        "Nous avons mangées les gâteaux",
+        "Elles se sont rencontrées au café"
+      ],
+      "correct": 2,
+      "explanation": "Avec avoir, pas d'accord quand le COD (les gâteaux) est placé APRÈS le verbe. Il faut écrire mangé."
+    },
+    {
+      "question": "Complétez : Des problèmes ? J'en ai ___ beaucoup cette semaine.",
+      "options": [
+        "eu",
+        "eus",
+        "eue",
+        "eues"
+      ],
+      "correct": 0,
+      "explanation": "Avec le pronom en, on n'accorde généralement pas le participe passé : eu."
+    },
+    {
+      "question": "Choisissez : La voiture que nous avons ___ est en panne.",
+      "options": [
+        "acheté",
+        "achetée",
+        "achetés",
+        "achetées"
+      ],
+      "correct": 1,
+      "explanation": "COD que (la voiture, féminin singulier) avant avoir → achetée."
+    },
+    {
+      "question": "Complétez : Elle s'est ___ qu'elle avait raison.",
+      "options": [
+        "rendu compte",
+        "rendue compte",
+        "rendus compte",
+        "rendues compte"
+      ],
+      "correct": 0,
+      "explanation": "Se rendre compte : compte n'est pas un vrai COD analysable, l'expression est figée et invariable : rendu compte."
+    }
+  ],
+  "writingPrompt": "Depuis septembre, plusieurs grandes villes françaises, dont Lyon et Grenoble, ont étendu leurs Zones à Faibles Émissions (ZFE), interdisant l'accès au centre aux véhicules anciens classés Crit'Air 3 et plus. Cette mesure suscite un vif débat : ses défenseurs y voient un progrès écologique indispensable, ses opposants dénoncent une mesure injuste qui pénalise les ménages modestes ne pouvant pas changer de voiture. Rédigez un texte argumenté de 180 à 220 mots dans lequel vous prenez position pour ou contre l'extension de ces ZFE. Vous présenterez au moins deux arguments clairs appuyés sur des exemples concrets, et vous emploierez plusieurs participes passés en veillant à leur accord. Concluez par une proposition réaliste pour rendre la mesure plus acceptable.",
+  "vocab": [
+    {
+      "word": "une mesure",
+      "translation": "uma medida",
+      "example": "Le gouvernement a annoncé une mesure controversée sur la fiscalité."
+    },
+    {
+      "word": "contraindre",
+      "translation": "obrigar, forçar",
+      "example": "Les artisans sont contraints d'utiliser des camionnettes pour transporter leur matériel."
+    },
+    {
+      "word": "dénoncer",
+      "translation": "denunciar, criticar",
+      "example": "Les syndicats ont dénoncé une réforme qu'ils jugent injuste."
+    },
+    {
+      "word": "concilier",
+      "translation": "conciliar",
+      "example": "Il est difficile de concilier vie professionnelle et vie familiale."
+    },
+    {
+      "word": "une avancée",
+      "translation": "um avanço, progresso",
+      "example": "Cette loi représente une avancée majeure pour les droits des locataires."
+    },
+    {
+      "word": "réinvestir",
+      "translation": "reinvestir",
+      "example": "Les recettes seront réinvesties dans les services publics."
+    },
+    {
+      "word": "saluer (une initiative)",
+      "translation": "elogiar, aprovar",
+      "example": "Les associations ont salué la décision du maire."
+    },
+    {
+      "word": "un impératif",
+      "translation": "uma exigência, imperativo",
+      "example": "Les impératifs écologiques s'imposent désormais à toutes les politiques publiques."
+    }
+  ]
+}

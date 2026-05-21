@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé dans le paysage professionnel français. Initialement perçu comme une simple solution de secours pendant la crise sanitaire, il est devenu pour beaucoup un mode d'organisation durable. Selon une étude récente de la DARES, près d'un salarié français sur trois pratique aujourd'hui le télétravail au moins un jour par semaine, contre moins d'un sur dix avant 2020.\n\nLes avantages sont nombreux et largement documentés. Les salariés évoquent un meilleur équilibre entre vie professionnelle et vie personnelle, une réduction du temps de transport et une concentration accrue sur certaines tâches. Les employeurs, eux, constatent souvent une productivité <strong>maintenue voire améliorée</strong>, ainsi qu'une économie substantielle sur les coûts immobiliers.\n\nCependant, le tableau n'est pas aussi idyllique qu'il y paraît. De plus en plus de voix s'élèvent pour dénoncer un isolement croissant des travailleurs, une difficulté à séparer les sphères professionnelle et privée, et une érosion du collectif de travail. Les jeunes diplômés, en particulier, peinent à s'intégrer dans des équipes qu'ils ne croisent qu'à travers un écran. Certains syndicats alertent également sur le risque d'un management <em>déshumanisé</em>, où la performance se mesure exclusivement à des indicateurs numériques.\n\nFace à ces enjeux, plusieurs entreprises françaises ont récemment revu leur politique. Le retour partiel au bureau, souvent fixé à trois jours par semaine, semble devenir la norme. Cette tendance suscite toutefois la grogne d'une partie des salariés, qui considèrent le télétravail comme un acquis non négociable. Des conflits émergent dans certaines grandes entreprises, où la direction impose un retour que les employés jugent injustifié.\n\nLe débat dépasse la simple question de l'organisation du travail : il interroge notre rapport au lien social, à l'autonomie et à la confiance entre employeurs et employés. Trouver un équilibre durable sera l'un des défis majeurs du monde professionnel dans les années à venir.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est la solution idéale pour tous les salariés",
+          "Le télétravail présente des avantages mais soulève aussi des questions complexes",
+          "Les entreprises françaises veulent supprimer définitivement le télétravail",
+          "Les jeunes diplômés refusent désormais le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente une vision nuancée : avantages réels mais aussi limites importantes du télétravail."
+      },
+      {
+        "question": "Selon le texte, quelle proportion de salariés français télétravaille au moins un jour par semaine ?",
+        "options": [
+          "Moins d'un sur dix",
+          "Environ un sur trois",
+          "Environ la moitié",
+          "Près de deux sur trois"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique précisément près d'un salarié sur trois aujourd'hui."
+      },
+      {
+        "question": "Que signifie l'expression un acquis non négociable dans le texte ?",
+        "options": [
+          "Un avantage obtenu qu'on refuse de perdre",
+          "Une obligation imposée par l'employeur",
+          "Un contrat à durée indéterminée",
+          "Une prime financière annuelle"
+        ],
+        "correct": 0,
+        "explanation": "Un acquis désigne un droit ou avantage obtenu ; non négociable signifie qu'on refuse d'y renoncer."
+      },
+      {
+        "question": "Quelle inférence peut-on tirer du dernier paragraphe ?",
+        "options": [
+          "Le télétravail va bientôt disparaître",
+          "L'organisation du travail est devenue purement technique",
+          "Le débat révèle des enjeux humains plus profonds que la seule logistique",
+          "Les employeurs ont toujours raison face aux salariés"
+        ],
+        "correct": 2,
+        "explanation": "L'auteur souligne que le débat interroge le lien social, l'autonomie et la confiance — des enjeux humains."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Si j'avais su, je _____ autrement.",
+      "options": [
+        "agirais",
+        "aurais agi",
+        "agissais",
+        "ai agi"
+      ],
+      "correct": 1,
+      "explanation": "Conditionnel passé après un si + plus-que-parfait exprimant un regret."
+    },
+    {
+      "question": "Quel mot est synonyme de tergiverser ?",
+      "options": [
+        "Hésiter",
+        "Accélérer",
+        "Confirmer",
+        "Approuver"
+      ],
+      "correct": 0,
+      "explanation": "Tergiverser signifie hésiter, user de détours pour ne pas décider."
+    },
+    {
+      "question": "Choisissez le connecteur le plus adapté : Il a beaucoup étudié ; _____, il a échoué à l'examen.",
+      "options": [
+        "donc",
+        "néanmoins",
+        "car",
+        "ainsi"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins exprime l'opposition entre l'effort fourni et l'échec."
+    },
+    {
+      "question": "Dans une mairie française, pour demander un acte de naissance, on s'adresse au service :",
+      "options": [
+        "de l'urbanisme",
+        "de l'état civil",
+        "des impôts",
+        "de la voirie"
+      ],
+      "correct": 1,
+      "explanation": "L'état civil délivre les actes de naissance, mariage et décès."
+    },
+    {
+      "question": "Les fleurs que tu m'as _____ sont magnifiques.",
+      "options": [
+        "offert",
+        "offerte",
+        "offertes",
+        "offerts"
+      ],
+      "correct": 2,
+      "explanation": "Accord du participe passé avec le COD fleurs (féminin pluriel) placé avant avoir."
+    },
+    {
+      "question": "Que signifie l'expression mettre la main à la pâte ?",
+      "options": [
+        "Cuisiner souvent",
+        "Participer concrètement à un travail",
+        "Être maladroit",
+        "Voler quelque chose"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression idiomatique signifie s'impliquer activement dans une tâche."
+    },
+    {
+      "question": "Reformulez : Bien qu'il soit fatigué, il continue à travailler.",
+      "options": [
+        "Il continue à travailler parce qu'il est fatigué",
+        "Malgré sa fatigue, il continue à travailler",
+        "Il travaille pour ne plus être fatigué",
+        "Étant fatigué, il arrête de travailler"
+      ],
+      "correct": 1,
+      "explanation": "Bien que + subjonctif équivaut à malgré + nom : concession."
+    },
+    {
+      "question": "Quel est le contraire de prodigue ?",
+      "options": [
+        "Généreux",
+        "Économe",
+        "Aimable",
+        "Bavard"
+      ],
+      "correct": 1,
+      "explanation": "Prodigue signifie dépensier ; son contraire est économe."
+    },
+    {
+      "question": "Il faut que vous _____ à l'heure demain.",
+      "options": [
+        "êtes",
+        "soyez",
+        "serez",
+        "étiez"
+      ],
+      "correct": 1,
+      "explanation": "Il faut que est suivi du subjonctif présent : que vous soyez."
+    },
+    {
+      "question": "Dans un courriel professionnel formel, quelle formule de politesse est appropriée ?",
+      "options": [
+        "Bisous, à plus",
+        "Cordialement",
+        "Salut bien",
+        "Tchao"
+      ],
+      "correct": 1,
+      "explanation": "Cordialement est la formule standard d'un courriel professionnel en France."
+    },
+    {
+      "question": "Choisissez la bonne préposition : Je m'intéresse _____ peinture moderne.",
+      "options": [
+        "de la",
+        "à la",
+        "sur la",
+        "pour la"
+      ],
+      "correct": 1,
+      "explanation": "S'intéresser à quelque chose : préposition fixe à."
+    },
+    {
+      "question": "Que veut dire l'expression coûter les yeux de la tête ?",
+      "options": [
+        "Être très douloureux",
+        "Être très cher",
+        "Être interdit",
+        "Être inutile"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression signifie être extrêmement cher."
+    },
+    {
+      "question": "Quel connecteur introduit une conséquence ?",
+      "options": [
+        "Pourtant",
+        "Par conséquent",
+        "Bien que",
+        "À condition que"
+      ],
+      "correct": 1,
+      "explanation": "Par conséquent exprime explicitement la conséquence logique."
+    },
+    {
+      "question": "Reformulez : Cette décision a été prise à l'unanimité.",
+      "options": [
+        "Personne n'a voté",
+        "Tout le monde était d'accord",
+        "La moitié a voté contre",
+        "La décision a été reportée"
+      ],
+      "correct": 1,
+      "explanation": "À l'unanimité signifie que tous les votants étaient d'accord."
+    },
+    {
+      "question": "En France, le pass Navigo concerne :",
+      "options": [
+        "Les soins médicaux",
+        "Les transports en commun en Île-de-France",
+        "L'accès aux musées",
+        "Les démarches d'immigration"
+      ],
+      "correct": 1,
+      "explanation": "Le pass Navigo est l'abonnement aux transports parisiens et franciliens."
+    },
+    {
+      "question": "Choisissez le pronom correct : Ces livres, je _____ ai parlé hier.",
+      "options": [
+        "les",
+        "leur",
+        "en",
+        "y"
+      ],
+      "correct": 2,
+      "explanation": "Parler de quelque chose : le pronom en remplace de + nom de chose."
+    },
+    {
+      "question": "Quel mot ne fait PAS partie du registre soutenu ?",
+      "options": [
+        "Onéreux",
+        "Cher",
+        "Coûteux",
+        "Hors de prix"
+      ],
+      "correct": 1,
+      "explanation": "Cher est le terme neutre courant ; les autres sont plus soutenus ou imagés."
+    },
+    {
+      "question": "Quand il _____, nous partirons en vacances.",
+      "options": [
+        "arrivera",
+        "arriverait",
+        "arrive",
+        "arriverait"
+      ],
+      "correct": 0,
+      "explanation": "Après quand exprimant un futur, on emploie le futur simple."
+    },
+    {
+      "question": "Dans le contexte français, qu'est-ce que la CAF ?",
+      "options": [
+        "Une banque privée",
+        "Un organisme versant des aides familiales et sociales",
+        "Un syndicat ouvrier",
+        "Une compagnie d'assurance auto"
+      ],
+      "correct": 1,
+      "explanation": "La CAF (Caisse d'Allocations Familiales) verse les prestations familiales et sociales."
+    },
+    {
+      "question": "Quel articulateur exprime une cause ?",
+      "options": [
+        "En vue de",
+        "Étant donné que",
+        "À moins que",
+        "Pour que"
+      ],
+      "correct": 1,
+      "explanation": "Étant donné que introduit une cause connue ou admise."
+    }
+  ],
+  "writingPrompt": "Vous habitez en France et vous êtes membre d'une association locale qui défend l'accès aux services publics dans les quartiers. Récemment, la mairie a annoncé la fermeture du bureau de poste de votre quartier, justifiée par la baisse de fréquentation. De nombreux habitants, notamment les personnes âgées et les familles modestes, s'inquiètent des conséquences de cette décision. Rédigez un article (180 à 220 mots) pour le blog de l'association dans lequel vous exposez la situation, vous expliquez les conséquences concrètes de cette fermeture pour les habitants, et vous proposez des solutions alternatives ou des actions à mener pour faire entendre la voix des riverains auprès des autorités locales."
+}

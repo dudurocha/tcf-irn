@@ -22,12 +22,66 @@ async function postJson<T>(url: string, body: unknown): Promise<T> {
   return (await response.json()) as T;
 }
 
-export async function generateLesson(day: number): Promise<LessonContent> {
-  return postJson<LessonContent>("/api/generate-lesson", { day });
+function pad(n: number): string {
+  return n.toString().padStart(2, "0");
 }
 
-export async function generateMockExam(): Promise<MockExam> {
-  return postJson<MockExam>("/api/generate-mock-exam", {});
+interface ContentManifest {
+  days: number[];
+  exams: number[];
+}
+
+let manifestPromise: Promise<ContentManifest> | null = null;
+
+function loadManifest(): Promise<ContentManifest> {
+  if (!manifestPromise) {
+    manifestPromise = fetch("/content/manifest.json")
+      .then((r) => {
+        if (!r.ok) {
+          throw new Error(
+            "Content manifest not found. Run `npm run generate-content` first."
+          );
+        }
+        return r.json() as Promise<ContentManifest>;
+      })
+      .catch((err) => {
+        manifestPromise = null;
+        throw err;
+      });
+  }
+  return manifestPromise;
+}
+
+export async function getLesson(day: number): Promise<LessonContent> {
+  const response = await fetch(`/content/days/day-${pad(day)}.json`);
+  if (!response.ok) {
+    throw new Error(
+      `Leçon du jour ${day} introuvable. Lancez \`npm run generate-content\` pour la générer.`
+    );
+  }
+  return (await response.json()) as LessonContent;
+}
+
+export async function getRandomMockExam(seen: string[] = []): Promise<{
+  exam: MockExam;
+  examId: string;
+}> {
+  const manifest = await loadManifest();
+  if (manifest.exams.length === 0) {
+    throw new Error(
+      "Aucun examen blanc disponible. Lancez `npm run generate-content`."
+    );
+  }
+  const seenSet = new Set(seen);
+  const unseen = manifest.exams.filter((i) => !seenSet.has(`exam-${pad(i)}`));
+  const pool = unseen.length > 0 ? unseen : manifest.exams;
+  const pick = pool[Math.floor(Math.random() * pool.length)];
+  const examId = `exam-${pad(pick)}`;
+  const response = await fetch(`/content/mock-exams/${examId}.json`);
+  if (!response.ok) {
+    throw new Error(`Examen ${examId} introuvable.`);
+  }
+  return { exam: (await response.json()) as MockExam, examId };
 }
 
 export async function gradeWriting(

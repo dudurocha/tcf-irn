@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { generateMockExam } from "@/lib/api-client";
+import { getRandomMockExam } from "@/lib/api-client";
 import {
   MOCK_EXAM_DEFAULT_DURATION_MIN,
   type MockExamAttempt,
@@ -42,9 +42,13 @@ export default function MockExamHomePage() {
     setLoading(true);
     setError(null);
     try {
-      const exam = await generateMockExam();
+      const seenExamIds = attempts
+        .map((a) => a.examId)
+        .filter((id): id is string => !!id);
+      const { exam, examId } = await getRandomMockExam(seenExamIds);
       const attempt: MockExamAttempt = {
         id: newAttemptId(),
+        examId,
         exam,
         status: "active",
         startedAt: Date.now(),

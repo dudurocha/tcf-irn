@@ -1,0 +1,233 @@
+{
+  "theory": "<p>La <strong>voix passive</strong> permet de mettre en valeur le résultat d'une action ou son objet plutôt que celui qui la réalise. Elle se forme avec l'auxiliaire <strong>être</strong> conjugué au temps voulu + <strong>participe passé</strong> (qui s'accorde avec le sujet).</p><p><em>Exemple :</em> <code>Le maire inaugure la médiathèque</code> → <code>La médiathèque est inaugurée par le maire</code>.</p><p><strong>Conjugaison du verbe être</strong> (utile pour former la passive) au présent :</p><table><tr><td>je</td><td><strong>suis</strong></td></tr><tr><td>tu</td><td><strong>es</strong></td></tr><tr><td>il/elle</td><td><strong>est</strong></td></tr><tr><td>nous</td><td><strong>sommes</strong></td></tr><tr><td>vous</td><td><strong>êtes</strong></td></tr><tr><td>ils/elles</td><td><strong>sont</strong></td></tr></table><p>Et à l'imparfait (pour une passive au passé) :</p><table><tr><td>je</td><td><strong>étais</strong></td></tr><tr><td>tu</td><td><strong>étais</strong></td></tr><tr><td>il/elle</td><td><strong>était</strong></td></tr><tr><td>nous</td><td><strong>étions</strong></td></tr><tr><td>vous</td><td><strong>étiez</strong></td></tr><tr><td>ils/elles</td><td><strong>étaient</strong></td></tr></table><p><strong>Le complément d'agent</strong> est introduit par <strong>par</strong> (action concrète) ou <strong>de</strong> (sentiment, description) : <em>respecté de tous</em>, <em>entouré d'arbres</em>.</p><p><strong>Les alternatives à la voix passive</strong> sont très utilisées en français parlé et écrit :</p><ul><li><strong>On + verbe actif</strong> : <code>On a annulé la réunion</code> (au lieu de <em>La réunion a été annulée</em>).</li><li><strong>Pronominal à sens passif</strong> : <code>Ce plat se mange froid</code>, <code>Les billets se vendent vite</code>.</li><li><strong>Se faire / se voir + infinitif</strong> : <code>Il s'est fait licencier</code>, <code>Elle s'est vu refuser l'accès</code>. Très fréquent à l'oral.</li><li><strong>Nominalisation</strong> : <code>L'annonce de la fermeture</code> au lieu de <em>Le fait qu'on ait annoncé la fermeture</em>.</li></ul><p><strong>Piège pour les lusophones :</strong> en portugais, le passif avec <em>ser</em> est très courant (<em>foi feito</em>). En français, on lui préfère souvent <strong>on</strong> ou la forme pronominale. Dire <em>Le livre a été lu par moi</em> est grammatical mais lourd ; on dira plutôt <em>J'ai lu le livre</em>. Attention aussi à l'accord du participe passé avec <strong>être</strong> : il s'accorde toujours avec le sujet (<em>Les lois sont votées</em>, jamais <em>voté</em>).</p>",
+  "examples": [
+    {
+      "sentence": "La nouvelle loi <strong>a été adoptée</strong> par l'Assemblée nationale la semaine dernière.",
+      "note": "Passif au passé composé : être au passé composé + participe accordé."
+    },
+    {
+      "sentence": "<strong>On</strong> construit un nouveau tramway dans le centre-ville.",
+      "note": "Alternative active avec on, plus naturelle qu'un passif lourd."
+    },
+    {
+      "sentence": "Ce vin blanc <strong>se boit</strong> bien frais avec du poisson.",
+      "note": "Pronominal à sens passif : très fréquent pour les usages, instructions, recettes."
+    },
+    {
+      "sentence": "Elle <strong>s'est fait voler</strong> son téléphone dans le métro.",
+      "note": "Se faire + infinitif : exprime un passif subi, souvent négatif."
+    },
+    {
+      "sentence": "Le directeur <strong>est respecté de</strong> tous ses collaborateurs.",
+      "note": "Complément d'agent avec de (et non par) pour exprimer un sentiment."
+    },
+    {
+      "sentence": "Les résultats <strong>seront communiqués</strong> aux candidats avant la fin du mois.",
+      "note": "Passif au futur simple, courant dans les contextes administratifs."
+    }
+  ],
+  "reading": {
+    "passage": "Depuis plusieurs années, le télétravail s'est imposé comme une pratique courante dans de nombreuses entreprises françaises. Accéléré par la crise sanitaire de 2020, ce mode d'organisation a été adopté par près de quatre salariés sur dix, selon une étude publiée récemment par la Dares. Pourtant, le bilan reste contrasté.\n\nD'un côté, le télétravail est plébiscité par les cadres, qui apprécient la flexibilité et la réduction des temps de transport. De nombreuses entreprises ont également vu leurs frais immobiliers diminuer, certains bureaux ayant été redimensionnés ou même fermés. Des accords collectifs ont été signés dans la majorité des grandes sociétés pour encadrer cette nouvelle pratique.\n\nD'un autre côté, des inquiétudes se font entendre. Les managers se plaignent d'un affaiblissement du collectif de travail, et plusieurs études montrent que les jeunes salariés se voient parfois privés d'un véritable accompagnement professionnel. L'isolement, les difficultés à séparer vie privée et vie professionnelle, ainsi que l'augmentation des troubles psychiques sont régulièrement pointés du doigt par les médecins du travail.\n\nFace à ces constats, certaines entreprises font marche arrière. Des géants comme Ubisoft ou Amazon ont récemment exigé un retour au bureau plusieurs jours par semaine, provoquant la colère des salariés concernés. En France, le débat se cristallise autour d'une question : faut-il inscrire le télétravail comme un droit dans le Code du travail ? Les syndicats le réclament, le patronat s'y oppose fermement. Pour l'instant, la pratique reste donc soumise à la négociation, entreprise par entreprise, sans cadre légal contraignant.",
+    "questions": [
+      {
+        "question": "Quel est le principal sujet de ce texte ?",
+        "options": [
+          "L'évolution des salaires des cadres en France",
+          "Les avantages et limites du télétravail en France",
+          "La crise sanitaire de 2020 et ses conséquences économiques",
+          "La fermeture massive des bureaux dans les grandes villes"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente un bilan contrasté du télétravail, avec ses points positifs et négatifs."
+      },
+      {
+        "question": "Selon le texte, pourquoi certains jeunes salariés sont-ils désavantagés par le télétravail ?",
+        "options": [
+          "Ils ne disposent pas d'un bon équipement informatique",
+          "Ils gagnent moins que les salariés plus âgés",
+          "Ils manquent d'accompagnement professionnel",
+          "Ils refusent de venir au bureau"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique que les jeunes se voient privés d'un véritable accompagnement professionnel."
+      },
+      {
+        "question": "Quelle est la position du patronat sur l'inscription du télétravail dans le Code du travail ?",
+        "options": [
+          "Il y est favorable sous conditions",
+          "Il y est fermement opposé",
+          "Il reste neutre sur la question",
+          "Il propose un référendum"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que le patronat s'y oppose fermement, contrairement aux syndicats."
+      },
+      {
+        "question": "Dans le texte, l'expression faire marche arrière signifie :",
+        "options": [
+          "Reculer ou revenir sur une décision",
+          "Accélérer un changement",
+          "Négocier un compromis",
+          "Licencier des employés"
+        ],
+        "correct": 0,
+        "explanation": "Faire marche arrière signifie revenir en arrière sur une décision, ici imposer le retour au bureau."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme passive correcte : Les résultats ___ demain matin.",
+      "options": [
+        "seront publié",
+        "seront publiés",
+        "seront publiées",
+        "sera publiés"
+      ],
+      "correct": 1,
+      "explanation": "Accord du participe passé avec le sujet masculin pluriel les résultats."
+    },
+    {
+      "question": "Quelle est la transformation passive correcte de : Le jury a sélectionné trois candidats ?",
+      "options": [
+        "Trois candidats ont été sélectionné par le jury",
+        "Trois candidats sont sélectionnés par le jury",
+        "Trois candidats ont été sélectionnés par le jury",
+        "Trois candidats étaient sélectionnés du jury"
+      ],
+      "correct": 2,
+      "explanation": "Passé composé passif : ont été + sélectionnés (accord pluriel) + par."
+    },
+    {
+      "question": "Complétez : Ce gâteau ___ avec du chocolat noir.",
+      "options": [
+        "se fait",
+        "est fait par",
+        "se faire",
+        "fait"
+      ],
+      "correct": 0,
+      "explanation": "Pronominal à sens passif, courant pour les recettes et usages."
+    },
+    {
+      "question": "Quelle phrase contient un complément d'agent introduit par de ?",
+      "options": [
+        "Le projet a été financé par l'État",
+        "Elle est aimée de ses collègues",
+        "La décision a été prise par le directeur",
+        "Le rapport sera envoyé par mail"
+      ],
+      "correct": 1,
+      "explanation": "Avec un verbe de sentiment comme aimer, on utilise de plutôt que par."
+    },
+    {
+      "question": "Transformez à l'actif avec on : La porte a été fermée à clé.",
+      "options": [
+        "On a fermé la porte à clé",
+        "On ferme la porte à clé",
+        "On fermait la porte à clé",
+        "On aura fermé la porte à clé"
+      ],
+      "correct": 0,
+      "explanation": "Le passé composé passif a été fermée correspond à on a fermé à l'actif."
+    },
+    {
+      "question": "Choisissez l'alternative la plus naturelle à : Le français est parlé dans ce pays.",
+      "options": [
+        "On parle le français dans ce pays",
+        "Le français se parle ici par les gens",
+        "Le français a parlé dans ce pays",
+        "Le français se font parler ici"
+      ],
+      "correct": 0,
+      "explanation": "On + actif est l'alternative la plus naturelle et courante."
+    },
+    {
+      "question": "Complétez : Il ___ refuser l'entrée du restaurant à cause de sa tenue.",
+      "options": [
+        "s'est vu",
+        "s'est fait",
+        "s'a vu",
+        "est vu"
+      ],
+      "correct": 0,
+      "explanation": "Se voir + infinitif exprime un passif subi, courant avec refuser."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE ?",
+      "options": [
+        "Les lettres sont distribuées chaque matin",
+        "Le contrat sera signé demain",
+        "Elle a été promu directrice",
+        "Les fenêtres ont été ouvertes"
+      ],
+      "correct": 2,
+      "explanation": "Il faut accorder le participe : a été promue (féminin singulier)."
+    },
+    {
+      "question": "Transformez au passif : On annoncera les résultats lundi.",
+      "options": [
+        "Les résultats seront annoncé lundi",
+        "Les résultats sont annoncés lundi",
+        "Les résultats seront annoncés lundi",
+        "Les résultats auront été annoncés lundi"
+      ],
+      "correct": 2,
+      "explanation": "Futur simple passif : seront + annoncés (accord pluriel)."
+    },
+    {
+      "question": "Dans la phrase : La nouvelle s'est répandue très vite, il s'agit :",
+      "options": [
+        "D'une voix passive classique",
+        "D'un verbe pronominal à sens passif",
+        "D'un verbe à la voix active simple",
+        "D'une construction avec se faire"
+      ],
+      "correct": 1,
+      "explanation": "Se répandre fonctionne ici comme un passif : la nouvelle a été répandue."
+    }
+  ],
+  "writingPrompt": "Depuis votre installation en France, vous avez remarqué que les relations entre voisins fonctionnent différemment de ce que vous connaissiez au Brésil (politesses limitées dans l'immeuble, fête des voisins une fois par an, règles strictes sur le bruit, etc.). Rédigez un texte de réflexion personnelle de 180 à 220 mots dans lequel vous décrivez un aspect concret de cette différence culturelle que vous avez observé, vous expliquez comment vous l'avez d'abord perçu, et vous indiquez si votre regard a évolué avec le temps. Utilisez au moins trois structures passives ou alternatives (voix passive, on + actif, pronominal à sens passif, se faire + infinitif).",
+  "vocab": [
+    {
+      "word": "être adopté",
+      "translation": "ser adotado",
+      "example": "La réforme a été adoptée par une large majorité de députés."
+    },
+    {
+      "word": "se voir refuser",
+      "translation": "ver-se recusado, ter algo recusado",
+      "example": "Il s'est vu refuser son permis de séjour faute de justificatifs."
+    },
+    {
+      "word": "se faire licencier",
+      "translation": "ser demitido",
+      "example": "Plusieurs employés se sont fait licencier après la fusion."
+    },
+    {
+      "word": "encadrer",
+      "translation": "regulamentar, supervisionar",
+      "example": "Un accord collectif a été signé pour encadrer le télétravail."
+    },
+    {
+      "word": "plébisciter",
+      "translation": "aclamar, aprovar amplamente",
+      "example": "Cette mesure est plébiscitée par les jeunes actifs."
+    },
+    {
+      "word": "pointer du doigt",
+      "translation": "apontar o dedo, denunciar",
+      "example": "Les inégalités salariales sont régulièrement pointées du doigt."
+    },
+    {
+      "word": "faire marche arrière",
+      "translation": "voltar atrás",
+      "example": "Le gouvernement a fait marche arrière sur la réforme des retraites."
+    },
+    {
+      "word": "soumettre à",
+      "translation": "submeter a",
+      "example": "Le projet sera soumis à un vote la semaine prochaine."
+    }
+  ]
+}

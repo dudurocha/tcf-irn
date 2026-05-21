@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le <strong>conditionnel</strong> est un mode qui exprime une action soumise à une condition, une hypothèse, un souhait ou une demande polie. Il existe sous deux formes : le <strong>conditionnel présent</strong> et le <strong>conditionnel passé</strong>.</p><p><strong>1. Formation du conditionnel présent</strong></p><p>On prend le radical du <em>futur simple</em> et on ajoute les terminaisons de l'imparfait : <code>-ais, -ais, -ait, -ions, -iez, -aient</code>.</p><table><tr><td>je</td><td><strong>parlerais</strong></td></tr><tr><td>tu</td><td><strong>parlerais</strong></td></tr><tr><td>il/elle</td><td><strong>parlerait</strong></td></tr><tr><td>nous</td><td><strong>parlerions</strong></td></tr><tr><td>vous</td><td><strong>parleriez</strong></td></tr><tr><td>ils/elles</td><td><strong>parleraient</strong></td></tr></table><p>Verbes irréguliers fréquents : <em>aller</em> (j'irais), <em>faire</em> (je ferais), <em>pouvoir</em> (je pourrais), <em>devoir</em> (je devrais), <em>vouloir</em> (je voudrais).</p><p><strong>2. Formation du conditionnel passé</strong></p><p>Auxiliaire <em>avoir</em> ou <em>être</em> au conditionnel présent + participe passé.</p><table><tr><td>j'</td><td><strong>aurais parlé</strong></td></tr><tr><td>tu</td><td><strong>aurais parlé</strong></td></tr><tr><td>il/elle</td><td><strong>aurait parlé</strong></td></tr><tr><td>nous</td><td><strong>aurions parlé</strong></td></tr><tr><td>vous</td><td><strong>auriez parlé</strong></td></tr><tr><td>ils/elles</td><td><strong>auraient parlé</strong></td></tr></table><p><strong>3. Emplois principaux</strong></p><ul><li><strong>Politesse</strong> : <em>Je voudrais un café, s'il vous plaît.</em></li><li><strong>Conseil</strong> : <em>Tu devrais te reposer.</em></li><li><strong>Souhait / désir</strong> : <em>J'aimerais voyager en Asie.</em></li><li><strong>Information non confirmée</strong> (presse) : <em>Le ministre aurait démissionné.</em></li><li><strong>Hypothèse</strong> avec <code>si + imparfait</code> → conditionnel présent : <em>Si j'avais le temps, je lirais davantage.</em></li><li><strong>Regret / reproche</strong> avec <code>si + plus-que-parfait</code> → conditionnel passé : <em>Si j'avais su, je serais venu.</em></li></ul><p><strong>Pièges pour les lusophones</strong> : en portugais, le futur du subjonctif (<em>se eu tivesse</em>) couvre certains emplois du <em>si</em> français. Attention : après <strong>si</strong> hypothétique, on n'utilise JAMAIS le conditionnel en français (jamais <em>si je serais</em>). De plus, ne confondez pas <em>-ais</em> (conditionnel/imparfait) et <em>-ai</em> (futur, 1re pers.) : <em>je parlerai</em> (futur) ≠ <em>je parlerais</em> (conditionnel).</p>",
+  "examples": [
+    {
+      "sentence": "Je voudrais prendre rendez-vous avec le médecin la semaine prochaine.",
+      "note": "Conditionnel présent de politesse : adoucit la demande."
+    },
+    {
+      "sentence": "Si j'étais toi, je accepterais cette offre d'emploi immédiatement.",
+      "note": "Hypothèse réalisable : si + imparfait, conditionnel présent."
+    },
+    {
+      "sentence": "Si nous avions économisé davantage, nous aurions acheté un appartement à Lyon.",
+      "note": "Regret au passé : si + plus-que-parfait, conditionnel passé."
+    },
+    {
+      "sentence": "Selon les sources policières, le suspect aurait quitté la France hier soir.",
+      "note": "Conditionnel passé journalistique : information non confirmée."
+    },
+    {
+      "sentence": "Tu pourrais m'aider à remplir ce formulaire administratif ?",
+      "note": "Conditionnel de demande polie, très courant à l'oral."
+    },
+    {
+      "sentence": "À ta place, j'aurais réagi différemment face à ce collègue.",
+      "note": "Conseil rétrospectif : conditionnel passé pour évoquer une action non réalisée."
+    }
+  ],
+  "reading": {
+    "passage": "Faut-il instaurer la semaine de quatre jours en France ?\n\nLa question revient régulièrement dans le débat public. Plusieurs entreprises françaises ont déjà testé la semaine de quatre jours sans réduction de salaire, et les résultats semblent encourageants. Selon une étude récente, les salariés concernés se diraient plus satisfaits, moins fatigués, et leur productivité ne baisserait pas significativement. Certains employeurs affirment même qu'ils auraient observé une diminution de l'absentéisme.\n\nPourtant, tous les secteurs ne pourraient pas adopter ce modèle aussi facilement. Dans l'hôpital, le commerce ou l'industrie, où la continuité de service est essentielle, une telle réorganisation impliquerait d'embaucher davantage de personnel, ce qui représenterait un coût important. Les syndicats, eux, restent partagés : si certains y voient une avancée sociale majeure, d'autres craignent une intensification du travail sur quatre jours, avec des journées plus longues et plus denses.\n\nDu côté des économistes, les avis divergent également. Si la mesure était généralisée sans préparation, elle pourrait fragiliser les petites entreprises, déjà confrontées à la pénurie de main-d'œuvre. En revanche, dans les secteurs tertiaires, notamment numériques, l'expérience aurait toutes les chances de réussir.\n\nLe gouvernement, prudent, n'envisage pas pour l'instant de légiférer. Il préfère encourager les expérimentations volontaires et observer leurs effets à moyen terme. Les Français, eux, sont majoritairement favorables : un récent sondage indique que près de 70% d'entre eux aimeraient travailler quatre jours par semaine, à condition de conserver leur rémunération actuelle. Une révolution culturelle qui mettra sans doute encore plusieurs années à s'imposer.",
+    "questions": [
+      {
+        "question": "Quel est le thème principal du texte ?",
+        "options": [
+          "La réduction des salaires en France",
+          "Le débat sur la semaine de quatre jours de travail",
+          "La crise de l'absentéisme dans les hôpitaux",
+          "La pénurie de main-d'œuvre dans le numérique"
+        ],
+        "correct": 1,
+        "explanation": "Le texte traite tout au long du passage de la question de la semaine de quatre jours et de ses enjeux."
+      },
+      {
+        "question": "Selon le texte, quel effet positif les entreprises ayant testé la semaine de quatre jours auraient-elles observé ?",
+        "options": [
+          "Une augmentation massive du chiffre d'affaires",
+          "Une baisse de l'absentéisme et une satisfaction accrue des salariés",
+          "Une réduction des salaires des employés",
+          "Une diminution du nombre d'embauches"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement la diminution de l'absentéisme et la satisfaction des salariés."
+      },
+      {
+        "question": "Pourquoi certains syndicats sont-ils réticents face à cette mesure ?",
+        "options": [
+          "Parce qu'elle entraînerait une baisse de salaire",
+          "Parce qu'elle pourrait intensifier le travail sur les jours travaillés",
+          "Parce qu'elle obligerait à travailler le week-end",
+          "Parce qu'elle supprimerait des emplois dans le tertiaire"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que certains syndicats craignent des journées plus longues et plus denses."
+      },
+      {
+        "question": "Dans le texte, l'expression pénurie de main-d'œuvre signifie :",
+        "options": [
+          "Excès de travailleurs disponibles",
+          "Manque de travailleurs disponibles",
+          "Mauvaise qualité du travail fourni",
+          "Forte concurrence entre entreprises"
+        ],
+        "correct": 1,
+        "explanation": "Une pénurie désigne un manque ; ici, il s'agit d'un manque de personnel disponible sur le marché."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Complétez : Si j'avais plus de temps libre, je ___ un cours de peinture.",
+      "options": [
+        "prendrai",
+        "prendrais",
+        "aurais pris",
+        "prenais"
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait → conditionnel présent. Attention à ne pas confondre avec le futur prendrai."
+    },
+    {
+      "question": "Choisissez la forme correcte : Vous ___ fermer la fenêtre, s'il vous plaît ?",
+      "options": [
+        "pouvez",
+        "pourriez",
+        "pourrez",
+        "pourriez-vous pu"
+      ],
+      "correct": 1,
+      "explanation": "Conditionnel présent de politesse pour adoucir la demande."
+    },
+    {
+      "question": "Quelle phrase exprime un regret ?",
+      "options": [
+        "Je voudrais voyager en Italie cet été.",
+        "Si tu venais, on ferait une promenade.",
+        "Si j'avais étudié davantage, j'aurais réussi le concours.",
+        "Tu devrais consulter un médecin."
+      ],
+      "correct": 2,
+      "explanation": "Le conditionnel passé (aurais réussi) avec si + plus-que-parfait exprime un regret sur le passé."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE ?",
+      "options": [
+        "Si je gagnais au loto, j'achèterais une maison.",
+        "Si j'aurais su, je serais resté.",
+        "Si tu m'avais prévenu, j'aurais préparé le dîner.",
+        "Si elle pouvait, elle viendrait avec nous."
+      ],
+      "correct": 1,
+      "explanation": "Après si hypothétique, on n'utilise jamais le conditionnel. Il faut dire : Si j'avais su."
+    },
+    {
+      "question": "Dans la phrase Le président aurait approuvé le projet hier, le conditionnel passé exprime :",
+      "options": [
+        "Un regret",
+        "Une information non confirmée",
+        "Une obligation",
+        "Une condition irréalisée"
+      ],
+      "correct": 1,
+      "explanation": "Le conditionnel journalistique signale une information rapportée mais non vérifiée."
+    },
+    {
+      "question": "Conjuguez aller au conditionnel présent, 1re personne du pluriel :",
+      "options": [
+        "nous allerions",
+        "nous irions",
+        "nous allions",
+        "nous irons"
+      ],
+      "correct": 1,
+      "explanation": "Le verbe aller a un radical irrégulier au conditionnel : ir- + terminaisons de l'imparfait."
+    },
+    {
+      "question": "Complétez : À ta place, je ___ avant de signer ce contrat.",
+      "options": [
+        "réfléchirai",
+        "ai réfléchi",
+        "réfléchirais",
+        "réfléchissais"
+      ],
+      "correct": 2,
+      "explanation": "Conditionnel présent pour donner un conseil."
+    },
+    {
+      "question": "Quel temps utilise-t-on dans : Si j'avais eu ton numéro, je ___ appelé.",
+      "options": [
+        "t'aurais",
+        "te serais",
+        "t'avais",
+        "t'aurai"
+      ],
+      "correct": 0,
+      "explanation": "Conditionnel passé : auxiliaire avoir au conditionnel + participe passé. Appeler se conjugue avec avoir."
+    },
+    {
+      "question": "Identifiez la phrase au conditionnel passé :",
+      "options": [
+        "Je viendrais volontiers demain.",
+        "Nous aurions aimé vous rencontrer.",
+        "Tu devrais lui parler.",
+        "Ils prendraient le train de 8h."
+      ],
+      "correct": 1,
+      "explanation": "aurions aimé = auxiliaire avoir au conditionnel + participe passé = conditionnel passé."
+    },
+    {
+      "question": "Choisissez la traduction correcte de : Eu gostaria de morar em Paris.",
+      "options": [
+        "Je goûterais habiter à Paris.",
+        "J'aimerais habiter à Paris.",
+        "J'aimerai habiter à Paris.",
+        "Je voudrai habiter à Paris."
+      ],
+      "correct": 1,
+      "explanation": "Gostaria correspond à aimerais (conditionnel présent). Attention à la différence aimerai (futur) / aimerais (conditionnel)."
+    }
+  ],
+  "writingPrompt": "Vous venez de lire dans la presse locale un article intitulé Trop de voitures dans le centre-ville : faut-il piétonniser totalement le cœur de la ville ? L'article rapporte que la mairie envisagerait d'interdire complètement la circulation automobile dans le centre historique d'ici deux ans. Rédigez une lettre (180-220 mots) destinée au courrier des lecteurs du journal pour exprimer votre opinion sur ce projet. Vous devez : présenter brièvement votre position, donner au moins deux arguments concrets (positifs ou négatifs), évoquer ce qui se passerait si la mesure était adoptée, et proposer une alternative ou une nuance. Utilisez plusieurs fois le conditionnel présent et le conditionnel passé. Adoptez un ton respectueux et argumenté.",
+  "vocab": [
+    {
+      "word": "envisager",
+      "translation": "considerar, pensar em",
+      "example": "Le maire envisagerait de réformer le stationnement payant."
+    },
+    {
+      "word": "un sondage",
+      "translation": "uma pesquisa de opinião",
+      "example": "Selon un sondage récent, 70% des Français soutiendraient cette mesure."
+    },
+    {
+      "word": "fragiliser",
+      "translation": "enfraquecer",
+      "example": "Cette décision fragiliserait les petits commerces du quartier."
+    },
+    {
+      "word": "une avancée",
+      "translation": "um avanço, um progresso",
+      "example": "La semaine de quatre jours serait une avancée sociale majeure."
+    },
+    {
+      "word": "légiférer",
+      "translation": "legislar",
+      "example": "Le gouvernement préfère ne pas légiférer trop rapidement sur ce sujet."
+    },
+    {
+      "word": "la pénurie",
+      "translation": "a escassez",
+      "example": "La pénurie de personnel touche de nombreux hôpitaux français."
+    },
+    {
+      "word": "majoritairement",
+      "translation": "majoritariamente",
+      "example": "Les habitants sont majoritairement favorables au projet de piétonnisation."
+    },
+    {
+      "word": "à condition de",
+      "translation": "desde que, contanto que",
+      "example": "J'accepterais ce poste, à condition d'avoir un meilleur salaire."
+    }
+  ]
+}

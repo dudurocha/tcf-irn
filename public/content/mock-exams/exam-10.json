@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé comme une pratique courante dans de nombreuses entreprises françaises. Ce qui n'était au départ qu'une solution exceptionnelle, adoptée massivement pendant la crise sanitaire, est devenu pour beaucoup un mode d'organisation quasi permanent. Selon une enquête récente, près d'un tiers des salariés du secteur tertiaire travaillent désormais à distance au moins deux jours par semaine. Si cette évolution séduit une majorité d'actifs, elle suscite également des débats vifs au sein des entreprises et des syndicats.\n\nLes partisans du télétravail mettent en avant des bénéfices indéniables : gain de temps lié à la suppression des trajets, meilleure conciliation entre vie professionnelle et vie privée, et parfois même une productivité accrue. Plusieurs études confirment que les salariés à distance se déclarent globalement plus satisfaits. Pour les employeurs, c'est aussi l'occasion de réduire les coûts immobiliers et d'élargir le bassin de recrutement au-delà des grandes métropoles.\n\nCependant, les critiques se multiplient. Certains managers déplorent un affaiblissement du collectif de travail et une difficulté croissante à transmettre la culture d'entreprise aux nouveaux arrivants. Les jeunes salariés, en particulier, regrettent l'absence de mentorat informel, ces échanges spontanés qui se nouaient autour de la machine à café. Par ailleurs, la frontière entre vie professionnelle et vie personnelle tend à s'effacer, exposant certains salariés à un risque accru d'épuisement.\n\nLes syndicats, de leur côté, réclament un encadrement plus strict : droit à la déconnexion réellement effectif, prise en charge des frais liés au domicile, et égalité de traitement entre télétravailleurs et salariés présents sur site. Le législateur, prudent, tarde à trancher. <em>In fine</em>, le télétravail apparaît moins comme une révolution achevée que comme un chantier permanent, où chaque entreprise doit inventer son propre équilibre entre flexibilité et cohésion.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail va bientôt disparaître en France",
+          "Le télétravail est une pratique installée mais qui soulève encore des questions",
+          "Le télétravail est rejeté par la majorité des salariés français",
+          "Le télétravail est imposé par les syndicats aux employeurs"
+        ],
+        "correct": 1,
+        "explanation": "Le texte décrit une pratique désormais courante mais qui continue de faire débat, comme le résume la dernière phrase."
+      },
+      {
+        "question": "Selon le texte, quel inconvénient est particulièrement ressenti par les jeunes salariés ?",
+        "options": [
+          "Une baisse de leur salaire",
+          "Le manque d'échanges informels et de mentorat",
+          "L'absence d'équipement informatique adapté",
+          "L'éloignement de leur famille"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement que les jeunes regrettent les échanges spontanés autour de la machine à café."
+      },
+      {
+        "question": "Dans le texte, l'expression bassin de recrutement signifie :",
+        "options": [
+          "Le lieu où se déroulent les entretiens",
+          "La zone géographique d'où viennent les candidats potentiels",
+          "Une piscine réservée aux employés",
+          "Le salaire moyen des candidats"
+        ],
+        "correct": 1,
+        "explanation": "Le bassin de recrutement désigne la zone géographique dans laquelle une entreprise peut puiser ses futurs salariés."
+      },
+      {
+        "question": "Quelle est la position du législateur d'après le texte ?",
+        "options": [
+          "Il a déjà adopté une loi très stricte",
+          "Il refuse de s'occuper du sujet",
+          "Il hésite encore à légiférer fermement",
+          "Il soutient ouvertement les employeurs"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique que le législateur, prudent, tarde à trancher, ce qui traduit une hésitation."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Si j'avais su, je ___ autrement.",
+      "options": [
+        "aurais agi",
+        "ai agi",
+        "agirais",
+        "agissais"
+      ],
+      "correct": 0,
+      "explanation": "Après si + plus-que-parfait, on utilise le conditionnel passé pour exprimer un regret."
+    },
+    {
+      "question": "Quel mot est synonyme de <strong>déplorer</strong> ?",
+      "options": [
+        "Approuver",
+        "Regretter",
+        "Ignorer",
+        "Célébrer"
+      ],
+      "correct": 1,
+      "explanation": "Déplorer signifie regretter vivement quelque chose."
+    },
+    {
+      "question": "Pour ouvrir un compte bancaire en France, on vous demandera généralement :",
+      "options": [
+        "Un passeport uniquement",
+        "Un justificatif de domicile et une pièce d'identité",
+        "Une lettre de motivation",
+        "Un extrait de casier judiciaire"
+      ],
+      "correct": 1,
+      "explanation": "Justificatif de domicile et pièce d'identité sont les documents standards exigés."
+    },
+    {
+      "question": "Choisissez le connecteur logique le plus approprié : Il pleut ___ il sort sans parapluie.",
+      "options": [
+        "donc",
+        "néanmoins",
+        "car",
+        "puisque"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins exprime ici l'opposition entre la pluie et le fait de sortir sans parapluie."
+    },
+    {
+      "question": "Quelle phrase est grammaticalement correcte ?",
+      "options": [
+        "Les fleurs que j'ai cueilli sont belles",
+        "Les fleurs que j'ai cueillies sont belles",
+        "Les fleurs que j'ai cueillis sont belles",
+        "Les fleurs que j'ai cueillie sont belles"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé avec avoir s'accorde avec le COD (fleurs, féminin pluriel) placé avant le verbe."
+    },
+    {
+      "question": "Que signifie l'expression <em>tirer son épingle du jeu</i> ?",
+      "options": [
+        "Perdre tout son argent",
+        "Se sortir avantageusement d'une situation difficile",
+        "Tricher au jeu",
+        "Abandonner une partie"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression signifie réussir à s'en sortir habilement d'une situation délicate."
+    },
+    {
+      "question": "Complétez : Je ne pense pas qu'il ___ raison.",
+      "options": [
+        "a",
+        "ait",
+        "avait",
+        "aura"
+      ],
+      "correct": 1,
+      "explanation": "Après je ne pense pas que, on utilise le subjonctif présent : ait."
+    },
+    {
+      "question": "Dans un contexte professionnel, quelle formule est la plus appropriée pour conclure un courriel formel ?",
+      "options": [
+        "Bisous",
+        "À plus",
+        "Cordialement",
+        "Salut"
+      ],
+      "correct": 2,
+      "explanation": "Cordialement est la formule standard pour clore un courriel professionnel."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>flexible</strong> ?",
+      "options": [
+        "Souple",
+        "Rigide",
+        "Mou",
+        "Adaptable"
+      ],
+      "correct": 1,
+      "explanation": "Rigide est l'opposé de flexible."
+    },
+    {
+      "question": "Reformulez : Bien qu'il soit fatigué, il continue à travailler.",
+      "options": [
+        "Comme il est fatigué, il continue",
+        "Malgré sa fatigue, il continue à travailler",
+        "Parce qu'il est fatigué, il travaille",
+        "S'il est fatigué, il travaille"
+      ],
+      "correct": 1,
+      "explanation": "Bien que + subjonctif exprime la concession, équivalent à malgré + nom."
+    },
+    {
+      "question": "En France, la CAF est un organisme qui :",
+      "options": [
+        "Délivre les permis de conduire",
+        "Verse des aides sociales aux familles",
+        "Gère les retraites",
+        "Contrôle les impôts"
+      ],
+      "correct": 1,
+      "explanation": "La Caisse d'Allocations Familiales verse notamment les aides au logement et aux familles."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Il est parti ___ Lyon hier soir.",
+      "options": [
+        "à",
+        "pour",
+        "vers",
+        "en"
+      ],
+      "correct": 1,
+      "explanation": "Partir pour indique la destination finale d'un déplacement annoncé."
+    },
+    {
+      "question": "Que veut dire la phrase : Cette mesure laisse à désirer ?",
+      "options": [
+        "Elle est très satisfaisante",
+        "Elle est insuffisante ou décevante",
+        "Elle suscite l'enthousiasme",
+        "Elle est facultative"
+      ],
+      "correct": 1,
+      "explanation": "Laisser à désirer signifie ne pas être à la hauteur des attentes."
+    },
+    {
+      "question": "Quelle est la forme correcte au subjonctif : Il faut que nous ___ partir tôt.",
+      "options": [
+        "pouvons",
+        "puissions",
+        "pouvions",
+        "pourrions"
+      ],
+      "correct": 1,
+      "explanation": "Après il faut que, on emploie le subjonctif : puissions."
+    },
+    {
+      "question": "Un faux-ami pour un lusophone : assister à une réunion signifie :",
+      "options": [
+        "Aider une réunion",
+        "Être présent à une réunion",
+        "Organiser une réunion",
+        "Quitter une réunion"
+      ],
+      "correct": 1,
+      "explanation": "En français, assister à signifie être présent, contrairement au portugais assistir qui peut signifier regarder."
+    },
+    {
+      "question": "Choisissez le connecteur logique : Le projet a échoué ___ un manque de financement.",
+      "options": [
+        "grâce à",
+        "en raison de",
+        "malgré",
+        "afin de"
+      ],
+      "correct": 1,
+      "explanation": "En raison de exprime la cause d'un événement négatif."
+    },
+    {
+      "question": "Quel pronom complète correctement : Les documents, je ___ ai envoyés hier.",
+      "options": [
+        "le",
+        "lui",
+        "les",
+        "leur"
+      ],
+      "correct": 2,
+      "explanation": "Les documents est COD masculin pluriel, donc on utilise les."
+    },
+    {
+      "question": "Que signifie : Il a pris ses fonctions la semaine dernière ?",
+      "options": [
+        "Il a démissionné",
+        "Il a commencé son nouveau poste",
+        "Il a été promu",
+        "Il est parti en vacances"
+      ],
+      "correct": 1,
+      "explanation": "Prendre ses fonctions signifie commencer officiellement un poste."
+    },
+    {
+      "question": "Quel registre correspond à l'expression : Ce mec est complètement à l'ouest ?",
+      "options": [
+        "Soutenu",
+        "Standard",
+        "Familier",
+        "Littéraire"
+      ],
+      "correct": 2,
+      "explanation": "Mec et être à l'ouest appartiennent au registre familier."
+    },
+    {
+      "question": "Complétez : Si le télétravail ___ mieux encadré, les abus diminueraient.",
+      "options": [
+        "est",
+        "était",
+        "sera",
+        "serait"
+      ],
+      "correct": 1,
+      "explanation": "Si + imparfait pour exprimer une hypothèse présente, suivi du conditionnel dans la principale."
+    }
+  ],
+  "writingPrompt": "Sur le forum participatif de votre commune, un débat est lancé sur la création d'une zone à faibles émissions (ZFE) qui interdirait l'accès du centre-ville aux véhicules les plus polluants. Cette mesure divise habitants, commerçants et travailleurs venant de la périphérie. Rédigez un message argumenté (180-220 mots) dans lequel vous prenez position pour ou contre ce projet. Vous appuierez votre opinion sur au moins deux arguments concrets et vous proposerez une alternative ou un aménagement permettant de concilier les intérêts des différentes parties concernées."
+}

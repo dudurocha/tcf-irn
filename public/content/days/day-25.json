@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>institutions françaises</strong> constituent un vocabulaire essentiel pour comprendre la vie politique, administrative et sociale en France. Maîtriser ce lexique est indispensable pour le TCF, mais aussi pour la vie quotidienne d'un résident.</p><p><strong>1. Les institutions politiques</strong></p><ul><li>La <strong>République française</strong> est dirigée par le <strong>Président de la République</strong>, élu au suffrage universel direct pour 5 ans.</li><li>Le <strong>Premier ministre</strong> dirige le <strong>gouvernement</strong>, composé de <strong>ministres</strong>.</li><li>Le <strong>Parlement</strong> comprend deux chambres : l'<strong>Assemblée nationale</strong> (députés) et le <strong>Sénat</strong> (sénateurs).</li></ul><p><strong>2. La justice</strong></p><ul><li>Le <strong>Conseil constitutionnel</strong> vérifie la conformité des lois.</li><li>Le <strong>Conseil d'État</strong> juge les litiges entre citoyens et administration.</li><li>La <strong>Cour de cassation</strong> est la plus haute juridiction judiciaire.</li></ul><p><strong>3. L'administration territoriale</strong></p><ul><li>La France est divisée en <strong>régions</strong>, <strong>départements</strong> et <strong>communes</strong>.</li><li>Le <strong>préfet</strong> représente l'État dans le département.</li><li>Le <strong>maire</strong> dirige la commune, le <strong>conseil municipal</strong> l'assiste.</li></ul><p><strong>4. Les services publics essentiels</strong></p><ul><li>La <strong>CAF</strong> (Caisse d'allocations familiales) verse les aides sociales.</li><li>La <strong>Sécurité sociale</strong> rembourse les soins médicaux.</li><li>Pôle emploi est devenu <strong>France Travail</strong> en 2024.</li><li>L'<strong>OFPRA</strong> traite les demandes d'asile, l'<strong>OFII</strong> accueille les étrangers.</li></ul><p><strong>Pièges classiques pour lusophones :</strong></p><ul><li><em>Mairie</em> (le bâtiment et l'institution locale) ≠ <em>maire</em> (la personne). En portugais, on dit <em>prefeitura</em> pour les deux notions.</li><li><strong>Attention :</strong> le <em>préfet</em> français n'est PAS l'équivalent du <em>prefeito</em> brésilien ! Le <em>prefeito</em> brésilien correspond au <strong>maire</strong> français. Le <em>préfet</em> est un haut fonctionnaire nommé par l'État.</li><li><em>Député</em> (membre de l'Assemblée) ≠ <em>deputado</em> au sens large. Un <em>sénateur</em> siège au Sénat.</li><li>Ne pas confondre <em>gouvernement</em> (l'exécutif, ministres) et <em>État</em> (l'ensemble des institutions).</li><li><em>Citoyen</em> implique des droits politiques (voter) ; <em>résident</em> désigne simplement une personne qui habite quelque part.</li></ul><p>Connaître ces termes vous aidera à lire la presse, comprendre les démarches administratives et participer aux débats de société.</p>",
+  "examples": [
+    {
+      "sentence": "Le <strong>préfet</strong> de police a interdit la manifestation pour des raisons de sécurité.",
+      "note": "Le préfet est nommé par l'État, pas élu — différent du prefeito brésilien."
+    },
+    {
+      "sentence": "L'<strong>Assemblée nationale</strong> a adopté la loi en première lecture hier soir.",
+      "note": "Chambre basse du Parlement, composée de 577 députés."
+    },
+    {
+      "sentence": "Pour obtenir ma carte vitale, j'ai dû m'inscrire à la <strong>Sécurité sociale</strong>.",
+      "note": "Institution clé pour la santé en France."
+    },
+    {
+      "sentence": "Le <strong>maire</strong> de notre commune a inauguré la nouvelle école primaire.",
+      "note": "Le maire dirige la commune (l'équivalent du prefeito brésilien)."
+    },
+    {
+      "sentence": "Le <strong>Conseil constitutionnel</strong> a censuré plusieurs articles de la réforme.",
+      "note": "Censurer = invalider une loi jugée contraire à la Constitution."
+    },
+    {
+      "sentence": "Les <strong>fonctionnaires</strong> de la mairie sont en grève depuis lundi.",
+      "note": "Fonctionnaire = agent du service public, statut spécifique en France."
+    }
+  ],
+  "reading": {
+    "passage": "La décentralisation, un long chemin\n\nDepuis les lois Defferre de 1982, la France a profondément transformé son organisation territoriale. Longtemps considérée comme l'un des États les plus centralisés d'Europe, elle a progressivement transféré des compétences de l'État vers les collectivités territoriales : régions, départements et communes. Cette évolution répondait à une critique ancienne : Paris décidait de tout, parfois sans tenir compte des réalités locales.\n\nAujourd'hui, les régions gèrent les lycées et le développement économique, les départements s'occupent des collèges et de l'aide sociale, tandis que les communes restent en charge des écoles primaires, de l'urbanisme et de la vie quotidienne. Le maire demeure ainsi l'élu le plus proche des citoyens, celui vers qui l'on se tourne en cas de problème.\n\nPourtant, la décentralisation reste inachevée selon de nombreux observateurs. Le préfet, représentant de l'État dans chaque département, conserve des pouvoirs importants, notamment en matière de sécurité et de contrôle de légalité. Par ailleurs, les ressources financières des collectivités dépendent largement de dotations versées par l'État, ce qui limite leur véritable autonomie.\n\nLe débat actuel porte sur une nouvelle étape : faut-il donner davantage de pouvoirs aux régions, à l'image de l'Allemagne ou de l'Espagne ? Les partisans y voient un moyen de rapprocher la décision du citoyen et d'adapter les politiques aux territoires. Les opposants craignent une rupture de l'égalité républicaine entre les Français, selon leur lieu de résidence. Ce dilemme entre proximité et unité nationale traverse l'histoire institutionnelle française depuis la Révolution.",
+    "questions": [
+      {
+        "question": "Quel est le sujet principal du texte ?",
+        "options": [
+          "L'évolution de la décentralisation en France",
+          "Le rôle du président de la République",
+          "L'histoire de la Révolution française",
+          "Les pouvoirs du maire dans les petites communes"
+        ],
+        "correct": 0,
+        "explanation": "Le texte retrace l'évolution de la décentralisation depuis 1982 et ses enjeux actuels."
+      },
+      {
+        "question": "Selon le texte, de quoi s'occupent les départements ?",
+        "options": [
+          "Des lycées et du développement économique",
+          "Des écoles primaires et de l'urbanisme",
+          "Des collèges et de l'aide sociale",
+          "De la sécurité et du contrôle de légalité"
+        ],
+        "correct": 2,
+        "explanation": "Le texte indique clairement que les départements gèrent les collèges et l'aide sociale."
+      },
+      {
+        "question": "Pourquoi la décentralisation est-elle considérée comme inachevée ?",
+        "options": [
+          "Parce que les maires refusent de coopérer avec l'État",
+          "Parce que le préfet garde des pouvoirs et que l'autonomie financière reste limitée",
+          "Parce que les régions ne veulent plus de compétences supplémentaires",
+          "Parce que les citoyens préfèrent que Paris décide de tout"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement le rôle persistant du préfet et la dépendance financière vis-à-vis de l'État."
+      },
+      {
+        "question": "Dans le texte, que signifie l'expression rupture de l'égalité républicaine ?",
+        "options": [
+          "Une différence de traitement entre citoyens selon leur région",
+          "Une révolution politique majeure",
+          "Une fin de la République française",
+          "Un conflit entre les partis politiques"
+        ],
+        "correct": 0,
+        "explanation": "Les opposants craignent que les citoyens ne soient pas traités également selon leur lieu de résidence."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Qui dirige le gouvernement français ?",
+      "options": [
+        "Le Président de la République",
+        "Le Premier ministre",
+        "Le président du Sénat",
+        "Le président de l'Assemblée nationale"
+      ],
+      "correct": 1,
+      "explanation": "Le Premier ministre dirige le gouvernement ; le Président, lui, est chef de l'État."
+    },
+    {
+      "question": "Comment appelle-t-on un membre de l'Assemblée nationale ?",
+      "options": [
+        "Un sénateur",
+        "Un conseiller",
+        "Un député",
+        "Un ministre"
+      ],
+      "correct": 2,
+      "explanation": "Les députés siègent à l'Assemblée nationale ; les sénateurs siègent au Sénat."
+    },
+    {
+      "question": "Quelle institution vérifie la conformité des lois à la Constitution ?",
+      "options": [
+        "Le Conseil d'État",
+        "La Cour de cassation",
+        "Le Conseil constitutionnel",
+        "Le Sénat"
+      ],
+      "correct": 2,
+      "explanation": "Le Conseil constitutionnel contrôle la constitutionnalité des lois."
+    },
+    {
+      "question": "Le préfet est :",
+      "options": [
+        "Élu par les habitants du département",
+        "Nommé par le gouvernement pour représenter l'État",
+        "Le chef du conseil municipal",
+        "Un magistrat de la Cour de cassation"
+      ],
+      "correct": 1,
+      "explanation": "Attention au faux-ami : le préfet français est nommé, contrairement au prefeito brésilien qui est élu."
+    },
+    {
+      "question": "Quelle institution verse les allocations familiales ?",
+      "options": [
+        "La CAF",
+        "L'OFPRA",
+        "France Travail",
+        "Le Conseil régional"
+      ],
+      "correct": 0,
+      "explanation": "La CAF (Caisse d'allocations familiales) gère les prestations familiales et sociales."
+    },
+    {
+      "question": "Quel organisme traite les demandes d'asile en France ?",
+      "options": [
+        "L'OFII",
+        "La préfecture seule",
+        "L'OFPRA",
+        "La CAF"
+      ],
+      "correct": 2,
+      "explanation": "L'OFPRA (Office français de protection des réfugiés et apatrides) est compétent pour les demandes d'asile."
+    },
+    {
+      "question": "Choisissez la phrase correcte :",
+      "options": [
+        "Le maire a été nommé par le préfet.",
+        "Le maire est élu par le conseil municipal.",
+        "Le maire est nommé par le Premier ministre.",
+        "Le maire est désigné par le président."
+      ],
+      "correct": 1,
+      "explanation": "Le maire est élu par le conseil municipal, lui-même élu par les habitants."
+    },
+    {
+      "question": "Que signifie censurer une loi pour le Conseil constitutionnel ?",
+      "options": [
+        "La modifier légèrement",
+        "La déclarer contraire à la Constitution et l'invalider",
+        "La voter en urgence",
+        "La publier au Journal officiel"
+      ],
+      "correct": 1,
+      "explanation": "Censurer = invalider tout ou partie d'une loi jugée inconstitutionnelle."
+    },
+    {
+      "question": "Quelle est la plus haute juridiction de l'ordre judiciaire ?",
+      "options": [
+        "Le Conseil d'État",
+        "La Cour de cassation",
+        "Le Conseil constitutionnel",
+        "Le tribunal administratif"
+      ],
+      "correct": 1,
+      "explanation": "La Cour de cassation pour le judiciaire ; le Conseil d'État pour l'administratif."
+    },
+    {
+      "question": "Complétez : Pour contester une décision de l'administration, on saisit le _______.",
+      "options": [
+        "tribunal correctionnel",
+        "tribunal administratif",
+        "Conseil constitutionnel",
+        "Sénat"
+      ],
+      "correct": 1,
+      "explanation": "Les litiges avec l'administration relèvent de la justice administrative, dont la première instance est le tribunal administratif."
+    }
+  ],
+  "writingPrompt": "Vous résidez en France et vous avez récemment pris la décision de vous engager dans la vie locale de votre commune : inscription sur les listes électorales (si vous y avez droit), participation à une association de quartier, ou implication dans un conseil de citoyens. Dans un texte de 180 à 220 mots, racontez cette décision : expliquez ce qui vous a motivé, quelles institutions ou démarches administratives vous avez rencontrées (mairie, préfecture, associations, etc.), les éventuelles difficultés et ce que cet engagement vous apporte concrètement. Concluez en donnant votre opinion sur l'importance de la participation citoyenne au niveau local en France.",
+  "vocab": [
+    {
+      "word": "le préfet",
+      "translation": "prefeito (no sentido francês: representante do Estado, nomeado)",
+      "example": "Le préfet a pris un arrêté pour interdire la baignade sur cette plage."
+    },
+    {
+      "word": "le maire",
+      "translation": "prefeito (no sentido brasileiro: eleito da comuna)",
+      "example": "Le maire de Lyon a inauguré la nouvelle ligne de tramway."
+    },
+    {
+      "word": "l'Assemblée nationale",
+      "translation": "Câmara dos Deputados (Assembleia Nacional)",
+      "example": "Les députés débattent du budget à l'Assemblée nationale."
+    },
+    {
+      "word": "le Sénat",
+      "translation": "Senado",
+      "example": "Le Sénat a modifié plusieurs articles du projet de loi."
+    },
+    {
+      "word": "une collectivité territoriale",
+      "translation": "ente territorial (região, departamento, comuna)",
+      "example": "Les collectivités territoriales financent une partie des services publics locaux."
+    },
+    {
+      "word": "un fonctionnaire",
+      "translation": "funcionário público",
+      "example": "Ma voisine est fonctionnaire au ministère de l'Éducation."
+    },
+    {
+      "word": "saisir (un tribunal)",
+      "translation": "acionar, recorrer a (um tribunal)",
+      "example": "Il a saisi le tribunal administratif pour contester le refus de titre de séjour."
+    },
+    {
+      "word": "une dotation",
+      "translation": "dotação, repasse financeiro",
+      "example": "Les communes rurales dépendent fortement des dotations de l'État."
+    }
+  ]
+}

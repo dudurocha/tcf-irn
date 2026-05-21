@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le choix entre <strong>subjonctif</strong> et <strong>indicatif</strong> dépend du sens de la proposition principale. L'indicatif exprime une réalité, une certitude, un fait constaté. Le subjonctif exprime une subjectivité : volonté, émotion, doute, nécessité, possibilité.</p><p><strong>1. Verbes de volonté, désir, ordre</strong> → subjonctif : <em>vouloir que, souhaiter que, exiger que, demander que</em>.</p><p><strong>2. Verbes d'émotion</strong> → subjonctif : <em>avoir peur que, être content que, regretter que</em>.</p><p><strong>3. Verbes de doute ou de négation</strong> → subjonctif : <em>douter que, ne pas penser que, ne pas croire que</em>.</p><p><strong>4. Verbes d'opinion à la forme affirmative</strong> → indicatif : <em>je pense que, je crois que, j'affirme que</em>.</p><p><strong>5. Expressions impersonnelles de nécessité, possibilité</strong> → subjonctif : <em>il faut que, il est possible que, il est important que</em>.</p><p><strong>6. Expressions impersonnelles de certitude</strong> → indicatif : <em>il est certain que, il est évident que, il paraît que</em>.</p><p><strong>Conjugaison du présent du subjonctif</strong> — verbe <em>être</em> :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p>Verbe <em>avoir</em> :</p><table><tr><td>j'</td><td><strong>aie</strong></td></tr><tr><td>tu</td><td><strong>aies</strong></td></tr><tr><td>il/elle</td><td><strong>ait</strong></td></tr><tr><td>nous</td><td><strong>ayons</strong></td></tr><tr><td>vous</td><td><strong>ayez</strong></td></tr><tr><td>ils/elles</td><td><strong>aient</strong></td></tr></table><p>Verbe <em>faire</em> :</p><table><tr><td>je</td><td><strong>fasse</strong></td></tr><tr><td>tu</td><td><strong>fasses</strong></td></tr><tr><td>il/elle</td><td><strong>fasse</strong></td></tr><tr><td>nous</td><td><strong>fassions</strong></td></tr><tr><td>vous</td><td><strong>fassiez</strong></td></tr><tr><td>ils/elles</td><td><strong>fassent</strong></td></tr></table><p><strong>Pièges pour lusophones :</strong> En portugais, on dit <em>acho que ele venha</em>? Non, on dit <em>acho que ele vem</em> (indicatif). Le français fonctionne pareil avec <em>je pense que</em> + indicatif. Mais attention : la négation change tout. <em>Je pense qu'il vient</em> (indicatif) → <em>Je ne pense pas qu'il vienne</em> (subjonctif). Autre piège : <em>espérer que</em> est suivi de l'indicatif en français (contrairement à <em>esperar que</em> + subjonctif en portugais). Enfin, <em>après que</em> demande l'indicatif (norme), tandis que <em>avant que</em> demande le subjonctif.</p>",
+  "examples": [
+    {
+      "sentence": "Il faut que tu <strong>fasses</strong> ta demande de titre de séjour avant l'expiration.",
+      "note": "Il faut que + subjonctif (nécessité)."
+    },
+    {
+      "sentence": "Je pense que la réforme <strong>entrera</strong> en vigueur en janvier.",
+      "note": "Je pense que (affirmatif) + indicatif futur."
+    },
+    {
+      "sentence": "Je ne crois pas qu'il <strong>soit</strong> facile de trouver un logement à Paris.",
+      "note": "Négation d'opinion → subjonctif."
+    },
+    {
+      "sentence": "J'espère que tu <strong>réussiras</strong> ton entretien d'embauche.",
+      "note": "Espérer que + indicatif (piège pour lusophones)."
+    },
+    {
+      "sentence": "Bien qu'il <strong>pleuve</strong>, la manifestation a été maintenue.",
+      "note": "Bien que + subjonctif (concession)."
+    },
+    {
+      "sentence": "Il est évident que cette mesure <strong>aura</strong> des conséquences économiques.",
+      "note": "Certitude impersonnelle → indicatif."
+    }
+  ],
+  "reading": {
+    "passage": "Depuis quelques années, le télétravail s'est imposé comme une nouvelle norme dans de nombreuses entreprises françaises. Si la crise sanitaire a accéléré cette transformation, il est aujourd'hui clair que ce mode d'organisation ne disparaîtra pas. Selon une étude récente de la DARES, près de 33 % des salariés français pratiquent le télétravail au moins un jour par semaine, contre seulement 7 % avant 2020.\n\nLes partisans de cette pratique soulignent ses nombreux avantages : meilleure conciliation entre vie professionnelle et vie personnelle, réduction du temps de transport, gains de productivité. Pour certains employeurs, il est devenu essentiel que les collaborateurs puissent travailler à distance, afin de rester attractifs sur un marché du travail tendu.\n\nCependant, tous ne partagent pas cet enthousiasme. Plusieurs dirigeants craignent que le télétravail n'affaiblisse la cohésion d'équipe et ne nuise à la créativité collective. Le PDG d'une grande banque française a récemment exigé que ses cadres reviennent au bureau au moins quatre jours par semaine. D'autres entreprises, comme certaines start-up parisiennes, ont au contraire adopté le télétravail intégral, jugeant qu'il n'est pas indispensable que les employés soient physiquement présents.\n\nLes syndicats, eux, demandent que ce droit soit mieux encadré juridiquement. Ils regrettent que la législation actuelle laisse trop de marge aux employeurs et souhaitent que des accords collectifs garantissent l'équité entre les salariés. Une chose est sûre : le débat est loin d'être clos, et l'avenir du travail en France dépendra largement de la capacité des acteurs sociaux à trouver un compromis durable.",
+    "questions": [
+      {
+        "question": "Quel pourcentage de salariés français pratiquait le télétravail avant 2020 ?",
+        "options": [
+          "33 %",
+          "7 %",
+          "20 %",
+          "moins de 1 %"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique clairement seulement 7 % avant 2020, contre 33 % aujourd'hui."
+      },
+      {
+        "question": "Quelle est la position du PDG de la grande banque évoquée ?",
+        "options": [
+          "Il défend le télétravail intégral",
+          "Il exige un retour partiel au bureau",
+          "Il refuse totalement le télétravail",
+          "Il laisse le choix aux salariés"
+        ],
+        "correct": 1,
+        "explanation": "Il exige que ses cadres reviennent au bureau au moins quatre jours par semaine, donc un retour partiel."
+      },
+      {
+        "question": "Que demandent principalement les syndicats ?",
+        "options": [
+          "L'interdiction du télétravail",
+          "Un meilleur encadrement juridique du télétravail",
+          "Une augmentation des salaires",
+          "La généralisation obligatoire du télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Les syndicats demandent que ce droit soit mieux encadré juridiquement."
+      },
+      {
+        "question": "Dans le contexte du texte, l'expression marché du travail tendu signifie :",
+        "options": [
+          "un marché en crise économique",
+          "un marché où il est difficile de recruter",
+          "un marché où les salaires baissent",
+          "un marché très réglementé"
+        ],
+        "correct": 1,
+        "explanation": "Un marché tendu désigne une situation où les employeurs peinent à recruter, d'où la nécessité d'offrir des avantages comme le télétravail."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Il faut que vous ___ vos documents avant vendredi.",
+      "options": [
+        "envoyez",
+        "enverrez",
+        "envoyiez",
+        "envoyer"
+      ],
+      "correct": 2,
+      "explanation": "Il faut que + subjonctif présent : que vous envoyiez."
+    },
+    {
+      "question": "Je pense qu'il ___ raison sur ce point.",
+      "options": [
+        "ait",
+        "a",
+        "aie",
+        "avait eu"
+      ],
+      "correct": 1,
+      "explanation": "Je pense que (affirmatif) + indicatif : il a raison."
+    },
+    {
+      "question": "Bien que la situation ___ difficile, nous resterons optimistes.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "était"
+      ],
+      "correct": 1,
+      "explanation": "Bien que + subjonctif : qu'elle soit."
+    },
+    {
+      "question": "J'espère que tu ___ bientôt à Paris.",
+      "options": [
+        "viennes",
+        "viendras",
+        "vienne",
+        "sois venu"
+      ],
+      "correct": 1,
+      "explanation": "Espérer que + indicatif (futur) : tu viendras. Piège classique pour les lusophones."
+    },
+    {
+      "question": "Il est certain qu'elle ___ la meilleure candidate.",
+      "options": [
+        "soit",
+        "est",
+        "ait été",
+        "serait"
+      ],
+      "correct": 1,
+      "explanation": "Il est certain que exprime une certitude → indicatif : elle est."
+    },
+    {
+      "question": "Je doute qu'ils ___ à temps pour la réunion.",
+      "options": [
+        "arrivent",
+        "arriveront",
+        "arrivaient",
+        "arriver"
+      ],
+      "correct": 0,
+      "explanation": "Douter que + subjonctif : qu'ils arrivent."
+    },
+    {
+      "question": "Avant qu'il ne ___ trop tard, agissons.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "était"
+      ],
+      "correct": 2,
+      "explanation": "Avant que + subjonctif : qu'il soit."
+    },
+    {
+      "question": "Je ne crois pas que ce projet ___ réaliste.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "était"
+      ],
+      "correct": 1,
+      "explanation": "Ne pas croire que (négation d'opinion) → subjonctif : qu'il soit."
+    },
+    {
+      "question": "Il est probable qu'elle ___ accepter cette offre.",
+      "options": [
+        "veuille",
+        "veut",
+        "voudra",
+        "voulait"
+      ],
+      "correct": 2,
+      "explanation": "Il est probable que exprime une forte probabilité → indicatif (futur) : elle voudra. Attention : il est possible que demande le subjonctif."
+    },
+    {
+      "question": "Mes parents souhaitent que je ___ médecin.",
+      "options": [
+        "deviens",
+        "deviendrai",
+        "devienne",
+        "devenais"
+      ],
+      "correct": 2,
+      "explanation": "Souhaiter que (volonté) + subjonctif : que je devienne."
+    }
+  ],
+  "writingPrompt": "Rédigez une tribune (180 à 220 mots) destinée à un journal en ligne français sur le thème suivant : L'évolution du métier d'enseignant face au numérique et à l'intelligence artificielle. Donnez votre opinion argumentée sur les transformations actuelles de cette profession en France (outils numériques en classe, ChatGPT, formation continue, attractivité du métier). Vous devez utiliser au moins trois structures avec le subjonctif (par exemple : il faut que, bien que, je ne pense pas que, il est essentiel que) et au moins deux structures avec l'indicatif après une expression de certitude (il est évident que, il est clair que). Adoptez un ton engagé mais nuancé, et terminez par une proposition concrète.",
+  "vocab": [
+    {
+      "word": "exiger",
+      "translation": "exigir",
+      "example": "Le directeur exige que tous les employés soient ponctuels."
+    },
+    {
+      "word": "redouter",
+      "translation": "temer, recear",
+      "example": "Je redoute qu'il ne pleuve le jour de la cérémonie."
+    },
+    {
+      "word": "souhaiter",
+      "translation": "desejar",
+      "example": "Nous souhaitons que cette réforme aboutisse rapidement."
+    },
+    {
+      "word": "il convient que",
+      "translation": "convém que",
+      "example": "Il convient que chacun fasse un effort pour réduire sa consommation."
+    },
+    {
+      "word": "à condition que",
+      "translation": "desde que, contanto que",
+      "example": "Tu peux sortir à condition que tu finisses tes devoirs."
+    },
+    {
+      "word": "sans que",
+      "translation": "sem que",
+      "example": "Il est parti sans que personne ne s'en aperçoive."
+    },
+    {
+      "word": "pourvu que",
+      "translation": "tomara que, desde que",
+      "example": "Pourvu qu'il fasse beau dimanche pour le pique-nique !"
+    },
+    {
+      "word": "de sorte que",
+      "translation": "de modo que",
+      "example": "Parlez plus fort, de sorte que tout le monde puisse vous entendre."
+    }
+  ]
+}

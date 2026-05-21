@@ -1,0 +1,233 @@
+{
+  "theory": "<p>L'expression de l'<strong>hypothèse</strong> avec <code>si</code> est un point essentiel du niveau B2. Le français utilise trois structures principales, chacune correspondant à un degré différent de réalité.</p><p><strong>1. Hypothèse réelle (probable)</strong> — <code>Si + présent, [présent / futur / impératif]</code></p><ul><li><em>Si tu étudies, tu réussiras le TCF.</em></li><li><em>Si vous avez le temps, venez nous voir.</em></li></ul><p><strong>2. Hypothèse irréelle du présent (peu probable ou imaginaire)</strong> — <code>Si + imparfait, conditionnel présent</code></p><ul><li><em>Si j'avais plus d'argent, j'achèterais un appartement à Paris.</em></li><li><em>Si nous parlions mieux français, nous trouverions un meilleur emploi.</em></li></ul><p><strong>3. Hypothèse irréelle du passé (regret, reproche)</strong> — <code>Si + plus-que-parfait, conditionnel passé</code></p><ul><li><em>Si j'avais su, je ne serais pas venu.</em></li><li><em>Si tu m'avais prévenu, j'aurais réservé une table.</em></li></ul><p><strong>Le conditionnel présent</strong> (verbe <em>aimer</em>) :</p><table><tr><td>je</td><td><strong>aimerais</strong></td></tr><tr><td>tu</td><td><strong>aimerais</strong></td></tr><tr><td>il/elle</td><td><strong>aimerait</strong></td></tr><tr><td>nous</td><td><strong>aimerions</strong></td></tr><tr><td>vous</td><td><strong>aimeriez</strong></td></tr><tr><td>ils/elles</td><td><strong>aimeraient</strong></td></tr></table><p><strong>Le plus-que-parfait</strong> (verbe <em>partir</em>, auxiliaire <em>être</em>) :</p><table><tr><td>j'</td><td><strong>étais parti(e)</strong></td></tr><tr><td>tu</td><td><strong>étais parti(e)</strong></td></tr><tr><td>il/elle</td><td><strong>était parti(e)</strong></td></tr><tr><td>nous</td><td><strong>étions parti(e)s</strong></td></tr><tr><td>vous</td><td><strong>étiez parti(e)(s)</strong></td></tr><tr><td>ils/elles</td><td><strong>étaient parti(e)s</strong></td></tr></table><p><strong>Pièges classiques pour lusophones :</strong></p><ul><li>En portugais, on dit <em>Se eu tivesse dinheiro, compraria…</em> avec un subjonctif imparfait. En français, après <code>si</code> hypothétique, on n'utilise <strong>JAMAIS</strong> le subjonctif ni le conditionnel. On dit <em>Si j'avais</em> (imparfait), pas <em>Si j'aurais</em>.</li><li>Ne confondez pas <code>si</code> de condition et <code>si</code> de question indirecte (<em>Je me demande si…</em>), qui lui peut être suivi du futur ou du conditionnel.</li><li>Attention à la concordance : un seul temps après <code>si</code>, jamais deux mélangés.</li></ul>",
+  "examples": [
+    {
+      "sentence": "Si le gouvernement augmentait le SMIC, le pouvoir d'achat s'améliorerait.",
+      "note": "Hypothèse irréelle du présent : si + imparfait, conditionnel présent."
+    },
+    {
+      "sentence": "Si tu as fini ton rapport, envoie-le-moi avant 18h.",
+      "note": "Hypothèse réelle : si + passé composé, impératif."
+    },
+    {
+      "sentence": "Si j'avais accepté ce poste à Lyon, j'aurais déménagé en septembre.",
+      "note": "Irréel du passé : regret par rapport à une décision non prise."
+    },
+    {
+      "sentence": "Si nous étions plus nombreux à voter, les résultats refléteraient mieux l'opinion publique.",
+      "note": "Hypothèse irréelle du présent dans un contexte citoyen."
+    },
+    {
+      "sentence": "Si elle avait étudié davantage, elle aurait obtenu son diplôme.",
+      "note": "Plus-que-parfait + conditionnel passé : reproche/regret."
+    },
+    {
+      "sentence": "S'il pleut demain, la manifestation sera reportée.",
+      "note": "Hypothèse réelle dans le futur : si + présent, futur simple."
+    }
+  ],
+  "reading": {
+    "passage": "La semaine de quatre jours : utopie ou avenir du travail ?\n\nDepuis quelques années, la semaine de quatre jours fait débat en France. Plusieurs entreprises, notamment dans le secteur des services et de la tech, ont expérimenté cette nouvelle organisation du temps de travail. Les résultats sont souvent présentés comme positifs : si les salariés bénéficiaient d'un jour de repos supplémentaire, leur productivité augmenterait, selon les défenseurs de ce modèle. En Islande, une expérimentation menée entre 2015 et 2019 a montré que la réduction du temps de travail n'avait pas diminué la performance des employés ; au contraire, leur bien-être s'était considérablement amélioré.\n\nEn France, le sujet divise. Les partisans soulignent que si les entreprises adoptaient massivement ce rythme, elles attireraient plus facilement les jeunes talents, particulièrement sensibles à l'équilibre entre vie professionnelle et vie personnelle. Les opposants, eux, rappellent que tous les secteurs ne peuvent pas s'adapter : dans l'industrie, l'hôpital ou la grande distribution, réduire les jours travaillés impliquerait soit d'embaucher massivement, soit d'augmenter les horaires quotidiens jusqu'à dix heures.\n\nLe gouvernement reste prudent. Si une généralisation était envisagée, il faudrait une réforme profonde du Code du travail. Par ailleurs, les syndicats craignent que cette mesure ne serve à intensifier le rythme sur quatre jours plutôt qu'à réellement améliorer la qualité de vie. Pour l'instant, les expérimentations restent volontaires et limitées à quelques centaines d'entreprises. Si les résultats à long terme confirmaient les premières observations, la France pourrait suivre l'exemple belge, où la semaine de quatre jours est légalement possible depuis 2022.",
+    "questions": [
+      {
+        "question": "Quel est le principal argument des défenseurs de la semaine de quatre jours ?",
+        "options": [
+          "Elle réduit les coûts salariaux des entreprises",
+          "Elle améliore le bien-être et la productivité des salariés",
+          "Elle permet d'embaucher plus de jeunes diplômés",
+          "Elle diminue le chômage en France"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que la productivité augmenterait et que le bien-être des employés islandais s'est amélioré."
+      },
+      {
+        "question": "Pourquoi certains secteurs ne peuvent-ils pas facilement adopter ce modèle ?",
+        "options": [
+          "Les salariés y refusent toute réforme",
+          "Le gouvernement l'interdit dans ces secteurs",
+          "Cela exigerait d'embaucher davantage ou d'allonger les journées",
+          "Les syndicats s'y opposent fermement"
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement que dans l'industrie ou l'hôpital, il faudrait embaucher massivement ou augmenter les horaires."
+      },
+      {
+        "question": "Que craignent les syndicats français concernant cette mesure ?",
+        "options": [
+          "Qu'elle conduise à une intensification du travail sur moins de jours",
+          "Qu'elle entraîne une baisse des salaires",
+          "Qu'elle profite uniquement aux cadres supérieurs",
+          "Qu'elle soit appliquée trop rapidement"
+        ],
+        "correct": 0,
+        "explanation": "Le texte dit que les syndicats craignent que la mesure ne serve à intensifier le rythme sur quatre jours."
+      },
+      {
+        "question": "Dans le texte, le mot 'prudent' (paragraphe 3) signifie :",
+        "options": [
+          "Enthousiaste",
+          "Réservé, attentif avant d'agir",
+          "Opposé à toute réforme",
+          "Pressé de légiférer"
+        ],
+        "correct": 1,
+        "explanation": "Le gouvernement adopte une attitude réservée, attendant les résultats avant d'agir : c'est le sens de 'prudent' ici."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Si j'___ le temps demain, je passerai te voir.",
+      "options": [
+        "aurais",
+        "ai",
+        "avais",
+        "aurai"
+      ],
+      "correct": 1,
+      "explanation": "Hypothèse réelle dans le futur : si + présent, futur simple. On dit 'si j'ai'."
+    },
+    {
+      "question": "Si nous habitions plus près du centre, nous ___ moins de transports.",
+      "options": [
+        "prendrions",
+        "prendrons",
+        "prenions",
+        "aurions pris"
+      ],
+      "correct": 0,
+      "explanation": "Si + imparfait → conditionnel présent : 'nous prendrions'."
+    },
+    {
+      "question": "Si tu m'avais prévenu plus tôt, je ___ ce rendez-vous.",
+      "options": [
+        "aurais annulé",
+        "annulerais",
+        "annulais",
+        "avais annulé"
+      ],
+      "correct": 0,
+      "explanation": "Si + plus-que-parfait → conditionnel passé. On exprime un regret/reproche."
+    },
+    {
+      "question": "Quelle phrase est INCORRECTE en français standard ?",
+      "options": [
+        "Si j'avais su, je serais venu",
+        "Si j'aurais su, je serais venu",
+        "Si je savais, je viendrais",
+        "Si je sais, je viens"
+      ],
+      "correct": 1,
+      "explanation": "Erreur classique : après 'si' hypothétique, on n'emploie JAMAIS le conditionnel. Il faut 'si j'avais su'."
+    },
+    {
+      "question": "Si le climat continue de se réchauffer, certaines régions ___ inhabitables.",
+      "options": [
+        "deviendraient",
+        "deviendront",
+        "devenaient",
+        "seraient devenues"
+      ],
+      "correct": 1,
+      "explanation": "Hypothèse réelle / probable : si + présent, futur simple."
+    },
+    {
+      "question": "S'il ___ moins de pollution, la qualité de l'air serait meilleure.",
+      "options": [
+        "y avait",
+        "il y a",
+        "il y aurait",
+        "il y a eu"
+      ],
+      "correct": 0,
+      "explanation": "Si + imparfait : 's'il y avait'. Le conditionnel apparaît dans la seconde partie."
+    },
+    {
+      "question": "Identifie le type d'hypothèse : 'Si j'avais étudié la médecine, je travaillerais à l'hôpital aujourd'hui.'",
+      "options": [
+        "Hypothèse réelle",
+        "Hypothèse irréelle du présent",
+        "Hypothèse mixte (passé/présent)",
+        "Question indirecte"
+      ],
+      "correct": 2,
+      "explanation": "Si + plus-que-parfait (passé) + conditionnel présent (résultat actuel) : c'est une hypothèse mixte."
+    },
+    {
+      "question": "Complète : 'Je me demande si elle ___ à la réunion demain.'",
+      "options": [
+        "vienne",
+        "viendrait",
+        "viendra",
+        "venait"
+      ],
+      "correct": 2,
+      "explanation": "Attention : ici 'si' introduit une question indirecte, pas une hypothèse. On peut donc utiliser le futur."
+    },
+    {
+      "question": "Si les citoyens ___ davantage aux consultations publiques, les décisions seraient plus représentatives.",
+      "options": [
+        "participent",
+        "participeraient",
+        "participaient",
+        "avaient participé"
+      ],
+      "correct": 2,
+      "explanation": "Si + imparfait dans la subordonnée, conditionnel présent dans la principale : hypothèse irréelle du présent."
+    },
+    {
+      "question": "Choisis la phrase correcte exprimant un regret :",
+      "options": [
+        "Si je savais, je ne dirais rien",
+        "Si j'aurais su, je n'aurais rien dit",
+        "Si j'avais su, je n'aurais rien dit",
+        "Si je sais, je ne dis rien"
+      ],
+      "correct": 2,
+      "explanation": "Le regret du passé se construit avec 'si + plus-que-parfait, conditionnel passé'. Jamais 'si j'aurais'."
+    }
+  ],
+  "writingPrompt": "Votre mairie organise une consultation publique en ligne sur le projet suivant : transformer une avenue très fréquentée de votre quartier en zone piétonne le week-end. Vous décidez de rédiger votre contribution citoyenne (180-220 mots). Donnez votre avis argumenté en utilisant plusieurs hypothèses avec 'si' (par exemple : 'Si la circulation était interdite le samedi, les commerces locaux bénéficieraient...', 'Si la mairie avait consulté les riverains plus tôt, le projet aurait été mieux accepté...'). Présentez au moins deux avantages et un inconvénient possibles, puis proposez une condition ou un aménagement pour rendre le projet acceptable pour tous.",
+  "vocab": [
+    {
+      "word": "envisager",
+      "translation": "considerar, cogitar",
+      "example": "Le gouvernement envisage de réformer le système des retraites."
+    },
+    {
+      "word": "à condition que",
+      "translation": "desde que, com a condição de que",
+      "example": "Je signerai ce contrat à condition que les horaires soient flexibles."
+    },
+    {
+      "word": "un pouvoir d'achat",
+      "translation": "poder de compra",
+      "example": "L'inflation a fortement réduit le pouvoir d'achat des ménages."
+    },
+    {
+      "word": "une consultation publique",
+      "translation": "consulta pública",
+      "example": "La consultation publique sur la réforme s'est terminée hier."
+    },
+    {
+      "word": "un syndicat",
+      "translation": "sindicato",
+      "example": "Les syndicats ont appelé à une grève nationale jeudi prochain."
+    },
+    {
+      "word": "le bien-être",
+      "translation": "bem-estar",
+      "example": "Le bien-être au travail est devenu une priorité des entreprises."
+    },
+    {
+      "word": "généraliser",
+      "translation": "generalizar, estender a todos",
+      "example": "Si on généralisait le télétravail, les villes seraient moins polluées."
+    },
+    {
+      "word": "un riverain",
+      "translation": "morador da vizinhança",
+      "example": "Les riverains se plaignent du bruit causé par les travaux."
+    }
+  ]
+}

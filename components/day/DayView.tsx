@@ -7,7 +7,7 @@ import { Qcm } from "@/components/day/Qcm";
 import { ReadingSection } from "@/components/day/ReadingSection";
 import { WritingSection } from "@/components/day/WritingSection";
 import { VocabCards } from "@/components/day/VocabCards";
-import { generateLesson } from "@/lib/api-client";
+import { getLesson } from "@/lib/api-client";
 import { getDay } from "@/lib/curriculum";
 import { useProgress } from "@/lib/storage/use-progress";
 import type { LessonContent } from "@/lib/types";
@@ -24,8 +24,6 @@ export function DayView({ day }: DayViewProps) {
     loaded,
     markDayComplete,
     resetDay,
-    cacheLesson,
-    clearCache,
     saveWriting,
     toggleVocabKnown,
   } = useProgress();
@@ -46,36 +44,21 @@ export function DayView({ day }: DayViewProps) {
     if (!loaded || !curriculumDay || fetchedRef.current) return;
     fetchedRef.current = true;
 
-    const cached = progress.cachedContent[day];
-    if (cached) {
-      setContent(cached);
-      return;
-    }
-
     setLoading(true);
-    generateLesson(day)
-      .then((lesson) => {
-        setContent(lesson);
-        cacheLesson(day, lesson);
-      })
+    getLesson(day)
+      .then((lesson) => setContent(lesson))
       .catch((err) => {
         setError(err instanceof Error ? err.message : String(err));
       })
       .finally(() => setLoading(false));
-  }, [day, loaded, curriculumDay, progress.cachedContent, cacheLesson]);
+  }, [day, loaded, curriculumDay]);
 
-  const regenerate = () => {
-    if (!confirm("Régénérer le contenu de ce jour ? La leçon actuelle sera remplacée.")) return;
-    clearCache(day);
-    setContent(null);
+  const retry = () => {
     setError(null);
     fetchedRef.current = false;
     setLoading(true);
-    generateLesson(day)
-      .then((lesson) => {
-        setContent(lesson);
-        cacheLesson(day, lesson);
-      })
+    getLesson(day)
+      .then((lesson) => setContent(lesson))
       .catch((err) => setError(err instanceof Error ? err.message : String(err)))
       .finally(() => setLoading(false));
   };
@@ -95,10 +78,7 @@ export function DayView({ day }: DayViewProps) {
     return (
       <div className="flex flex-col items-center gap-4 py-16 text-ink-muted text-sm text-center">
         <div className="spinner" />
-        <div>Génération de la leçon du jour {day}…</div>
-        <div className="text-xs text-ink-faint">
-          Environ 10-15 secondes. La leçon sera ensuite mise en cache.
-        </div>
+        <div>Chargement de la leçon du jour {day}…</div>
       </div>
     );
   }
@@ -114,12 +94,8 @@ export function DayView({ day }: DayViewProps) {
           <br />
           {error}
         </div>
-        <p className="text-sm text-ink-muted mb-4">
-          Les erreurs Anthropic transitoires (surcharge serveur, timeout) se résolvent généralement en quelques minutes.
-          Attendez 30 secondes et réessayez.
-        </p>
         <div className="flex gap-2">
-          <button className="btn btn-primary" onClick={regenerate}>
+          <button className="btn btn-primary" onClick={retry}>
             ↻ Réessayer
           </button>
           <Link href="/" className="btn">
@@ -155,17 +131,8 @@ export function DayView({ day }: DayViewProps) {
         <Link href="/" className="btn btn-ghost">
           ← Parcours
         </Link>
-        <div className="flex items-center gap-3">
-          <button
-            className="btn btn-ghost text-xs px-2.5 py-1"
-            onClick={regenerate}
-            title="Régénérer le contenu de ce jour"
-          >
-            ↻ Régénérer
-          </button>
-          <div className="text-[13px] text-ink-muted font-sans">
-            Jour {day} / 30
-          </div>
+        <div className="text-[13px] text-ink-muted font-sans">
+          Jour {day} / 30
         </div>
       </div>
 

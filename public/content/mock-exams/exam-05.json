@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis plusieurs années, le télétravail s'est imposé comme une réalité incontournable du monde professionnel français. Accéléré par la crise sanitaire de 2020, ce mode d'organisation a profondément modifié les habitudes des salariés et des employeurs. Selon une étude récente de la DARES, près de 30% des actifs français pratiquent désormais le télétravail au moins un jour par semaine, contre seulement 7% avant la pandémie.\n\nLes avantages sont nombreux et largement documentés. Les salariés évoquent un meilleur équilibre entre vie professionnelle et vie personnelle, une réduction significative du temps de transport, et une concentration accrue pour les tâches exigeant de la réflexion. Les entreprises, de leur côté, constatent souvent une productivité maintenue, voire améliorée, ainsi qu'une réduction des coûts immobiliers.\n\nCependant, le tableau n'est pas aussi <strong>idyllique</strong> qu'il n'y paraît. De nombreux télétravailleurs rapportent un sentiment croissant d'isolement, une difficulté à séparer les sphères professionnelle et privée, et une charge mentale accrue. Les managers, quant à eux, peinent parfois à maintenir la cohésion d'équipe et à transmettre la culture d'entreprise aux nouveaux arrivants. Plusieurs études récentes pointent également un risque d'épuisement professionnel chez les salariés les plus assidus à distance.\n\nFace à ces constats contrastés, les entreprises françaises cherchent un équilibre. Le modèle hybride, combinant deux ou trois jours de présence au bureau avec du télétravail, semble s'imposer comme la solution médiane la plus acceptable. Certaines organisations vont plus loin en proposant des espaces de coworking financés ou en repensant entièrement leurs locaux pour favoriser les moments collaboratifs.\n\nReste une question cruciale : ce nouveau modèle creuse-t-il les inégalités entre cadres et ouvriers, ces derniers étant largement exclus du télétravail ? Le débat ne fait que commencer, et il interroge profondément notre rapport collectif au travail et à l'espace urbain.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est unanimement plébiscité en France",
+          "Le télétravail présente des avantages et des inconvénients qui poussent à chercher un équilibre",
+          "Le télétravail va disparaître dans les prochaines années",
+          "Le télétravail concerne principalement les ouvriers"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente une vision nuancée avec des points positifs et négatifs, et évoque la recherche d'un modèle hybride."
+      },
+      {
+        "question": "Dans le contexte, le mot <strong>idyllique</strong> signifie :",
+        "options": [
+          "Difficile",
+          "Parfait et harmonieux",
+          "Compliqué",
+          "Réaliste"
+        ],
+        "correct": 1,
+        "explanation": "Idyllique signifie d'une perfection paradisiaque ; le texte utilise ce terme pour nuancer ensuite avec les difficultés."
+      },
+      {
+        "question": "Selon le texte, quelle inquiétude est soulevée concernant le télétravail ?",
+        "options": [
+          "Il augmente les coûts pour les entreprises",
+          "Il pourrait creuser les inégalités sociales entre catégories de travailleurs",
+          "Il réduit la productivité de manière dramatique",
+          "Il n'intéresse plus les salariés"
+        ],
+        "correct": 1,
+        "explanation": "Le dernier paragraphe pose explicitement la question des inégalités entre cadres et ouvriers."
+      },
+      {
+        "question": "Que peut-on déduire du modèle hybride mentionné dans le texte ?",
+        "options": [
+          "Il est rejeté par les entreprises françaises",
+          "Il représente un compromis entre présentiel et distance",
+          "Il impose cinq jours de télétravail par semaine",
+          "Il ne concerne que les nouveaux arrivants"
+        ],
+        "correct": 1,
+        "explanation": "Le texte décrit le modèle hybride comme une solution médiane combinant présence au bureau et télétravail."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la bonne forme : Si j'avais su, je _____ autrement.",
+      "options": [
+        "aurais agi",
+        "agirais",
+        "agirai",
+        "agissais"
+      ],
+      "correct": 0,
+      "explanation": "Avec si + plus-que-parfait dans la subordonnée, on utilise le conditionnel passé dans la principale."
+    },
+    {
+      "question": "Quel est le synonyme le plus précis de <em>pérenne</em> ?",
+      "options": [
+        "Éphémère",
+        "Durable",
+        "Récent",
+        "Coûteux"
+      ],
+      "correct": 1,
+      "explanation": "Pérenne signifie qui dure longtemps, durable."
+    },
+    {
+      "question": "Complétez : Les documents _____ vous avez besoin sont sur le bureau.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "auxquels"
+      ],
+      "correct": 1,
+      "explanation": "Avoir besoin DE quelque chose ; le pronom relatif est donc <em>dont</em>."
+    },
+    {
+      "question": "Dans un courriel professionnel, quelle formule de politesse est la plus appropriée ?",
+      "options": [
+        "Bisous",
+        "Cordialement",
+        "À plus",
+        "Salut"
+      ],
+      "correct": 1,
+      "explanation": "<em>Cordialement</em> est la formule standard appropriée dans un cadre professionnel."
+    },
+    {
+      "question": "Quel connecteur exprime une concession ?",
+      "options": [
+        "Par conséquent",
+        "Bien que",
+        "Parce que",
+        "Donc"
+      ],
+      "correct": 1,
+      "explanation": "<em>Bien que</em> introduit une concession et est suivi du subjonctif."
+    },
+    {
+      "question": "L'expression <em>avoir le bras long</em> signifie :",
+      "options": [
+        "Être grand physiquement",
+        "Avoir beaucoup d'influence",
+        "Être paresseux",
+        "Travailler dur"
+      ],
+      "correct": 1,
+      "explanation": "C'est une expression idiomatique signifiant avoir de l'influence, des relations puissantes."
+    },
+    {
+      "question": "Conjuguez correctement : Il faut que tu _____ patient.",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "étais"
+      ],
+      "correct": 1,
+      "explanation": "<em>Il faut que</em> est suivi du subjonctif présent : <em>que tu sois</em>."
+    },
+    {
+      "question": "Que signifie la phrase : <em>Ce projet a été enterré</em> ?",
+      "options": [
+        "Le projet a été abandonné",
+        "Le projet a été réalisé sous terre",
+        "Le projet a été célébré",
+        "Le projet a été financé"
+      ],
+      "correct": 0,
+      "explanation": "<em>Enterrer un projet</em> signifie l'abandonner définitivement."
+    },
+    {
+      "question": "Pour obtenir un titre de séjour en France, vous devez vous adresser à :",
+      "options": [
+        "La mairie",
+        "La préfecture",
+        "Le tribunal",
+        "Le commissariat"
+      ],
+      "correct": 1,
+      "explanation": "La préfecture est l'administration compétente pour les titres de séjour."
+    },
+    {
+      "question": "Choisissez la phrase correcte :",
+      "options": [
+        "Les fleurs que j'ai cueilli sont belles",
+        "Les fleurs que j'ai cueillies sont belles",
+        "Les fleurs que j'ai cueillis sont belles",
+        "Les fleurs que j'ai cueillie sont belles"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé avec <em>avoir</em> s'accorde avec le COD <em>les fleurs</em> placé avant le verbe."
+    },
+    {
+      "question": "L'antonyme de <em>généreux</em> est :",
+      "options": [
+        "Aimable",
+        "Avare",
+        "Gentil",
+        "Sincère"
+      ],
+      "correct": 1,
+      "explanation": "<em>Avare</em> est l'opposé de <em>généreux</em>."
+    },
+    {
+      "question": "Quel connecteur introduit une cause ?",
+      "options": [
+        "Afin que",
+        "Étant donné que",
+        "Bien que",
+        "Pour que"
+      ],
+      "correct": 1,
+      "explanation": "<em>Étant donné que</em> exprime la cause."
+    },
+    {
+      "question": "Reformulez : <em>Il n'est pas exclu qu'il vienne.</em>",
+      "options": [
+        "Il ne viendra certainement pas",
+        "Il est possible qu'il vienne",
+        "Il viendra forcément",
+        "Il est interdit de venir"
+      ],
+      "correct": 1,
+      "explanation": "La double négation atténuée signifie qu'il y a une possibilité que cela arrive."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Je m'intéresse _____ la politique.",
+      "options": [
+        "de",
+        "à",
+        "sur",
+        "pour"
+      ],
+      "correct": 1,
+      "explanation": "On dit <em>s'intéresser à</em> quelque chose ou quelqu'un."
+    },
+    {
+      "question": "En France, le PACS désigne :",
+      "options": [
+        "Un impôt local",
+        "Un pacte civil de solidarité entre deux personnes",
+        "Un parti politique",
+        "Un diplôme universitaire"
+      ],
+      "correct": 1,
+      "explanation": "Le PACS est un contrat d'union civile entre deux personnes majeures."
+    },
+    {
+      "question": "Complétez : Elle parle français _____ couramment _____ son frère.",
+      "options": [
+        "plus / que",
+        "aussi / que",
+        "autant / comme",
+        "si / comme"
+      ],
+      "correct": 1,
+      "explanation": "Avec un adverbe, le comparatif d'égalité se construit avec <em>aussi... que</em>."
+    },
+    {
+      "question": "Que signifie l'expression <em>mettre les bouchées doubles</em> ?",
+      "options": [
+        "Manger beaucoup",
+        "Travailler plus vite et plus intensément",
+        "Faire deux choses à la fois",
+        "Prendre son temps"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression signifie redoubler d'efforts pour aller plus vite."
+    },
+    {
+      "question": "Quelle phrase exprime correctement le but ?",
+      "options": [
+        "Je travaille parce que réussir",
+        "Je travaille pour réussir",
+        "Je travaille bien que réussir",
+        "Je travaille puisque réussir"
+      ],
+      "correct": 1,
+      "explanation": "<em>Pour + infinitif</em> exprime le but."
+    },
+    {
+      "question": "Le mot <em>chômage</em> appartient au champ lexical :",
+      "options": [
+        "De la santé",
+        "Du travail et de l'emploi",
+        "De l'éducation",
+        "Du logement"
+      ],
+      "correct": 1,
+      "explanation": "Le chômage désigne la situation d'une personne sans emploi."
+    },
+    {
+      "question": "Choisissez le bon connecteur : Il pleuvait, _____ nous sommes sortis.",
+      "options": [
+        "donc",
+        "néanmoins",
+        "ainsi",
+        "car"
+      ],
+      "correct": 1,
+      "explanation": "<em>Néanmoins</em> exprime l'opposition, cohérent avec l'idée de sortir malgré la pluie."
+    }
+  ],
+  "writingPrompt": "Vous venez de lire dans un journal régional français un article intitulé : <em>Faut-il interdire les trottinettes électriques en libre-service dans toutes les grandes villes françaises ?</em>. L'article rapporte que plusieurs municipalités envisagent de suivre l'exemple de Paris qui a banni ce service en 2023, en évoquant les accidents, les nuisances et le stationnement anarchique. Vous écrivez au courrier des lecteurs pour réagir à cet article. Exprimez votre position de manière argumentée, en donnant au moins deux arguments précis appuyés par des exemples concrets tirés de votre expérience de la vie urbaine en France. Proposez également une ou deux solutions alternatives à l'interdiction pure et simple. Rédigez un texte de 180 à 220 mots, structuré, dans un registre soutenu, en utilisant les formules d'usage du courrier des lecteurs."
+}

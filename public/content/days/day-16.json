@@ -1,0 +1,233 @@
+{
+  "theory": "<p>En français, on distingue traditionnellement trois <strong>registres de langue</strong> : <em>familier</em>, <em>courant</em> (ou standard) et <em>soutenu</em>. Choisir le bon registre est essentiel pour la communication quotidienne, surtout en France où le décalage peut sembler grossier ou ridicule.</p><p><strong>1. Le registre familier</strong> s'utilise entre amis, en famille, dans des contextes détendus. Il se caractérise par :</p><ul><li>Du vocabulaire argotique ou populaire : <code>bouquin</code> (livre), <code>bagnole</code> (voiture), <code>boulot</code> (travail)</li><li>L'omission du <em>ne</em> de négation : <code>je sais pas</code></li><li>L'usage de <code>on</code> à la place de <code>nous</code> : <code>on y va</code></li><li>Des contractions : <code>t'as vu ?</code>, <code>chais pas</code></li></ul><p><strong>2. Le registre courant</strong> est neutre, utilisé au travail, avec des inconnus, dans les médias :</p><ul><li>Grammaire respectée mais sans recherche</li><li>Vocabulaire usuel : <code>livre</code>, <code>voiture</code>, <code>travail</code></li><li>Négation complète : <code>je ne sais pas</code></li></ul><p><strong>3. Le registre soutenu</strong> s'emploie dans les contextes formels, la littérature, les discours officiels :</p><ul><li>Vocabulaire recherché : <code>ouvrage</code>, <code>véhicule</code>, <code>labeur</code></li><li>Usage du <strong>passé simple</strong> et du <strong>subjonctif imparfait</strong> à l'écrit</li><li>Inversion du sujet : <em>Peut-être viendra-t-il demain.</em></li><li>Tournures complexes : <em>Il convient de</em>, <em>il appert que</em></li></ul><p><strong>Comparaison rapide</strong> :</p><table><tr><td><strong>Familier</strong></td><td><strong>Courant</strong></td><td><strong>Soutenu</strong></td></tr><tr><td>flic</td><td>policier</td><td>agent de police</td></tr><tr><td>bosser</td><td>travailler</td><td>œuvrer</td></tr><tr><td>fric</td><td>argent</td><td>fonds</td></tr><tr><td>chouette</td><td>agréable</td><td>plaisant</td></tr><tr><td>se barrer</td><td>partir</td><td>s'en aller</td></tr></table><p><strong>Pièges pour lusophones</strong> : en portugais brésilien, le décalage entre oral et écrit est très marqué (<em>tu fala</em> vs <em>tu falas</em>). En français, attention : certains mots semblent neutres mais sont familiers, comme <code>bouffer</code> (manger) ou <code>type</code> (homme). À l'inverse, des mots comme <code>œuvrer</code> ou <code>quérir</code> paraissent normaux mais sont très soutenus. Évitez aussi les faux-amis de registre : <code>discuter</code> est neutre en français (≠ <em>discutir</em> qui peut être conflictuel en portugais).</p><p><strong>Conseil</strong> : à l'écrit du TCF, privilégiez le <strong>courant</strong> avec quelques touches de soutenu. Évitez absolument le familier.</p>",
+  "examples": [
+    {
+      "sentence": "Familier : J'ai pas eu le temps de bosser mon dossier, j'étais crevé.",
+      "note": "Omission du ne, bosser (familier) = travailler, crevé (familier) = très fatigué."
+    },
+    {
+      "sentence": "Courant : Je n'ai pas eu le temps de travailler sur mon dossier, j'étais épuisé.",
+      "note": "Même idée, registre neutre adapté au contexte professionnel."
+    },
+    {
+      "sentence": "Soutenu : Je n'ai pu consacrer le temps nécessaire à l'élaboration de mon dossier, étant accablé de fatigue.",
+      "note": "Vocabulaire recherché (consacrer, élaboration, accablé) et structure complexe."
+    },
+    {
+      "sentence": "Familier : Ce mec, il est super sympa, mais il raconte que des trucs bizarres.",
+      "note": "mec, super, trucs sont des marqueurs typiques du registre familier oral."
+    },
+    {
+      "sentence": "Soutenu : Veuillez agréer, Madame, l'expression de mes salutations distinguées.",
+      "note": "Formule de politesse soutenue obligatoire en correspondance administrative."
+    },
+    {
+      "sentence": "Courant : Pourriez-vous me dire à quelle heure ouvre la mairie ?",
+      "note": "Le conditionnel de politesse appartient au registre courant poli, idéal pour les démarches."
+    }
+  ],
+  "reading": {
+    "passage": "Le tutoiement en entreprise gagne du terrain en France. Selon une étude récente menée par un cabinet de ressources humaines, près de 60 % des salariés des grandes entreprises tutoieraient désormais leurs collègues, voire leur supérieur hiérarchique. Ce phénomène, longtemps réservé aux start-up et aux secteurs créatifs, s'étend progressivement aux banques, aux assurances et même à certaines administrations.\n\nLes partisans de cette évolution avancent qu'elle favorise la cohésion, casse les hiérarchies pesantes et reflète une culture managériale plus horizontale, inspirée du modèle anglo-saxon. Pour les jeunes diplômés, le tutoiement va de soi : il accompagne leur entrée dans la vie active comme une évidence générationnelle.\n\nCependant, tous ne partagent pas cet enthousiasme. Certains cadres expérimentés estiment que le vouvoiement maintenait une distance professionnelle salutaire, protégeant chacun des familiarités déplacées. Une directrice témoigne : on me tutoie spontanément en réunion, ce qui me met mal à l'aise, surtout face à des clients qui, eux, conservent le vous.\n\nLes sociolinguistes observent que ce glissement n'est pas anodin. Le passage du vous au tu modifie subtilement les rapports de pouvoir, parfois au détriment des femmes ou des personnes plus âgées, qui peuvent se sentir infantilisées. À l'inverse, dans certains contextes, le vouvoiement systématique peut être perçu comme froid ou élitiste.\n\nLa France semble ainsi en pleine mutation linguistique. Si le tutoiement progresse, le choix du registre reste un terrain miné, où chacun doit faire preuve de tact et lire les codes implicites de son environnement professionnel.",
+    "questions": [
+      {
+        "question": "Quel est le pourcentage approximatif de salariés qui tutoient leurs collègues dans les grandes entreprises ?",
+        "options": [
+          "Environ 40 %",
+          "Près de 60 %",
+          "Plus de 80 %",
+          "Moins de 30 %"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique clairement que près de 60 % des salariés des grandes entreprises tutoieraient désormais leurs collègues."
+      },
+      {
+        "question": "Selon le texte, quel argument est avancé par les partisans du tutoiement ?",
+        "options": [
+          "Il améliore la productivité des équipes",
+          "Il favorise la cohésion et casse les hiérarchies",
+          "Il est exigé par les clients étrangers",
+          "Il permet d'économiser du temps"
+        ],
+        "correct": 1,
+        "explanation": "Le texte précise que le tutoiement favorise la cohésion, casse les hiérarchies pesantes et reflète une culture plus horizontale."
+      },
+      {
+        "question": "Que signifie l'expression un terrain miné dans le dernier paragraphe ?",
+        "options": [
+          "Un sujet économiquement rentable",
+          "Un domaine dangereux et délicat",
+          "Un espace géographique conflictuel",
+          "Une zone interdite au public"
+        ],
+        "correct": 1,
+        "explanation": "Au sens figuré, un terrain miné désigne un sujet délicat où chaque mot ou choix peut créer des problèmes."
+      },
+      {
+        "question": "Quelle inférence peut-on tirer du témoignage de la directrice ?",
+        "options": [
+          "Elle préfère travailler seule sans collègues",
+          "Elle souhaite imposer le tutoiement à tous",
+          "Elle ressent un décalage entre les codes internes et ceux des clients",
+          "Elle refuse catégoriquement toute forme de tutoiement"
+        ],
+        "correct": 2,
+        "explanation": "La directrice exprime un malaise car ses collègues la tutoient alors que les clients gardent le vous, créant un décalage de registre."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quelle phrase appartient au registre familier ?",
+      "options": [
+        "Je n'ai pas compris votre question.",
+        "J'ai pas pigé ce que tu racontes.",
+        "Je n'ai point saisi votre propos.",
+        "Je ne comprends pas votre remarque."
+      ],
+      "correct": 1,
+      "explanation": "pigé (familier pour comprendre), omission du ne et tutoiement sont des marqueurs familiers."
+    },
+    {
+      "question": "Le mot bagnole appartient à quel registre ?",
+      "options": [
+        "Soutenu",
+        "Courant",
+        "Familier",
+        "Technique"
+      ],
+      "correct": 2,
+      "explanation": "Bagnole est un synonyme familier de voiture, à éviter dans un contexte formel."
+    },
+    {
+      "question": "Quel équivalent soutenu correspond au verbe familier bosser ?",
+      "options": [
+        "Travailler",
+        "Œuvrer",
+        "Bricoler",
+        "Fonctionner"
+      ],
+      "correct": 1,
+      "explanation": "Œuvrer est le terme soutenu, travailler étant le registre courant et bosser le familier."
+    },
+    {
+      "question": "Dans une lettre de motivation, quelle formule est appropriée ?",
+      "options": [
+        "À plus, et merci d'avance !",
+        "Bisous et à bientôt.",
+        "Veuillez agréer mes salutations distinguées.",
+        "Ciao, on se rappelle."
+      ],
+      "correct": 2,
+      "explanation": "Seule la formule soutenue convient à une correspondance professionnelle formelle."
+    },
+    {
+      "question": "Quelle phrase relève du registre soutenu ?",
+      "options": [
+        "Il est venu me voir hier.",
+        "Peut-être viendra-t-il demain me rendre visite.",
+        "Il va passer me voir demain.",
+        "Il passera demain, je crois."
+      ],
+      "correct": 1,
+      "explanation": "L'inversion du sujet après peut-être (viendra-t-il) est caractéristique du registre soutenu."
+    },
+    {
+      "question": "Le mot fric est l'équivalent familier de :",
+      "options": [
+        "Travail",
+        "Argent",
+        "Voiture",
+        "Maison"
+      ],
+      "correct": 1,
+      "explanation": "Fric est un synonyme familier d'argent. Le terme soutenu serait fonds ou capitaux."
+    },
+    {
+      "question": "Quelle expression est typique du registre courant et neutre ?",
+      "options": [
+        "Je me casse, salut !",
+        "Je m'en vais, au revoir.",
+        "Je prends congé, mes hommages.",
+        "Je me tire, à plus !"
+      ],
+      "correct": 1,
+      "explanation": "Je m'en vais, au revoir est neutre et adapté à la plupart des situations sociales."
+    },
+    {
+      "question": "Quel verbe est le plus soutenu ?",
+      "options": [
+        "Manger",
+        "Bouffer",
+        "Se restaurer",
+        "Becter"
+      ],
+      "correct": 2,
+      "explanation": "Se restaurer est soutenu, manger est courant, bouffer et becter sont familiers."
+    },
+    {
+      "question": "Dans la phrase Il convient de prendre une décision rapidement, le registre est :",
+      "options": [
+        "Familier",
+        "Courant",
+        "Soutenu",
+        "Argotique"
+      ],
+      "correct": 2,
+      "explanation": "La tournure impersonnelle il convient de est typique du registre soutenu, fréquente dans les écrits administratifs."
+    },
+    {
+      "question": "Quelle traduction correspond au mot brésilien grana en français familier ?",
+      "options": [
+        "Travail",
+        "Voiture",
+        "Fric",
+        "Maison"
+      ],
+      "correct": 2,
+      "explanation": "Grana (argent en portugais brésilien familier) correspond à fric en français familier."
+    }
+  ],
+  "writingPrompt": "Vous habitez en France depuis plusieurs années et vous avez remarqué une évolution des codes de politesse dans votre environnement professionnel ou quotidien : tutoiement généralisé, disparition de certaines formules, mélange des registres dans les e-mails, etc. Rédigez un billet d'humeur (180-220 mots) destiné à la rubrique courrier des lecteurs d'un magazine français. Vous donnerez votre opinion personnelle sur cette évolution des registres de langue, en illustrant votre propos par au moins deux situations concrètes vécues (au travail, dans une administration, chez le médecin, dans un commerce). Adoptez un ton engagé mais nuancé, et utilisez un registre courant à soutenu, comme l'exige ce type de publication.",
+  "vocab": [
+    {
+      "word": "le tutoiement",
+      "translation": "o tratamento por tu (informal)",
+      "example": "Le tutoiement est devenu la norme dans cette start-up parisienne."
+    },
+    {
+      "word": "le vouvoiement",
+      "translation": "o tratamento por você (formal)",
+      "example": "Elle insiste sur le vouvoiement avec ses collègues plus âgés."
+    },
+    {
+      "word": "soutenu",
+      "translation": "formal, rebuscado",
+      "example": "Dans une dissertation, il faut adopter un style soutenu."
+    },
+    {
+      "word": "le registre",
+      "translation": "o registro (de língua)",
+      "example": "Choisir le bon registre est essentiel pour réussir un entretien."
+    },
+    {
+      "word": "la familiarité",
+      "translation": "a familiaridade, intimidade",
+      "example": "Sa familiarité excessive avec le directeur a choqué l'équipe."
+    },
+    {
+      "word": "l'argot",
+      "translation": "a gíria",
+      "example": "L'argot des banlieues s'invite de plus en plus dans les médias."
+    },
+    {
+      "word": "désormais",
+      "translation": "doravante, a partir de agora",
+      "example": "Désormais, tous les employés communiqueront par messagerie interne."
+    },
+    {
+      "word": "infantilisé",
+      "translation": "infantilizado",
+      "example": "Certains seniors se sentent infantilisés quand on les tutoie spontanément."
+    }
+  ]
+}

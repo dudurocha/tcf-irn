@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>valeurs républicaines</strong> et la <strong>laïcité</strong> constituent un socle fondamental de la société française. Maîtriser ce vocabulaire est essentiel pour le TCF IRN, car ces notions reviennent fréquemment dans les épreuves.</p><p><strong>1. La devise républicaine</strong> : <em>Liberté, Égalité, Fraternité</em>. Ces trois mots résument l'idéal français depuis 1789.</p><ul><li><strong>Liberté</strong> : liberté d'expression, de conscience, de culte, de circulation.</li><li><strong>Égalité</strong> : égalité devant la loi, entre hommes et femmes, des chances.</li><li><strong>Fraternité</strong> : solidarité entre citoyens.</li></ul><p><strong>2. La laïcité</strong> (loi de 1905) : séparation des Églises et de l'État. L'État est <em>neutre</em> ; il ne reconnaît, ne salarie ni ne subventionne aucun culte. Chacun est libre de croire ou de ne pas croire, mais les agents publics et les élèves des écoles publiques doivent respecter une <strong>neutralité religieuse</strong> dans l'espace scolaire et administratif.</p><p><strong>3. Vocabulaire clé à distinguer</strong> :</p><table><tr><td><strong>citoyen</strong></td><td>personne ayant des droits civiques</td></tr><tr><td><strong>civique</strong></td><td>relatif au citoyen et à ses devoirs</td></tr><tr><td><strong>civil</strong></td><td>non militaire / non religieux (mariage civil)</td></tr><tr><td><strong>laïque</strong></td><td>indépendant des religions</td></tr><tr><td><strong>séculier</strong></td><td>du siècle, non religieux (synonyme partiel)</td></tr></table><p><strong>4. Pièges pour lusophones</strong> :</p><ul><li><em>Citoyen</em> ≠ <em>cidadão</em> dans tous les contextes : en français, on parle de <strong>citoyen</strong> uniquement pour le rapport à l'État (pas pour dire habitant).</li><li><em>Laïque</em> (adjectif/nom) et <em>laïcité</em> (le principe) : ne pas confondre. On dit <em>une école laïque</em>, mais <em>le principe de laïcité</em>.</li><li><em>Confession</em> en français signifie <strong>religion</strong> (ex. : <em>de confession musulmane</em>), pas une déclaration intime comme en portugais.</li><li><em>Discrimination</em> est toujours négatif en français contemporain ; ne pas l'utiliser dans le sens neutre du portugais.</li></ul><p><strong>5. Expressions utiles</strong> : <em>vivre ensemble</em>, <em>le pacte républicain</em>, <em>les valeurs de la République</em>, <em>la cohésion sociale</em>, <em>le respect d'autrui</em>, <em>la liberté de conscience</em>.</p><p>Ces termes apparaissent dans les discours politiques, les médias et les démarches administratives (notamment lors de la <strong>cérémonie d'accueil dans la citoyenneté</strong>).</p>",
+  "examples": [
+    {
+      "sentence": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire.",
+      "note": "Définition centrale : neutralité de l'État, liberté individuelle."
+    },
+    {
+      "sentence": "En tant que citoyen, j'ai le droit de vote mais aussi le devoir civique de m'informer.",
+      "note": "Opposition droits / devoirs ; adjectif civique = relatif au citoyen."
+    },
+    {
+      "sentence": "Les agents du service public sont soumis à un strict devoir de neutralité.",
+      "note": "Vocabulaire administratif fréquent dans les médias français."
+    },
+    {
+      "sentence": "La devise Liberté, Égalité, Fraternité est inscrite au fronton des mairies.",
+      "note": "Référence culturelle incontournable ; fronton = partie haute du bâtiment."
+    },
+    {
+      "sentence": "Cette association lutte contre toutes les formes de discrimination à l'embauche.",
+      "note": "Discrimination = sens négatif en français ; contexte travail/société."
+    },
+    {
+      "sentence": "Le mariage civil précède obligatoirement le mariage religieux en France.",
+      "note": "Civil ici = laïque, devant l'État ; trait fondamental du droit français."
+    }
+  ],
+  "reading": {
+    "passage": "La laïcité à la française fête chaque année son anniversaire le 9 décembre, date de l'adoption de la loi de 1905 sur la séparation des Églises et de l'État. Plus d'un siècle après son adoption, ce principe reste au cœur des débats publics. Selon un sondage récent, près de huit Français sur dix se déclarent attachés à la laïcité, mais ils en donnent des définitions parfois très différentes. Pour les uns, il s'agit avant tout de garantir la liberté de conscience et de protéger toutes les croyances. Pour d'autres, la laïcité doit s'incarner dans une stricte neutralité de l'espace public, allant parfois au-delà des obligations légales. Cette divergence d'interprétation alimente de nombreuses polémiques, notamment à l'école, lieu emblématique de la transmission des valeurs républicaines. Les enseignants sont en première ligne : ils doivent expliquer la laïcité, faire respecter la neutralité religieuse dans l'enceinte scolaire et, parfois, gérer des contestations de la part d'élèves ou de familles. Pour les accompagner, le ministère a renforcé la formation et créé une équipe spécialisée chargée d'intervenir rapidement en cas de difficulté. Au-delà de l'école, la laïcité interroge aussi le rôle des élus locaux, des entreprises et des associations. Faut-il l'étendre au secteur privé ? Comment concilier neutralité de l'État et expression des convictions individuelles ? Ces questions, loin d'être tranchées, témoignent de la vitalité d'un débat démocratique qui continue de redéfinir ce que signifie vivre ensemble dans la République.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "La laïcité française est un principe vivant qui suscite des interprétations diverses.",
+          "La loi de 1905 doit être abolie selon une majorité de Français.",
+          "L'école française ne respecte plus le principe de laïcité.",
+          "Les religions sont interdites dans l'espace public français."
+        ],
+        "correct": 0,
+        "explanation": "Le texte montre que la laïcité fait l'objet d'interprétations multiples et de débats continus, ce qui illustre sa vitalité."
+      },
+      {
+        "question": "Selon le sondage évoqué, quelle est l'attitude des Français face à la laïcité ?",
+        "options": [
+          "Ils la rejettent majoritairement.",
+          "Ils y sont attachés mais la définissent différemment.",
+          "Ils ne la connaissent pas vraiment.",
+          "Ils souhaitent la remplacer par un nouveau principe."
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que huit Français sur dix y sont attachés mais en donnent des définitions parfois très différentes."
+      },
+      {
+        "question": "Que signifie l'expression être en première ligne appliquée aux enseignants ?",
+        "options": [
+          "Être les premiers à arriver à l'école.",
+          "Être directement confrontés au problème, en première position.",
+          "Avoir les meilleures notes en laïcité.",
+          "Enseigner en première année."
+        ],
+        "correct": 1,
+        "explanation": "Être en première ligne est une expression militaire utilisée au figuré : être directement exposé, devoir gérer la difficulté en premier."
+      },
+      {
+        "question": "Quelle conclusion peut-on tirer du dernier paragraphe ?",
+        "options": [
+          "Le débat sur la laïcité est définitivement clos.",
+          "La laïcité ne concerne que l'école publique.",
+          "Les questions soulevées par la laïcité restent ouvertes et démocratiques.",
+          "Les entreprises privées doivent appliquer la laïcité comme l'État."
+        ],
+        "correct": 2,
+        "explanation": "Le texte dit explicitement que ces questions sont loin d'être tranchées et témoignent d'un débat démocratique."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quel mot complète correctement la phrase : La ___ de la République française est Liberté, Égalité, Fraternité ?",
+      "options": [
+        "citation",
+        "devise",
+        "phrase",
+        "expression"
+      ],
+      "correct": 1,
+      "explanation": "Devise = formule courte qui résume un idéal ou une valeur. C'est le terme officiel."
+    },
+    {
+      "question": "La loi de 1905 instaure :",
+      "options": [
+        "la séparation des Églises et de l'État",
+        "l'interdiction de toutes les religions",
+        "la création d'une religion d'État",
+        "l'obligation du mariage religieux"
+      ],
+      "correct": 0,
+      "explanation": "La loi de 1905 est le texte fondateur de la laïcité française : séparation entre les cultes et l'État."
+    },
+    {
+      "question": "Choisissez l'adjectif correct : Les fonctionnaires doivent respecter un devoir de neutralité ___.",
+      "options": [
+        "religieux",
+        "religieuse",
+        "religieusement",
+        "religion"
+      ],
+      "correct": 1,
+      "explanation": "Neutralité est féminin singulier, donc l'adjectif s'accorde : neutralité religieuse."
+    },
+    {
+      "question": "Quelle est la différence entre civil et civique ?",
+      "options": [
+        "Aucune, ce sont des synonymes parfaits.",
+        "Civil = non militaire / non religieux ; civique = relatif au citoyen.",
+        "Civil = poli ; civique = impoli.",
+        "Civil = ancien ; civique = moderne."
+      ],
+      "correct": 1,
+      "explanation": "Civil s'oppose à militaire ou religieux (mariage civil) ; civique concerne le citoyen (devoir civique, éducation civique)."
+    },
+    {
+      "question": "Que signifie une personne de confession musulmane ?",
+      "options": [
+        "Une personne qui a avoué un crime.",
+        "Une personne de religion musulmane.",
+        "Une personne qui parle arabe.",
+        "Une personne née dans un pays musulman."
+      ],
+      "correct": 1,
+      "explanation": "En français, confession = religion. Piège pour lusophones : confissão en portugais a un sens plus large."
+    },
+    {
+      "question": "Complétez : Le principe de ___ interdit à l'État de favoriser une religion.",
+      "options": [
+        "laïque",
+        "laïcité",
+        "laïcisme",
+        "laïquement"
+      ],
+      "correct": 1,
+      "explanation": "Laïcité est le nom du principe. Laïque est l'adjectif (école laïque). Laïcisme est rare et péjoratif."
+    },
+    {
+      "question": "Quelle expression désigne la coexistence harmonieuse des citoyens ?",
+      "options": [
+        "le vivre-ensemble",
+        "le savoir-faire",
+        "le faire-part",
+        "le laisser-aller"
+      ],
+      "correct": 0,
+      "explanation": "Le vivre-ensemble est une expression courante dans le débat public français sur la cohésion sociale."
+    },
+    {
+      "question": "Un citoyen français a le droit de vote à partir de :",
+      "options": [
+        "16 ans",
+        "18 ans",
+        "21 ans",
+        "25 ans"
+      ],
+      "correct": 1,
+      "explanation": "La majorité civique en France est fixée à 18 ans depuis 1974."
+    },
+    {
+      "question": "Choisissez le terme approprié : Cette entreprise a été condamnée pour ___ à l'embauche.",
+      "options": [
+        "distinction",
+        "discrimination",
+        "différenciation",
+        "distribution"
+      ],
+      "correct": 1,
+      "explanation": "Discrimination = traitement inégal et illégal fondé sur un critère interdit (origine, sexe, religion, etc.)."
+    },
+    {
+      "question": "La cérémonie d'accueil dans la citoyenneté française s'adresse :",
+      "options": [
+        "aux nouveaux-nés français",
+        "aux personnes ayant obtenu la nationalité française",
+        "aux touristes étrangers",
+        "aux élèves de primaire"
+      ],
+      "correct": 1,
+      "explanation": "Cette cérémonie officielle est organisée par les préfectures pour les personnes naturalisées françaises."
+    }
+  ],
+  "writingPrompt": "Récemment, votre mairie a proposé d'organiser une journée de la laïcité dans tous les bâtiments municipaux, avec des conférences et des ateliers ouverts au public. Cette initiative suscite des réactions contrastées dans votre quartier : certains habitants la jugent essentielle pour renforcer le vivre-ensemble, d'autres estiment qu'elle est inutile ou trop politique. Rédigez un article d'opinion de 180 à 220 mots destiné au journal municipal. Vous expliquerez votre position personnelle sur cette initiative, en présentant au moins deux arguments concrets pour la défendre ou la critiquer, et vous proposerez une suggestion pour améliorer cet événement ou pour favoriser autrement la transmission des valeurs républicaines auprès des habitants.",
+  "vocab": [
+    {
+      "word": "la laïcité",
+      "translation": "o laicismo, a laicidade",
+      "example": "La laïcité est un principe fondamental de la République française."
+    },
+    {
+      "word": "le citoyen",
+      "translation": "o cidadão",
+      "example": "Chaque citoyen a le droit et le devoir de voter."
+    },
+    {
+      "word": "la devise",
+      "translation": "o lema",
+      "example": "Liberté, Égalité, Fraternité est la devise de la France."
+    },
+    {
+      "word": "la neutralité",
+      "translation": "a neutralidade",
+      "example": "Les enseignants doivent respecter la neutralité religieuse à l'école."
+    },
+    {
+      "word": "le culte",
+      "translation": "o culto, a religião (prática)",
+      "example": "L'État ne subventionne aucun culte depuis 1905."
+    },
+    {
+      "word": "la discrimination",
+      "translation": "a discriminação",
+      "example": "Toute discrimination fondée sur l'origine est punie par la loi."
+    },
+    {
+      "word": "le vivre-ensemble",
+      "translation": "a convivência (em sociedade)",
+      "example": "Les associations de quartier favorisent le vivre-ensemble."
+    },
+    {
+      "word": "la croyance",
+      "translation": "a crença",
+      "example": "Chacun est libre d'exprimer ses croyances dans la sphère privée."
+    }
+  ]
+}

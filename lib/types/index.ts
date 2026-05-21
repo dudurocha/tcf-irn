@@ -89,7 +89,6 @@ export interface UserProgress {
   scores: Record<number, DayScore>;
   writings: Record<number, string>;
   vocabKnown: string[];
-  cachedContent: Record<number, LessonContent>;
 }
 
 export const emptyProgress = (): UserProgress => ({
@@ -97,5 +96,4 @@ export const emptyProgress = (): UserProgress => ({
   scores: {},
   writings: {},
   vocabKnown: [],
-  cachedContent: {},
 });

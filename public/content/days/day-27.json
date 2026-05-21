@@ -1,0 +1,233 @@
+{
+  "theory": "<p>La <strong>compréhension écrite</strong> au TCF teste votre capacité à saisir le sens global et les détails d'un texte, mais aussi à identifier des informations <em>implicites</em>. Voici les stratégies essentielles pour réussir cette section.</p><p><strong>1. Lecture en deux temps</strong></p><ul><li><strong>Survol rapide (skimming)</strong> : lisez d'abord le titre, le chapeau, la première et la dernière phrase de chaque paragraphe pour identifier le thème général.</li><li><strong>Lecture ciblée (scanning)</strong> : revenez au texte uniquement pour chercher l'information précise demandée par la question.</li></ul><p><strong>2. Les types de questions</strong></p><table><tr><td><strong>Idée principale</strong></td><td>De quoi parle le texte ?</td></tr><tr><td><strong>Détail explicite</strong></td><td>Information directement écrite</td></tr><tr><td><strong>Inférence</strong></td><td>Conclusion logique à partir d'indices</td></tr><tr><td><strong>Vocabulaire en contexte</strong></td><td>Sens d'un mot selon la phrase</td></tr><tr><td><strong>Intention de l'auteur</strong></td><td>Informer, critiquer, défendre ?</td></tr></table><p><strong>3. Les pièges classiques</strong></p><ul><li><strong>Les distracteurs avec mots identiques</strong> : une option reprend des mots du texte mais déforme le sens. Méfiez-vous !</li><li><strong>Les généralisations abusives</strong> : <em>toujours</em>, <em>jamais</em>, <em>tous</em> sont rarement corrects.</li><li><strong>Les négations cachées</strong> : <code>ne... guère</code>, <code>loin de</code>, <code>peu</code> inversent le sens.</li><li><strong>Les connecteurs logiques</strong> : <code>cependant</code>, <code>en revanche</code>, <code>néanmoins</code> annoncent une opposition cruciale.</li></ul><p><strong>4. Pièges spécifiques aux lusophones</strong></p><ul><li><strong>Faux amis</strong> : <em>large</em> (ample en français, mais <em>largo</em> en portugais) ≠ <em>long</em>. <em>Attendre</em> = esperar, pas <em>atender</em>.</li><li><strong>Les pronoms relatifs</strong> : <code>dont</code> n'existe pas en portugais ; il remplace <em>de qui/de quoi</em>.</li><li><strong>La négation restrictive</strong> : <code>ne... que</code> signifie <em>seulement</em>, pas une vraie négation.</li></ul><p><strong>5. Gestion du temps</strong> : ne restez pas bloqué. Si une question vous résiste, marquez-la et revenez-y. Éliminez d'abord les options manifestement fausses pour augmenter vos chances.</p><p><strong>Conseil final</strong> : reformulez mentalement la question avant de regarder les options. Cela évite de vous laisser influencer par les distracteurs.</p>",
+  "examples": [
+    {
+      "sentence": "Le rapport ne mentionne guère les conséquences environnementales du projet.",
+      "note": "<em>ne... guère</em> = presque pas. Attention, ce n'est pas une vraie négation totale."
+    },
+    {
+      "sentence": "Contrairement aux idées reçues, le télétravail n'a pas réduit la productivité.",
+      "note": "<em>Contrairement à</em> annonce une opposition : il faut comprendre l'inverse de l'idée reçue."
+    },
+    {
+      "sentence": "L'auteur dont je vous parle a publié trois ouvrages sur le sujet.",
+      "note": "<em>dont</em> = de qui. Piège fréquent pour les lusophones car ce pronom n'existe pas en portugais."
+    },
+    {
+      "sentence": "Cette mesure ne concerne que les salariés du secteur public.",
+      "note": "<em>ne... que</em> = seulement. Ce n'est pas une négation, mais une restriction."
+    },
+    {
+      "sentence": "Bien que le texte évoque la crise, il ne propose aucune solution concrète.",
+      "note": "<em>Bien que</em> introduit une concession : les deux idées coexistent malgré leur opposition apparente."
+    },
+    {
+      "sentence": "Les chiffres suggèrent une amélioration, mais celle-ci reste fragile.",
+      "note": "<em>suggérer</em> indique une inférence prudente : rien n'est affirmé catégoriquement."
+    }
+  ],
+  "reading": {
+    "passage": "Le retour des bouquinistes parisiens divise. Depuis plus de quatre siècles, ces vendeurs de livres d'occasion installés le long de la Seine font partie du paysage de la capitale. Pourtant, leur avenir n'a jamais semblé aussi incertain. À l'occasion des Jeux olympiques de 2024, les autorités avaient envisagé de déplacer une partie de leurs boîtes vertes pour des raisons de sécurité, provoquant une vive protestation des libraires et de nombreux Parisiens attachés à cette tradition.\n\nSi le projet de déplacement a finalement été abandonné, le débat de fond demeure. Les bouquinistes affirment que leur activité décline depuis une vingtaine d'années. La concurrence d'Internet, la baisse de la fréquentation touristique en français et la hausse des loyers urbains pèsent lourdement sur leur modèle économique. Certains n'ouvrent désormais leurs boîtes que quelques heures par semaine.\n\nNéanmoins, tout n'est pas perdu. Une nouvelle génération de bouquinistes, plus jeunes et davantage formés aux outils numériques, tente de renouveler la profession. Ils proposent des éditions rares, organisent des ventes en ligne et collaborent avec des associations culturelles. Inscrits depuis 2019 au patrimoine culturel immatériel de l'UNESCO en France, les bouquinistes bénéficient également d'un soutien institutionnel renforcé.\n\nLa Mairie de Paris a annoncé un plan d'aide visant à rénover les célèbres boîtes vertes et à attirer de nouveaux candidats. Reste à savoir si ces mesures suffiront à préserver un métier qui, plus qu'une simple activité commerciale, incarne une certaine idée de Paris.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Les Jeux olympiques ont détruit l'activité des bouquinistes",
+          "Les bouquinistes parisiens traversent une crise mais des initiatives existent pour les sauver",
+          "Internet a définitivement remplacé les libraires traditionnels",
+          "La Mairie de Paris veut supprimer les boîtes vertes"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente à la fois les difficultés des bouquinistes et les efforts pour préserver leur métier. C'est l'équilibre crise/sauvetage qui constitue l'idée centrale."
+      },
+      {
+        "question": "Que s'est-il passé concernant le projet de déplacement lié aux JO 2024 ?",
+        "options": [
+          "Il a été mis en oeuvre malgré les protestations",
+          "Il a été abandonné suite aux protestations",
+          "Il a été reporté à une date ultérieure",
+          "Il est toujours en discussion"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique clairement : <em>Si le projet de déplacement a finalement été abandonné</em>. Les protestations ont donc abouti."
+      },
+      {
+        "question": "Que peut-on déduire de l'expression <em>tout n'est pas perdu</em> dans le texte ?",
+        "options": [
+          "La situation est catastrophique et irréversible",
+          "Il existe des raisons d'espérer malgré les difficultés",
+          "Les bouquinistes ont déjà disparu",
+          "Les autorités refusent toute aide"
+        ],
+        "correct": 1,
+        "explanation": "Cette expression introduit le contraste avec le déclin évoqué avant. Elle annonce les initiatives positives décrites ensuite (nouvelle génération, soutien institutionnel)."
+      },
+      {
+        "question": "Dans le contexte du texte, que signifie <em>incarne</em> dans la dernière phrase ?",
+        "options": [
+          "Détruit",
+          "Représente symboliquement",
+          "Vend",
+          "Oublie"
+        ],
+        "correct": 1,
+        "explanation": "<em>Incarner</em> signifie ici représenter, symboliser. Les bouquinistes sont présentés comme l'image d'une certaine idée de Paris, au-delà du commerce."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Dans la phrase <em>Les résultats ne sont guère encourageants</em>, que signifie <em>guère</em> ?",
+      "options": [
+        "Très",
+        "Peu, presque pas",
+        "Totalement",
+        "Vraiment"
+      ],
+      "correct": 1,
+      "explanation": "<em>Ne... guère</em> est une négation restrictive qui signifie <em>presque pas</em> ou <em>peu</em>."
+    },
+    {
+      "question": "Quelle stratégie est recommandée pour aborder un texte au TCF ?",
+      "options": [
+        "Lire chaque mot lentement dès le début",
+        "Faire un survol rapide puis une lecture ciblée",
+        "Répondre aux questions sans lire le texte",
+        "Traduire mentalement en portugais"
+      ],
+      "correct": 1,
+      "explanation": "Le skimming puis le scanning permettent d'optimiser le temps et la compréhension."
+    },
+    {
+      "question": "Dans <em>Cette loi ne concerne que les mineurs</em>, le sens est :",
+      "options": [
+        "La loi ne concerne pas les mineurs",
+        "La loi concerne uniquement les mineurs",
+        "La loi concerne tout le monde sauf les mineurs",
+        "La loi exclut les mineurs"
+      ],
+      "correct": 1,
+      "explanation": "<em>Ne... que</em> = seulement. C'est une restriction, pas une négation."
+    },
+    {
+      "question": "Quel connecteur introduit une opposition ?",
+      "options": [
+        "En effet",
+        "Par conséquent",
+        "En revanche",
+        "De plus"
+      ],
+      "correct": 2,
+      "explanation": "<em>En revanche</em> marque une opposition. Les autres expriment cause, conséquence ou ajout."
+    },
+    {
+      "question": "Dans une question de compréhension, une option qui reprend exactement les mots du texte est :",
+      "options": [
+        "Toujours la bonne réponse",
+        "Parfois un piège (distracteur)",
+        "Jamais proposée",
+        "Réservée aux questions faciles"
+      ],
+      "correct": 1,
+      "explanation": "Les distracteurs utilisent souvent les mêmes mots que le texte mais déforment le sens. Méfiance !"
+    },
+    {
+      "question": "Le pronom relatif <em>dont</em> dans <em>le livre dont je parle</em> remplace :",
+      "options": [
+        "à qui",
+        "de quoi",
+        "où",
+        "que"
+      ],
+      "correct": 1,
+      "explanation": "<em>Parler de quelque chose</em> → <em>la chose dont je parle</em>. Ce pronom n'existe pas en portugais."
+    },
+    {
+      "question": "Quelle phrase exprime une concession ?",
+      "options": [
+        "Il pleut, donc je reste",
+        "Bien qu'il pleuve, je sors",
+        "Il pleut parce qu'il fait froid",
+        "Il pleut et il fait froid"
+      ],
+      "correct": 1,
+      "explanation": "<em>Bien que</em> + subjonctif exprime la concession : deux idées contraires coexistent."
+    },
+    {
+      "question": "Si l'auteur écrit <em>les chiffres suggèrent une amélioration</em>, cela signifie :",
+      "options": [
+        "L'amélioration est certaine et prouvée",
+        "L'amélioration est probable mais non confirmée",
+        "Il n'y a aucune amélioration",
+        "Les chiffres sont faux"
+      ],
+      "correct": 1,
+      "explanation": "<em>Suggérer</em> indique une hypothèse prudente, pas une affirmation catégorique."
+    },
+    {
+      "question": "Face à une question difficile au TCF, la meilleure stratégie est :",
+      "options": [
+        "Y passer tout le temps nécessaire",
+        "L'ignorer complètement",
+        "La marquer, continuer et y revenir",
+        "Choisir toujours la réponse A"
+      ],
+      "correct": 2,
+      "explanation": "Pour gérer le temps, mieux vaut avancer et revenir plus tard sur les questions difficiles."
+    },
+    {
+      "question": "Dans <em>Contrairement à ce que l'on pense, le chômage a baissé</em>, l'auteur :",
+      "options": [
+        "Confirme une idée répandue",
+        "Contredit une idée répandue",
+        "Est d'accord avec l'opinion publique",
+        "Refuse de prendre position"
+      ],
+      "correct": 1,
+      "explanation": "<em>Contrairement à</em> signale que l'auteur va à l'encontre de l'opinion commune."
+    }
+  ],
+  "writingPrompt": "Vous lisez régulièrement un journal local de votre ville en France et vous estimez qu'un sujet important n'est pas suffisamment traité par les médias (par exemple : la gestion des déchets dans votre quartier, l'accès aux soins, les transports, le logement étudiant, l'intégration professionnelle des diplômés étrangers, etc.). Rédigez une lettre adressée à la rédaction du journal pour proposer une enquête sur ce sujet. Présentez clairement le thème choisi, expliquez pourquoi il mérite d'être investigué, donnez des exemples concrets observés autour de vous et suggérez des pistes ou des personnes à interviewer. Adoptez un ton respectueux et argumenté. Écrivez entre 180 et 220 mots.",
+  "vocab": [
+    {
+      "word": "survoler un texte",
+      "translation": "ler por alto, fazer leitura rápida",
+      "example": "Avant de répondre aux questions, je survole toujours le texte pour en saisir l'idée générale."
+    },
+    {
+      "word": "un distracteur",
+      "translation": "alternativa enganosa",
+      "example": "Les distracteurs dans les QCM ressemblent souvent à la bonne réponse pour piéger le candidat."
+    },
+    {
+      "word": "inférer",
+      "translation": "inferir, deduzir",
+      "example": "Le lecteur doit inférer l'intention de l'auteur à partir des indices laissés dans le texte."
+    },
+    {
+      "word": "un faux ami",
+      "translation": "falso cognato",
+      "example": "<em>Attendre</em> est un faux ami : il signifie <em>esperar</em>, pas <em>atender</em>."
+    },
+    {
+      "word": "néanmoins",
+      "translation": "no entanto, contudo",
+      "example": "Le projet est ambitieux ; néanmoins, son financement reste incertain."
+    },
+    {
+      "word": "une nuance",
+      "translation": "matiz, sutileza",
+      "example": "Il faut percevoir la nuance entre <em>peut-être</em> et <em>probablement</em>."
+    },
+    {
+      "word": "une concession",
+      "translation": "concessão (gramatical)",
+      "example": "<em>Bien que</em> introduit une concession et se construit avec le subjonctif."
+    },
+    {
+      "word": "reformuler",
+      "translation": "reformular",
+      "example": "Reformuler la question dans ses propres mots aide à mieux la comprendre."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Aujourd'hui, nous consolidons les acquis de la <strong>semaine 2</strong> et travaillons la <strong>compréhension écrite</strong>, compétence essentielle au TCF. Voici un rappel des points clés.</p><p><strong>1. Le subjonctif présent</strong> s'emploie après les expressions de doute, volonté, émotion, nécessité. Rappel du verbe <em>être</em> :</p><table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table><p>Et le verbe <em>avoir</em> :</p><table><tr><td>j'</td><td><strong>aie</strong></td></tr><tr><td>tu</td><td><strong>aies</strong></td></tr><tr><td>il/elle</td><td><strong>ait</strong></td></tr><tr><td>nous</td><td><strong>ayons</strong></td></tr><tr><td>vous</td><td><strong>ayez</strong></td></tr><tr><td>ils/elles</td><td><strong>aient</strong></td></tr></table><p><strong>2. Les pronoms relatifs composés</strong> (<code>lequel, laquelle, auquel, duquel</code>) s'utilisent après une préposition, surtout avec des choses : <em>le projet auquel je participe</em>, <em>la réunion à laquelle j'assiste</em>.</p><p><strong>3. La concordance des temps</strong> dans le discours indirect au passé : présent → imparfait, futur → conditionnel, passé composé → plus-que-parfait. <em>Il a dit qu'il viendrait demain.</em></p><p><strong>4. Les connecteurs logiques</strong> structurent un texte argumentatif : <code>cependant, néanmoins, en revanche</code> (opposition) ; <code>par conséquent, ainsi, dès lors</code> (conséquence) ; <code>en effet, d'ailleurs</code> (renforcement).</p><p><strong>Stratégies de compréhension écrite :</strong></p><ul><li>Lire d'abord les <strong>questions</strong>, puis le texte.</li><li>Repérer les <strong>connecteurs</strong> qui annoncent un argument, une opposition, une conclusion.</li><li>Distinguer <strong>idée principale</strong> et <strong>détails</strong>.</li><li>Pour le vocabulaire, deviner par le <strong>contexte</strong> avant de paniquer.</li><li>Attention aux <strong>négations</strong> et aux <strong>nuances</strong> (<em>rarement, parfois, souvent</em>).</li></ul><p><strong>Pièges pour lusophones :</strong> ne confondez pas <em>quoique</em> (bien que + subjonctif) et <em>quoi que</em> (peu importe ce que). Méfiez-vous aussi des faux-amis fréquents en presse : <em>déception</em> (decepção, pas decepção), <em>large</em> (largo, pas largo), <em>actuellement</em> (atualmente, pas hoje em dia exclusivement).</p>",
+  "examples": [
+    {
+      "sentence": "Il faut que vous soyez ponctuel à l'entretien.",
+      "note": "Subjonctif après il faut que."
+    },
+    {
+      "sentence": "C'est l'association à laquelle j'ai adhéré l'année dernière.",
+      "note": "Pronom relatif composé après préposition."
+    },
+    {
+      "sentence": "Le ministre a déclaré qu'il prendrait des mesures rapidement.",
+      "note": "Discours indirect : futur devient conditionnel."
+    },
+    {
+      "sentence": "Le projet est ambitieux ; néanmoins, son financement reste incertain.",
+      "note": "Connecteur d'opposition typique de la presse."
+    },
+    {
+      "sentence": "Bien qu'il pleuve, la manifestation aura lieu cet après-midi.",
+      "note": "Bien que + subjonctif."
+    },
+    {
+      "sentence": "Quoi qu'on en dise, cette réforme divise profondément les Français.",
+      "note": "Quoi que (en deux mots) = peu importe ce que."
+    }
+  ],
+  "reading": {
+    "passage": "La semaine de quatre jours fait son chemin dans les entreprises françaises. Selon une récente étude de l'Association des dirigeants des ressources humaines, près de 10 % des PME envisagent de tester cette organisation d'ici 2026. L'idée n'est pas neuve : elle a été expérimentée en Islande et au Royaume-Uni avec des résultats jugés probants, tant en termes de productivité que de bien-être au travail.\n\nEn France, la démarche reste prudente. Certaines entreprises proposent quatre jours travaillés à temps plein, sans baisse de salaire, ce qui implique une réorganisation profonde des réunions et une réduction des temps morts. D'autres optent pour une formule à temps partiel, plus simple mais moins attractive. Les salariés interrogés saluent majoritairement l'initiative, évoquant un meilleur équilibre entre vie professionnelle et vie personnelle.\n\nCependant, des voix s'élèvent contre une généralisation trop rapide. Les syndicats craignent une intensification du travail sur les quatre jours restants, avec des journées qui pourraient s'allonger jusqu'à dix heures. Par ailleurs, certains secteurs comme la santé, la restauration ou la grande distribution se prêtent mal à ce modèle, faute de pouvoir réduire la présence humaine.\n\nLes économistes restent partagés. Pour les uns, cette évolution s'inscrit dans une transformation durable du rapport au travail, accélérée par la crise sanitaire. Pour les autres, il ne s'agit que d'un effet de mode qui ne résistera pas à la pression concurrentielle. Une chose semble néanmoins certaine : la question des rythmes de travail s'imposera dans le débat social des prochaines années.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "La semaine de quatre jours est déjà généralisée en France.",
+          "La semaine de quatre jours suscite intérêt et débats en France.",
+          "Les syndicats français rejettent unanimement la semaine de quatre jours.",
+          "L'Islande impose son modèle de travail à l'Europe."
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente l'expérimentation, ses partisans et ses critiques : c'est un sujet en débat."
+      },
+      {
+        "question": "Selon le texte, quelle est la principale crainte des syndicats ?",
+        "options": [
+          "Une baisse importante des salaires.",
+          "Une augmentation du chômage.",
+          "Un allongement excessif des journées de travail.",
+          "La disparition des congés payés."
+        ],
+        "correct": 2,
+        "explanation": "Le texte mentionne explicitement des journées pouvant atteindre dix heures."
+      },
+      {
+        "question": "Dans le texte, l'expression jugés probants signifie :",
+        "options": [
+          "décevants",
+          "convaincants",
+          "incertains",
+          "contestés"
+        ],
+        "correct": 1,
+        "explanation": "Probant signifie qui démontre, qui convainc."
+      },
+      {
+        "question": "Que peut-on déduire de la position des économistes ?",
+        "options": [
+          "Ils sont tous favorables à la réforme.",
+          "Ils s'accordent à rejeter le modèle.",
+          "Leurs avis divergent sur la pérennité du modèle.",
+          "Ils refusent de se prononcer sur la question."
+        ],
+        "correct": 2,
+        "explanation": "Le texte oppose deux camps : ceux qui y voient une évolution durable et ceux qui parlent d'effet de mode."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ patient.",
+      "options": [
+        "es",
+        "sois",
+        "soyes",
+        "serais"
+      ],
+      "correct": 1,
+      "explanation": "Subjonctif présent de être à la 2e personne : sois."
+    },
+    {
+      "question": "Complétez : Voici le dossier ___ je travaille depuis un mois.",
+      "options": [
+        "dont",
+        "auquel",
+        "sur lequel",
+        "duquel"
+      ],
+      "correct": 2,
+      "explanation": "Travailler sur quelque chose : on garde la préposition sur + lequel."
+    },
+    {
+      "question": "Discours indirect : Il m'a dit : Je viendrai demain. → Il m'a dit qu'il ___ le lendemain.",
+      "options": [
+        "viendra",
+        "venait",
+        "viendrait",
+        "était venu"
+      ],
+      "correct": 2,
+      "explanation": "Le futur devient conditionnel présent au discours indirect passé."
+    },
+    {
+      "question": "Choisissez le connecteur approprié : La réforme est nécessaire ; ___, elle reste impopulaire.",
+      "options": [
+        "par conséquent",
+        "cependant",
+        "ainsi",
+        "en effet"
+      ],
+      "correct": 1,
+      "explanation": "Cependant marque l'opposition entre nécessité et impopularité."
+    },
+    {
+      "question": "Quel synonyme convient pour néanmoins ?",
+      "options": [
+        "donc",
+        "toutefois",
+        "puisque",
+        "ainsi"
+      ],
+      "correct": 1,
+      "explanation": "Néanmoins et toutefois marquent tous deux une opposition atténuée."
+    },
+    {
+      "question": "Complétez : ___ il pleuve, je sortirai me promener.",
+      "options": [
+        "Bien qu'",
+        "Parce qu'",
+        "Puisqu'",
+        "Étant donné qu'"
+      ],
+      "correct": 0,
+      "explanation": "Bien que + subjonctif (qu'il pleuve) exprime la concession."
+    },
+    {
+      "question": "Faux-ami : Le mot déception en français signifie :",
+      "options": [
+        "mensonge, tromperie",
+        "désappointement",
+        "réception officielle",
+        "accueil chaleureux"
+      ],
+      "correct": 1,
+      "explanation": "Déception = désappointement, équivalent du portugais decepção."
+    },
+    {
+      "question": "Quel est le subjonctif présent du verbe aller à la 1re personne du pluriel ?",
+      "options": [
+        "nous allons",
+        "nous allions",
+        "nous aillions",
+        "nous irions"
+      ],
+      "correct": 1,
+      "explanation": "Subjonctif présent : que nous allions (forme identique à l'imparfait)."
+    },
+    {
+      "question": "Choisissez : Je doute qu'il ___ raison sur ce point.",
+      "options": [
+        "a",
+        "ait",
+        "aie",
+        "aurait"
+      ],
+      "correct": 1,
+      "explanation": "Doute + subjonctif : avoir à la 3e personne du singulier = ait."
+    },
+    {
+      "question": "Complétez : C'est une situation ___ nous devons réfléchir sérieusement.",
+      "options": [
+        "dont",
+        "à laquelle",
+        "que",
+        "où"
+      ],
+      "correct": 1,
+      "explanation": "Réfléchir à quelque chose : la préposition à se combine avec laquelle."
+    }
+  ],
+  "writingPrompt": "Vous êtes bénévole dans une association locale qui lutte contre le gaspillage alimentaire dans votre ville. L'association vous demande de rédiger un article (180-220 mots) pour son blog afin de sensibiliser les habitants. Présentez l'ampleur du problème, expliquez les actions concrètes menées par l'association (collectes, distributions, ateliers cuisine), et invitez les lecteurs à s'engager à leurs côtés. Utilisez un ton à la fois informatif et engagé, et intégrez au moins deux connecteurs logiques ainsi qu'un verbe au subjonctif.",
+  "vocab": [
+    {
+      "word": "probant",
+      "translation": "convincente, conclusivo",
+      "example": "Les premiers résultats de l'expérimentation sont jugés probants par les chercheurs."
+    },
+    {
+      "word": "envisager",
+      "translation": "considerar, cogitar",
+      "example": "L'entreprise envisage de passer à la semaine de quatre jours dès janvier."
+    },
+    {
+      "word": "saluer (une initiative)",
+      "translation": "elogiar, aprovar",
+      "example": "Les salariés saluent l'initiative de la direction concernant le télétravail."
+    },
+    {
+      "word": "s'élever (contre)",
+      "translation": "manifestar-se contra",
+      "example": "De nombreuses voix s'élèvent contre cette réforme jugée injuste."
+    },
+    {
+      "word": "se prêter (à)",
+      "translation": "adequar-se a",
+      "example": "Tous les métiers ne se prêtent pas au télétravail."
+    },
+    {
+      "word": "faute de",
+      "translation": "por falta de",
+      "example": "Le projet a été abandonné faute de financement suffisant."
+    },
+    {
+      "word": "s'inscrire dans",
+      "translation": "inserir-se em",
+      "example": "Cette mesure s'inscrit dans une politique globale de transition écologique."
+    },
+    {
+      "word": "pérennité",
+      "translation": "perenidade, durabilidade",
+      "example": "La pérennité de ce modèle économique reste à démontrer."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Le vocabulaire administratif est <strong>indispensable</strong> pour vivre en France. Que ce soit pour renouveler un titre de séjour, demander une carte vitale ou contester une décision, vous serez en contact régulier avec les administrations.</p><p><strong>Les institutions principales :</strong></p><ul><li>La <strong>préfecture</strong> : gère les titres de séjour, permis de conduire, cartes grises</li><li>La <strong>mairie</strong> : actes d'état civil, mariage, inscription électorale</li><li>La <strong>CAF</strong> (Caisse d'Allocations Familiales) : aides sociales, APL</li><li>La <strong>CPAM</strong> : assurance maladie, carte vitale</li><li>Pôle emploi / France Travail : recherche d'emploi, allocations chômage</li></ul><p><strong>Les démarches courantes :</strong> on <em>dépose</em> un dossier, on <em>prend</em> un rendez-vous, on <em>fournit</em> des justificatifs, on <em>remplit</em> un formulaire. Attention au verbe <code>déposer</code> qui ne signifie pas <em>depositar</em> de l'argent ici, mais <em>remettre</em> un document.</p><p><strong>Verbes essentiels au présent — <code>fournir</code> :</strong></p><table><tr><td>je</td><td><strong>fournis</strong></td></tr><tr><td>tu</td><td><strong>fournis</strong></td></tr><tr><td>il/elle</td><td><strong>fournit</strong></td></tr><tr><td>nous</td><td><strong>fournissons</strong></td></tr><tr><td>vous</td><td><strong>fournissez</strong></td></tr><tr><td>ils/elles</td><td><strong>fournissent</strong></td></tr></table><p><strong>Verbe <code>remplir</code> au présent :</strong></p><table><tr><td>je</td><td><strong>remplis</strong></td></tr><tr><td>tu</td><td><strong>remplis</strong></td></tr><tr><td>il/elle</td><td><strong>remplit</strong></td></tr><tr><td>nous</td><td><strong>remplissons</strong></td></tr><tr><td>vous</td><td><strong>remplissez</strong></td></tr><tr><td>ils/elles</td><td><strong>remplissent</strong></td></tr></table><p><strong>Documents fréquents :</strong> un <em>justificatif de domicile</em>, un <em>relevé d'identité bancaire</em> (RIB), un <em>avis d'imposition</em>, une <em>attestation</em>, un <em>récépissé</em>, un <em>extrait d'acte de naissance</em>.</p><p><strong>Pièges pour lusophones :</strong></p><ul><li><em>Récépissé</em> ≠ <em>recibo</em> au sens commercial. C'est un document officiel temporaire (souvent en attendant un titre de séjour).</li><li><em>Mairie</em> ne se traduit pas par <em>maioria</em> ! C'est <em>prefeitura municipal</em>.</li><li>Attention : en France, la <strong>préfecture</strong> est une administration d'État (équivalent gouvernemental), pas la mairie de la ville.</li><li>On dit <em>faire une démarche</em>, pas <em>faire un démarche</em> (féminin).</li></ul><p><strong>Expressions utiles :</strong> <em>être en règle</em>, <em>déposer un recours</em>, <em>saisir le tribunal administratif</em>, <em>convoquer</em>, <em>délivrer un document</em>.</p>",
+  "examples": [
+    {
+      "sentence": "J'ai pris rendez-vous à la préfecture pour renouveler mon titre de séjour.",
+      "note": "Expression figée : prendre rendez-vous (sans article)."
+    },
+    {
+      "sentence": "Vous devez fournir un justificatif de domicile de moins de trois mois.",
+      "note": "Justificatif de domicile = comprovante de residência. Délai strict à respecter."
+    },
+    {
+      "sentence": "La mairie m'a délivré un extrait d'acte de naissance plurilingue.",
+      "note": "Délivrer = émettre officiellement (un document)."
+    },
+    {
+      "sentence": "En attendant ma carte de séjour, j'ai reçu un récépissé valable six mois.",
+      "note": "Le récépissé permet de travailler et de circuler légalement."
+    },
+    {
+      "sentence": "Le dossier a été déposé en ligne sur le site de l'ANEF.",
+      "note": "Beaucoup de démarches sont désormais dématérialisées (ANEF = Administration Numérique des Étrangers en France)."
+    },
+    {
+      "sentence": "Si votre demande est rejetée, vous pouvez déposer un recours gracieux dans les deux mois.",
+      "note": "Recours gracieux = première contestation amiable auprès de l'administration."
+    }
+  ],
+  "reading": {
+    "passage": "La dématérialisation des démarches administratives, engagée depuis une dizaine d'années en France, devait simplifier la vie des usagers. Pourtant, le bilan reste mitigé, notamment pour les étrangers résidant sur le territoire. Depuis 2022, les demandes de titres de séjour s'effectuent presque exclusivement sur la plateforme ANEF, ce qui a supprimé une grande partie des files d'attente devant les préfectures, mais a aussi créé de nouveaux problèmes.\n\nLe Défenseur des droits a publié plusieurs rapports alarmants. De nombreux usagers signalent des bugs informatiques persistants, l'impossibilité de joindre un agent humain, ou encore des délais d'instruction qui peuvent dépasser un an. Pendant cette attente, certains se retrouvent sans récépissé valide, donc sans droit au travail ni à la sécurité sociale, alors même qu'ils sont en situation régulière.\n\nLes associations d'aide aux étrangers, comme la Cimade ou France Terre d'Asile, ont multiplié les recours devant les tribunaux administratifs. Les juges ont régulièrement condamné l'État à délivrer des titres dans des délais raisonnables, sous astreinte financière. Mais ces décisions individuelles ne résolvent pas le problème structurel.\n\nLe ministère de l'Intérieur reconnaît les difficultés et promet des améliorations : recrutement d'agents supplémentaires, refonte de la plateforme, ouverture de guichets physiques pour les cas complexes. Les usagers, eux, restent sceptiques. Pour beaucoup, l'idéal serait de pouvoir choisir entre une démarche en ligne et un rendez-vous physique, selon leur situation. La fracture numérique touche en effet une part importante de la population, et tous les justificatifs ne sont pas faciles à scanner correctement.",
+    "questions": [
+      {
+        "question": "Quel est le constat général du texte sur la dématérialisation ?",
+        "options": [
+          "Elle a totalement réussi à simplifier les démarches",
+          "Le bilan est nuancé : certains progrès mais aussi de nouveaux problèmes",
+          "Elle a été abandonnée par le gouvernement",
+          "Elle ne concerne que les citoyens français"
+        ],
+        "correct": 1,
+        "explanation": "Le texte parle d'un bilan mitigé : suppression des files d'attente mais nouveaux problèmes."
+      },
+      {
+        "question": "Que risquent les usagers pendant les longs délais d'instruction ?",
+        "options": [
+          "Une amende administrative",
+          "L'expulsion immédiate du territoire",
+          "De perdre temporairement leurs droits au travail et à la sécurité sociale",
+          "Une convocation au tribunal"
+        ],
+        "correct": 2,
+        "explanation": "Le texte précise qu'ils peuvent se retrouver sans récépissé valide, donc sans droit au travail ni à la sécurité sociale."
+      },
+      {
+        "question": "Dans le texte, que signifie sous astreinte financière ?",
+        "options": [
+          "Avec une aide financière de l'État",
+          "Avec une pénalité d'argent par jour de retard",
+          "Avec un contrôle bancaire",
+          "Sans frais pour le demandeur"
+        ],
+        "correct": 1,
+        "explanation": "Une astreinte est une somme que l'administration doit payer par jour de retard si elle ne respecte pas la décision du juge."
+      },
+      {
+        "question": "Quelle solution est évoquée comme idéale par les usagers ?",
+        "options": [
+          "Supprimer complètement la plateforme en ligne",
+          "Avoir le choix entre démarche en ligne et rendez-vous physique",
+          "Rendre toutes les démarches payantes",
+          "Confier les démarches aux associations"
+        ],
+        "correct": 1,
+        "explanation": "Le texte indique que pour beaucoup, l'idéal serait de pouvoir choisir entre les deux modalités."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Quelle administration délivre les titres de séjour en France ?",
+      "options": [
+        "La mairie",
+        "La préfecture",
+        "La CAF",
+        "Le Pôle emploi"
+      ],
+      "correct": 1,
+      "explanation": "C'est la préfecture (administration d'État) qui gère les titres de séjour."
+    },
+    {
+      "question": "Complétez : Je dois ___ un justificatif de domicile récent.",
+      "options": [
+        "fournir",
+        "fournis",
+        "fourni",
+        "fournissez"
+      ],
+      "correct": 0,
+      "explanation": "Après devoir, on utilise l'infinitif : fournir."
+    },
+    {
+      "question": "Que signifie un récépissé ?",
+      "options": [
+        "Une amende administrative",
+        "Un document temporaire attestant qu'une demande est en cours",
+        "Une convocation au tribunal",
+        "Un refus définitif"
+      ],
+      "correct": 1,
+      "explanation": "Le récépissé est délivré en attendant la décision finale ; il permet souvent de travailler."
+    },
+    {
+      "question": "Choisissez la bonne formulation :",
+      "options": [
+        "Je fais un démarche",
+        "Je fais une démarche",
+        "Je fais le démarche",
+        "Je fais des démarche"
+      ],
+      "correct": 1,
+      "explanation": "Démarche est un nom féminin : une démarche."
+    },
+    {
+      "question": "Quel document atteste de votre adresse ?",
+      "options": [
+        "Un RIB",
+        "Un avis d'imposition",
+        "Un justificatif de domicile",
+        "Un extrait d'acte de naissance"
+      ],
+      "correct": 2,
+      "explanation": "Le justificatif de domicile (facture, quittance de loyer) prouve l'adresse."
+    },
+    {
+      "question": "Que veut dire déposer un recours ?",
+      "options": [
+        "Abandonner sa demande",
+        "Contester officiellement une décision",
+        "Payer une taxe",
+        "Récupérer un document"
+      ],
+      "correct": 1,
+      "explanation": "Déposer un recours signifie contester formellement une décision administrative."
+    },
+    {
+      "question": "Complétez : Nous ___ le formulaire en ligne avant de l'imprimer.",
+      "options": [
+        "remplit",
+        "remplissons",
+        "remplissent",
+        "remplir"
+      ],
+      "correct": 1,
+      "explanation": "Avec nous au présent : nous remplissons."
+    },
+    {
+      "question": "Que signifie être en règle ?",
+      "options": [
+        "Être en file d'attente",
+        "Avoir une situation administrative légale et conforme",
+        "Avoir payé une amende",
+        "Être convoqué par la police"
+      ],
+      "correct": 1,
+      "explanation": "Être en règle = avoir tous ses papiers en ordre, être en situation régulière."
+    },
+    {
+      "question": "Quel sigle correspond à l'assurance maladie ?",
+      "options": [
+        "CAF",
+        "CPAM",
+        "ANEF",
+        "RIB"
+      ],
+      "correct": 1,
+      "explanation": "CPAM = Caisse Primaire d'Assurance Maladie. La CAF gère les allocations familiales."
+    },
+    {
+      "question": "Choisissez la formulation correcte dans un courrier administratif :",
+      "options": [
+        "Je vous envoie les papiers que vous m'avez demandé",
+        "Veuillez trouver ci-joint les pièces justificatives demandées",
+        "Voilà les documents que tu veux",
+        "J'ai mis les trucs dans l'enveloppe"
+      ],
+      "correct": 1,
+      "explanation": "Veuillez trouver ci-joint est la formule standard et appropriée dans la correspondance administrative."
+    }
+  ],
+  "writingPrompt": "Vous habitez dans une commune française qui vient d'annoncer la suppression de la ligne de bus desservant votre quartier, sous prétexte de faire des économies. Cette décision pénalise particulièrement les personnes âgées, les familles sans voiture et les travailleurs aux horaires décalés. Rédigez une lettre ouverte adressée au maire de votre commune (180 à 220 mots) pour contester cette décision. Présentez clairement les conséquences concrètes de cette suppression sur la vie quotidienne des habitants, donnez des arguments solides (sociaux, écologiques, économiques) et proposez au moins une solution alternative. Utilisez le vocabulaire administratif approprié et un registre formel (formules d'appel et de politesse, structure d'une lettre officielle).",
+  "vocab": [
+    {
+      "word": "la préfecture",
+      "translation": "a prefeitura (administração do Estado)",
+      "example": "J'ai un rendez-vous à la préfecture mardi prochain."
+    },
+    {
+      "word": "un justificatif de domicile",
+      "translation": "um comprovante de residência",
+      "example": "La facture d'électricité sert de justificatif de domicile."
+    },
+    {
+      "word": "un récépissé",
+      "translation": "um recibo/protocolo temporário (oficial)",
+      "example": "Mon récépissé est valable six mois et me permet de travailler."
+    },
+    {
+      "word": "déposer un dossier",
+      "translation": "entregar/protocolar um processo",
+      "example": "J'ai déposé mon dossier de naturalisation la semaine dernière."
+    },
+    {
+      "word": "délivrer un document",
+      "translation": "emitir um documento (oficialmente)",
+      "example": "La mairie délivre les extraits d'acte de naissance gratuitement."
+    },
+    {
+      "word": "un recours",
+      "translation": "um recurso (contestação)",
+      "example": "Vous avez deux mois pour déposer un recours contre cette décision."
+    },
+    {
+      "word": "une attestation",
+      "translation": "uma declaração/atestado",
+      "example": "L'employeur m'a fourni une attestation de travail."
+    },
+    {
+      "word": "être en règle",
+      "translation": "estar em situação regular",
+      "example": "Avec ma nouvelle carte de séjour, je suis enfin en règle."
+    }
+  ]
+}

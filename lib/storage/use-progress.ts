@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import type { LessonContent, UserProgress } from "@/lib/types";
+import type { UserProgress } from "@/lib/types";
 import { emptyProgress } from "@/lib/types";
 import { progressStore } from "@/lib/storage/progress";
 
@@ -59,27 +59,6 @@ export function useProgress() {
     [update]
   );
 
-  const cacheLesson = useCallback(
-    (day: number, content: LessonContent) => {
-      update((prev) => ({
-        ...prev,
-        cachedContent: { ...prev.cachedContent, [day]: content },
-      }));
-    },
-    [update]
-  );
-
-  const clearCache = useCallback(
-    (day: number) => {
-      update((prev) => {
-        const cachedContent = { ...prev.cachedContent };
-        delete cachedContent[day];
-        return { ...prev, cachedContent };
-      });
-    },
-    [update]
-  );
-
   const saveWriting = useCallback(
     (day: number, text: string) => {
       update((prev) => ({
@@ -107,8 +86,6 @@ export function useProgress() {
     loaded,
     markDayComplete,
     resetDay,
-    cacheLesson,
-    clearCache,
     saveWriting,
     toggleVocabKnown,
   };

@@ -1,0 +1,274 @@
+{
+  "reading": {
+    "passage": "Depuis plusieurs années, la question du télétravail divise les entreprises françaises. Pendant la pandémie de Covid-19, des millions de salariés ont découvert, parfois contre leur gré, les avantages et les contraintes du travail à distance. Aujourd'hui, alors que la situation sanitaire est stabilisée, employeurs et employés peinent à trouver un équilibre satisfaisant.\n\nLes partisans du télétravail mettent en avant des bénéfices indéniables : suppression des trajets épuisants, meilleure conciliation entre vie professionnelle et vie personnelle, et même gains de productivité dans certains métiers. Selon une étude récente publiée par l'Institut Montaigne, près de 60% des cadres franciliens souhaiteraient travailler chez eux au moins trois jours par semaine. Pour de nombreuses familles, cette flexibilité représente une véritable amélioration de la qualité de vie.\n\nCependant, les détracteurs ne manquent pas d'arguments. Plusieurs dirigeants estiment que le télétravail nuit à la cohésion des équipes et freine la créativité collective. Les jeunes salariés, en particulier, se sentiraient isolés et auraient du mal à apprendre leur métier sans le contact quotidien de collègues plus expérimentés. Certaines grandes entreprises, à l'image de quelques géants américains, ont d'ailleurs choisi de revenir à un présentiel quasi total, suscitant la colère de leurs employés.\n\nLe gouvernement français, lui, observe le phénomène sans véritablement légiférer. Le code du travail laisse aux entreprises une large marge de manœuvre, à condition qu'un accord soit négocié avec les représentants du personnel. Cette souplesse, saluée par les uns, est critiquée par les autres, qui réclament un cadre plus protecteur.\n\nAu fond, le débat dépasse la simple organisation du travail. Il interroge notre rapport au temps, à la ville, et même à l'engagement professionnel. À l'heure où les jeunes générations revendiquent davantage de sens et d'autonomie, il est probable que le télétravail, sous une forme ou une autre, s'installe durablement dans le paysage français.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail est un échec en France",
+          "Le télétravail fait débat et transforme le monde professionnel",
+          "Le gouvernement français interdit le télétravail",
+          "Les jeunes refusent le télétravail"
+        ],
+        "correct": 1,
+        "explanation": "Le texte présente les arguments pour et contre le télétravail et son impact sur le travail."
+      },
+      {
+        "question": "Selon le texte, que pensent les détracteurs du télétravail ?",
+        "options": [
+          "Il améliore la productivité",
+          "Il nuit à la cohésion d'équipe et à l'apprentissage des jeunes",
+          "Il est trop coûteux pour les entreprises",
+          "Il est interdit par la loi"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement la cohésion des équipes et la difficulté pour les jeunes salariés."
+      },
+      {
+        "question": "Que signifie l'expression <em>une large marge de manœuvre</em> dans le texte ?",
+        "options": [
+          "Une obligation stricte",
+          "Une grande liberté d'action",
+          "Une interdiction formelle",
+          "Un budget important"
+        ],
+        "correct": 1,
+        "explanation": "Avoir une marge de manœuvre signifie disposer d'une liberté pour agir."
+      },
+      {
+        "question": "Quelle conclusion l'auteur tire-t-il sur l'avenir du télétravail ?",
+        "options": [
+          "Il va probablement disparaître",
+          "Il restera probablement présent dans le monde du travail français",
+          "Il sera bientôt interdit par le gouvernement",
+          "Il concernera uniquement les cadres"
+        ],
+        "correct": 1,
+        "explanation": "L'auteur conclut que le télétravail va probablement s'installer durablement."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Si j'avais su, je _____ venu plus tôt.",
+      "options": [
+        "serais",
+        "seraient",
+        "était",
+        "aurai été"
+      ],
+      "correct": 0,
+      "explanation": "Conditionnel passé requis après <em>si + plus-que-parfait</em>."
+    },
+    {
+      "question": "Quel est le synonyme de <strong>épuisant</strong> ?",
+      "options": [
+        "Reposant",
+        "Exténuant",
+        "Amusant",
+        "Bref"
+      ],
+      "correct": 1,
+      "explanation": "<em>Exténuant</em> signifie qui fatigue énormément, comme <em>épuisant</em>."
+    },
+    {
+      "question": "Complétez : Elle parle _____ moi sans cesse.",
+      "options": [
+        "à",
+        "de",
+        "en",
+        "pour"
+      ],
+      "correct": 1,
+      "explanation": "<em>Parler de quelqu'un</em> signifie évoquer cette personne."
+    },
+    {
+      "question": "Que signifie l'expression <em>tomber dans les pommes</em> ?",
+      "options": [
+        "Cueillir des fruits",
+        "S'évanouir",
+        "Tomber amoureux",
+        "Être en retard"
+      ],
+      "correct": 1,
+      "explanation": "Expression idiomatique signifiant perdre connaissance."
+    },
+    {
+      "question": "Quel connecteur logique exprime l'opposition ?",
+      "options": [
+        "Donc",
+        "Cependant",
+        "Ainsi",
+        "Car"
+      ],
+      "correct": 1,
+      "explanation": "<em>Cependant</em> introduit une idée opposée à la précédente."
+    },
+    {
+      "question": "Pour demander un acte de naissance en France, à quelle administration vous adressez-vous ?",
+      "options": [
+        "La préfecture",
+        "La mairie de votre lieu de naissance",
+        "La CAF",
+        "Pôle emploi"
+      ],
+      "correct": 1,
+      "explanation": "Les actes d'état civil sont délivrés par la mairie du lieu de naissance."
+    },
+    {
+      "question": "Conjuguez au subjonctif présent : Il faut que nous _____ (faire) attention.",
+      "options": [
+        "faisons",
+        "fassions",
+        "ferions",
+        "faisions"
+      ],
+      "correct": 1,
+      "explanation": "Le verbe <em>faire</em> au subjonctif présent à la 1ère personne du pluriel donne <em>fassions</em>."
+    },
+    {
+      "question": "Quel est l'antonyme de <strong>autonomie</strong> ?",
+      "options": [
+        "Indépendance",
+        "Liberté",
+        "Dépendance",
+        "Solitude"
+      ],
+      "correct": 2,
+      "explanation": "<em>Dépendance</em> s'oppose à <em>autonomie</em>."
+    },
+    {
+      "question": "Que signifie la phrase : <em>Il a du pain sur la planche</em> ?",
+      "options": [
+        "Il a beaucoup de travail à faire",
+        "Il prépare un repas",
+        "Il est très riche",
+        "Il est boulanger"
+      ],
+      "correct": 0,
+      "explanation": "Expression idiomatique signifiant avoir beaucoup de tâches à accomplir."
+    },
+    {
+      "question": "Choisissez le pronom relatif correct : C'est la personne _____ je t'ai parlé hier.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correct": 2,
+      "explanation": "<em>Parler de quelqu'un</em> exige le pronom <em>dont</em>."
+    },
+    {
+      "question": "Dans un courriel formel à une administration, comment commencer ?",
+      "options": [
+        "Salut !",
+        "Madame, Monsieur,",
+        "Coucou,",
+        "Bonjour cher ami,"
+      ],
+      "correct": 1,
+      "explanation": "<em>Madame, Monsieur,</em> est la formule d'appel formelle standard."
+    },
+    {
+      "question": "Quel temps utilise-t-on après <em>après que</em> en français soutenu ?",
+      "options": [
+        "Le subjonctif",
+        "L'indicatif",
+        "Le conditionnel",
+        "L'impératif"
+      ],
+      "correct": 1,
+      "explanation": "Contrairement à <em>avant que</em>, <em>après que</em> est suivi de l'indicatif."
+    },
+    {
+      "question": "Reformulez : <em>Malgré la pluie, ils sont sortis.</em>",
+      "options": [
+        "Bien qu'il pleuve, ils sont sortis",
+        "Parce qu'il pleuvait, ils sont sortis",
+        "Si bien qu'il pleuvait, ils sont sortis",
+        "Pour qu'il pleuve, ils sont sortis"
+      ],
+      "correct": 0,
+      "explanation": "<em>Malgré</em> et <em>bien que</em> expriment tous deux la concession."
+    },
+    {
+      "question": "Que signifie : <strong>Je n'en peux plus</strong> ?",
+      "options": [
+        "Je suis épuisé",
+        "Je n'ai plus d'argent",
+        "Je suis content",
+        "Je ne sais pas"
+      ],
+      "correct": 0,
+      "explanation": "Expression signifiant être à bout de forces ou de patience."
+    },
+    {
+      "question": "Quel est le registre approprié pour s'adresser à un fonctionnaire que vous ne connaissez pas ?",
+      "options": [
+        "Familier",
+        "Soutenu ou courant",
+        "Argotique",
+        "Tutoiement immédiat"
+      ],
+      "correct": 1,
+      "explanation": "Avec un inconnu en contexte administratif, on utilise le vouvoiement et un registre soutenu."
+    },
+    {
+      "question": "Complétez : Elle travaille ici _____ trois ans.",
+      "options": [
+        "pendant",
+        "depuis",
+        "pour",
+        "il y a"
+      ],
+      "correct": 1,
+      "explanation": "<em>Depuis</em> exprime une action commencée dans le passé et qui continue."
+    },
+    {
+      "question": "Quel mot complète logiquement : <em>Il pleuvait beaucoup, _____ nous avons annulé la sortie.</em>",
+      "options": [
+        "mais",
+        "c'est pourquoi",
+        "bien que",
+        "tandis que"
+      ],
+      "correct": 1,
+      "explanation": "<em>C'est pourquoi</em> exprime la conséquence."
+    },
+    {
+      "question": "À quoi sert la CAF en France ?",
+      "options": [
+        "À gérer les impôts",
+        "À verser des aides familiales et au logement",
+        "À délivrer les permis de conduire",
+        "À organiser les élections"
+      ],
+      "correct": 1,
+      "explanation": "La Caisse d'Allocations Familiales verse notamment les APL et allocations familiales."
+    },
+    {
+      "question": "Choisissez l'accord correct : Les fleurs que j'ai _____ sont fanées.",
+      "options": [
+        "cueilli",
+        "cueillis",
+        "cueillies",
+        "cueillie"
+      ],
+      "correct": 2,
+      "explanation": "Accord du participe passé avec le COD <em>que</em> (= les fleurs, féminin pluriel) placé avant."
+    },
+    {
+      "question": "Que signifie <em>prendre rendez-vous</em> ?",
+      "options": [
+        "Fixer une date pour se rencontrer",
+        "Arriver à l'heure",
+        "Annuler une réunion",
+        "Partir en vacances"
+      ],
+      "correct": 0,
+      "explanation": "Fixer un moment précis pour rencontrer quelqu'un, souvent un professionnel."
+    }
+  ],
+  "writingPrompt": "Vous êtes locataire d'un appartement en France et vous constatez depuis trois mois des problèmes importants d'humidité et de moisissures dans votre logement, malgré plusieurs signalements oraux à votre propriétaire qui n'a rien fait. Rédigez une lettre formelle adressée à votre propriétaire (ou à son agence immobilière) pour exposer la situation, décrire les désagréments subis (santé, dégradation des meubles), rappeler ses obligations légales et exiger une intervention rapide dans un délai précis. Vous mentionnerez également que vous envisagez de saisir la commission départementale de conciliation si rien n'est entrepris. Rédigez entre 180 et 220 mots en respectant les codes de la lettre formelle française."
+}

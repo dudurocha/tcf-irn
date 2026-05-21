@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Les <strong>expressions idiomatiques</strong> sont des formules figées dont le sens global ne se déduit pas du sens littéral des mots. Elles sont essentielles au niveau B2 car elles colorent la langue parlée et écrite, et apparaissent fréquemment dans les médias français.</p><p><strong>Catégories principales :</strong></p><ul><li><strong>Expressions avec parties du corps :</strong> <em>avoir le bras long</em> (avoir de l'influence), <em>coûter les yeux de la tête</em> (être très cher), <em>avoir la tête sur les épaules</em> (être raisonnable).</li><li><strong>Expressions avec animaux :</strong> <em>poser un lapin</em> (ne pas venir à un rendez-vous), <em>avoir le cafard</em> (être déprimé), <em>il pleut des cordes</em> (il pleut très fort).</li><li><strong>Expressions avec couleurs :</strong> <em>voir la vie en rose</em> (être optimiste), <em>broyer du noir</em> (être déprimé), <em>donner le feu vert</em> (autoriser).</li><li><strong>Expressions avec nourriture :</strong> <em>ce n'est pas de la tarte</em> (ce n'est pas facile), <em>mettre son grain de sel</em> (intervenir sans qu'on le demande), <em>raconter des salades</em> (mentir).</li></ul><p><strong>Pièges classiques pour lusophones :</strong></p><p>Attention aux <em>faux amis idiomatiques</em>. En portugais, <em>dar uma mão</em> existe aussi (<em>donner un coup de main</em>), mais beaucoup d'expressions ne se traduisent pas littéralement :</p><table><tr><td>Portugais</td><td>Français correct</td></tr><tr><td>custar os olhos da cara</td><td><strong>coûter les yeux de la tête</strong></td></tr><tr><td>matar dois coelhos</td><td><strong>faire d'une pierre deux coups</strong></td></tr><tr><td>de vez em quando</td><td><strong>de temps en temps</strong></td></tr><tr><td>estar com a pulga atrás da orelha</td><td><strong>avoir la puce à l'oreille</strong></td></tr></table><p><strong>Verbe utile : tomber</strong> (présent), très fréquent dans les expressions (<em>tomber dans le panneau</em>, <em>tomber des nues</em>) :</p><table><tr><td>je</td><td><strong>tombe</strong></td></tr><tr><td>tu</td><td><strong>tombes</strong></td></tr><tr><td>il/elle</td><td><strong>tombe</strong></td></tr><tr><td>nous</td><td><strong>tombons</strong></td></tr><tr><td>vous</td><td><strong>tombez</strong></td></tr><tr><td>ils/elles</td><td><strong>tombent</strong></td></tr></table><p><strong>Conseil :</strong> n'essayez jamais de traduire mot à mot une expression portugaise. Mémorisez plutôt les équivalents français en contexte, en notant le registre (familier, courant, soutenu).</p>",
+  "examples": [
+    {
+      "sentence": "Mon collègue m'a <strong>posé un lapin</strong> hier soir, j'ai attendu une heure au restaurant.",
+      "note": "Posé un lapin = ne pas venir à un rendez-vous sans prévenir."
+    },
+    {
+      "sentence": "Cet appartement à Paris <strong>coûte les yeux de la tête</strong>, mais l'emplacement est exceptionnel.",
+      "note": "Expression très courante pour dire quelque chose de très cher."
+    },
+    {
+      "sentence": "Depuis qu'il a perdu son emploi, il <strong>broie du noir</strong> et refuse de sortir.",
+      "note": "Broyer du noir = être déprimé, ruminer des pensées sombres."
+    },
+    {
+      "sentence": "Réussir l'examen tout en travaillant à plein temps, <strong>ce n'est pas de la tarte</strong>.",
+      "note": "Ce n'est pas de la tarte = ce n'est pas facile (registre familier)."
+    },
+    {
+      "sentence": "Quand le directeur a annoncé sa démission, je <strong>suis tombé des nues</strong>.",
+      "note": "Tomber des nues = être très surpris, ne pas s'y attendre du tout."
+    },
+    {
+      "sentence": "Le maire a enfin <strong>donné le feu vert</strong> à la construction de la nouvelle école.",
+      "note": "Donner le feu vert = autoriser officiellement quelque chose."
+    }
+  ],
+  "reading": {
+    "passage": "Les expressions idiomatiques occupent une place centrale dans la communication quotidienne des Français, mais elles représentent souvent un véritable casse-tête pour les apprenants étrangers, même à un niveau avancé. Une étude récente menée par l'Alliance Française a révélé que près de 70 % des étudiants de niveau B2 ne comprennent pas correctement les expressions imagées entendues dans les conversations courantes ou dans les médias.\n\nPourquoi cette difficulté ? D'abord, parce que ces expressions sont culturellement ancrées. Dire qu'il pleut des cordes ou qu'on a le cafard ne fait sens qu'à condition de connaître l'image mentale associée. Ensuite, la traduction littérale conduit souvent à des contresens cocasses : un lusophone qui entend poser un lapin imagine littéralement un animal posé sur une table, alors qu'il s'agit d'un rendez-vous manqué.\n\nLes professeurs de FLE recommandent plusieurs stratégies pour maîtriser ce pan de la langue. La première consiste à apprendre les expressions par thèmes (animaux, corps, couleurs) plutôt qu'isolément. La deuxième est de les rencontrer en contexte authentique : films, séries, podcasts, journaux. Enfin, il faut accepter de ne pas tout traduire et se concentrer sur l'effet produit dans la phrase.\n\nCertaines institutions, comme la Délégation générale à la langue française, publient régulièrement des recueils gratuits d'expressions illustrées. Ces ressources, accessibles en ligne, contribuent à démocratiser un savoir longtemps réservé aux locuteurs natifs. Pour réussir des examens comme le TCF ou le DELF, maîtriser une cinquantaine d'expressions courantes est aujourd'hui considéré comme indispensable.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Les expressions idiomatiques disparaissent du français moderne",
+          "Les expressions idiomatiques sont difficiles mais essentielles pour les apprenants",
+          "Les étrangers ne devraient pas apprendre les expressions imagées",
+          "Les Français utilisent moins d'expressions qu'avant"
+        ],
+        "correct": 1,
+        "explanation": "Le texte insiste sur la difficulté ET sur l'importance de maîtriser les expressions, notamment pour les examens."
+      },
+      {
+        "question": "Selon l'étude citée, quel pourcentage d'étudiants B2 a des difficultés avec les expressions ?",
+        "options": [
+          "Environ 50 %",
+          "Près de 70 %",
+          "Plus de 80 %",
+          "Moins de 40 %"
+        ],
+        "correct": 1,
+        "explanation": "Le texte mentionne explicitement près de 70 % des étudiants de niveau B2."
+      },
+      {
+        "question": "Que signifie l'expression un véritable casse-tête dans le texte ?",
+        "options": [
+          "Un jeu amusant",
+          "Une douleur physique",
+          "Un problème très difficile à résoudre",
+          "Une activité reposante"
+        ],
+        "correct": 2,
+        "explanation": "Un casse-tête désigne ici, par extension, un problème complexe et difficile."
+      },
+      {
+        "question": "Quelle stratégie n'est PAS recommandée par les professeurs de FLE ?",
+        "options": [
+          "Apprendre par thèmes",
+          "Regarder des films et séries",
+          "Traduire chaque expression mot à mot",
+          "Lire les recueils gratuits en ligne"
+        ],
+        "correct": 2,
+        "explanation": "Le texte dit explicitement qu'il faut accepter de ne pas tout traduire."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Que signifie l'expression coûter les yeux de la tête ?",
+      "options": [
+        "Être très douloureux",
+        "Être très cher",
+        "Être très fatigant",
+        "Être très laid"
+      ],
+      "correct": 1,
+      "explanation": "Cette expression signifie qu'une chose a un prix très élevé."
+    },
+    {
+      "question": "Marie m'a posé un lapin hier. Que s'est-il passé ?",
+      "options": [
+        "Elle m'a offert un animal",
+        "Elle n'est pas venue au rendez-vous",
+        "Elle m'a menti",
+        "Elle m'a fait une blague"
+      ],
+      "correct": 1,
+      "explanation": "Poser un lapin signifie ne pas venir à un rendez-vous, sans prévenir."
+    },
+    {
+      "question": "Quelle expression signifie être déprimé ?",
+      "options": [
+        "Avoir le bras long",
+        "Avoir la pêche",
+        "Avoir le cafard",
+        "Avoir du chien"
+      ],
+      "correct": 2,
+      "explanation": "Avoir le cafard est synonyme d'être triste ou déprimé."
+    },
+    {
+      "question": "Il pleut des _______ : il faut absolument prendre un parapluie.",
+      "options": [
+        "chats",
+        "cordes",
+        "gouttes",
+        "rivières"
+      ],
+      "correct": 1,
+      "explanation": "Il pleut des cordes est l'expression figée pour une pluie très forte."
+    },
+    {
+      "question": "Mon patron a enfin donné le feu vert à mon projet. Cela veut dire qu'il...",
+      "options": [
+        "L'a refusé catégoriquement",
+        "L'a autorisé",
+        "L'a ignoré",
+        "L'a critiqué"
+      ],
+      "correct": 1,
+      "explanation": "Donner le feu vert = autoriser, donner son accord."
+    },
+    {
+      "question": "Quand il m'a annoncé son mariage, je suis tombé _______.",
+      "options": [
+        "des nues",
+        "dans le panneau",
+        "à pic",
+        "sous le charme"
+      ],
+      "correct": 0,
+      "explanation": "Tomber des nues = être très surpris, ne pas s'y attendre."
+    },
+    {
+      "question": "Quelle est l'équivalent français de l'expression portugaise matar dois coelhos com uma cajadada só ?",
+      "options": [
+        "Tuer deux lapins d'un coup",
+        "Faire d'une pierre deux coups",
+        "Prendre le taureau par les cornes",
+        "Mettre la charrue avant les bœufs"
+      ],
+      "correct": 1,
+      "explanation": "L'équivalent idiomatique en français est faire d'une pierre deux coups."
+    },
+    {
+      "question": "Ce travail, ce n'est pas de la tarte ! Cela signifie que...",
+      "options": [
+        "Ce n'est pas appétissant",
+        "Ce n'est pas facile",
+        "Ce n'est pas urgent",
+        "Ce n'est pas intéressant"
+      ],
+      "correct": 1,
+      "explanation": "Ne pas être de la tarte = ne pas être facile (registre familier)."
+    },
+    {
+      "question": "Sa sœur a toujours le mot pour rire et voit la vie _______.",
+      "options": [
+        "en noir",
+        "en rose",
+        "en vert",
+        "en gris"
+      ],
+      "correct": 1,
+      "explanation": "Voir la vie en rose = être optimiste, voir le bon côté des choses."
+    },
+    {
+      "question": "Pourquoi tu me racontes des salades ? Cette expression signifie...",
+      "options": [
+        "Tu me parles de cuisine",
+        "Tu me dis des mensonges",
+        "Tu m'ennuies",
+        "Tu me complimentes"
+      ],
+      "correct": 1,
+      "explanation": "Raconter des salades = mentir, inventer des histoires (registre familier)."
+    }
+  ],
+  "writingPrompt": "Une pétition circule dans votre quartier pour s'opposer à l'installation d'une nouvelle ligne de tramway qui passerait devant chez vous. Les opposants invoquent le bruit, les travaux de plusieurs mois et la perte de places de stationnement. Les partisans soulignent la réduction de la pollution et l'amélioration des transports en commun. Rédigez une lettre (180 à 220 mots) adressée au comité d'organisation de la pétition pour exprimer soit votre soutien, soit votre désaccord. Utilisez au moins trois expressions idiomatiques apprises aujourd'hui (par exemple : ne pas être de la tarte, donner le feu vert, voir la vie en rose, tomber des nues, etc.). Structurez votre lettre avec une formule d'appel, des arguments clairs et une formule de politesse finale.",
+  "vocab": [
+    {
+      "word": "poser un lapin",
+      "translation": "dar um bolo (faltar a um encontro)",
+      "example": "Il m'a posé un lapin sans même envoyer un message d'excuse."
+    },
+    {
+      "word": "coûter les yeux de la tête",
+      "translation": "custar os olhos da cara",
+      "example": "Ce manteau coûte les yeux de la tête, je vais réfléchir avant de l'acheter."
+    },
+    {
+      "word": "avoir le cafard",
+      "translation": "estar deprimido, estar para baixo",
+      "example": "Depuis qu'elle a déménagé loin de sa famille, elle a souvent le cafard."
+    },
+    {
+      "word": "tomber des nues",
+      "translation": "ficar pasmo, cair das nuvens",
+      "example": "Quand j'ai appris la nouvelle, je suis tombé des nues."
+    },
+    {
+      "word": "donner le feu vert",
+      "translation": "dar sinal verde, autorizar",
+      "example": "La mairie a donné le feu vert pour la rénovation du parc."
+    },
+    {
+      "word": "faire d'une pierre deux coups",
+      "translation": "matar dois coelhos com uma cajadada",
+      "example": "En allant à la poste, j'en profite pour passer à la boulangerie : je fais d'une pierre deux coups."
+    },
+    {
+      "word": "ne pas être de la tarte",
+      "translation": "não ser moleza, não ser fácil",
+      "example": "Élever trois enfants en travaillant à temps plein, ce n'est pas de la tarte."
+    },
+    {
+      "word": "raconter des salades",
+      "translation": "contar mentiras, inventar histórias",
+      "example": "Arrête de raconter des salades, je sais très bien où tu étais hier soir."
+    }
+  ]
+}

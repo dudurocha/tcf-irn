@@ -1,0 +1,233 @@
+{
+  "theory": "<p>Aujourd'hui, c'est le <strong>jour 30</strong> : un examen blanc complet pour consolider tout ce que vous avez appris. Cette leçon couvre les points essentiels du TCF niveau B2.</p><p><strong>1. Les temps verbaux clés (B2)</strong></p><table><tr><td>Indicatif présent</td><td><strong>je parle</strong></td></tr><tr><td>Passé composé</td><td><strong>j'ai parlé</strong></td></tr><tr><td>Imparfait</td><td><strong>je parlais</strong></td></tr><tr><td>Plus-que-parfait</td><td><strong>j'avais parlé</strong></td></tr><tr><td>Futur simple</td><td><strong>je parlerai</strong></td></tr><tr><td>Conditionnel</td><td><strong>je parlerais</strong></td></tr></table><p><strong>2. Le subjonctif présent du verbe <em>faire</em></strong> (à maîtriser absolument) :</p><table><tr><td>que je</td><td><strong>fasse</strong></td></tr><tr><td>que tu</td><td><strong>fasses</strong></td></tr><tr><td>qu'il/elle</td><td><strong>fasse</strong></td></tr><tr><td>que nous</td><td><strong>fassions</strong></td></tr><tr><td>que vous</td><td><strong>fassiez</strong></td></tr><tr><td>qu'ils/elles</td><td><strong>fassent</strong></td></tr></table><p><strong>3. Connecteurs logiques essentiels</strong> :</p><ul><li><strong>Cause</strong> : parce que, car, puisque, étant donné que</li><li><strong>Conséquence</strong> : donc, par conséquent, c'est pourquoi, si bien que</li><li><strong>Opposition</strong> : mais, cependant, néanmoins, en revanche, alors que</li><li><strong>But</strong> : pour que, afin que (+ subjonctif)</li><li><strong>Concession</strong> : bien que, quoique (+ subjonctif), malgré (+ nom)</li></ul><p><strong>4. Pièges lusophones à éviter</strong> :</p><ul><li>Ne pas confondre <code>visiter</code> (un lieu) et <code>rendre visite à</code> (une personne).</li><li>Attention à <code>assister à</code> (assister à une réunion ≠ aider en portugais).</li><li>Le futur en portugais utilise souvent le subjonctif (<em>quando eu chegar</em>), mais en français on emploie le <strong>futur</strong> : <em>quand j'arriverai</em>.</li><li>Évitez le calque <em>il a 30 ans qui...</em> : dites <strong>il y a 30 ans que...</strong> ou <strong>cela fait 30 ans que...</strong>.</li><li>L'accord du participe passé avec <em>avoir</em> se fait avec le COD <strong>antéposé</strong> : <em>les lettres que j'ai écrites</em>.</li></ul><p><strong>5. Stratégie d'examen</strong> : lisez d'abord les questions, puis le texte ; éliminez les options manifestement fausses ; gérez votre temps (≈ 1 min par question).</p>",
+  "examples": [
+    {
+      "sentence": "Bien qu'il pleuve depuis ce matin, la manifestation a été maintenue place de la République.",
+      "note": "Concession avec <strong>bien que</strong> + subjonctif présent."
+    },
+    {
+      "sentence": "Si j'avais su que les tarifs allaient augmenter, j'aurais renouvelé mon abonnement plus tôt.",
+      "note": "Hypothèse irréelle du passé : <em>si</em> + plus-que-parfait, conditionnel passé."
+    },
+    {
+      "sentence": "Le rapport que la commission a publié hier dénonce les inégalités territoriales.",
+      "note": "Accord du participe passé avec COD antéposé : <strong>publié</strong> (masculin singulier, accord avec <em>que = le rapport</em>)."
+    },
+    {
+      "sentence": "Il faudrait que nous prenions une décision avant la fin du mois.",
+      "note": "<strong>Il faut que</strong> + subjonctif présent ; ici <em>prenions</em> (verbe prendre)."
+    },
+    {
+      "sentence": "C'est en lisant la presse quotidienne qu'on améliore réellement son vocabulaire.",
+      "note": "Gérondif <strong>en + participe présent</strong> exprimant la manière."
+    },
+    {
+      "sentence": "Cela fait trois ans que je vis à Lyon et je ne m'y habitue toujours pas complètement.",
+      "note": "Durée : <strong>cela fait... que</strong> + présent (ne pas calquer le portugais <em>faz três anos</em>)."
+    }
+  ],
+  "reading": {
+    "passage": "Le télétravail, devenu massif pendant la crise sanitaire, s'est durablement installé dans le paysage professionnel français. Selon une étude récente de la DARES, près de 33 % des salariés du secteur privé pratiquent désormais le télétravail au moins un jour par semaine, contre seulement 4 % avant 2020. Cette transformation n'est cependant pas sans conséquences. Si les employés saluent majoritairement le gain de temps et la meilleure conciliation entre vie professionnelle et vie personnelle, plusieurs études pointent l'apparition de nouveaux risques. L'isolement social, l'allongement insidieux du temps de travail et la difficulté à déconnecter figurent parmi les plaintes les plus fréquemment recueillies. Les managers, de leur côté, peinent parfois à maintenir une cohésion d'équipe à distance. Pour répondre à ces enjeux, plusieurs grandes entreprises françaises ont mis en place des chartes du télétravail, encadrant le droit à la déconnexion et fixant un nombre minimal de jours de présence au bureau, généralement deux ou trois. Le législateur, quant à lui, a renforcé en 2023 les obligations des employeurs en matière de prévention des risques psychosociaux. Reste une fracture peu commentée : tous les métiers ne sont pas éligibles. Les ouvriers, les soignants ou les caissières demeurent exclus de cette flexibilité, ce qui alimente un sentiment d'injustice sociale. Les syndicats réclament désormais une réflexion plus large sur l'aménagement du temps de travail pour ces professions, afin que les progrès obtenus par les uns ne se traduisent pas par un creusement des inégalités vécues par les autres.",
+    "questions": [
+      {
+        "question": "Quelle est l'idée principale du texte ?",
+        "options": [
+          "Le télétravail a totalement échoué en France après la pandémie.",
+          "Le télétravail s'est généralisé mais soulève des défis sociaux et organisationnels.",
+          "Les syndicats français s'opposent unanimement au télétravail.",
+          "La crise sanitaire n'a eu aucun impact durable sur le monde du travail."
+        ],
+        "correct": 1,
+        "explanation": "Le texte montre l'installation du télétravail tout en exposant ses conséquences problématiques et les inégalités qu'il génère."
+      },
+      {
+        "question": "Selon le texte, quel pourcentage de salariés du privé télétravaillent au moins un jour par semaine ?",
+        "options": [
+          "4 %",
+          "Environ 33 %",
+          "Plus de 50 %",
+          "Près de 20 %"
+        ],
+        "correct": 1,
+        "explanation": "Le texte cite une étude de la DARES indiquant près de 33 %, contre 4 % avant 2020."
+      },
+      {
+        "question": "Que signifie l'expression <em>peinent à maintenir</em> dans le texte ?",
+        "options": [
+          "Réussissent facilement à maintenir",
+          "Refusent de maintenir",
+          "Ont du mal à maintenir",
+          "Sont obligés de supprimer"
+        ],
+        "correct": 2,
+        "explanation": "<em>Peiner à</em> signifie <strong>avoir des difficultés à</strong> faire quelque chose."
+      },
+      {
+        "question": "Que peut-on déduire de la dernière partie du texte ?",
+        "options": [
+          "Le télétravail réduit les inégalités sociales en France.",
+          "Tous les salariés français bénéficient des mêmes droits à la flexibilité.",
+          "L'accès inégal au télétravail crée de nouvelles tensions sociales.",
+          "Les syndicats souhaitent supprimer le télétravail pour tous."
+        ],
+        "correct": 2,
+        "explanation": "Le texte évoque une <em>fracture</em>, un <em>sentiment d'injustice</em> et un risque de <em>creusement des inégalités</em>."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choisissez la forme correcte : Il faut que tu ___ plus attention à l'orthographe.",
+      "options": [
+        "fais",
+        "fasses",
+        "ferais",
+        "feras"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Il faut que</strong> exige le subjonctif présent : <em>fasses</em>."
+    },
+    {
+      "question": "Complétez : ___ il pleuve, nous sortirons quand même.",
+      "options": [
+        "Parce qu'",
+        "Bien qu'",
+        "Puisqu'",
+        "Étant donné qu'"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Bien que</strong> exprime la concession et se construit avec le subjonctif (<em>pleuve</em>)."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": [
+        "Les fleurs que j'ai acheté sont jolies.",
+        "Les fleurs que j'ai achetées sont jolies.",
+        "Les fleurs que j'ai achetés sont jolies.",
+        "Les fleurs qu'ai acheté sont jolies."
+      ],
+      "correct": 1,
+      "explanation": "Accord du participe passé avec le COD antéposé féminin pluriel : <strong>achetées</strong>."
+    },
+    {
+      "question": "Choisissez l'expression correcte : ___ deux ans que j'habite à Paris.",
+      "options": [
+        "Il a",
+        "Il y a",
+        "Cela fait",
+        "C'est"
+      ],
+      "correct": 2,
+      "explanation": "<strong>Cela fait... que</strong> + présent exprime une durée qui continue. <em>Il y a deux ans</em> indiquerait un moment passé ponctuel."
+    },
+    {
+      "question": "Trouvez le connecteur logique adapté : Il a beaucoup travaillé ; ___, il a réussi son examen.",
+      "options": [
+        "cependant",
+        "par conséquent",
+        "alors que",
+        "bien que"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Par conséquent</strong> introduit une conséquence logique."
+    },
+    {
+      "question": "Quelle est la forme correcte au conditionnel passé ?",
+      "options": [
+        "J'aurai aimé venir.",
+        "J'aurais aimé venir.",
+        "J'avais aimé venir.",
+        "J'aurais aimer venir."
+      ],
+      "correct": 1,
+      "explanation": "Conditionnel passé = auxiliaire au conditionnel présent (<strong>aurais</strong>) + participe passé (<strong>aimé</strong>)."
+    },
+    {
+      "question": "Choisissez la préposition correcte : Je vais ___ rendre visite ___ ma grand-mère.",
+      "options": [
+        "— / —",
+        "— / à",
+        "visiter / —",
+        "voir / —"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Rendre visite à</strong> quelqu'un (préposition obligatoire). On <em>visite</em> un lieu, on <em>rend visite à</em> une personne."
+    },
+    {
+      "question": "Identifiez la phrase au discours indirect correct : Il m'a dit : <em>Je viendrai demain.</em>",
+      "options": [
+        "Il m'a dit qu'il viendra demain.",
+        "Il m'a dit qu'il viendrait le lendemain.",
+        "Il m'a dit qu'il vienne le lendemain.",
+        "Il m'a dit qu'il est venu demain."
+      ],
+      "correct": 1,
+      "explanation": "Concordance des temps : futur simple → conditionnel présent ; <em>demain</em> → <strong>le lendemain</strong>."
+    },
+    {
+      "question": "Complétez : Si j'avais plus de temps, je ___ une autre langue.",
+      "options": [
+        "apprendrais",
+        "apprendrai",
+        "aurais appris",
+        "apprenne"
+      ],
+      "correct": 0,
+      "explanation": "Hypothèse irréelle du présent : <em>si</em> + imparfait, <strong>conditionnel présent</strong>."
+    },
+    {
+      "question": "Quel mot complète correctement la phrase : Elle a obtenu ce poste ___ ses compétences exceptionnelles.",
+      "options": [
+        "malgré",
+        "grâce à",
+        "bien que",
+        "à cause de"
+      ],
+      "correct": 1,
+      "explanation": "<strong>Grâce à</strong> introduit une cause positive. <em>À cause de</em> serait négatif, <em>malgré</em> exprimerait l'opposition."
+    }
+  ],
+  "writingPrompt": "Depuis votre installation en France, vous avez observé une évolution culturelle ou sociale qui vous a particulièrement marqué (par exemple : le rapport au numérique dans les démarches administratives, l'évolution du débat public sur l'écologie, la transformation des habitudes alimentaires, la place du télétravail, ou encore les nouvelles formes de mobilité urbaine). Rédigez un texte de réflexion personnelle de 180 à 220 mots dans lequel vous décrivez précisément ce changement, vous analysez ses causes et ses conséquences, et vous donnez votre opinion argumentée. Utilisez des connecteurs logiques variés et au moins un subjonctif.",
+  "vocab": [
+    {
+      "word": "le creusement",
+      "translation": "o aprofundamento, o agravamento",
+      "example": "Les économistes s'inquiètent du creusement des inégalités salariales."
+    },
+    {
+      "word": "encadrer",
+      "translation": "regulamentar, supervisionar",
+      "example": "Une nouvelle loi vient encadrer l'usage des données personnelles."
+    },
+    {
+      "word": "le droit à la déconnexion",
+      "translation": "o direito à desconexão",
+      "example": "Le droit à la déconnexion est inscrit dans le Code du travail depuis 2017."
+    },
+    {
+      "word": "alimenter (un sentiment)",
+      "translation": "alimentar (um sentimento)",
+      "example": "Cette décision alimente un sentiment d'injustice chez les salariés."
+    },
+    {
+      "word": "peiner à",
+      "translation": "ter dificuldade em",
+      "example": "Les jeunes diplômés peinent à trouver un premier emploi stable."
+    },
+    {
+      "word": "insidieux/insidieuse",
+      "translation": "insidioso, sorrateiro",
+      "example": "Le stress au travail a souvent un effet insidieux sur la santé."
+    },
+    {
+      "word": "saluer (une initiative)",
+      "translation": "elogiar, aplaudir",
+      "example": "Les associations ont salué la nouvelle loi sur le logement."
+    },
+    {
+      "word": "éligible",
+      "translation": "elegível, apto",
+      "example": "Tous les locataires ne sont pas éligibles à cette aide financière."
+    }
+  ]
+}
