@@ -1,5 +1,6 @@
-import type { LessonContent, WritingFeedback } from "@/lib/types";
+import type { LessonContent, Question, WritingFeedback } from "@/lib/types";
 import type { MockExam } from "@/lib/types/mock-exam";
+import type { DrillWeakSpot } from "@/lib/prompts/drill";
 
 interface ApiError {
   error: string;
@@ -92,4 +93,14 @@ export async function gradeWriting(
     writingPrompt,
     text,
   });
+}
+
+export async function generateDrill(
+  weakSpots: DrillWeakSpot[],
+  questionCount = 10
+): Promise<{ drillId: string; questions: Question[] }> {
+  return postJson<{ drillId: string; questions: Question[] }>(
+    "/api/generate-drill",
+    { weakSpots, questionCount }
+  );
 }

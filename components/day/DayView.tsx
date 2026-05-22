@@ -10,7 +10,14 @@ import { VocabCards } from "@/components/day/VocabCards";
 import { getLesson } from "@/lib/api-client";
 import { getDay } from "@/lib/curriculum";
 import { useProgress } from "@/lib/storage/use-progress";
+import { mistakeStore } from "@/lib/storage/mistakes";
 import type { LessonContent } from "@/lib/types";
+import type {
+  NewQcmMistake,
+  NewWritingMistake,
+  WritingCategory,
+} from "@/lib/types/mistakes";
+import { WRITING_CATEGORIES } from "@/lib/types/mistakes";
 import { renderInline } from "@/lib/render";
 
 interface DayViewProps {
@@ -25,6 +32,7 @@ export function DayView({ day }: DayViewProps) {
     markDayComplete,
     resetDay,
     saveWriting,
+    saveWritingFeedback,
     toggleVocabKnown,
   } = useProgress();
 
@@ -121,6 +129,34 @@ export function DayView({ day }: DayViewProps) {
         0
       );
     const qcmTotal = content.questions.length + content.reading.questions.length;
+
+    const mistakes: NewQcmMistake[] = [];
+    content.questions.forEach((q, i) => {
+      const ans = qcmAnswers[i];
+      if (ans !== undefined && ans !== q.correct) {
+        mistakes.push({
+          question: q,
+          selectedIndex: ans,
+          theme: curriculumDay.theme,
+          source: { kind: "day", day, section: "qcm" },
+        });
+      }
+    });
+    content.reading.questions.forEach((q, i) => {
+      const ans = readingAnswers[i];
+      if (ans !== undefined && ans !== q.correct) {
+        mistakes.push({
+          question: q,
+          selectedIndex: ans,
+          theme: curriculumDay.theme,
+          source: { kind: "day", day, section: "reading" },
+        });
+      }
+    });
+    if (mistakes.length > 0) {
+      mistakeStore.record(mistakes);
+    }
+
     markDayComplete(day, { correct: qcmCorrect, total: qcmTotal }, writingScore);
     router.push("/");
   };
@@ -179,10 +215,27 @@ export function DayView({ day }: DayViewProps) {
         <WritingSection
           prompt={content.writingPrompt}
           initialText={progress.writings[day] || ""}
+          initialFeedback={progress.writingFeedbacks?.[day] ?? null}
           onTextChange={(text) => saveWriting(day, text)}
           onSubmit={(text, feedback) => {
             saveWriting(day, text);
+            saveWritingFeedback(day, feedback);
             setWritingScore(feedback.score);
+            const writingMistakes: NewWritingMistake[] = feedback.mistakes
+              .filter((m): m is typeof m & { category: WritingCategory } =>
+                (WRITING_CATEGORIES as readonly string[]).includes(m.category)
+              )
+              .map((m) => ({
+                excerpt: m.excerpt,
+                issue: m.issue,
+                correction: m.correction,
+                category: m.category,
+                theme: curriculumDay.theme,
+                source: { kind: "day", day, section: "writing" },
+              }));
+            if (writingMistakes.length > 0) {
+              mistakeStore.recordWriting(writingMistakes);
+            }
           }}
         />
       </div>

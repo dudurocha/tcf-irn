@@ -8,10 +8,17 @@ import { ExamWriting } from "@/components/mock-exam/ExamWriting";
 import { Timer } from "@/components/mock-exam/Timer";
 import { gradeWriting } from "@/lib/api-client";
 import { mockExamStore } from "@/lib/storage/mock-exam";
+import { mistakeStore } from "@/lib/storage/mistakes";
 import type {
   MockExamAttempt,
   MockExamScores,
 } from "@/lib/types/mock-exam";
+import type {
+  NewQcmMistake,
+  NewWritingMistake,
+  WritingCategory,
+} from "@/lib/types/mistakes";
+import { WRITING_CATEGORIES } from "@/lib/types/mistakes";
 
 function computeScores(attempt: MockExamAttempt, writingScore: number | null): MockExamScores {
   const r = attempt.exam.reading.questions;
@@ -72,6 +79,7 @@ export default function ActiveMockExamPage() {
 
       let writingScore: number | null = null;
       let writingFeedback: string | undefined;
+      const writingMistakes: NewWritingMistake[] = [];
       const trimmed = attempt.writingText.trim();
 
       if (trimmed.length >= 50) {
@@ -79,6 +87,17 @@ export default function ActiveMockExamPage() {
           const fb = await gradeWriting(attempt.exam.writingPrompt, trimmed);
           writingScore = fb.score;
           writingFeedback = fb.feedback;
+          for (const m of fb.mistakes) {
+            if (!(WRITING_CATEGORIES as readonly string[]).includes(m.category)) continue;
+            writingMistakes.push({
+              excerpt: m.excerpt,
+              issue: m.issue,
+              correction: m.correction,
+              category: m.category as WritingCategory,
+              theme: "Examen blanc",
+              source: { kind: "exam", attemptId: attempt.id, section: "writing" },
+            });
+          }
         } catch (err) {
           writingFeedback = `<p>Erreur lors de la correction : ${
             err instanceof Error ? err.message : String(err)
@@ -96,6 +115,36 @@ export default function ActiveMockExamPage() {
         scores,
         writingFeedback,
       };
+
+      const mistakes: NewQcmMistake[] = [];
+      attempt.exam.questions.forEach((q, i) => {
+        const ans = attempt.qcmAnswers[i];
+        if (ans !== undefined && ans !== q.correct) {
+          mistakes.push({
+            question: q,
+            selectedIndex: ans,
+            theme: "Examen blanc",
+            source: { kind: "exam", attemptId: attempt.id, section: "qcm" },
+          });
+        }
+      });
+      attempt.exam.reading.questions.forEach((q, i) => {
+        const ans = attempt.readingAnswers[i];
+        if (ans !== undefined && ans !== q.correct) {
+          mistakes.push({
+            question: q,
+            selectedIndex: ans,
+            theme: "Examen blanc",
+            source: { kind: "exam", attemptId: attempt.id, section: "reading" },
+          });
+        }
+      });
+      if (mistakes.length > 0) {
+        await mistakeStore.record(mistakes);
+      }
+      if (writingMistakes.length > 0) {
+        await mistakeStore.recordWriting(writingMistakes);
+      }
 
       await mockExamStore.saveAttempt(completed);
       await mockExamStore.setActive(null);

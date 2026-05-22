@@ -70,9 +70,17 @@ export type LessonContent = z.infer<typeof LessonContentSchema>;
 // ──────────────────────────────────────────────────────────
 // WRITING FEEDBACK
 // ──────────────────────────────────────────────────────────
+export interface WritingFeedbackMistake {
+  excerpt: string;
+  issue: string;
+  correction: string;
+  category: string; // narrowed to WritingCategory at the storage boundary
+}
+
 export interface WritingFeedback {
   score: number | null;
   feedback: string; // HTML
+  mistakes: WritingFeedbackMistake[];
 }
 
 // ──────────────────────────────────────────────────────────
@@ -88,6 +96,7 @@ export interface UserProgress {
   completedDays: number[];
   scores: Record<number, DayScore>;
   writings: Record<number, string>;
+  writingFeedbacks: Record<number, WritingFeedback>;
   vocabKnown: string[];
 }
 
@@ -95,5 +104,6 @@ export const emptyProgress = (): UserProgress => ({
   completedDays: [],
   scores: {},
   writings: {},
+  writingFeedbacks: {},
   vocabKnown: [],
 });

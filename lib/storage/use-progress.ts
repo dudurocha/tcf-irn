@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import type { UserProgress } from "@/lib/types";
+import type { UserProgress, WritingFeedback } from "@/lib/types";
 import { emptyProgress } from "@/lib/types";
 import { progressStore } from "@/lib/storage/progress";
 
@@ -53,7 +53,9 @@ export function useProgress() {
         delete scores[day];
         const writings = { ...prev.writings };
         delete writings[day];
-        return { ...prev, completedDays, scores, writings };
+        const writingFeedbacks = { ...prev.writingFeedbacks };
+        delete writingFeedbacks[day];
+        return { ...prev, completedDays, scores, writings, writingFeedbacks };
       });
     },
     [update]
@@ -64,6 +66,16 @@ export function useProgress() {
       update((prev) => ({
         ...prev,
         writings: { ...prev.writings, [day]: text },
+      }));
+    },
+    [update]
+  );
+
+  const saveWritingFeedback = useCallback(
+    (day: number, feedback: WritingFeedback) => {
+      update((prev) => ({
+        ...prev,
+        writingFeedbacks: { ...prev.writingFeedbacks, [day]: feedback },
       }));
     },
     [update]
@@ -87,6 +99,7 @@ export function useProgress() {
     markDayComplete,
     resetDay,
     saveWriting,
+    saveWritingFeedback,
     toggleVocabKnown,
   };
 }

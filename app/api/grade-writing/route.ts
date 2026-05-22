@@ -35,7 +35,7 @@ export async function POST(req: Request) {
       parsed.data.writingPrompt,
       parsed.data.text
     );
-    const raw = await callClaude({ prompt, maxTokens: 900 });
+    const raw = await callClaude({ prompt, maxTokens: 1200 });
     const result = parseWritingFeedback(raw);
     return NextResponse.json(result);
   } catch (err) {

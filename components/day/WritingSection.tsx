@@ -7,6 +7,7 @@ import type { WritingFeedback } from "@/lib/types";
 interface WritingSectionProps {
   prompt: string;
   initialText?: string;
+  initialFeedback?: WritingFeedback | null;
   onSubmit?: (text: string, feedback: WritingFeedback) => void;
   onTextChange?: (text: string) => void;
 }
@@ -14,11 +15,12 @@ interface WritingSectionProps {
 export function WritingSection({
   prompt,
   initialText = "",
+  initialFeedback = null,
   onSubmit,
   onTextChange,
 }: WritingSectionProps) {
   const [text, setText] = useState(initialText);
-  const [feedback, setFeedback] = useState<WritingFeedback | null>(null);
+  const [feedback, setFeedback] = useState<WritingFeedback | null>(initialFeedback);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 

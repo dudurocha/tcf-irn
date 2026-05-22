@@ -5,11 +5,14 @@ import { Calendar } from "@/components/home/Calendar";
 import { Stats } from "@/components/home/Stats";
 import { CURRICULUM, TOTAL_DAYS } from "@/lib/curriculum";
 import { useProgress } from "@/lib/storage/use-progress";
+import { useMistakes } from "@/lib/storage/use-mistakes";
 
 export default function HomePage() {
   const { progress, loaded } = useProgress();
+  const { mistakes, loaded: mistakesLoaded } = useMistakes();
+  const activeMistakes = mistakes.filter((m) => !m.mastered).length;
 
-  if (!loaded) {
+  if (!loaded || !mistakesLoaded) {
     return (
       <div className="flex flex-col items-center gap-4 py-16 text-ink-muted text-sm">
         <div className="spinner" />
@@ -66,10 +69,20 @@ export default function HomePage() {
 
       <Link
         href="/mock-exam"
-        className="btn w-full text-center mb-8 block"
+        className="btn w-full text-center mb-3 block"
       >
         Mode examen blanc · 60 min →
       </Link>
+
+      {activeMistakes > 0 && (
+        <Link
+          href="/mistakes"
+          className="btn w-full text-center mb-8 block"
+        >
+          Revoir mes erreurs ({activeMistakes}) →
+        </Link>
+      )}
+      {activeMistakes === 0 && <div className="mb-8" />}
 
       <h2 className="text-lg font-semibold mb-3 mt-0">Parcours complet</h2>
       <Calendar progress={progress} />
