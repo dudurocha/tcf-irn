@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { BackupControls } from "@/components/home/BackupControls";
 import { Calendar } from "@/components/home/Calendar";
 import { Stats } from "@/components/home/Stats";
 import { CURRICULUM, TOTAL_DAYS } from "@/lib/curriculum";
@@ -88,6 +89,8 @@ export default function HomePage() {
       <Calendar progress={progress} />
 
       <Stats progress={progress} />
+
+      <BackupControls />
     </>
   );
 }
