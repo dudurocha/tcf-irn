@@ -18,7 +18,7 @@ function getClient(): Anthropic {
 }
 
 export const DEFAULT_MODEL =
-  process.env.ANTHROPIC_MODEL?.trim() || "claude-sonnet-4-6";
+  process.env.ANTHROPIC_MODEL?.trim() || "claude-haiku-4-5";
 
 interface CallOptions {
   prompt: string;
@@ -26,8 +26,8 @@ interface CallOptions {
   model?: string;
 }
 
-const MAX_ATTEMPTS = 3;
-const RETRY_DELAYS_MS = [1000, 2500, 5000];
+const MAX_ATTEMPTS = 2;
+const RETRY_DELAYS_MS = [500];
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
