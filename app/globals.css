@@ -33,10 +33,10 @@
     @apply bg-surface-2 px-1.5 py-0.5 rounded font-mono text-sm;
   }
   .theory-content table {
-    @apply my-3 border-collapse bg-surface-2 rounded-sm overflow-hidden text-[14.5px];
+    @apply my-3 border-collapse bg-surface-2 rounded-sm overflow-hidden text-[14.5px] leading-snug;
   }
   .theory-content table td {
-    @apply px-3.5 py-1 border-b border-border;
+    @apply px-3 py-1 border-b border-border;
   }
   .theory-content table tr:last-child td {
     @apply border-b-0;
@@ -46,6 +46,30 @@
   }
   .theory-content table td:nth-child(2) {
     @apply font-mono text-accent-strong;
+  }
+
+  /* Conjugation tables — grouped side by side by lib/theory-html.ts */
+  .theory-content .conj-grid {
+    @apply grid gap-3 my-3;
+    grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+  }
+  .theory-content figure.conj {
+    @apply my-3;
+  }
+  .theory-content .conj-grid figure.conj {
+    @apply m-0;
+  }
+  .theory-content figure.conj figcaption {
+    @apply mb-1 text-[14px] font-semibold;
+  }
+  .theory-content .conj-grid table {
+    @apply m-0 w-full text-[13.5px];
+  }
+  .theory-content .conj-grid table td {
+    @apply px-2;
+  }
+  .theory-content .conj-grid table td:first-child {
+    @apply min-w-0 w-[40%] text-[12.5px];
   }
 
   /* QCM options */

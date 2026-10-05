@@ -52,7 +52,7 @@ IMPORTANT :
 CONJUGAISONS — RÈGLE STRICTE :
 Quand tu présentes un verbe dans la partie "theory" (verbe modèle, exemple de conjugaison, verbe irrégulier important), tu DOIS montrer TOUTES les personnes : je, tu, il/elle/on, nous, vous, ils/elles. Jamais seulement quelques personnes. Utilise un <table> HTML simple. Format obligatoire :
 <table><tr><td>je</td><td><strong>sois</strong></td></tr><tr><td>tu</td><td><strong>sois</strong></td></tr><tr><td>il/elle</td><td><strong>soit</strong></td></tr><tr><td>nous</td><td><strong>soyons</strong></td></tr><tr><td>vous</td><td><strong>soyez</strong></td></tr><tr><td>ils/elles</td><td><strong>soient</strong></td></tr></table>
-Si plusieurs verbes sont à présenter, montre les 6 personnes pour chacun. Ne tronque jamais à 2 ou 3 personnes.
+Précède chaque tableau d'un court libellé <p><em>infinitif</em> :</p> (ex. <p><em>être</em> :</p>), et place les tableaux de plusieurs verbes à la suite, sans texte entre eux. Si plusieurs verbes sont à présenter, montre les 6 personnes pour chacun. Ne tronque jamais à 2 ou 3 personnes.
 
 SUJET DE RÉDACTION — RÈGLE CRÉATIVITÉ STRICTE :
 Pour ce jour, le format imposé est : ${scenarioHint}.

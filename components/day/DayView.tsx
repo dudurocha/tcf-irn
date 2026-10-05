@@ -9,6 +9,7 @@ import { WritingSection } from "@/components/day/WritingSection";
 import { VocabCards } from "@/components/day/VocabCards";
 import { getLesson } from "@/lib/api-client";
 import { getDay } from "@/lib/curriculum";
+import { layoutConjugationTables } from "@/lib/theory-html";
 import { useProgress } from "@/lib/storage/use-progress";
 import { mistakeStore } from "@/lib/storage/mistakes";
 import type { LessonContent } from "@/lib/types";
@@ -195,7 +196,9 @@ export function DayView({ day }: DayViewProps) {
         <h2 className="text-lg font-semibold mb-3 mt-0">Théorie</h2>
         <div
           className="theory-content"
-          dangerouslySetInnerHTML={{ __html: content.theory }}
+          dangerouslySetInnerHTML={{
+            __html: layoutConjugationTables(content.theory),
+          }}
         />
       </div>
 
