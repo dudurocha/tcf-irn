@@ -83,6 +83,11 @@ export interface WritingFeedback {
   mistakes: WritingFeedbackMistake[];
 }
 
+export interface WritingAttempt {
+  text: string;
+  feedback: WritingFeedback;
+}
+
 // ──────────────────────────────────────────────────────────
 // USER PROGRESS (stored locally for now, ready for backend later)
 // ──────────────────────────────────────────────────────────
@@ -95,8 +100,8 @@ export interface DayScore {
 export interface UserProgress {
   completedDays: number[];
   scores: Record<number, DayScore>;
-  writings: Record<number, string>;
-  writingFeedbacks: Record<number, WritingFeedback>;
+  writings: Record<number, string>; // current draft
+  writingAttempts: Record<number, WritingAttempt[]>; // graded attempts, oldest first
   vocabKnown: string[];
 }
 
@@ -104,6 +109,6 @@ export const emptyProgress = (): UserProgress => ({
   completedDays: [],
   scores: {},
   writings: {},
-  writingFeedbacks: {},
+  writingAttempts: {},
   vocabKnown: [],
 });

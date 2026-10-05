@@ -1,8 +1,34 @@
 "use client";
 
-import { type UserProgress, emptyProgress } from "@/lib/types";
+import {
+  type UserProgress,
+  type WritingAttempt,
+  type WritingFeedback,
+  emptyProgress,
+} from "@/lib/types";
 
 const STORAGE_KEY = "tcf-irn-progress-v2";
+
+type StoredProgress = UserProgress & {
+  writingFeedbacks?: Record<number, WritingFeedback>;
+};
+
+// Before rewrites existed, only the latest feedback per day was stored, in
+// `writingFeedbacks`, and the graded text was the saved draft. Turn each one
+// into a single attempt.
+function migrate(stored: StoredProgress): UserProgress {
+  const { writingFeedbacks, ...progress } = stored;
+  if (!writingFeedbacks) return progress;
+  const writingAttempts: Record<number, WritingAttempt[]> = {
+    ...progress.writingAttempts,
+  };
+  for (const [key, feedback] of Object.entries(writingFeedbacks)) {
+    const day = Number(key);
+    if (writingAttempts[day]?.length) continue;
+    writingAttempts[day] = [{ text: progress.writings[day] ?? "", feedback }];
+  }
+  return { ...progress, writingAttempts };
+}
 
 /**
  * Storage interface — currently backed by localStorage.
@@ -22,7 +48,7 @@ class LocalStorageStore implements ProgressStore {
       const raw = window.localStorage.getItem(STORAGE_KEY);
       if (!raw) return emptyProgress();
       const parsed = JSON.parse(raw);
-      return { ...emptyProgress(), ...parsed };
+      return migrate({ ...emptyProgress(), ...parsed });
     } catch (err) {
       console.warn("Failed to load progress:", err);
       return emptyProgress();

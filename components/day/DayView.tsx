@@ -32,7 +32,7 @@ export function DayView({ day }: DayViewProps) {
     markDayComplete,
     resetDay,
     saveWriting,
-    saveWritingFeedback,
+    addWritingAttempt,
     toggleVocabKnown,
   } = useProgress();
 
@@ -48,11 +48,11 @@ export function DayView({ day }: DayViewProps) {
 
   const curriculumDay = getDay(day);
 
-  // Hydrate writingScore from saved feedback (or saved DayScore) on first load,
+  // Hydrate writingScore from the latest attempt (or saved DayScore) on first load,
   // so completing the day doesn't overwrite a previously saved score with null.
   useEffect(() => {
     if (!loaded) return;
-    const fromFeedback = progress.writingFeedbacks?.[day]?.score ?? null;
+    const fromFeedback = progress.writingAttempts[day]?.at(-1)?.feedback.score ?? null;
     const fromScores = progress.scores[day]?.writingScore ?? null;
     const hydrated = fromFeedback ?? fromScores;
     if (hydrated !== null) setWritingScore(hydrated);
@@ -227,12 +227,13 @@ export function DayView({ day }: DayViewProps) {
         <WritingSection
           prompt={content.writingPrompt}
           initialText={progress.writings[day] || ""}
-          initialFeedback={progress.writingFeedbacks?.[day] ?? null}
+          attempts={progress.writingAttempts[day] ?? []}
           onTextChange={(text) => saveWriting(day, text)}
           onSubmit={(text, feedback) => {
-            saveWriting(day, text);
-            saveWritingFeedback(day, feedback);
+            addWritingAttempt(day, { text, feedback });
             setWritingScore(feedback.score);
+            // A completed day already has its score saved; keep it on the latest attempt.
+            if (dayCompleted) markDayComplete(day, undefined, feedback.score);
             const writingMistakes: NewWritingMistake[] = feedback.mistakes
               .filter((m): m is typeof m & { category: WritingCategory } =>
                 (WRITING_CATEGORIES as readonly string[]).includes(m.category)

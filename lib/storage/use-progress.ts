@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import type { UserProgress, WritingFeedback } from "@/lib/types";
+import type { UserProgress, WritingAttempt } from "@/lib/types";
 import { emptyProgress } from "@/lib/types";
 import { progressStore } from "@/lib/storage/progress";
 
@@ -53,9 +53,9 @@ export function useProgress() {
         delete scores[day];
         const writings = { ...prev.writings };
         delete writings[day];
-        const writingFeedbacks = { ...prev.writingFeedbacks };
-        delete writingFeedbacks[day];
-        return { ...prev, completedDays, scores, writings, writingFeedbacks };
+        const writingAttempts = { ...prev.writingAttempts };
+        delete writingAttempts[day];
+        return { ...prev, completedDays, scores, writings, writingAttempts };
       });
     },
     [update]
@@ -71,11 +71,15 @@ export function useProgress() {
     [update]
   );
 
-  const saveWritingFeedback = useCallback(
-    (day: number, feedback: WritingFeedback) => {
+  const addWritingAttempt = useCallback(
+    (day: number, attempt: WritingAttempt) => {
       update((prev) => ({
         ...prev,
-        writingFeedbacks: { ...prev.writingFeedbacks, [day]: feedback },
+        writings: { ...prev.writings, [day]: attempt.text },
+        writingAttempts: {
+          ...prev.writingAttempts,
+          [day]: [...(prev.writingAttempts[day] ?? []), attempt],
+        },
       }));
     },
     [update]
@@ -99,7 +103,7 @@ export function useProgress() {
     markDayComplete,
     resetDay,
     saveWriting,
-    saveWritingFeedback,
+    addWritingAttempt,
     toggleVocabKnown,
   };
 }

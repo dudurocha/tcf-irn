@@ -1,11 +1,8 @@
 import { WRITING_CATEGORIES, type WritingCategory } from "@/lib/types/mistakes";
 import type { WritingFeedbackMistake } from "@/lib/types";
+import { countWords } from "@/lib/utils";
 
 const MISTAKES_DELIMITER = "---MISTAKES---";
-
-export function countWords(text: string): number {
-  return text.trim().split(/\s+/).filter(Boolean).length;
-}
 
 export function buildGradingPrompt(writingPrompt: string, text: string): string {
   const wordCount = countWords(text);
