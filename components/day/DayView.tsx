@@ -48,6 +48,18 @@ export function DayView({ day }: DayViewProps) {
 
   const curriculumDay = getDay(day);
 
+  // Hydrate writingScore from saved feedback (or saved DayScore) on first load,
+  // so completing the day doesn't overwrite a previously saved score with null.
+  useEffect(() => {
+    if (!loaded) return;
+    const fromFeedback = progress.writingFeedbacks?.[day]?.score ?? null;
+    const fromScores = progress.scores[day]?.writingScore ?? null;
+    const hydrated = fromFeedback ?? fromScores;
+    if (hydrated !== null) setWritingScore(hydrated);
+    // Only run once after progress is loaded.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [loaded]);
+
   useEffect(() => {
     if (!loaded || !curriculumDay || fetchedRef.current) return;
     fetchedRef.current = true;

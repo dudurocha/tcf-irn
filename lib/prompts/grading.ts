@@ -3,16 +3,21 @@ import type { WritingFeedbackMistake } from "@/lib/types";
 
 const MISTAKES_DELIMITER = "---MISTAKES---";
 
+export function countWords(text: string): number {
+  return text.trim().split(/\s+/).filter(Boolean).length;
+}
+
 export function buildGradingPrompt(writingPrompt: string, text: string): string {
+  const wordCount = countWords(text);
   return `Tu es un correcteur expérimenté du TCF IRN. Évalue cette production écrite sur 25 points selon les critères officiels : cohérence et cohésion, lexique (richesse, précision), grammaire (correction, complexité B2), adéquation au sujet, longueur (180-250 mots attendus).
 
 SUJET :
 ${writingPrompt}
 
-TEXTE DU CANDIDAT :
+TEXTE DU CANDIDAT (${wordCount} mots — nombre exact, ne le recompte pas) :
 ${text}
 
-Sois rigoureux mais constructif. Un texte avec fautes graves ou clairement hors sujet doit recevoir une note basse.
+Sois rigoureux mais constructif. Un texte avec fautes graves ou clairement hors sujet doit recevoir une note basse. Si tu mentionnes la longueur, utilise exactement ${wordCount} mots — c'est le compte officiel.
 
 Réponds STRICTEMENT dans ce format texte (PAS de JSON pour la partie humaine, PAS de backticks). Une seule ligne SCORE en premier, puis les sections, puis OBLIGATOIREMENT le bloc ${MISTAKES_DELIMITER} en fin de réponse.
 
